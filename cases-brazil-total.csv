@@ -1,10 +1,10 @@
 country,state,totalCases,URL
-Brazil,TOTAL,189,
+Brazil,TOTAL,195,
 Brazil,SP,65,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,24,http://www.rj.gov.br/
 Brazil,ES,4,https://saude.es.gov.br/
 Brazil,BA,8,http://www.saude.ba.gov.br/
-Brazil,DF,8,http://www.saude.df.gov.br/boletins-medicos-coronavirus/
+Brazil,DF,14,http://www.saude.df.gov.br/coronavirus/
 Brazil,AL,1,http://cidadao.saude.al.gov.br/
 Brazil,MG,4,https://www.saude.mg.gov.br/
 Brazil,RS,7,https://saude.rs.gov.br
