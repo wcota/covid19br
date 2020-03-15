@@ -1,6 +1,6 @@
 country,state,totalCases,URL
-Brazil,TOTAL,202,
-Brazil,SP,112,http://www.saopaulo.sp.gov.br/
+Brazil,TOTAL,217,http://plataforma.saude.gov.br/novocoronavirus/
+Brazil,SP,127,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,24,http://www.rj.gov.br/
 Brazil,ES,4,https://saude.es.gov.br/
 Brazil,BA,8,http://www.saude.ba.gov.br/
