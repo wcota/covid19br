@@ -1,6 +1,6 @@
 country,state,totalCases,URL
-Brazil,TOTAL,195,
-Brazil,SP,65,http://www.saopaulo.sp.gov.br/
+Brazil,TOTAL,202,
+Brazil,SP,112,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,24,http://www.rj.gov.br/
 Brazil,ES,4,https://saude.es.gov.br/
 Brazil,BA,8,http://www.saude.ba.gov.br/
@@ -10,9 +10,8 @@ Brazil,MG,4,https://www.saude.mg.gov.br/
 Brazil,RS,7,https://saude.rs.gov.br
 Brazil,PE,7,http://www.pe.gov.br/blog/saude/
 Brazil,PR,6,http://www.saude.pr.gov.br/
-Brazil,SC,5,http://www.saude.sc.gov.br
+Brazil,SC,6,http://www.saude.sc.gov.br
 Brazil,GO,4,http://www.saude.go.gov.br/
-Brazil,SP*,41,--
 Brazil,RN,1,http://www.natal.rn.gov.br/
 Brazil,AM,1,http://www.amazonas.am.gov.br/
 Brazil,MS,2,http://www.ms.gov.br/
