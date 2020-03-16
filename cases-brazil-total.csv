@@ -1,7 +1,7 @@
 country,state,totalCases,URL
-Brazil,TOTAL,233,http://plataforma.saude.gov.br/novocoronavirus/
-Brazil,SP,136,http://www.saopaulo.sp.gov.br/
-Brazil,RJ,25,http://www.rj.gov.br/
+Brazil,TOTAL,256,http://plataforma.saude.gov.br/novocoronavirus/
+Brazil,SP,152,http://www.saopaulo.sp.gov.br/
+Brazil,RJ,31,http://www.rj.gov.br/
 Brazil,ES,4,https://saude.es.gov.br/
 Brazil,BA,9,http://www.saude.ba.gov.br/
 Brazil,DF,14,http://www.saude.df.gov.br/coronavirus/
@@ -10,7 +10,7 @@ Brazil,MG,5,https://www.saude.mg.gov.br/
 Brazil,RS,7,https://saude.rs.gov.br
 Brazil,PE,8,http://www.pe.gov.br/blog/saude/
 Brazil,PR,6,http://www.saude.pr.gov.br/
-Brazil,SC,6,http://www.saude.sc.gov.br
+Brazil,SC,7,http://www.saude.sc.gov.br
 Brazil,GO,4,http://www.saude.go.gov.br/
 Brazil,RN,1,http://www.natal.rn.gov.br/
 Brazil,AM,1,http://www.amazonas.am.gov.br/
