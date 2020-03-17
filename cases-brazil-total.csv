@@ -1,12 +1,12 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,URL
-Brazil,TOTAL,324,290,34,http://plataforma.saude.gov.br/novocoronavirus/
+Brazil,TOTAL,334,290,44,http://plataforma.saude.gov.br/novocoronavirus/
 Brazil,SP,164,164,0,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,33,33,0,http://www.rj.gov.br/
 Brazil,ES,8,1,7,https://saude.es.gov.br/
-Brazil,BA,13,3,10,http://www.saude.ba.gov.br/
+Brazil,BA,14,3,11,http://www.saude.ba.gov.br/
 Brazil,DF,21,21,0,http://www.saude.df.gov.br/coronavirus/
 Brazil,AL,1,1,0,http://cidadao.saude.al.gov.br/
-Brazil,MG,7,7,0,https://www.saude.mg.gov.br/
+Brazil,MG,14,7,7,https://www.saude.mg.gov.br/
 Brazil,RS,12,10,2,https://saude.rs.gov.br
 Brazil,PE,18,16,2,http://www.pe.gov.br/blog/saude/
 Brazil,PR,8,6,2,http://www.saude.pr.gov.br/
@@ -16,5 +16,5 @@ Brazil,RN,1,1,0,http://www.natal.rn.gov.br/
 Brazil,AM,1,1,0,http://www.amazonas.am.gov.br/
 Brazil,MS,4,4,0,http://www.ms.gov.br/
 Brazil,SE,5,4,1,https://www.se.gov.br/noticias/saude
-Brazil,CE,9,5,4,https://www.saude.ce.gov.br
+Brazil,CE,11,5,6,https://www.saude.ce.gov.br
 Brazil,AC,3,0,3,http://saude.acre.gov.br/

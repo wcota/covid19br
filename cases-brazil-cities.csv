@@ -21,7 +21,7 @@ Brazil,MG,Ipatinga/MG,1
 Brazil,GO,Rio Verde/GO,2
 Brazil,GO,Goiânia/GO,5
 Brazil,RN,Natal/RN,1
-Brazil,BA,Salvador/BA,4
+Brazil,BA,Salvador/BA,5
 Brazil,AM,Manaus/AM,1
 Brazil,SC,Joinville/SC,1
 Brazil,SC,Rancho Queimado/SC,2
@@ -34,11 +34,11 @@ Brazil,ES,NÃO ESPECIFICADA/ES,5
 Brazil,SP,Carapicuíba/SP,1
 Brazil,SC,Braço do Norte/SC,1
 Brazil,SP,NÃO ESPECIFICADA/SP,99
-Brazil,CE,Fortaleza/CE,8
+Brazil,CE,Fortaleza/CE,10
 Brazil,MG,Coronel Fabriciano/MG,1
 Brazil,RS,NÃO ESPECIFICADA/RS,1
 Brazil,CE,Aquiraz/CE,1
-Brazil,MG,Belo Horizonte/MG,1
+Brazil,MG,Belo Horizonte/MG,5
 Brazil,GO,Anápolis/GO,2
 Brazil,BA,Porto Seguro/BA,3
 Brazil,PE,Belo Jardim/PE,1
@@ -48,3 +48,6 @@ Brazil,DF,NÃO ESPECIFICADA/DF,7
 Brazil,BA,Prado/BA,1
 Brazil,AC,Rio Branco/AC,3
 Brazil,RJ,NÃO ESPECIFICADA/RJ,2
+Brazil,MG,Nova Lima/MG,1
+Brazil,MG,Sete Lagoas/MG,1
+Brazil,MG,Uberlândia/MG,1
