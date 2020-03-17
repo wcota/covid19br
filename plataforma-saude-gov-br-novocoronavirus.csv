@@ -20,8 +20,8 @@ Região;Nordeste;884;74,85;30;2,54;267;22,61;0;0,00;1.181;-
 Unidade da Federação;Minas Gerais (MG);563;84,16;7;1,05;99;14,80;0;0,00;669;Não
 Unidade da Federação;Espírito Santo (ES);69;75,82;1;1,10;21;23,08;0;0,00;91;Não
 Unidade da Federação;Rio de Janeiro (RJ)*;859;79,10;33;3,04;194;17,86;0;0,00;1.086;Sim
-Unidade da Federação;São Paulo (SP)**;5.047;85,25;164;2,77;709;11,98;0;0,00;5.920;Sim
-Região;Sudeste;6.538;84,19;205;2,64;1.023;13,17;0;0,00;7.766;-
+Unidade da Federação;São Paulo (SP)**;5.047;85,24;164;2,77;709;11,97;1;0,02;5.921;Sim
+Região;Sudeste;6.538;84,18;205;2,64;1.023;13,17;1;0,01;7.767;-
 Unidade da Federação;Paraná (PR);240;73,17;6;1,83;82;25,00;0;0,00;328;Não
 Unidade da Federação;Santa Catarina (SC);220;78,01;7;2,48;55;19,50;0;0,00;282;Não
 Unidade da Federação;Rio Grande do Sul (RS);300;56,93;10;1,90;217;41,18;0;0,00;527;Não
@@ -29,9 +29,9 @@ Região;Sul;760;66,84;23;2,02;354;31,13;0;0,00;1.137;-
 Unidade da Federação;Mato Grosso do Sul (MS);44;47,31;4;4,30;45;48,39;0;0,00;93;Não
 Unidade da Federação;Mato Grosso (MT);23;76,67;0;0,00;7;23,33;0;0,00;30;Não
 Unidade da Federação;Goiás (GO);221;78,65;6;2,14;54;19,22;0;0,00;281;Não
-Unidade da Federação;Distrito Federal (DF);253;68,38;21;5,68;96;25,95;0;0,00;370;Não
-Região;Centro-Oeste;541;69,90;31;4,01;202;26,10;0;0,00;774;-
-País;Brasil;8.819;80,18;290;2,64;1.890;17,18;0;0,00;10.999;-
+Unidade da Federação;Distrito Federal (DF);253;68,19;22;5,93;96;25,88;0;0,00;371;Não
+Região;Centro-Oeste;541;69,81;32;4,13;202;26,06;0;0,00;775;-
+País;Brasil;8.819;80,17;291;2,65;1.890;17,18;1;0,01;11.001;-
 
 Observações
 *Transmissão comunitária no município do Rio de Janeiro
@@ -39,4 +39,4 @@ Observações
 
 Fonte
 Ministério da Saúde
-Dados atualizados em 17/03/2020 às 16:00
+Dados atualizados em 17/03/2020 às 18:10
