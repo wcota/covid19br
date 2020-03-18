@@ -1,37 +1,37 @@
 Abrangência;Nome;Casos suspeitos;% Casos suspeitos;Casos confirmados;% Casos confirmados;Casos descartados;% Casos descartados;Óbitos;% Óbitos;Total;Transmissão local
-Unidade da Federação;Rondônia (RO);38;92,68;0;0,00;3;7,32;0;0,00;41;Não
-Unidade da Federação;Acre (AC);8;100,00;0;0,00;0;0,00;0;0,00;8;Não
-Unidade da Federação;Amazonas (AM);7;25,93;1;3,70;19;70,37;0;0,00;27;Não
-Unidade da Federação;Roraima (RR);5;100,00;0;0,00;0;0,00;0;0,00;5;Não
-Unidade da Federação;Pará (PA);21;48,84;0;0,00;22;51,16;0;0,00;43;Não
-Unidade da Federação;Amapá (AP);6;100,00;0;0,00;0;0,00;0;0,00;6;Não
-Unidade da Federação;Tocantins (TO);11;100,00;0;0,00;0;0,00;0;0,00;11;Não
-Região;Norte;96;68,09;1;0,71;44;31,21;0;0,00;141;-
-Unidade da Federação;Maranhão (MA);52;86,67;0;0,00;8;13,33;0;0,00;60;Não
-Unidade da Federação;Piauí (PI);14;77,78;0;0,00;4;22,22;0;0,00;18;Não
-Unidade da Federação;Ceará (CE);211;67,85;5;1,61;95;30,55;0;0,00;311;Não
-Unidade da Federação;Rio Grande do Norte (RN);72;76,60;1;1,06;21;22,34;0;0,00;94;Não
-Unidade da Federação;Paraíba (PB);48;76,19;0;0,00;15;23,81;0;0,00;63;Não
-Unidade da Federação;Pernambuco (PE);71;59,17;16;13,33;33;27,50;0;0,00;120;Não
-Unidade da Federação;Alagoas (AL);34;61,82;1;1,82;20;36,36;0;0,00;55;Não
-Unidade da Federação;Sergipe (SE);7;30,43;4;17,39;12;52,17;0;0,00;23;Não
-Unidade da Federação;Bahia (BA);375;85,81;3;0,69;59;13,50;0;0,00;437;Sim
-Região;Nordeste;884;74,85;30;2,54;267;22,61;0;0,00;1.181;-
-Unidade da Federação;Minas Gerais (MG);563;84,16;7;1,05;99;14,80;0;0,00;669;Não
-Unidade da Federação;Espírito Santo (ES);69;75,82;1;1,10;21;23,08;0;0,00;91;Não
-Unidade da Federação;Rio de Janeiro (RJ)*;859;79,10;33;3,04;194;17,86;0;0,00;1.086;Sim
-Unidade da Federação;São Paulo (SP)**;5.047;85,24;164;2,77;709;11,97;1;0,02;5.921;Sim
-Região;Sudeste;6.538;84,18;205;2,64;1.023;13,17;1;0,01;7.767;-
-Unidade da Federação;Paraná (PR);240;73,17;6;1,83;82;25,00;0;0,00;328;Não
-Unidade da Federação;Santa Catarina (SC);220;78,01;7;2,48;55;19,50;0;0,00;282;Não
-Unidade da Federação;Rio Grande do Sul (RS);300;56,93;10;1,90;217;41,18;0;0,00;527;Não
-Região;Sul;760;66,84;23;2,02;354;31,13;0;0,00;1.137;-
-Unidade da Federação;Mato Grosso do Sul (MS);44;47,31;4;4,30;45;48,39;0;0,00;93;Não
-Unidade da Federação;Mato Grosso (MT);23;76,67;0;0,00;7;23,33;0;0,00;30;Não
-Unidade da Federação;Goiás (GO);221;78,65;6;2,14;54;19,22;0;0,00;281;Não
-Unidade da Federação;Distrito Federal (DF);253;68,19;22;5,93;96;25,88;0;0,00;371;Não
-Região;Centro-Oeste;541;69,81;32;4,13;202;26,06;0;0,00;775;-
-País;Brasil;8.819;80,17;291;2,65;1.890;17,18;1;0,01;11.001;-
+Unidade da Federação;Rondônia (RO);61;96,83;0;0,00;2;3,17;0;0,00;63;Não
+Unidade da Federação;Acre (AC);12;100,00;0;0,00;0;0,00;0;0,00;12;Não
+Unidade da Federação;Amazonas (AM);18;40,00;1;2,22;26;57,78;0;0,00;45;Não
+Unidade da Federação;Roraima (RR);9;100,00;0;0,00;0;0,00;0;0,00;9;Não
+Unidade da Federação;Pará (PA);43;65,15;0;0,00;23;34,85;0;0,00;66;Não
+Unidade da Federação;Amapá (AP);15;100,00;0;0,00;0;0,00;0;0,00;15;Não
+Unidade da Federação;Tocantins (TO);13;100,00;0;0,00;0;0,00;0;0,00;13;Não
+Região;Norte;171;76,68;1;0,45;51;22,87;0;0,00;223;-
+Unidade da Federação;Maranhão (MA);125;90,58;0;0,00;13;9,42;0;0,00;138;Não
+Unidade da Federação;Piauí (PI);12;85,71;0;0,00;2;14,29;0;0,00;14;Não
+Unidade da Federação;Ceará (CE);493;83,42;9;1,52;89;15,06;0;0,00;591;Não
+Unidade da Federação;Rio Grande do Norte (RN);108;82,44;1;0,76;22;16,79;0;0,00;131;Não
+Unidade da Federação;Paraíba (PB);85;88,54;0;0,00;11;11,46;0;0,00;96;Não
+Unidade da Federação;Pernambuco (PE);89;69,53;16;12,50;23;17,97;0;0,00;128;Não
+Unidade da Federação;Alagoas (AL);43;65,15;1;1,52;22;33,33;0;0,00;66;Não
+Unidade da Federação;Sergipe (SE);15;48,39;5;16,13;11;35,48;0;0,00;31;Não
+Unidade da Federação;Bahia (BA);573;93,63;3;0,49;36;5,88;0;0,00;612;Sim
+Região;Nordeste;1.543;85,39;35;1,94;229;12,67;0;0,00;1.807;-
+Unidade da Federação;Minas Gerais (MG);925;88,60;15;1,44;104;9,96;0;0,00;1.044;Não
+Unidade da Federação;Espírito Santo (ES);71;70,30;9;8,91;21;20,79;0;0,00;101;Não
+Unidade da Federação;Rio de Janeiro (RJ)*;1.254;86,66;45;3,11;148;10,23;0;0,00;1.447;Sim
+Unidade da Federação;São Paulo (SP)**;5.334;86,39;240;3,89;596;9,65;4;0,06;6.174;Sim
+Região;Sudeste;7.584;86,52;309;3,52;869;9,91;4;0,05;8.766;-
+Unidade da Federação;Paraná (PR);400;75,19;13;2,44;119;22,37;0;0,00;532;Não
+Unidade da Federação;Santa Catarina (SC);346;85,86;10;2,48;47;11,66;0;0,00;403;Não
+Unidade da Federação;Rio Grande do Sul (RS);416;54,38;19;2,48;330;43,14;0;0,00;765;Não
+Região;Sul;1.162;68,35;42;2,47;496;29,18;0;0,00;1.700;-
+Unidade da Federação;Mato Grosso do Sul (MS);93;73,81;7;5,56;26;20,63;0;0,00;126;Não
+Unidade da Federação;Mato Grosso (MT);45;84,91;0;0,00;8;15,09;0;0,00;53;Não
+Unidade da Federação;Goiás (GO);353;84,86;8;1,92;55;13,22;0;0,00;416;Não
+Unidade da Federação;Distrito Federal (DF);327;71,09;26;5,65;107;23,26;0;0,00;460;Não
+Região;Centro-Oeste;818;77,54;41;3,89;196;18,58;0;0,00;1.055;-
+País;Brasil;11.278;83,23;428;3,16;1.841;13,59;4;0,03;13.551;-
 
 Observações
 *Transmissão comunitária no município do Rio de Janeiro
@@ -39,4 +39,4 @@ Observações
 
 Fonte
 Ministério da Saúde
-Dados atualizados em 17/03/2020 às 18:10
+Dados atualizados em 18/03/2020 às 20:00
