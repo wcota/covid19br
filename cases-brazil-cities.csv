@@ -1,5 +1,5 @@
 country,state,city,totalCases
-Brazil,SP,São Paulo/SP,145
+Brazil,SP,São Paulo/SP,214
 Brazil,RJ,Barra Mansa/RJ,1
 Brazil,ES,Vila Velha/ES,4
 Brazil,BA,Feira de Santana/BA,5
@@ -33,8 +33,8 @@ Brazil,ES,Linhares/ES,2
 Brazil,ES,NÃO ESPECIFICADA/ES,5
 Brazil,SP,Carapicuíba/SP,1
 Brazil,SC,Braço do Norte/SC,1
-Brazil,SP,São Bernardo do Campo/SP,2
-Brazil,SP,São Caetano do Sul/SP,1
+Brazil,SP,São Bernardo do Campo/SP,3
+Brazil,SP,São Caetano do Sul/SP,6
 Brazil,CE,Fortaleza/CE,10
 Brazil,MG,Coronel Fabriciano/MG,1
 Brazil,SP,Mauá/SP,1
@@ -46,8 +46,7 @@ Brazil,PE,Belo Jardim/PE,1
 Brazil,PE,Jaboatão dos Guararapes/PE,1
 Brazil,BA,Prado/BA,1
 Brazil,AC,Rio Branco/AC,3
-Brazil,SP,Santo André/SP,1
-Brazil,SP,NÃO ESPECIFICADA/SP,87
+Brazil,SP,Santo André/SP,6
 Brazil,MG,Nova Lima/MG,1
 Brazil,MG,Sete Lagoas/MG,1
 Brazil,MG,Uberlândia/MG,1
@@ -65,4 +64,13 @@ Brazil,PA,Belém/PA,1
 Brazil,SE,Propriá/SE,1
 Brazil,PB,João Pessoa/PB,1
 Brazil,RJ,Guapimirim/RJ,1
+Brazil,SP,Jaguariúna/SP,1
+Brazil,SP,São José do Rio Preto/SP,1
+Brazil,SP,Campinas/SP,1
+Brazil,SP,São José dos Campos/SP,1
+Brazil,SP,Guarulhos/SP,1
+Brazil,SP,Barueri/SP,1
+Brazil,SP,Cotia/SP,1
+Brazil,SP,Osasco/SP,1
+Brazil,SP,Jundiaí/SP,1
 Brazil,MG,Uberaba/MG,1
