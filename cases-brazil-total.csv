@@ -1,12 +1,12 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,URL
-Brazil,TOTAL,384,291,93,http://plataforma.saude.gov.br/novocoronavirus/
+Brazil,TOTAL,389,291,98,http://plataforma.saude.gov.br/novocoronavirus/
 Brazil,SP,164,164,0,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,49,33,16,http://www.rj.gov.br/
 Brazil,ES,8,1,7,https://saude.es.gov.br/
 Brazil,BA,18,3,15,http://www.saude.ba.gov.br/
 Brazil,DF,33,22,11,http://www.saude.df.gov.br/coronavirus/
 Brazil,AL,1,1,0,http://cidadao.saude.al.gov.br/
-Brazil,MG,14,7,7,https://www.saude.mg.gov.br/
+Brazil,MG,19,7,12,https://www.saude.mg.gov.br/
 Brazil,RS,19,10,9,https://saude.rs.gov.br
 Brazil,PE,19,16,3,http://www.pe.gov.br/blog/saude/
 Brazil,PR,12,6,6,http://www.saude.pr.gov.br/
