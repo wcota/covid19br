@@ -35,7 +35,7 @@ type,name,lat,lon,total
 1,Braço do Norte/SC,-28.2728633,-49.1622712,2
 1,São Bernardo do Campo/SP,-23.7080345,-46.5506747,3
 1,São Caetano do Sul/SP,-23.6195923,-46.5688323,6
-1,Fortaleza/CE,-3.7304512,-38.5217989,10
+1,Fortaleza/CE,-3.7304512,-38.5217989,18
 1,Coronel Fabriciano/MG,-19.5200067,-42.6282686,1
 1,Mauá/SP,-23.6669527,-46.4616922,1
 1,Aquiraz/CE,-3.9063117,-38.387504,1
@@ -75,3 +75,4 @@ type,name,lat,lon,total
 1,Jundiaí/SP,-23.1887866,-46.8845122,1
 1,Uberaba/MG,-19.750833,-47.936666,1
 1,Tubarão/SC,-28.471488,-49.014132,2
+1,Sobral/CE,-3.6879135,-40.3456372,1
