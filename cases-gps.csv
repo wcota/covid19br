@@ -16,7 +16,7 @@ type,name,lat,lon,total
 1,Curitiba/PR,-25.4295963,-49.2712724,7
 1,Cianorte/PR,-23.662036,-52.6103989,2
 1,Ferraz de Vasconcelos/SP,-23.541056,-46.37097,1
-1,Florianópolis/SC,-27.5973002,-48.5496098,3
+1,Florianópolis/SC,-27.5973002,-48.5496098,5
 1,Ipatinga/MG,-19.4777807,-42.5270802,1
 1,Rio Verde/GO,-17.7921255,-50.9191219,3
 1,Goiânia/GO,-16.680882,-49.2532691,5
@@ -32,7 +32,7 @@ type,name,lat,lon,total
 1,Linhares/ES,-19.3816944,-40.0612213,2
 0,NÃO ESPECIFICADA/ES,-19.5687682,-40.1721991,5
 1,Carapicuíba/SP,-23.5234673,-46.8406808,1
-1,Braço do Norte/SC,-28.2728633,-49.1622712,1
+1,Braço do Norte/SC,-28.2728633,-49.1622712,2
 1,São Bernardo do Campo/SP,-23.7080345,-46.5506747,3
 1,São Caetano do Sul/SP,-23.6195923,-46.5688323,6
 1,Fortaleza/CE,-3.7304512,-38.5217989,10
@@ -74,3 +74,4 @@ type,name,lat,lon,total
 1,Osasco/SP,-23.5324859,-46.7916801,1
 1,Jundiaí/SP,-23.1887866,-46.8845122,1
 1,Uberaba/MG,-19.750833,-47.936666,1
+1,Tubarão/SC,-28.471488,-49.014132,2
