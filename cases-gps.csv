@@ -3,7 +3,7 @@ type,name,lat,lon,total
 1,Barra Mansa/RJ,-22.5394843,-44.1735129,1
 1,Vila Velha/ES,-20.3297293,-40.2920284,4
 1,Feira de Santana/BA,-12.2578934,-38.9598047,5
-1,Rio de Janeiro/RJ,-22.9110137,-43.2093727,42
+1,Rio de Janeiro/RJ,-22.9110137,-43.2093727,55
 1,Brasília/DF,-15.7934036,-47.8823172,34
 1,Maceió/AL,-9.6476843,-35.7339264,1
 1,Santana de Parnaíba/SP,-23.4446715,-46.9167722,1
@@ -64,3 +64,4 @@ type,name,lat,lon,total
 1,Belém/PA,-1.45056,-48.4682453,1
 1,Propriá/SE,-10.212427,-36.8372254,1
 1,João Pessoa/PB,-7.1215981,-34.882028,1
+1,Guapimirim/RJ,-22.5266308,-42.9790687,1
