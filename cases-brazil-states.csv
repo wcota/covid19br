@@ -159,6 +159,7 @@ date,country,state,city,newCases,totalCases
 2020-03-18,Brazil,RJ,TOTAL,10,49
 2020-03-18,Brazil,DF,TOTAL,8,34
 2020-03-18,Brazil,BA,TOTAL,2,18
+2020-03-18,Brazil,MS,TOTAL,1,7
 2020-03-18,Brazil,MG,TOTAL,5,19
 2020-03-18,Brazil,TO,TOTAL,1,1
 2020-03-18,Brazil,GO,TOTAL,2,12
@@ -174,8 +175,7 @@ date,country,state,city,newCases,totalCases
 2020-03-18,Brazil,PE,TOTAL,0,19
 2020-03-18,Brazil,RN,TOTAL,0,1
 2020-03-18,Brazil,AM,TOTAL,0,2
-2020-03-18,Brazil,MS,TOTAL,0,6
 2020-03-18,Brazil,CE,TOTAL,0,11
 2020-03-18,Brazil,AC,TOTAL,0,3
 2020-03-18,Brazil,MT,TOTAL,0,1
-2020-03-18,Brazil,TOTAL,TOTAL,35,399
+2020-03-18,Brazil,TOTAL,TOTAL,36,400
