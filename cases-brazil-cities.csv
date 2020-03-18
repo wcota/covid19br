@@ -3,7 +3,7 @@ Brazil,SP,São Paulo/SP,62
 Brazil,RJ,Barra Mansa/RJ,1
 Brazil,ES,Vila Velha/ES,2
 Brazil,BA,Feira de Santana/BA,5
-Brazil,RJ,Rio de Janeiro/RJ,29
+Brazil,RJ,Rio de Janeiro/RJ,41
 Brazil,DF,Brasília/DF,33
 Brazil,AL,Maceió/AL,1
 Brazil,SP,Santana de Parnaíba/SP,1
@@ -45,7 +45,6 @@ Brazil,PE,Jaboatão dos Guararapes/PE,1
 Brazil,PE,ESTRANGEIRO/PE,3
 Brazil,BA,Prado/BA,1
 Brazil,AC,Rio Branco/AC,3
-Brazil,RJ,NÃO ESPECIFICADA/RJ,2
 Brazil,MG,Nova Lima/MG,1
 Brazil,MG,Sete Lagoas/MG,1
 Brazil,MG,Uberlândia/MG,1
@@ -54,3 +53,4 @@ Brazil,PR,Pinhais/PR,1
 Brazil,PR,Londrina/PR,1
 Brazil,PE,NÃO ESPECIFICADA/PE,1
 Brazil,MT,Rondonópolis/MT,1
+Brazil,TO,Palmas/TO,1
