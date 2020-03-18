@@ -1,5 +1,5 @@
 country,state,city,totalCases
-Brazil,SP,São Paulo/SP,62
+Brazil,SP,São Paulo/SP,145
 Brazil,RJ,Barra Mansa/RJ,1
 Brazil,ES,Vila Velha/ES,2
 Brazil,BA,Feira de Santana/BA,5
@@ -33,9 +33,11 @@ Brazil,ES,Linhares/ES,1
 Brazil,ES,NÃO ESPECIFICADA/ES,5
 Brazil,SP,Carapicuíba/SP,1
 Brazil,SC,Braço do Norte/SC,1
-Brazil,SP,NÃO ESPECIFICADA/SP,99
+Brazil,SP,São Bernardo do Campo/SP,2
+Brazil,SP,São Caetano do Sul/SP,1
 Brazil,CE,Fortaleza/CE,10
 Brazil,MG,Coronel Fabriciano/MG,1
+Brazil,SP,Mauá/SP,1
 Brazil,CE,Aquiraz/CE,1
 Brazil,MG,Belo Horizonte/MG,5
 Brazil,GO,Anápolis/GO,2
@@ -45,6 +47,8 @@ Brazil,PE,Jaboatão dos Guararapes/PE,1
 Brazil,PE,ESTRANGEIRO/PE,3
 Brazil,BA,Prado/BA,1
 Brazil,AC,Rio Branco/AC,3
+Brazil,SP,Santo André/SP,1
+Brazil,SP,NÃO ESPECIFICADA/SP,11
 Brazil,MG,Nova Lima/MG,1
 Brazil,MG,Sete Lagoas/MG,1
 Brazil,MG,Uberlândia/MG,1
