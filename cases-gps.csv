@@ -16,14 +16,14 @@ type,name,lat,lon,total
 1,Curitiba/PR,-25.4295963,-49.2712724,7
 1,Cianorte/PR,-23.662036,-52.6103989,2
 1,Ferraz de Vasconcelos/SP,-23.541056,-46.37097,1
-1,Florianópolis/SC,-27.5973002,-48.5496098,5
+1,Florianópolis/SC,-27.5973002,-48.5496098,6
 1,Ipatinga/MG,-19.4777807,-42.5270802,1
 1,Rio Verde/GO,-17.7921255,-50.9191219,3
 1,Goiânia/GO,-16.680882,-49.2532691,5
 1,Natal/RN,-5.805398,-35.2080905,1
 1,Salvador/BA,-12.9822499,-38.4812772,17
 1,Manaus/AM,-3.1316333,-59.9825041,2
-1,Joinville/SC,-26.3044898,-48.8486726,1
+1,Joinville/SC,-26.3044898,-48.8486726,2
 1,Rancho Queimado/SC,-27.6731108,-49.0126867,2
 1,Campo Grande/MS,-20.4640173,-54.6162947,7
 1,Juiz de Fora/MG,-21.7609533,-43.3501129,2
@@ -32,7 +32,7 @@ type,name,lat,lon,total
 1,Linhares/ES,-19.3816944,-40.0612213,2
 0,NÃO ESPECIFICADA/ES,-19.5687682,-40.1721991,5
 1,Carapicuíba/SP,-23.5234673,-46.8406808,1
-1,Braço do Norte/SC,-28.2728633,-49.1622712,2
+1,Braço do Norte/SC,-28.2728633,-49.1622712,4
 1,São Bernardo do Campo/SP,-23.7080345,-46.5506747,3
 1,São Caetano do Sul/SP,-23.6195923,-46.5688323,6
 1,Fortaleza/CE,-3.7304512,-38.5217989,18
@@ -57,7 +57,7 @@ type,name,lat,lon,total
 1,Palmas/TO,-10.1835604,-48.3337793,1
 1,Jataí/GO,-17.8783829,-51.7204241,1
 1,Aparecida de Goiânia/GO,-16.8226769,-49.2452546,1
-1,Balneário Camboriú/SC,-26.9924395,-48.6339782,2
+1,Balneário Camboriú/SC,-26.9924395,-48.6339782,4
 1,Maringá/PR,-23.425269,-51.9382078,1
 1,Foz do Iguaçu/PR,-25.5401479,-54.5858139,1
 1,Belém/PA,-1.45056,-48.4682453,1
@@ -79,3 +79,4 @@ type,name,lat,lon,total
 1,Serafina Corrêa/RS,-28.7120266,-51.9343269,1
 1,Torres/RS,-29.3373663,-49.7299648,1
 1,Farroupilha/RS,-29.22647,-51.3468188,1
+1,São José/SC,-27.6162335,-48.6270136,1
