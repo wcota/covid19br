@@ -25,7 +25,7 @@ type,name,lat,lon,total
 1,Manaus/AM,-3.1316333,-59.9825041,2
 1,Joinville/SC,-26.3044898,-48.8486726,2
 1,Rancho Queimado/SC,-27.6731108,-49.0126867,2
-1,Campo Grande/MS,-20.4640173,-54.6162947,7
+1,Campo Grande/MS,-20.4640173,-54.6162947,8
 1,Juiz de Fora/MG,-21.7609533,-43.3501129,2
 1,Patrocínio/MG,-18.9408294,-46.9926624,1
 1,Aracaju/SE,-10.9162061,-37.0774655,5
@@ -81,3 +81,4 @@ type,name,lat,lon,total
 1,Farroupilha/RS,-29.22647,-51.3468188,1
 1,São José/SC,-27.6162335,-48.6270136,1
 0,NÃO ESPECIFICADA/PE,-8.4116316,-37.5919699,6
+1,Sidrolândia/MS,-20.9361042,-54.9640262,1
