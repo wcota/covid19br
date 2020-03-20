@@ -10,7 +10,7 @@ type,name,lat,lon,total
 1,Divinópolis/MG,-20.1434559,-44.89125,1
 1,Niterói/RJ,-22.8832371,-43.1154552,7
 1,Campo Bom/RS,-29.674694,-51.060601,2
-1,Porto Alegre/RS,-30.0324999,-51.2303767,21
+1,Porto Alegre/RS,-30.0324999,-51.2303767,23
 1,Recife/PE,-8.0641931,-34.8781517,20
 1,Caxias do Sul/RS,-29.1684796,-51.1793861,2
 1,Curitiba/PR,-25.4295963,-49.2712724,7
@@ -76,7 +76,7 @@ type,name,lat,lon,total
 1,Uberaba/MG,-19.750833,-47.936666,1
 1,Tubarão/SC,-28.471488,-49.014132,2
 1,Sobral/CE,-3.6879135,-40.3456372,1
-1,Serafina Corrêa/RS,-28.7120266,-51.9343269,1
+1,Serafina Corrêa/RS,-28.7120266,-51.9343269,2
 1,Torres/RS,-29.3373663,-49.7299648,1
 1,Farroupilha/RS,-29.22647,-51.3468188,1
 1,São José/SC,-27.6162335,-48.6270136,1
@@ -85,3 +85,7 @@ type,name,lat,lon,total
 1,Lauro de Freitas/BA,-12.89242,-38.3127691,2
 1,Itabuna/BA,-14.7869879,-39.2788778,1
 1,Miguel Pereira/RJ,-22.4539417,-43.4691978,1
+1,Bagé/RS,-31.3314264,-54.1062808,2
+1,Alvorada/RS,-29.9981184,-51.0772509,1
+1,Erechim/RS,-27.6350143,-52.2737288,2
+1,Santana do Livramento/RS,-30.8894097,-55.5317694,1
