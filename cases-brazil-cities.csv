@@ -1,5 +1,5 @@
 country,state,city,totalCases
-Brazil,SP,São Paulo/SP,216
+Brazil,SP,São Paulo/SP,259
 Brazil,RJ,Barra Mansa/RJ,1
 Brazil,ES,Vila Velha/ES,7
 Brazil,BA,Feira de Santana/BA,5
@@ -91,3 +91,4 @@ Brazil,RS,Erechim/RS,2
 Brazil,RS,Santana do Livramento/RS,1
 Brazil,CE,NÃO ESPECIFICADA/CE,4
 Brazil,PI,Teresina/PI,3
+Brazil,SP,NÃO ESPECIFICADA/SP,4
