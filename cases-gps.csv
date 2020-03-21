@@ -30,7 +30,7 @@ type,name,lat,lon,total
 1,Patrocínio/MG,-18.9408294,-46.9926624,1
 1,Aracaju/SE,-10.9162061,-37.0774655,5
 1,Linhares/ES,-19.3816944,-40.0612213,1
-1,Vitória/ES,-20.3200917,-40.3376682,5
+1,Vitória/ES,-20.3200917,-40.3376682,6
 1,Carapicuíba/SP,-23.5234673,-46.8406808,1
 1,Braço do Norte/SC,-28.2728633,-49.1622712,4
 1,São Bernardo do Campo/SP,-23.7080345,-46.5506747,3
@@ -80,7 +80,7 @@ type,name,lat,lon,total
 1,Torres/RS,-29.3373663,-49.7299648,2
 1,Farroupilha/RS,-29.22647,-51.3468188,1
 1,São José/SC,-27.6162335,-48.6270136,1
-0,NÃO ESPECIFICADA/PE,-8.4116316,-37.5919699,6
+0,NÃO ESPECIFICADA/PE,-8.4116316,-37.5919699,9
 1,Sidrolândia/MS,-20.9361042,-54.9640262,1
 1,Lauro de Freitas/BA,-12.89242,-38.3127691,3
 1,Itabuna/BA,-14.7869879,-39.2788778,1
@@ -118,3 +118,5 @@ type,name,lat,lon,total
 1,Dois Irmãos/RS,-29.58356,-51.089776,1
 1,Eldorado do Sul/RS,-29.9984639,-51.3091977,1
 1,Canoas/RS,-29.9216045,-51.1799525,2
+1,Cariacica/ES,-20.263202,-40.416549,1
+1,Cachoeiro de Itapemirim/ES,-20.848084,-41.11129,1
