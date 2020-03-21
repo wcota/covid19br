@@ -26,7 +26,7 @@ Brazil,AM,Manaus/AM,3
 Brazil,SC,Joinville/SC,3
 Brazil,SC,Rancho Queimado/SC,2
 Brazil,MS,Campo Grande/MS,11
-Brazil,MG,Juiz de Fora/MG,2
+Brazil,MG,Juiz de Fora/MG,5
 Brazil,MG,Patrocínio/MG,1
 Brazil,SE,Aracaju/SE,5
 Brazil,ES,Linhares/ES,1
@@ -39,7 +39,7 @@ Brazil,CE,Fortaleza/CE,63
 Brazil,MG,Coronel Fabriciano/MG,1
 Brazil,SP,Mauá/SP,1
 Brazil,CE,Aquiraz/CE,1
-Brazil,MG,Belo Horizonte/MG,18
+Brazil,MG,Belo Horizonte/MG,20
 Brazil,GO,Anápolis/GO,2
 Brazil,BA,Porto Seguro/BA,4
 Brazil,PE,Belo Jardim/PE,1
@@ -47,9 +47,9 @@ Brazil,PE,Jaboatão dos Guararapes/PE,1
 Brazil,BA,Prado/BA,1
 Brazil,AC,Rio Branco/AC,7
 Brazil,SP,Santo André/SP,6
-Brazil,MG,Nova Lima/MG,2
+Brazil,MG,Nova Lima/MG,4
 Brazil,MG,Sete Lagoas/MG,1
-Brazil,MG,Uberlândia/MG,2
+Brazil,MG,Uberlândia/MG,1
 Brazil,PR,Campo Largo/PR,1
 Brazil,PR,Pinhais/PR,1
 Brazil,PR,Londrina/PR,3
@@ -122,3 +122,5 @@ Brazil,ES,Cariacica/ES,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,1
 Brazil,MA,São Luís/MA,1
 Brazil,RN,Parnamirim/RN,1
+Brazil,MG,Mariana/MG,1
+Brazil,MG,Poços de Caldas/MG,1
