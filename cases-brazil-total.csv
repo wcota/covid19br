@@ -1,11 +1,11 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,URL
-Brazil,TOTAL,752,428,324,4,http://plataforma.saude.gov.br/novocoronavirus/
+Brazil,TOTAL,758,428,330,4,http://plataforma.saude.gov.br/novocoronavirus/
 Brazil,SP,291,240,51,4,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,66,45,21,0,http://www.rj.gov.br/
 Brazil,ES,13,9,4,0,https://saude.es.gov.br/
 Brazil,BA,31,3,28,0,http://www.saude.ba.gov.br/
 Brazil,DF,84,26,58,0,http://www.saude.df.gov.br/coronavirus/
-Brazil,AL,4,1,3,0,http://cidadao.saude.al.gov.br/
+Brazil,AL,6,1,5,0,http://cidadao.saude.al.gov.br/
 Brazil,MG,30,15,15,0,https://www.saude.mg.gov.br/
 Brazil,RS,37,19,18,0,https://saude.rs.gov.br
 Brazil,PE,28,16,12,0,http://www.pe.gov.br/blog/saude/
@@ -14,8 +14,8 @@ Brazil,SC,21,10,11,0,http://www.saude.sc.gov.br
 Brazil,GO,15,8,7,0,http://www.saude.go.gov.br/
 Brazil,RN,1,1,0,0,http://www.natal.rn.gov.br/
 Brazil,AM,7,1,6,0,http://www.amazonas.am.gov.br/
-Brazil,MS,9,7,2,0,http://www.ms.gov.br/
-Brazil,SE,6,5,1,0,https://www.se.gov.br/noticias/saude
+Brazil,MS,12,7,5,0,http://www.ms.gov.br/
+Brazil,SE,7,5,2,0,https://www.se.gov.br/noticias/saude
 Brazil,CE,68,9,59,0,https://www.saude.ce.gov.br
 Brazil,AC,7,0,7,0,http://saude.acre.gov.br/
 Brazil,MT,1,0,1,0,http://www.saude.mt.gov.br/
