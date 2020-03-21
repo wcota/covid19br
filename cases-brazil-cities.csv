@@ -10,7 +10,7 @@ Brazil,SP,Santana de Parnaíba/SP,1
 Brazil,MG,Divinópolis/MG,1
 Brazil,RJ,Niterói/RJ,10
 Brazil,RS,Campo Bom/RS,2
-Brazil,RS,Porto Alegre/RS,23
+Brazil,RS,Porto Alegre/RS,29
 Brazil,PE,Recife/PE,20
 Brazil,RS,Caxias do Sul/RS,2
 Brazil,PR,Curitiba/PR,26
@@ -77,7 +77,7 @@ Brazil,MG,Uberaba/MG,1
 Brazil,SC,Tubarão/SC,6
 Brazil,CE,Sobral/CE,1
 Brazil,RS,Serafina Corrêa/RS,2
-Brazil,RS,Torres/RS,1
+Brazil,RS,Torres/RS,2
 Brazil,RS,Farroupilha/RS,1
 Brazil,SC,São José/SC,1
 Brazil,PE,NÃO ESPECIFICADA/PE,6
@@ -86,9 +86,9 @@ Brazil,BA,Lauro de Freitas/BA,3
 Brazil,BA,Itabuna/BA,1
 Brazil,RJ,Miguel Pereira/RJ,1
 Brazil,RS,Bagé/RS,2
-Brazil,RS,Alvorada/RS,1
-Brazil,RS,Erechim/RS,2
-Brazil,RS,Santana do Livramento/RS,1
+Brazil,RS,Alvorada/RS,2
+Brazil,RS,Erechim/RS,3
+Brazil,RS,Santana do Livramento/RS,2
 Brazil,PI,Teresina/PI,3
 Brazil,SP,NÃO ESPECIFICADA/SP,1
 Brazil,GO,NÃO ESPECIFICADA/GO,1
@@ -111,3 +111,10 @@ Brazil,PR,Guaíra/PR,1
 Brazil,BA,Camaçari/BA,1
 Brazil,RJ,Petrópolis/RJ,2
 Brazil,RJ,NÃO ESPECIFICADA/RJ,2
+Brazil,RS,Ivoti/RS,2
+Brazil,RS,Charqueadas/RS,1
+Brazil,RS,São Leopoldo/RS,1
+Brazil,RS,Taquara/RS,1
+Brazil,RS,Dois Irmãos/RS,1
+Brazil,RS,Eldorado do Sul/RS,1
+Brazil,RS,Canoas/RS,2
