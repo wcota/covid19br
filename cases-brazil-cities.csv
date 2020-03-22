@@ -1,41 +1,41 @@
 country,state,city,totalCases
-Brazil,SP,São Paulo/SP,358
+Brazil,SP,São Paulo/SP,366
 Brazil,RJ,Barra Mansa/RJ,1
-Brazil,ES,Vila Velha/ES,7
+Brazil,ES,Vila Velha/ES,11
 Brazil,BA,Feira de Santana/BA,6
-Brazil,RJ,Rio de Janeiro/RJ,92
+Brazil,RJ,Rio de Janeiro/RJ,103
 Brazil,DF,Brasília/DF,112
-Brazil,AL,Maceió/AL,4
-Brazil,SP,Santana de Parnaíba/SP,1
+Brazil,AL,Maceió/AL,7
+Brazil,SP,Santana de Parnaíba/SP,2
 Brazil,MG,Divinópolis/MG,1
 Brazil,RJ,Niterói/RJ,10
 Brazil,RS,Campo Bom/RS,2
 Brazil,RS,Porto Alegre/RS,36
-Brazil,PE,Recife/PE,20
+Brazil,PE,Recife/PE,29
 Brazil,RS,Caxias do Sul/RS,2
 Brazil,PR,Curitiba/PR,30
 Brazil,PR,Cianorte/PR,2
 Brazil,SP,Ferraz de Vasconcelos/SP,1
 Brazil,SC,Florianópolis/SC,10
 Brazil,MG,Ipatinga/MG,1
-Brazil,GO,Rio Verde/GO,3
-Brazil,GO,Goiânia/GO,9
+Brazil,GO,Rio Verde/GO,5
+Brazil,GO,Goiânia/GO,10
 Brazil,RN,Natal/RN,6
 Brazil,BA,Salvador/BA,23
-Brazil,AM,Manaus/AM,3
+Brazil,AM,Manaus/AM,11
 Brazil,SC,Joinville/SC,4
 Brazil,SC,Rancho Queimado/SC,2
-Brazil,MS,Campo Grande/MS,11
+Brazil,MS,Campo Grande/MS,14
 Brazil,MG,Juiz de Fora/MG,5
 Brazil,MG,Patrocínio/MG,1
-Brazil,SE,Aracaju/SE,5
-Brazil,ES,Linhares/ES,1
-Brazil,ES,Vitória/ES,6
-Brazil,SP,Carapicuíba/SP,1
+Brazil,SE,Aracaju/SE,7
+Brazil,ES,Linhares/ES,2
+Brazil,ES,Vitória/ES,11
+Brazil,SP,Carapicuíba/SP,2
 Brazil,SC,Braço do Norte/SC,6
-Brazil,SP,São Bernardo do Campo/SP,3
-Brazil,SP,São Caetano do Sul/SP,6
-Brazil,CE,Fortaleza/CE,76
+Brazil,SP,São Bernardo do Campo/SP,4
+Brazil,SP,São Caetano do Sul/SP,4
+Brazil,CE,Fortaleza/CE,77
 Brazil,MG,Coronel Fabriciano/MG,2
 Brazil,SP,Mauá/SP,1
 Brazil,CE,Aquiraz/CE,4
@@ -43,10 +43,10 @@ Brazil,MG,Belo Horizonte/MG,30
 Brazil,GO,Anápolis/GO,2
 Brazil,BA,Porto Seguro/BA,5
 Brazil,PE,Belo Jardim/PE,1
-Brazil,PE,Jaboatão dos Guararapes/PE,1
+Brazil,PE,Jaboatão dos Guararapes/PE,3
 Brazil,BA,Prado/BA,2
-Brazil,AC,Rio Branco/AC,7
-Brazil,SP,Santo André/SP,6
+Brazil,AC,Rio Branco/AC,11
+Brazil,SP,Santo André/SP,3
 Brazil,MG,Nova Lima/MG,4
 Brazil,MG,Sete Lagoas/MG,1
 Brazil,MG,Uberlândia/MG,3
@@ -67,12 +67,9 @@ Brazil,RJ,Guapimirim/RJ,1
 Brazil,SP,Jaguariúna/SP,1
 Brazil,SP,São José do Rio Preto/SP,1
 Brazil,SP,Campinas/SP,1
-Brazil,SP,São José dos Campos/SP,1
 Brazil,SP,Guarulhos/SP,1
 Brazil,SP,Barueri/SP,1
-Brazil,SP,Cotia/SP,1
-Brazil,SP,Osasco/SP,1
-Brazil,SP,Jundiaí/SP,1
+Brazil,SP,Cotia/SP,2
 Brazil,MG,Uberaba/MG,3
 Brazil,SC,Tubarão/SC,6
 Brazil,CE,Sobral/CE,1
@@ -80,7 +77,6 @@ Brazil,RS,Serafina Corrêa/RS,2
 Brazil,RS,Torres/RS,2
 Brazil,RS,Farroupilha/RS,1
 Brazil,SC,São José/SC,2
-Brazil,PE,NÃO ESPECIFICADA/PE,11
 Brazil,MS,Sidrolândia/MS,1
 Brazil,BA,Lauro de Freitas/BA,3
 Brazil,BA,Itabuna/BA,1
@@ -89,17 +85,13 @@ Brazil,RS,Bagé/RS,3
 Brazil,RS,Alvorada/RS,2
 Brazil,RS,Erechim/RS,3
 Brazil,RS,Santana do Livramento/RS,2
-Brazil,PI,Teresina/PI,3
-Brazil,SP,NÃO ESPECIFICADA/SP,73
-Brazil,GO,NÃO ESPECIFICADA/GO,3
+Brazil,PI,Teresina/PI,4
+Brazil,SP,Taubaté/SP,1
+Brazil,SP,Suzano/SP,1
 Brazil,RO,Ji-Paraná/RO,1
 Brazil,CE,Juazeiro do Norte/CE,1
 Brazil,CE,Fortim/CE,1
-Brazil,CE,NÃO ESPECIFICADA/CE,1
 Brazil,AP,Macapá/AP,1
-Brazil,PI,NÃO ESPECIFICADA/PI,1
-Brazil,AM,NÃO ESPECIFICADA/AM,8
-Brazil,AL,NÃO ESPECIFICADA/AL,3
 Brazil,SC,Itajaí/SC,6
 Brazil,SC,Navegantes/SC,1
 Brazil,SC,Pomerode/SC,1
@@ -109,8 +101,7 @@ Brazil,SC,Criciúma/SC,6
 Brazil,SC,Chapecó/SC,2
 Brazil,PR,Guaíra/PR,1
 Brazil,BA,Camaçari/BA,1
-Brazil,RJ,Petrópolis/RJ,2
-Brazil,RJ,NÃO ESPECIFICADA/RJ,12
+Brazil,RJ,Petrópolis/RJ,3
 Brazil,RS,Ivoti/RS,2
 Brazil,RS,Charqueadas/RS,1
 Brazil,RS,São Leopoldo/RS,1
@@ -120,11 +111,15 @@ Brazil,RS,Eldorado do Sul/RS,1
 Brazil,RS,Canoas/RS,2
 Brazil,ES,Cariacica/ES,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,1
-Brazil,MA,São Luís/MA,1
+Brazil,MA,São Luís/MA,2
 Brazil,RN,Parnamirim/RN,2
 Brazil,MG,Mariana/MG,1
 Brazil,MG,Poços de Caldas/MG,1
-Brazil,RS,NÃO ESPECIFICADA/RS,1
+Brazil,SP,Osasco/SP,1
+Brazil,SP,São José dos Campos/SP,1
+Brazil,SP,Hortolândia/SP,1
+Brazil,SP,Mogi das Cruzes/SP,1
+Brazil,RS,Bento Gonçalves/RS,2
 Brazil,MT,Cuiabá/MT,1
 Brazil,PR,Umuarama/PR,1
 Brazil,PR,Ponta Grossa/PR,1
@@ -132,16 +127,13 @@ Brazil,PR,Pato Branco/PR,1
 Brazil,SC,Jaguaruna/SC,1
 Brazil,SC,Gravatal/SC,1
 Brazil,MT,Várzea Grande/MT,1
-Brazil,ES,NÃO ESPECIFICADA/ES,10
-Brazil,MS,NÃO ESPECIFICADA/MS,4
-Brazil,SE,NÃO ESPECIFICADA/SE,3
-Brazil,AC,NÃO ESPECIFICADA/AC,4
+Brazil,SP,NÃO ESPECIFICADA/SP,63
+Brazil,MS,Ponta Porã/MS,1
+Brazil,SE,Nossa Senhora da Glória/SE,1
 Brazil,RO,Porto Velho/RO,2
 Brazil,MG,São João Del Rei/MG,1
 Brazil,RR,Boa Vista/RR,2
-Brazil,MA,NÃO ESPECIFICADA/MA,1
 Brazil,MG,Coronel Fabriciano//MG,1
-Brazil,RS,Bento Gonçalves/RS,1
 Brazil,RS,Carlos Barbosa/RS,1
 Brazil,RS,Estância Velha/RS,1
 Brazil,RS,Estrela/RS,1
