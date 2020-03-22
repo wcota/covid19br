@@ -32,7 +32,7 @@ Brazil,SE,Aracaju/SE,7
 Brazil,ES,Linhares/ES,2
 Brazil,ES,Vitória/ES,11
 Brazil,SP,Carapicuíba/SP,2
-Brazil,SC,Braço do Norte/SC,6
+Brazil,SC,Braço do Norte/SC,7
 Brazil,SP,São Bernardo do Campo/SP,4
 Brazil,SP,São Caetano do Sul/SP,4
 Brazil,CE,Fortaleza/CE,117
@@ -76,7 +76,7 @@ Brazil,CE,Sobral/CE,1
 Brazil,RS,Serafina Corrêa/RS,2
 Brazil,RS,Torres/RS,2
 Brazil,RS,Farroupilha/RS,1
-Brazil,SC,São José/SC,2
+Brazil,SC,São José/SC,3
 Brazil,MS,Sidrolândia/MS,1
 Brazil,BA,Lauro de Freitas/BA,3
 Brazil,BA,Itabuna/BA,1
@@ -92,12 +92,12 @@ Brazil,RO,Ji-Paraná/RO,1
 Brazil,CE,Juazeiro do Norte/CE,1
 Brazil,CE,Fortim/CE,1
 Brazil,AP,Macapá/AP,1
-Brazil,SC,Itajaí/SC,6
+Brazil,SC,Itajaí/SC,7
 Brazil,SC,Navegantes/SC,1
 Brazil,SC,Pomerode/SC,1
 Brazil,SC,Jaraguá do Sul/SC,1
 Brazil,SC,Imbituba/SC,2
-Brazil,SC,Criciúma/SC,6
+Brazil,SC,Criciúma/SC,7
 Brazil,SC,Chapecó/SC,2
 Brazil,PR,Guaíra/PR,1
 Brazil,BA,Camaçari/BA,1
@@ -148,3 +148,5 @@ Brazil,AM,Parintins/AM,1
 Brazil,BA,Conceição do Jacuípe/BA,1
 Brazil,RS,Santo Antônio da Patrulha/RS,1
 Brazil,PR,FORA DO ESTADO/PR,4
+Brazil,SC,Blumenau/SC,6
+Brazil,SC,Lages/SC,1
