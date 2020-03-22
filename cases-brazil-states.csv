@@ -236,7 +236,7 @@ date,country,state,city,newCases,totalCases
 2020-03-21,Brazil,BA,TOTAL,7,41
 2020-03-21,Brazil,SC,TOTAL,17,57
 2020-03-21,Brazil,CE,TOTAL,16,84
-2020-03-21,Brazil,MG,TOTAL,16,54
+2020-03-21,Brazil,MG,TOTAL,17,55
 2020-03-21,Brazil,TO,TOTAL,1,2
 2020-03-21,Brazil,PE,TOTAL,2,33
 2020-03-21,Brazil,SP,TOTAL,63,459
@@ -258,4 +258,4 @@ date,country,state,city,newCases,totalCases
 2020-03-21,Brazil,PB,TOTAL,0,1
 2020-03-21,Brazil,PI,TOTAL,0,4
 2020-03-21,Brazil,AP,TOTAL,0,1
-2020-03-21,Brazil,TOTAL,TOTAL,177,1189
+2020-03-21,Brazil,TOTAL,TOTAL,178,1190
