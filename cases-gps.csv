@@ -21,7 +21,7 @@ type,name,lat,lon,total
 1,Rio Verde/GO,-17.7921255,-50.9191219,5
 1,Goiânia/GO,-16.680882,-49.2532691,10
 1,Natal/RN,-5.805398,-35.2080905,6
-1,Salvador/BA,-12.9822499,-38.4812772,23
+1,Salvador/BA,-12.9822499,-38.4812772,28
 1,Manaus/AM,-3.1316333,-59.9825041,11
 1,Joinville/SC,-26.3044898,-48.8486726,4
 1,Rancho Queimado/SC,-27.6731108,-49.0126867,2
@@ -41,7 +41,7 @@ type,name,lat,lon,total
 1,Aquiraz/CE,-3.9063117,-38.387504,4
 1,Belo Horizonte/MG,-19.9227318,-43.9450948,30
 1,Anápolis/GO,-16.3332828,-48.9525756,2
-1,Porto Seguro/BA,-16.443473,-39.064251,5
+1,Porto Seguro/BA,-16.443473,-39.064251,7
 1,Belo Jardim/PE,-8.3338293,-36.4176419,1
 1,Jaboatão dos Guararapes/PE,-8.1752476,-34.9468716,3
 1,Prado/BA,-17.336357,-39.222721,2
@@ -141,3 +141,4 @@ type,name,lat,lon,total
 1,Santa Maria/RS,-29.6860512,-53.8069214,1
 1,Viamão/RS,-30.0819338,-51.0261927,1
 1,Mossoró/RN,-5.1904332,-37.3443872,1
+1,Barreiras/BA,-12.1440031,-44.9967406,1
