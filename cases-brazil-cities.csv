@@ -10,7 +10,7 @@ Brazil,SP,Santana de Parnaíba/SP,2
 Brazil,MG,Divinópolis/MG,1
 Brazil,RJ,Niterói/RJ,10
 Brazil,RS,Campo Bom/RS,2
-Brazil,RS,Porto Alegre/RS,38
+Brazil,RS,Porto Alegre/RS,40
 Brazil,PE,Recife/PE,32
 Brazil,RS,Caxias do Sul/RS,2
 Brazil,PR,Curitiba/PR,31
@@ -74,14 +74,14 @@ Brazil,MG,Uberaba/MG,3
 Brazil,SC,Tubarão/SC,6
 Brazil,CE,Sobral/CE,1
 Brazil,RS,Serafina Corrêa/RS,2
-Brazil,RS,Torres/RS,2
+Brazil,RS,Torres/RS,3
 Brazil,RS,Farroupilha/RS,1
 Brazil,SC,São José/SC,3
 Brazil,MS,Sidrolândia/MS,1
 Brazil,BA,Lauro de Freitas/BA,3
 Brazil,BA,Itabuna/BA,1
 Brazil,RJ,Miguel Pereira/RJ,1
-Brazil,RS,Bagé/RS,3
+Brazil,RS,Bagé/RS,6
 Brazil,RS,Alvorada/RS,2
 Brazil,RS,Erechim/RS,3
 Brazil,RS,Santana do Livramento/RS,2
@@ -135,7 +135,7 @@ Brazil,RR,Boa Vista/RR,2
 Brazil,RS,Carlos Barbosa/RS,1
 Brazil,RS,Estância Velha/RS,1
 Brazil,RS,Estrela/RS,1
-Brazil,RS,Lajeado/RS,2
+Brazil,RS,Lajeado/RS,3
 Brazil,RS,Santa Maria/RS,1
 Brazil,RS,Viamão/RS,1
 Brazil,RN,Mossoró/RN,1
@@ -150,3 +150,4 @@ Brazil,PR,FORA DO ESTADO/PR,4
 Brazil,SC,Blumenau/SC,6
 Brazil,SC,Lages/SC,1
 Brazil,TO,Paraíso do Tocantins/TO,1
+Brazil,RS,Osório/RS,1
