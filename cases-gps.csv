@@ -36,7 +36,7 @@ type,name,lat,lon,total
 1,São Bernardo do Campo/SP,-23.7080345,-46.5506747,4
 1,São Caetano do Sul/SP,-23.6195923,-46.5688323,4
 1,Fortaleza/CE,-3.7304512,-38.5217989,117
-1,Coronel Fabriciano/MG,-19.5200067,-42.6282686,2
+1,Coronel Fabriciano/MG,-19.5200067,-42.6282686,3
 1,Mauá/SP,-23.6669527,-46.4616922,1
 1,Aquiraz/CE,-3.9063117,-38.387504,5
 1,Belo Horizonte/MG,-19.9227318,-43.9450948,30
@@ -132,7 +132,6 @@ type,name,lat,lon,total
 1,Porto Velho/RO,-8.7494525,-63.8735438,2
 0,NÃO ESPECIFICADA/MG,-18.5264844,-44.1588654,29
 1,Boa Vista/RR,2.8208478,-60.6719582,2
-1,Coronel Fabriciano//MG,-19.5200067,-42.6282686,1
 1,Carlos Barbosa/RS,-29.2978372,-51.5005613,1
 1,Estância Velha/RS,-29.6529666,-51.1719687,1
 1,Estrela/RS,-29.5010545,-51.962226,1
@@ -150,4 +149,4 @@ type,name,lat,lon,total
 0,FORA DO ESTADO/PR,-24.4842187,-51.8148872,4
 1,Blumenau/SC,-27.0628367,-51.114965,6
 1,Lages/SC,-27.0628367,-51.114965,1
-1,Paraíso/TO,-10.8855129,-48.3716912,1
+1,Paraíso do Tocantins/TO,-10.1752474,-48.886759,1
