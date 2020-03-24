@@ -11,9 +11,9 @@ Brazil,MG,Divinópolis/MG,1
 Brazil,RJ,Niterói/RJ,10
 Brazil,RS,Campo Bom/RS,2
 Brazil,RS,Porto Alegre/RS,41
-Brazil,PE,Recife/PE,32
+Brazil,PE,Recife/PE,30
 Brazil,RS,Caxias do Sul/RS,2
-Brazil,PR,Curitiba/PR,34
+Brazil,PR,Curitiba/PR,40
 Brazil,PR,Cianorte/PR,6
 Brazil,SP,Ferraz de Vasconcelos/SP,1
 Brazil,SC,Florianópolis/SC,15
@@ -25,6 +25,7 @@ Brazil,BA,Salvador/BA,46
 Brazil,AM,Manaus/AM,45
 Brazil,SC,Joinville/SC,4
 Brazil,SC,Rancho Queimado/SC,2
+Brazil,PE,ESTRANGEIRO/PE,3
 Brazil,MS,Campo Grande/MS,19
 Brazil,MG,Juiz de Fora/MG,8
 Brazil,MG,Patrocínio/MG,1
@@ -140,12 +141,12 @@ Brazil,RS,Viamão/RS,1
 Brazil,RN,Mossoró/RN,1
 Brazil,BA,Barreiras/BA,1
 Brazil,MG,NÃO ESPECIFICADA/MG,28
-Brazil,PE,Olinda/PE,1
+Brazil,PE,Olinda/PE,2
 Brazil,PR,Colombo/PR,1
 Brazil,AM,Parintins/AM,2
 Brazil,BA,Conceição do Jacuípe/BA,1
 Brazil,RS,Santo Antônio da Patrulha/RS,1
-Brazil,PR,FORA DO ESTADO/PR,4
+Brazil,PR,FORA DO ESTADO/PR,5
 Brazil,SC,Blumenau/SC,7
 Brazil,SC,Lages/SC,1
 Brazil,RS,Osório/RS,1
@@ -161,7 +162,9 @@ Brazil,MG,Contagem/MG,2
 Brazil,MG,Lagoa da Prata/MG,1
 Brazil,MG,Timóteo/MG,1
 Brazil,CE,FORA DO ESTADO/CE,2
-Brazil,PE,NÃO ESPECIFICADA/PE,5
+Brazil,PE,FORA DO ESTADO/PE,1
+Brazil,PE,Caruaru/PE,1
+Brazil,PE,Petrolina/PE,1
 Brazil,GO,Catalão/GO,1
 Brazil,PA,Marabá/PA,1
 Brazil,PB,Igaracy/PB,1
@@ -173,10 +176,12 @@ Brazil,RS,Capão da Canoa/RS,1
 Brazil,SC,Porto Belo/SC,2
 Brazil,SC,Gaspar/SC,1
 Brazil,SC,Içara/SC,1
-Brazil,PR,Cascavel/PR,1
+Brazil,PR,Cascavel/PR,2
 Brazil,ES,Serra/ES,1
 Brazil,ES,Santa Teresa/ES,1
-Brazil,AL,NÃO ESPECIFICADA/AL,1
+Brazil,AL,FORA DO ESTADO/AL,1
 Brazil,BA,Alagoinhas/BA,1
 Brazil,BA,Conde/BA,1
 Brazil,BA,Teixeira de Freitas/BA,1
+Brazil,PR,Telêmaco Borba/PR,1
+Brazil,PR,Paranavaí/PR,1
