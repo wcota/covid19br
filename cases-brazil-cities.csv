@@ -21,14 +21,14 @@ Brazil,MG,Ipatinga/MG,1
 Brazil,GO,Rio Verde/GO,5
 Brazil,GO,Goiânia/GO,12
 Brazil,RN,Natal/RN,9
-Brazil,BA,Salvador/BA,37
+Brazil,BA,Salvador/BA,46
 Brazil,AM,Manaus/AM,31
 Brazil,SC,Joinville/SC,4
 Brazil,SC,Rancho Queimado/SC,2
 Brazil,MS,Campo Grande/MS,19
 Brazil,MG,Juiz de Fora/MG,8
 Brazil,MG,Patrocínio/MG,1
-Brazil,SE,Aracaju/SE,7
+Brazil,SE,Aracaju/SE,12
 Brazil,ES,Linhares/ES,2
 Brazil,ES,Vitória/ES,14
 Brazil,SP,Carapicuíba/SP,2
@@ -62,7 +62,7 @@ Brazil,PR,Maringá/PR,1
 Brazil,PR,Foz do Iguaçu/PR,4
 Brazil,PA,Belém/PA,4
 Brazil,SE,Propriá/SE,2
-Brazil,PB,João Pessoa/PB,1
+Brazil,PB,João Pessoa/PB,2
 Brazil,RJ,Guapimirim/RJ,1
 Brazil,SP,Jaguariúna/SP,1
 Brazil,SP,São José do Rio Preto/SP,1
@@ -112,7 +112,7 @@ Brazil,RS,Canoas/RS,5
 Brazil,ES,Cariacica/ES,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,1
 Brazil,MA,São Luís/MA,8
-Brazil,RN,Parnamirim/RN,3
+Brazil,RN,Parnamirim/RN,4
 Brazil,MG,Mariana/MG,2
 Brazil,MG,Poços de Caldas/MG,1
 Brazil,SP,Osasco/SP,1
@@ -151,7 +151,7 @@ Brazil,SC,Lages/SC,1
 Brazil,RS,Osório/RS,1
 Brazil,RJ,São Gonçalo/RJ,3
 Brazil,RJ,ESTRANGEIRO/RJ,2
-Brazil,BA,Juazeiro/BA,1
+Brazil,BA,Juazeiro/BA,2
 Brazil,BA,Jequié/BA,1
 Brazil,BA,Brumado/BA,1
 Brazil,MG,Betim/MG,1
@@ -177,3 +177,6 @@ Brazil,PR,Cascavel/PR,1
 Brazil,ES,Serra/ES,1
 Brazil,ES,Santa Teresa/ES,1
 Brazil,AL,NÃO ESPECIFICADA/AL,1
+Brazil,BA,Alagoinhas/BA,1
+Brazil,BA,Conde/BA,1
+Brazil,BA,Teixeira de Freitas/BA,1
