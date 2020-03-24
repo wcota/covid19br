@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,1
 Brazil,ES,Vila Velha/ES,13
 Brazil,BA,Feira de Santana/BA,6
 Brazil,RJ,Rio de Janeiro/RJ,212
-Brazil,DF,Brasília/DF,146
+Brazil,DF,Brasília/DF,160
 Brazil,AL,Maceió/AL,7
 Brazil,SP,Santana de Parnaíba/SP,2
 Brazil,MG,Divinópolis/MG,1
@@ -127,7 +127,7 @@ Brazil,PR,Pato Branco/PR,1
 Brazil,SC,Jaguaruna/SC,1
 Brazil,SC,Gravatal/SC,2
 Brazil,MT,Várzea Grande/MT,1
-Brazil,SP,NÃO ESPECIFICADA/SP,349
+Brazil,SP,NÃO ESPECIFICADA/SP,414
 Brazil,MS,Ponta Porã/MS,1
 Brazil,SE,Nossa Senhora da Glória/SE,1
 Brazil,RO,Porto Velho/RO,2
@@ -140,7 +140,7 @@ Brazil,RS,Santa Maria/RS,2
 Brazil,RS,Viamão/RS,1
 Brazil,RN,Mossoró/RN,1
 Brazil,BA,Barreiras/BA,1
-Brazil,MG,NÃO ESPECIFICADA/MG,28
+Brazil,MG,NÃO ESPECIFICADA/MG,30
 Brazil,PE,Olinda/PE,2
 Brazil,PR,Colombo/PR,1
 Brazil,AM,Parintins/AM,2
@@ -185,3 +185,9 @@ Brazil,BA,Conde/BA,1
 Brazil,BA,Teixeira de Freitas/BA,1
 Brazil,PR,Telêmaco Borba/PR,1
 Brazil,PR,Paranavaí/PR,1
+Brazil,RJ,NÃO ESPECIFICADA/RJ,72
+Brazil,RS,NÃO ESPECIFICADA/RS,2
+Brazil,SC,NÃO ESPECIFICADA/SC,21
+Brazil,GO,NÃO ESPECIFICADA/GO,4
+Brazil,MS,NÃO ESPECIFICADA/MS,2
+Brazil,CE,NÃO ESPECIFICADA/CE,18
