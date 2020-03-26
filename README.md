@@ -6,7 +6,7 @@ More information: https://wcota.me/covid19br
 
 ## Related links
 
-- [https://covid-19-risk.github.io/map/](Risk map of COVID-19 in Brazil, Portugal and Spain)
+- [Risk map of COVID-19 in Brazil, Portugal and Spain](https://covid-19-risk.github.io/map/)
 - [Telegram bot](https://t.me/CoronavirusBRBot)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
 - [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
