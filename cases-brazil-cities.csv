@@ -2,7 +2,7 @@ country,state,city,ibgeID,totalCases
 Brazil,SP,São Paulo/SP,3550308,722
 Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,17
-Brazil,BA,Feira de Santana/BA,2910800,8
+Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,331
 Brazil,DF,Brasília/DF,5300108,195
 Brazil,AL,Maceió/AL,2704302,9
@@ -21,7 +21,7 @@ Brazil,MG,Ipatinga/MG,3131307,1
 Brazil,GO,Rio Verde/GO,5218805,6
 Brazil,GO,Goiânia/GO,5208707,15
 Brazil,RN,Natal/RN,2408102,9
-Brazil,BA,Salvador/BA,2927408,57
+Brazil,BA,Salvador/BA,2927408,63
 Brazil,AM,Manaus/AM,1302603,52
 Brazil,SC,Joinville/SC,4209102,5
 Brazil,SC,Rancho Queimado/SC,4214300,2
@@ -42,7 +42,7 @@ Brazil,SP,Mauá/SP,3529401,2
 Brazil,CE,Aquiraz/CE,2301000,6
 Brazil,MG,Belo Horizonte/MG,3106200,96
 Brazil,GO,Anápolis/GO,5201108,3
-Brazil,BA,Porto Seguro/BA,2925303,8
+Brazil,BA,Porto Seguro/BA,2925303,10
 Brazil,PE,Belo Jardim/PE,2601706,1
 Brazil,PE,Jaboatão dos Guararapes/PE,2607901,3
 Brazil,BA,Prado/BA,2925501,2
@@ -81,7 +81,7 @@ Brazil,RS,Farroupilha/RS,4307906,1
 Brazil,SC,São José/SC,4216602,5
 Brazil,MS,Sidrolândia/MS,5007901,1
 Brazil,BA,Lauro de Freitas/BA,2919207,3
-Brazil,BA,Itabuna/BA,2914802,1
+Brazil,BA,Itabuna/BA,2914802,2
 Brazil,RJ,Miguel Pereira/RJ,3302908,1
 Brazil,RS,Bagé/RS,4301602,7
 Brazil,RS,Alvorada/RS,4300604,2
@@ -113,7 +113,7 @@ Brazil,RS,Eldorado do Sul/RS,4306767,1
 Brazil,RS,Canoas/RS,4304606,6
 Brazil,ES,Cariacica/ES,3201308,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,1
-Brazil,MA,São Luís/MA,2111300,8
+Brazil,MA,São Luís/MA,2111300,9
 Brazil,RN,Parnamirim/RN,2403251,4
 Brazil,MG,Mariana/MG,3140001,2
 Brazil,MG,Poços de Caldas/MG,3151800,1
@@ -234,3 +234,6 @@ Brazil,MG,Governador Valadares/MG,3127701,1
 Brazil,MG,Boa Esperança/MG,3107109,1
 Brazil,MG,São João del Rei/MG,3162500,1
 Brazil,MG,NÃO ESPECIFICADA/MG,31,5
+Brazil,MA,Imperatriz/MA,2105302,1
+Brazil,BA,Alagoinhas/BA,2900702,1
+Brazil,BA,ESTRANGEIRO/BA,29,2
