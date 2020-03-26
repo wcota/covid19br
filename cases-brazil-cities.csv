@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,17
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,331
-Brazil,DF,Brasília/DF,5300108,195
+Brazil,DF,Brasília/DF,5300108,200
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,4
 Brazil,MG,Divinópolis/MG,3122306,2
@@ -218,7 +218,7 @@ Brazil,AL,Porto Real do Colégio/AL,2707503,1
 Brazil,RS,Pelotas/RS,4314407,1
 Brazil,RS,Cerro Grande do Sul/RS,4305173,1
 Brazil,RS,Dom Pedrito/RS,4306601,1
-Brazil,PE,NÃO ESPECIFICADA/PE,26,4
+Brazil,PE,NÃO ESPECIFICADA/PE,26,6
 Brazil,PR,Faxinal/PR,4107603,1
 Brazil,PR,Campo Mourão/PR,4104303,1
 Brazil,SC,Balneário Arroio do Silva/SC,4201950,1
@@ -237,3 +237,13 @@ Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
 Brazil,BA,ESTRANGEIRO/BA,29,2
 Brazil,PR,Rio Negro/PR,4122305,1
+Brazil,SP,NÃO ESPECIFICADA/SP,35,190
+Brazil,RJ,NÃO ESPECIFICADA/RJ,33,51
+Brazil,RS,NÃO ESPECIFICADA/RS,43,6
+Brazil,GO,NÃO ESPECIFICADA/GO,52,1
+Brazil,AM,NÃO ESPECIFICADA/AM,13,13
+Brazil,MS,NÃO ESPECIFICADA/MS,50,1
+Brazil,CE,NÃO ESPECIFICADA/CE,23,24
+Brazil,AC,NÃO ESPECIFICADA/AC,12,1
+Brazil,PA,NÃO ESPECIFICADA/PA,15,4
+Brazil,PI,NÃO ESPECIFICADA/PI,22,1
