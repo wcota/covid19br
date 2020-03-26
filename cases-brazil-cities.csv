@@ -40,7 +40,7 @@ Brazil,CE,Fortaleza/CE,2304400,196
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
 Brazil,CE,Aquiraz/CE,2301000,6
-Brazil,MG,Belo Horizonte/MG,3106200,90
+Brazil,MG,Belo Horizonte/MG,3106200,92
 Brazil,GO,Anápolis/GO,5201108,3
 Brazil,BA,Porto Seguro/BA,2925303,8
 Brazil,PE,Belo Jardim/PE,2601706,1
@@ -87,7 +87,7 @@ Brazil,RS,Bagé/RS,4301602,7
 Brazil,RS,Alvorada/RS,4300604,2
 Brazil,RS,Erechim/RS,4307005,3
 Brazil,RS,Sant'Ana do Livramento/RS,4317103,4
-Brazil,PI,Teresina/PI,2211001,6
+Brazil,PI,Teresina/PI,2211001,8
 Brazil,SP,Taubaté/SP,3554102,1
 Brazil,SP,Suzano/SP,3552502,1
 Brazil,RO,Ji-Paraná/RO,1100122,1
@@ -195,7 +195,6 @@ Brazil,SP,ESTRANGEIRO/SP,35,33
 Brazil,RJ,Volta Redonda/RJ,3306305,6
 Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
 Brazil,RJ,Duque de Caxias/RJ,3301702,2
-Brazil,MG,NÃO ESPECIFICADA/MG,31,2
 Brazil,RS,Garibaldi/RS,4308607,1
 Brazil,SC,FORA DO ESTADO/SC,42,5
 Brazil,SC,Camboriú/SC,4203204,2
@@ -204,7 +203,6 @@ Brazil,SC,São Ludgero/SC,4217006,1
 Brazil,SC,Tijucas/SC,4218004,1
 Brazil,GO,Valparaíso de Goiás/GO,5221858,2
 Brazil,CE,Mauriti/CE,2308104,1
-Brazil,PI,NÃO ESPECIFICADA/PI,22,2
 Brazil,ES,FORA DO ESTADO/ES,32,1
 Brazil,RS,Anta Gorda/RS,4300703,2
 Brazil,RS,Camaquã/RS,4303509,1
