@@ -16,14 +16,14 @@ Brazil,RS,Caxias do Sul/RS,3
 Brazil,PR,Curitiba/PR,60
 Brazil,PR,Cianorte/PR,6
 Brazil,SP,Ferraz de Vasconcelos/SP,1
-Brazil,SC,Florianópolis/SC,20
+Brazil,SC,Florianópolis/SC,16
 Brazil,MG,Ipatinga/MG,1
 Brazil,GO,Rio Verde/GO,5
 Brazil,GO,Goiânia/GO,15
 Brazil,RN,Natal/RN,9
-Brazil,BA,Salvador/BA,52
+Brazil,BA,Salvador/BA,57
 Brazil,AM,Manaus/AM,52
-Brazil,SC,Joinville/SC,4
+Brazil,SC,Joinville/SC,5
 Brazil,SC,Rancho Queimado/SC,2
 Brazil,PE,ESTRANGEIRO/PE,3
 Brazil,MS,Campo Grande/MS,22
@@ -58,7 +58,7 @@ Brazil,MT,Rondonópolis/MT,2
 Brazil,TO,Palmas/TO,7
 Brazil,GO,Jataí/GO,1
 Brazil,GO,Aparecida de Goiânia/GO,2
-Brazil,SC,Balneário Camboriú/SC,9
+Brazil,SC,Balneário Camboriú/SC,7
 Brazil,PR,Maringá/PR,2
 Brazil,PR,Foz do Iguaçu/PR,5
 Brazil,PA,Belém/PA,4
@@ -72,12 +72,13 @@ Brazil,SP,Guarulhos/SP,1
 Brazil,SP,Barueri/SP,1
 Brazil,SP,Cotia/SP,2
 Brazil,MG,Uberaba/MG,3
-Brazil,SC,Tubarão/SC,9
+Brazil,SC,Tubarão/SC,8
+Brazil,SC,ESTRANGEIRO/SC,3
 Brazil,CE,Sobral/CE,4
 Brazil,RS,Serafina Corrêa/RS,3
 Brazil,RS,Torres/RS,6
 Brazil,RS,Farroupilha/RS,1
-Brazil,SC,São José/SC,6
+Brazil,SC,São José/SC,5
 Brazil,MS,Sidrolândia/MS,1
 Brazil,BA,Lauro de Freitas/BA,3
 Brazil,BA,Itabuna/BA,1
@@ -92,14 +93,14 @@ Brazil,SP,Suzano/SP,1
 Brazil,RO,Ji-Paraná/RO,1
 Brazil,CE,Juazeiro do Norte/CE,1
 Brazil,CE,Fortim/CE,1
-Brazil,AP,Macapá/AP,1
-Brazil,SC,Itajaí/SC,10
+Brazil,AP,Macapá/AP,2
+Brazil,SC,Itajaí/SC,12
 Brazil,SC,Navegantes/SC,3
 Brazil,SC,Pomerode/SC,1
 Brazil,SC,Jaraguá do Sul/SC,2
 Brazil,SC,Imbituba/SC,4
-Brazil,SC,Criciúma/SC,9
-Brazil,SC,Chapecó/SC,3
+Brazil,SC,Criciúma/SC,11
+Brazil,SC,Chapecó/SC,2
 Brazil,PR,Guaíra/PR,1
 Brazil,BA,Camaçari/BA,1
 Brazil,RJ,Petrópolis/RJ,3
@@ -125,7 +126,7 @@ Brazil,MT,Cuiabá/MT,6
 Brazil,PR,Ponta Grossa/PR,3
 Brazil,PR,Pato Branco/PR,1
 Brazil,SC,Jaguaruna/SC,2
-Brazil,SC,Gravatal/SC,2
+Brazil,SC,Gravatal/SC,3
 Brazil,MT,Várzea Grande/MT,2
 Brazil,SP,NÃO ESPECIFICADA/SP,466
 Brazil,MS,Ponta Porã/MS,1
@@ -146,7 +147,7 @@ Brazil,AM,Parintins/AM,2
 Brazil,BA,Conceição do Jacuípe/BA,1
 Brazil,RS,Santo Antônio da Patrulha/RS,1
 Brazil,PR,FORA DO ESTADO/PR,4
-Brazil,SC,Blumenau/SC,7
+Brazil,SC,Blumenau/SC,9
 Brazil,SC,Lages/SC,1
 Brazil,RS,Osório/RS,1
 Brazil,RJ,São Gonçalo/RJ,3
@@ -187,7 +188,10 @@ Brazil,RJ,Campos dos Goytacazes/RJ,1
 Brazil,RJ,Duque de Caxias/RJ,2
 Brazil,MG,NÃO ESPECIFICADA/MG,2
 Brazil,RS,Garibaldi/RS,1
+Brazil,SC,FORA DO ESTADO/SC,5
+Brazil,SC,Camboriú/SC,2
 Brazil,SC,Laguna/SC,1
+Brazil,SC,São Ludgero/SC,1
 Brazil,SC,Tijucas/SC,1
 Brazil,GO,Valparaíso de Goiás/GO,2
 Brazil,CE,Mauriti/CE,1
@@ -208,3 +212,6 @@ Brazil,RS,Dom Pedrito/RS,1
 Brazil,PE,NÃO ESPECIFICADA/PE,4
 Brazil,PR,Faxinal/PR,1
 Brazil,PR,Campo Mourão/PR,1
+Brazil,SC,Balneário Arroio do Silva/SC,1
+Brazil,SC,Canelinha/SC,1
+Brazil,SC,São Pedro de Alcântara/SC,1
