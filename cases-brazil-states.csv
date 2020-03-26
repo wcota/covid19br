@@ -231,6 +231,7 @@ date,country,state,city,newCases,totalCases
 2020-03-20,Brazil,PB,TOTAL,0,1
 2020-03-20,Brazil,RO,TOTAL,0,1
 2020-03-20,Brazil,TOTAL,TOTAL,318,1013
+2020-03-21,Brazil,SP,TOTAL,63,459
 2020-03-21,Brazil,ES,TOTAL,10,26
 2020-03-21,Brazil,RJ,TOTAL,10,119
 2020-03-21,Brazil,DF,TOTAL,4,112
@@ -251,7 +252,6 @@ date,country,state,city,newCases,totalCases
 2020-03-21,Brazil,TO,TOTAL,1,2
 2020-03-21,Brazil,MA,TOTAL,1,2
 2020-03-21,Brazil,MT,TOTAL,1,3
-2020-03-21,Brazil,SP,TOTAL,63,459
 2020-03-21,Brazil,RO,TOTAL,2,3
 2020-03-21,Brazil,RR,TOTAL,2,2
 2020-03-21,Brazil,PA,TOTAL,0,2
@@ -259,6 +259,7 @@ date,country,state,city,newCases,totalCases
 2020-03-21,Brazil,PI,TOTAL,0,4
 2020-03-21,Brazil,AP,TOTAL,0,1
 2020-03-21,Brazil,TOTAL,TOTAL,193,1206
+2020-03-22,Brazil,SP,TOTAL,172,631
 2020-03-22,Brazil,RJ,TOTAL,67,186
 2020-03-22,Brazil,DF,TOTAL,22,134
 2020-03-22,Brazil,RS,TOTAL,13,85
@@ -275,7 +276,6 @@ date,country,state,city,newCases,totalCases
 2020-03-22,Brazil,TO,TOTAL,3,5
 2020-03-22,Brazil,PA,TOTAL,2,4
 2020-03-22,Brazil,PI,TOTAL,2,6
-2020-03-22,Brazil,SP,TOTAL,172,631
 2020-03-22,Brazil,ES,TOTAL,0,26
 2020-03-22,Brazil,AL,TOTAL,0,7
 2020-03-22,Brazil,SE,TOTAL,0,10
@@ -287,6 +287,7 @@ date,country,state,city,newCases,totalCases
 2020-03-22,Brazil,MA,TOTAL,0,2
 2020-03-22,Brazil,RR,TOTAL,0,2
 2020-03-22,Brazil,TOTAL,TOTAL,415,1621
+2020-03-23,Brazil,SP,TOTAL,114,745
 2020-03-23,Brazil,ES,TOTAL,7,33
 2020-03-23,Brazil,RJ,TOTAL,45,231
 2020-03-23,Brazil,DF,TOTAL,12,146
@@ -303,7 +304,6 @@ date,country,state,city,newCases,totalCases
 2020-03-23,Brazil,MT,TOTAL,5,8
 2020-03-23,Brazil,TO,TOTAL,2,7
 2020-03-23,Brazil,MA,TOTAL,6,8
-2020-03-23,Brazil,SP,TOTAL,114,745
 2020-03-23,Brazil,PA,TOTAL,1,5
 2020-03-23,Brazil,PB,TOTAL,1,2
 2020-03-23,Brazil,AL,TOTAL,1,8
@@ -315,6 +315,7 @@ date,country,state,city,newCases,totalCases
 2020-03-23,Brazil,AP,TOTAL,0,1
 2020-03-23,Brazil,RR,TOTAL,0,2
 2020-03-23,Brazil,TOTAL,TOTAL,340,1961
+2020-03-24,Brazil,SP,TOTAL,65,810
 2020-03-24,Brazil,ES,TOTAL,7,40
 2020-03-24,Brazil,BA,TOTAL,16,79
 2020-03-24,Brazil,RJ,TOTAL,72,303
@@ -331,7 +332,6 @@ date,country,state,city,newCases,totalCases
 2020-03-24,Brazil,AC,TOTAL,4,21
 2020-03-24,Brazil,PB,TOTAL,1,3
 2020-03-24,Brazil,RN,TOTAL,1,14
-2020-03-24,Brazil,SP,TOTAL,65,810
 2020-03-24,Brazil,RO,TOTAL,2,5
 2020-03-24,Brazil,RR,TOTAL,6,8
 2020-03-24,Brazil,MG,TOTAL,2,130
@@ -343,6 +343,7 @@ date,country,state,city,newCases,totalCases
 2020-03-24,Brazil,AP,TOTAL,0,1
 2020-03-24,Brazil,MA,TOTAL,0,8
 2020-03-24,Brazil,TOTAL,TOTAL,311,2272
+2020-03-25,Brazil,SP,TOTAL,52,862
 2020-03-25,Brazil,RJ,TOTAL,67,370
 2020-03-25,Brazil,DF,TOTAL,18,195
 2020-03-25,Brazil,RS,TOTAL,49,162
@@ -359,7 +360,6 @@ date,country,state,city,newCases,totalCases
 2020-03-25,Brazil,PB,TOTAL,2,5
 2020-03-25,Brazil,AP,TOTAL,1,2
 2020-03-25,Brazil,MT,TOTAL,2,11
-2020-03-25,Brazil,SP,TOTAL,52,862
 2020-03-25,Brazil,AL,TOTAL,1,11
 2020-03-25,Brazil,PE,TOTAL,4,46
 2020-03-25,Brazil,ES,TOTAL,0,40
