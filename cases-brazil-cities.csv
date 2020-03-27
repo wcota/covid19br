@@ -16,14 +16,14 @@ Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,66
 Brazil,PR,Cianorte/PR,4105508,6
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,1
-Brazil,SC,Florianópolis/SC,4205407,16
+Brazil,SC,Florianópolis/SC,4205407,20
 Brazil,MG,Ipatinga/MG,3131307,1
 Brazil,GO,Rio Verde/GO,5218805,6
 Brazil,GO,Goiânia/GO,5208707,21
 Brazil,RN,Natal/RN,2408102,9
 Brazil,BA,Salvador/BA,2927408,63
 Brazil,AM,Manaus/AM,1302603,63
-Brazil,SC,Joinville/SC,4209102,5
+Brazil,SC,Joinville/SC,4209102,7
 Brazil,SC,Rancho Queimado/SC,4214300,2
 Brazil,PE,ESTRANGEIRO/PE,26,3
 Brazil,MS,Campo Grande/MS,5002704,22
@@ -58,7 +58,7 @@ Brazil,MT,Rondonópolis/MT,5107602,2
 Brazil,TO,Palmas/TO,1721000,7
 Brazil,GO,Jataí/GO,5211909,1
 Brazil,GO,Aparecida de Goiânia/GO,5201405,2
-Brazil,SC,Balneário Camboriú/SC,4202008,7
+Brazil,SC,Balneário Camboriú/SC,4202008,8
 Brazil,PR,Maringá/PR,4115200,3
 Brazil,PR,Foz do Iguaçu/PR,4108304,5
 Brazil,PA,Belém/PA,1501402,6
@@ -78,7 +78,7 @@ Brazil,CE,Sobral/CE,2312908,4
 Brazil,RS,Serafina Corrêa/RS,4320404,3
 Brazil,RS,Torres/RS,4321501,6
 Brazil,RS,Farroupilha/RS,4307906,1
-Brazil,SC,São José/SC,4216602,5
+Brazil,SC,São José/SC,4216602,8
 Brazil,MS,Sidrolândia/MS,5007901,1
 Brazil,BA,Lauro de Freitas/BA,2919207,3
 Brazil,BA,Itabuna/BA,2914802,2
@@ -94,13 +94,13 @@ Brazil,RO,Ji-Paraná/RO,1100122,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,1
 Brazil,CE,Fortim/CE,2304459,1
 Brazil,AP,Macapá/AP,1600303,2
-Brazil,SC,Itajaí/SC,4208203,12
+Brazil,SC,Itajaí/SC,4208203,16
 Brazil,SC,Navegantes/SC,4211306,3
 Brazil,SC,Pomerode/SC,4213203,1
 Brazil,SC,Jaraguá do Sul/SC,4208906,2
-Brazil,SC,Imbituba/SC,4207304,4
-Brazil,SC,Criciúma/SC,4204608,11
-Brazil,SC,Chapecó/SC,4204202,2
+Brazil,SC,Imbituba/SC,4207304,5
+Brazil,SC,Criciúma/SC,4204608,12
+Brazil,SC,Chapecó/SC,4204202,4
 Brazil,PR,Guaíra/PR,4108809,1
 Brazil,BA,Camaçari/BA,2905701,1
 Brazil,RJ,Petrópolis/RJ,3303906,3
@@ -151,7 +151,7 @@ Brazil,AM,Parintins/AM,1303403,2
 Brazil,BA,Conceição do Jacuípe/BA,2908507,1
 Brazil,RS,Santo Antônio da Patrulha/RS,4317608,1
 Brazil,PR,FORA DO ESTADO/PR,41,4
-Brazil,SC,Blumenau/SC,4202404,9
+Brazil,SC,Blumenau/SC,4202404,12
 Brazil,SC,Lages/SC,4209300,1
 Brazil,RS,Osório/RS,4313508,1
 Brazil,SP,FORA DO ESTADO/SP,35,10
@@ -180,7 +180,7 @@ Brazil,RS,Santiago/RS,4317400,1
 Brazil,RS,Sapiranga/RS,4319901,1
 Brazil,RS,Cruzeiro do Sul/RS,4306205,1
 Brazil,RS,Capão da Canoa/RS,4304630,2
-Brazil,SC,Porto Belo/SC,4213500,2
+Brazil,SC,Porto Belo/SC,4213500,3
 Brazil,SC,Gaspar/SC,4205902,1
 Brazil,SC,Içara/SC,4207007,1
 Brazil,PR,Cascavel/PR,4104808,2
@@ -197,7 +197,7 @@ Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
 Brazil,RJ,Duque de Caxias/RJ,3301702,2
 Brazil,RS,Garibaldi/RS,4308607,1
 Brazil,SC,FORA DO ESTADO/SC,42,5
-Brazil,SC,Camboriú/SC,4203204,2
+Brazil,SC,Camboriú/SC,4203204,4
 Brazil,SC,Laguna/SC,4209409,1
 Brazil,SC,São Ludgero/SC,4217006,1
 Brazil,SC,Tijucas/SC,4218004,1
@@ -252,3 +252,6 @@ Brazil,RS,Marau/RS,4311809,1
 Brazil,RS,Piratini/RS,4314605,1
 Brazil,RS,Passo Fundo/RS,4314100,1
 Brazil,RS,Nova Palma/RS,4313102,1
+Brazil,SC,Itapema/SC,4208302,1
+Brazil,SC,Siderópolis/SC,4217600,1
+Brazil,SC,Timbé do Sul/SC,4218103,1
