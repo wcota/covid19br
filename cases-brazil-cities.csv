@@ -134,7 +134,7 @@ Brazil,SP,Caieiras/SP,3509007,2
 Brazil,MS,Ponta Porã/MS,5006606,1
 Brazil,SE,Nossa Senhora da Glória/SE,2804508,1
 Brazil,RO,Porto Velho/RO,1100205,5
-Brazil,RR,Boa Vista/RR,1400100,8
+Brazil,RR,Boa Vista/RR,1400100,9
 Brazil,RS,Carlos Barbosa/RS,4304804,1
 Brazil,RS,Estância Velha/RS,4307609,2
 Brazil,RS,Estrela/RS,4307807,1
@@ -225,11 +225,9 @@ Brazil,BA,Ilhéus/BA,2913606,1
 Brazil,BA,Canarana/BA,2906204,1
 Brazil,GO,Silvânia/GO,5220603,1
 Brazil,GO,Luziânia/GO,5212501,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,5
 Brazil,MG,Governador Valadares/MG,3127701,1
 Brazil,MG,Boa Esperança/MG,3107109,1
 Brazil,MG,São João del Rei/MG,3162500,1
-Brazil,MG,NÃO ESPECIFICADA/MG,31,5
 Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
 Brazil,PR,Rio Negro/PR,4122305,1
@@ -240,15 +238,11 @@ Brazil,SP,Mairiporã/SP,3528502,1
 Brazil,SP,Louveira/SP,3527306,2
 Brazil,SP,Vargem Grande Paulista/SP,3556453,1
 Brazil,RJ,Belford Roxo/RJ,3300456,1
-Brazil,GO,NÃO ESPECIFICADA/GO,52,1
 Brazil,AM,Santo Antônio do Içá/AM,1303700,1
 Brazil,AM,Boca do Acre/AM,1300706,1
-Brazil,MS,NÃO ESPECIFICADA/MS,50,1
 Brazil,CE,Groaíras/CE,2304905,1
-Brazil,AC,NÃO ESPECIFICADA/AC,12,1
 Brazil,PA,Itaituba/PA,1503606,1
 Brazil,PA,Castanhal/PA,1502400,1
-Brazil,PI,NÃO ESPECIFICADA/PI,22,1
 Brazil,RS,Rolante/RS,4316006,1
 Brazil,RS,Marau/RS,4311809,1
 Brazil,RS,Piratini/RS,4314605,1
@@ -259,3 +253,10 @@ Brazil,SC,Siderópolis/SC,4217600,1
 Brazil,SC,Timbé do Sul/SC,4218103,1
 Brazil,ES,Castelo/ES,3201407,1
 Brazil,BA,NÃO ESPECIFICADA/BA,29,4
+Brazil,PI,NÃO ESPECIFICADA/PI,22,1
+Brazil,AC,NÃO ESPECIFICADA/AC,12,1
+Brazil,MS,NÃO ESPECIFICADA/MS,50,1
+Brazil,GO,NÃO ESPECIFICADA/GO,52,1
+Brazil,MG,NÃO ESPECIFICADA/MG,31,5
+Brazil,RN,NÃO ESPECIFICADA/RN,24,5
+Brazil,RR,Bonfim/RR,1400159,1
