@@ -55,7 +55,7 @@ type,name,lat,lon,total
 1,Pinhais/PR,-25.4443488,-49.1900307,3
 1,Londrina/PR,-23.3112878,-51.1595023,3
 1,Rondonópolis/MT,-16.4603533,-54.6397099,2
-1,Palmas/TO,-10.1835604,-48.3337793,7
+1,Palmas/TO,-10.1835604,-48.3337793,8
 1,Jataí/GO,-17.8783829,-51.7204241,1
 1,Aparecida de Goiânia/GO,-16.8226769,-49.2452546,2
 1,Balneário Camboriú/SC,-26.9924395,-48.6339782,8
@@ -63,7 +63,7 @@ type,name,lat,lon,total
 1,Foz do Iguaçu/PR,-25.5401479,-54.5858139,5
 1,Belém/PA,-1.45056,-48.4682453,6
 1,Propriá/SE,-10.212427,-36.8372254,2
-1,João Pessoa/PB,-7.1215981,-34.882028,4
+1,João Pessoa/PB,-7.1215981,-34.882028,5
 1,Guapimirim/RJ,-22.5266308,-42.9790687,1
 1,Jaguariúna/SP,-22.70374,-46.985062,1
 1,São José do Rio Preto/SP,-20.8125851,-49.3804212,1
@@ -122,7 +122,7 @@ type,name,lat,lon,total
 1,Hortolândia/SP,-22.85833,-47.22,2
 1,Mogi das Cruzes/SP,-23.5234284,-46.1926671,4
 1,Bento Gonçalves/RS,-29.1654014,-51.5197627,2
-1,Cuiabá/MT,-15.5986686,-56.0991301,6
+1,Cuiabá/MT,-15.5986686,-56.0991301,8
 1,Ponta Grossa/PR,-25.0891685,-50.1601812,3
 1,Pato Branco/PR,-26.2295984,-52.6712474,2
 1,Jaguaruna/SC,-28.6237365,-49.0288664,2
