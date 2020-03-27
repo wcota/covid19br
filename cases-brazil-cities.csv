@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,20
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,368
-Brazil,DF,Brasília/DF,5300108,200
+Brazil,DF,Brasília/DF,5300108,203
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,4
 Brazil,MG,Divinópolis/MG,3122306,2
@@ -80,7 +80,7 @@ Brazil,RS,Torres/RS,4321501,6
 Brazil,RS,Farroupilha/RS,4307906,1
 Brazil,SC,São José/SC,4216602,8
 Brazil,MS,Sidrolândia/MS,5007901,1
-Brazil,BA,Lauro de Freitas/BA,2919207,3
+Brazil,BA,Lauro de Freitas/BA,2919207,5
 Brazil,BA,Itabuna/BA,2914802,2
 Brazil,RJ,Miguel Pereira/RJ,3302908,1
 Brazil,RS,Bagé/RS,4301602,9
@@ -235,7 +235,6 @@ Brazil,MG,São João del Rei/MG,3162500,1
 Brazil,MG,NÃO ESPECIFICADA/MG,31,5
 Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
-Brazil,BA,ESTRANGEIRO/BA,29,2
 Brazil,PR,Rio Negro/PR,4122305,1
 Brazil,SP,NÃO ESPECIFICADA/SP,35,190
 Brazil,RJ,Belford Roxo/RJ,3300456,1
@@ -256,3 +255,4 @@ Brazil,SC,Itapema/SC,4208302,1
 Brazil,SC,Siderópolis/SC,4217600,1
 Brazil,SC,Timbé do Sul/SC,4218103,1
 Brazil,ES,Castelo/ES,3201407,1
+Brazil,BA,NÃO ESPECIFICADA/BA,29,4
