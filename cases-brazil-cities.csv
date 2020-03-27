@@ -4,13 +4,13 @@ Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,20
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,368
-Brazil,DF,Brasília/DF,5300108,203
+Brazil,DF,Brasília/DF,5300108,240
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,6
 Brazil,RJ,Niterói/RJ,3303302,31
 Brazil,RS,Campo Bom/RS,4303905,2
-Brazil,RS,Porto Alegre/RS,4314902,103
+Brazil,RS,Porto Alegre/RS,4314902,106
 Brazil,PE,Recife/PE,2611606,33
 Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,66
@@ -62,7 +62,7 @@ Brazil,PR,Maringá/PR,4115200,3
 Brazil,PR,Foz do Iguaçu/PR,4108304,5
 Brazil,PA,Belém/PA,1501402,6
 Brazil,SE,Propriá/SE,2805703,2
-Brazil,PB,João Pessoa/PB,2507507,5
+Brazil,PB,João Pessoa/PB,2507507,6
 Brazil,RJ,Guapimirim/RJ,3301850,1
 Brazil,SP,Jaguariúna/SP,3524709,1
 Brazil,SP,São José do Rio Preto/SP,3549805,1
@@ -262,3 +262,6 @@ Brazil,RR,Bonfim/RR,1400159,1
 Brazil,MG,Sabará/MG,3156700,1
 Brazil,MG,Campo Belo/MG,3111200,1
 Brazil,MG,Patos de Minas/MG,3148004,1
+Brazil,RS,Santa Rosa/RS,4317202,1
+Brazil,PB,Sousa/PB,2516201,1
+Brazil,PB,Campina Grande/PB,2504009,1
