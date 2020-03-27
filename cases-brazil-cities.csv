@@ -1,12 +1,12 @@
 country,state,city,ibgeID,totalCases
-Brazil,SP,São Paulo/SP,3550308,722
+Brazil,SP,São Paulo/SP,3550308,899
 Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,20
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,368
 Brazil,DF,Brasília/DF,5300108,203
 Brazil,AL,Maceió/AL,2704302,9
-Brazil,SP,Santana de Parnaíba/SP,3547304,4
+Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,2
 Brazil,RJ,Niterói/RJ,3303302,31
 Brazil,RS,Campo Bom/RS,4303905,2
@@ -35,7 +35,7 @@ Brazil,ES,Vitória/ES,3205309,17
 Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,9
 Brazil,SP,São Bernardo do Campo/SP,3548708,13
-Brazil,SP,São Caetano do Sul/SP,3548807,16
+Brazil,SP,São Caetano do Sul/SP,3548807,17
 Brazil,CE,Fortaleza/CE,2304400,222
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
@@ -47,7 +47,7 @@ Brazil,PE,Belo Jardim/PE,2601706,1
 Brazil,PE,Jaboatão dos Guararapes/PE,2607901,3
 Brazil,BA,Prado/BA,2925501,2
 Brazil,AC,Rio Branco/AC,1200401,23
-Brazil,SP,Santo André/SP,3547809,17
+Brazil,SP,Santo André/SP,3547809,16
 Brazil,MG,Nova Lima/MG,3144805,11
 Brazil,MG,Sete Lagoas/MG,3167202,2
 Brazil,MG,Uberlândia/MG,3170206,7
@@ -68,9 +68,9 @@ Brazil,RJ,Guapimirim/RJ,3301850,1
 Brazil,SP,Jaguariúna/SP,3524709,1
 Brazil,SP,São José do Rio Preto/SP,3549805,1
 Brazil,SP,Campinas/SP,3509502,4
-Brazil,SP,Guarulhos/SP,3518800,5
-Brazil,SP,Barueri/SP,3505708,1
-Brazil,SP,Cotia/SP,3513009,6
+Brazil,SP,Guarulhos/SP,3518800,9
+Brazil,SP,Barueri/SP,3505708,3
+Brazil,SP,Cotia/SP,3513009,5
 Brazil,MG,Uberaba/MG,3170107,3
 Brazil,SC,Tubarão/SC,4218707,8
 Brazil,SC,ESTRANGEIRO/SC,42,3
@@ -89,7 +89,7 @@ Brazil,RS,Erechim/RS,4307005,3
 Brazil,RS,Sant'Ana do Livramento/RS,4317103,4
 Brazil,PI,Teresina/PI,2211001,8
 Brazil,SP,Taubaté/SP,3554102,1
-Brazil,SP,Suzano/SP,3552502,1
+Brazil,SP,Suzano/SP,3552502,2
 Brazil,RO,Ji-Paraná/RO,1100122,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,1
 Brazil,CE,Fortim/CE,2304459,1
@@ -119,8 +119,8 @@ Brazil,MG,Mariana/MG,3140001,2
 Brazil,MG,Poços de Caldas/MG,3151800,1
 Brazil,SP,Osasco/SP,3534401,3
 Brazil,SP,São José dos Campos/SP,3549904,2
-Brazil,SP,Hortolândia/SP,3519071,2
-Brazil,SP,Mogi das Cruzes/SP,3530607,4
+Brazil,SP,Hortolândia/SP,3519071,1
+Brazil,SP,Mogi das Cruzes/SP,3530607,7
 Brazil,RS,Bento Gonçalves/RS,4302105,2
 Brazil,MT,Cuiabá/MT,5103403,8
 Brazil,PR,Ponta Grossa/PR,4119905,3
@@ -129,9 +129,9 @@ Brazil,SC,Jaguaruna/SC,4208807,2
 Brazil,SC,Gravatal/SC,4206207,3
 Brazil,MT,Várzea Grande/MT,5108402,2
 Brazil,SP,Valinhos/SP,3556206,1
-Brazil,SP,Taboão da Serra/SP,3552809,1
+Brazil,SP,Taboão da Serra/SP,3552809,2
 Brazil,SP,Poá/SP,3539806,1
-Brazil,SP,Caieiras/SP,3509007,1
+Brazil,SP,Caieiras/SP,3509007,2
 Brazil,MS,Ponta Porã/MS,5006606,1
 Brazil,SE,Nossa Senhora da Glória/SE,2804508,1
 Brazil,RO,Porto Velho/RO,1100205,5
@@ -154,9 +154,9 @@ Brazil,PR,FORA DO ESTADO/PR,41,4
 Brazil,SC,Blumenau/SC,4202404,12
 Brazil,SC,Lages/SC,4209300,1
 Brazil,RS,Osório/RS,4313508,1
-Brazil,SP,FORA DO ESTADO/SP,35,10
+Brazil,SP,FORA DO ESTADO/SP,35,8
 Brazil,SP,Iracemápolis/SP,3521408,1
-Brazil,SP,Jundiaí/SP,3525904,1
+Brazil,SP,Jundiaí/SP,3525904,2
 Brazil,SP,Embu/SP,3515004,1
 Brazil,RJ,São Gonçalo/RJ,3304904,3
 Brazil,BA,Juazeiro/BA,2918407,2
@@ -191,7 +191,7 @@ Brazil,BA,Conde/BA,2908606,1
 Brazil,BA,Teixeira de Freitas/BA,2931350,1
 Brazil,PR,Telêmaco Borba/PR,4127106,1
 Brazil,PR,Paranavaí/PR,4118402,1
-Brazil,SP,ESTRANGEIRO/SP,35,33
+Brazil,SP,ESTRANGEIRO/SP,35,28
 Brazil,RJ,Volta Redonda/RJ,3306305,7
 Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
 Brazil,RJ,Duque de Caxias/RJ,3301702,2
@@ -236,7 +236,12 @@ Brazil,MG,NÃO ESPECIFICADA/MG,31,5
 Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
 Brazil,PR,Rio Negro/PR,4122305,1
-Brazil,SP,NÃO ESPECIFICADA/SP,35,190
+Brazil,SP,Tatuí/SP,3554003,1
+Brazil,SP,Ribeirão Preto/SP,3543402,1
+Brazil,SP,Arujá/SP,3503901,1
+Brazil,SP,Mairiporã/SP,3528502,1
+Brazil,SP,Louveira/SP,3527306,2
+Brazil,SP,Vargem Grande Paulista/SP,3556453,1
 Brazil,RJ,Belford Roxo/RJ,3300456,1
 Brazil,GO,NÃO ESPECIFICADA/GO,52,1
 Brazil,AM,Santo Antônio do Içá/AM,1303700,1
