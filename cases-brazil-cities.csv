@@ -10,9 +10,9 @@ Brazil,SP,Santana de Parnaíba/SP,3547304,4
 Brazil,MG,Divinópolis/MG,3122306,2
 Brazil,RJ,Niterói/RJ,3303302,31
 Brazil,RS,Campo Bom/RS,4303905,2
-Brazil,RS,Porto Alegre/RS,4314902,87
+Brazil,RS,Porto Alegre/RS,4314902,103
 Brazil,PE,Recife/PE,2611606,30
-Brazil,RS,Caxias do Sul/RS,4305108,3
+Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,66
 Brazil,PR,Cianorte/PR,4105508,6
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,1
@@ -83,7 +83,7 @@ Brazil,MS,Sidrolândia/MS,5007901,1
 Brazil,BA,Lauro de Freitas/BA,2919207,3
 Brazil,BA,Itabuna/BA,2914802,2
 Brazil,RJ,Miguel Pereira/RJ,3302908,1
-Brazil,RS,Bagé/RS,4301602,7
+Brazil,RS,Bagé/RS,4301602,9
 Brazil,RS,Alvorada/RS,4300604,2
 Brazil,RS,Erechim/RS,4307005,3
 Brazil,RS,Sant'Ana do Livramento/RS,4317103,4
@@ -110,7 +110,7 @@ Brazil,RS,São Leopoldo/RS,4318705,1
 Brazil,RS,Taquara/RS,4321204,1
 Brazil,RS,Dois Irmãos/RS,4306403,1
 Brazil,RS,Eldorado do Sul/RS,4306767,1
-Brazil,RS,Canoas/RS,4304606,6
+Brazil,RS,Canoas/RS,4304606,7
 Brazil,ES,Cariacica/ES,3201308,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,1
 Brazil,MA,São Luís/MA,2111300,9
@@ -137,7 +137,7 @@ Brazil,SE,Nossa Senhora da Glória/SE,2804508,1
 Brazil,RO,Porto Velho/RO,1100205,4
 Brazil,RR,Boa Vista/RR,1400100,8
 Brazil,RS,Carlos Barbosa/RS,4304804,1
-Brazil,RS,Estância Velha/RS,4307609,1
+Brazil,RS,Estância Velha/RS,4307609,2
 Brazil,RS,Estrela/RS,4307807,1
 Brazil,RS,Lajeado/RS,4311403,5
 Brazil,RS,Santa Maria/RS,4316907,2
@@ -177,7 +177,7 @@ Brazil,PA,Marabá/PA,1504208,1
 Brazil,PB,Igaracy/PB,2502607,1
 Brazil,RS,Rio Grande/RS,4315602,2
 Brazil,RS,Santiago/RS,4317400,1
-Brazil,RS,Sapiranga/RS,4319901,2
+Brazil,RS,Sapiranga/RS,4319901,1
 Brazil,RS,Cruzeiro do Sul/RS,4306205,1
 Brazil,RS,Capão da Canoa/RS,4304630,2
 Brazil,SC,Porto Belo/SC,4213500,2
@@ -215,7 +215,7 @@ Brazil,SP,Ribeirão Pires/SP,3543303,1
 Brazil,RJ,Valença/RJ,3306107,1
 Brazil,RJ,Resende/RJ,3304201,1
 Brazil,AL,Porto Real do Colégio/AL,2707503,1
-Brazil,RS,Pelotas/RS,4314407,1
+Brazil,RS,Pelotas/RS,4314407,2
 Brazil,RS,Cerro Grande do Sul/RS,4305173,1
 Brazil,RS,Dom Pedrito/RS,4306601,1
 Brazil,PE,NÃO ESPECIFICADA/PE,26,6
@@ -239,7 +239,6 @@ Brazil,BA,ESTRANGEIRO/BA,29,2
 Brazil,PR,Rio Negro/PR,4122305,1
 Brazil,SP,NÃO ESPECIFICADA/SP,35,190
 Brazil,RJ,Belford Roxo/RJ,3300456,1
-Brazil,RS,NÃO ESPECIFICADA/RS,43,6
 Brazil,GO,NÃO ESPECIFICADA/GO,52,1
 Brazil,AM,Santo Antônio do Içá/AM,1303700,1
 Brazil,AM,Boca do Acre/AM,1300706,1
@@ -248,3 +247,8 @@ Brazil,CE,NÃO ESPECIFICADA/CE,23,24
 Brazil,AC,NÃO ESPECIFICADA/AC,12,1
 Brazil,PA,NÃO ESPECIFICADA/PA,15,4
 Brazil,PI,NÃO ESPECIFICADA/PI,22,1
+Brazil,RS,Rolante/RS,4316006,1
+Brazil,RS,Marau/RS,4311809,1
+Brazil,RS,Piratini/RS,4314605,1
+Brazil,RS,Passo Fundo/RS,4314100,1
+Brazil,RS,Nova Palma/RS,4313102,1
