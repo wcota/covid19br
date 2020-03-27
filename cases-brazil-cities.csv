@@ -1,7 +1,7 @@
 country,state,city,ibgeID,totalCases
 Brazil,SP,São Paulo/SP,3550308,722
 Brazil,RJ,Barra Mansa/RJ,3300407,1
-Brazil,ES,Vila Velha/ES,3205200,17
+Brazil,ES,Vila Velha/ES,3205200,20
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,368
 Brazil,DF,Brasília/DF,5300108,200
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,8
 Brazil,MG,Patrocínio/MG,3148103,1
 Brazil,SE,Aracaju/SE,2800308,13
 Brazil,ES,Linhares/ES,3203205,3
-Brazil,ES,Vitória/ES,3205309,15
+Brazil,ES,Vitória/ES,3205309,17
 Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,9
 Brazil,SP,São Bernardo do Campo/SP,3548708,13
@@ -134,7 +134,7 @@ Brazil,SP,Poá/SP,3539806,1
 Brazil,SP,Caieiras/SP,3509007,1
 Brazil,MS,Ponta Porã/MS,5006606,1
 Brazil,SE,Nossa Senhora da Glória/SE,2804508,1
-Brazil,RO,Porto Velho/RO,1100205,4
+Brazil,RO,Porto Velho/RO,1100205,5
 Brazil,RR,Boa Vista/RR,1400100,8
 Brazil,RS,Carlos Barbosa/RS,4304804,1
 Brazil,RS,Estância Velha/RS,4307609,2
@@ -184,7 +184,7 @@ Brazil,SC,Porto Belo/SC,4213500,3
 Brazil,SC,Gaspar/SC,4205902,1
 Brazil,SC,Içara/SC,4207007,1
 Brazil,PR,Cascavel/PR,4104808,2
-Brazil,ES,Serra/ES,3205002,1
+Brazil,ES,Serra/ES,3205002,3
 Brazil,ES,Santa Teresa/ES,3204609,1
 Brazil,AL,FORA DO ESTADO/AL,27,1
 Brazil,BA,Conde/BA,2908606,1
@@ -255,3 +255,4 @@ Brazil,RS,Nova Palma/RS,4313102,1
 Brazil,SC,Itapema/SC,4208302,1
 Brazil,SC,Siderópolis/SC,4217600,1
 Brazil,SC,Timbé do Sul/SC,4218103,1
+Brazil,ES,Castelo/ES,3201407,1
