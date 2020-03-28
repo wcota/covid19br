@@ -1,5 +1,5 @@
 country,state,city,ibgeID,totalCases
-Brazil,SP,São Paulo/SP,3550308,899
+Brazil,SP,São Paulo/SP,3550308,1044
 Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,20
 Brazil,BA,Feira de Santana/BA,2910800,9
@@ -15,7 +15,7 @@ Brazil,PE,Recife/PE,2611606,33
 Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,66
 Brazil,PR,Cianorte/PR,4105508,6
-Brazil,SP,Ferraz de Vasconcelos/SP,3515707,1
+Brazil,SP,Ferraz de Vasconcelos/SP,3515707,2
 Brazil,SC,Florianópolis/SC,4205407,20
 Brazil,MG,Ipatinga/MG,3131307,1
 Brazil,GO,Rio Verde/GO,5218805,6
@@ -34,8 +34,8 @@ Brazil,ES,Linhares/ES,3203205,3
 Brazil,ES,Vitória/ES,3205309,17
 Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,9
-Brazil,SP,São Bernardo do Campo/SP,3548708,13
-Brazil,SP,São Caetano do Sul/SP,3548807,17
+Brazil,SP,São Bernardo do Campo/SP,3548708,15
+Brazil,SP,São Caetano do Sul/SP,3548807,16
 Brazil,CE,Fortaleza/CE,2304400,224
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
@@ -47,7 +47,7 @@ Brazil,PE,Belo Jardim/PE,2601706,1
 Brazil,PE,Jaboatão dos Guararapes/PE,2607901,3
 Brazil,BA,Prado/BA,2925501,2
 Brazil,AC,Rio Branco/AC,1200401,23
-Brazil,SP,Santo André/SP,3547809,16
+Brazil,SP,Santo André/SP,3547809,17
 Brazil,MG,Nova Lima/MG,3144805,13
 Brazil,MG,Sete Lagoas/MG,3167202,2
 Brazil,MG,Uberlândia/MG,3170206,7
@@ -66,10 +66,10 @@ Brazil,PB,João Pessoa/PB,2507507,6
 Brazil,RJ,Guapimirim/RJ,3301850,1
 Brazil,SP,Jaguariúna/SP,3524709,1
 Brazil,SP,São José do Rio Preto/SP,3549805,1
-Brazil,SP,Campinas/SP,3509502,4
-Brazil,SP,Guarulhos/SP,3518800,9
+Brazil,SP,Campinas/SP,3509502,5
+Brazil,SP,Guarulhos/SP,3518800,13
 Brazil,SP,Barueri/SP,3505708,3
-Brazil,SP,Cotia/SP,3513009,5
+Brazil,SP,Cotia/SP,3513009,6
 Brazil,MG,Uberaba/MG,3170107,3
 Brazil,SC,Tubarão/SC,4218707,8
 Brazil,SC,ESTRANGEIRO/SC,42,3
@@ -88,7 +88,7 @@ Brazil,RS,Erechim/RS,4307005,3
 Brazil,RS,Sant'Ana do Livramento/RS,4317103,4
 Brazil,PI,Teresina/PI,2211001,8
 Brazil,SP,Taubaté/SP,3554102,1
-Brazil,SP,Suzano/SP,3552502,2
+Brazil,SP,Suzano/SP,3552502,1
 Brazil,RO,Ji-Paraná/RO,1100122,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,1
 Brazil,CE,Fortim/CE,2304459,1
@@ -116,10 +116,10 @@ Brazil,MA,São Luís/MA,2111300,9
 Brazil,RN,Parnamirim/RN,2403251,4
 Brazil,MG,Mariana/MG,3140001,2
 Brazil,MG,Poços de Caldas/MG,3151800,1
-Brazil,SP,Osasco/SP,3534401,3
-Brazil,SP,São José dos Campos/SP,3549904,2
+Brazil,SP,Osasco/SP,3534401,4
+Brazil,SP,São José dos Campos/SP,3549904,4
 Brazil,SP,Hortolândia/SP,3519071,1
-Brazil,SP,Mogi das Cruzes/SP,3530607,7
+Brazil,SP,Mogi das Cruzes/SP,3530607,8
 Brazil,RS,Bento Gonçalves/RS,4302105,2
 Brazil,MT,Cuiabá/MT,5103403,8
 Brazil,PR,Ponta Grossa/PR,4119905,3
@@ -153,9 +153,9 @@ Brazil,PR,FORA DO ESTADO/PR,41,4
 Brazil,SC,Blumenau/SC,4202404,12
 Brazil,SC,Lages/SC,4209300,1
 Brazil,RS,Osório/RS,4313508,1
-Brazil,SP,FORA DO ESTADO/SP,35,8
+Brazil,SP,FORA DO ESTADO/SP,35,14
 Brazil,SP,Iracemápolis/SP,3521408,1
-Brazil,SP,Jundiaí/SP,3525904,2
+Brazil,SP,Jundiaí/SP,3525904,3
 Brazil,SP,Embu/SP,3515004,1
 Brazil,RJ,São Gonçalo/RJ,3304904,3
 Brazil,BA,Juazeiro/BA,2918407,2
@@ -189,7 +189,7 @@ Brazil,BA,Conde/BA,2908606,1
 Brazil,BA,Teixeira de Freitas/BA,2931350,1
 Brazil,PR,Telêmaco Borba/PR,4127106,1
 Brazil,PR,Paranavaí/PR,4118402,1
-Brazil,SP,ESTRANGEIRO/SP,35,28
+Brazil,SP,ESTRANGEIRO/SP,35,27
 Brazil,RJ,Volta Redonda/RJ,3306305,7
 Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
 Brazil,RJ,Duque de Caxias/RJ,3301702,2
@@ -232,11 +232,11 @@ Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
 Brazil,PR,Rio Negro/PR,4122305,1
 Brazil,SP,Tatuí/SP,3554003,1
-Brazil,SP,Ribeirão Preto/SP,3543402,1
+Brazil,SP,Ribeirão Preto/SP,3543402,3
 Brazil,SP,Arujá/SP,3503901,1
-Brazil,SP,Mairiporã/SP,3528502,1
+Brazil,SP,Mairiporã/SP,3528502,2
 Brazil,SP,Louveira/SP,3527306,2
-Brazil,SP,Vargem Grande Paulista/SP,3556453,1
+Brazil,SP,Vargem Grande Paulista/SP,3556453,2
 Brazil,RJ,Belford Roxo/RJ,3300456,1
 Brazil,AM,Santo Antônio do Içá/AM,1303700,1
 Brazil,AM,Boca do Acre/AM,1300706,1
@@ -266,7 +266,8 @@ Brazil,RS,Santa Rosa/RS,4317202,1
 Brazil,PB,Sousa/PB,2516201,1
 Brazil,PB,Campina Grande/PB,2504009,1
 Brazil,AM,Manacapuru/AM,1302504,2
-Brazil,SP,NÃO ESPECIFICADA/SP,35,171
+Brazil,SP,Diadema/SP,3513801,1
+Brazil,SP,NÃO ESPECIFICADA/SP,35,3
 Brazil,RJ,NÃO ESPECIFICADA/RJ,33,72
 Brazil,RS,NÃO ESPECIFICADA/RS,43,1
 Brazil,PE,NÃO ESPECIFICADA/PE,26,8
