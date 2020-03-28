@@ -20,7 +20,7 @@ Brazil,SC,Florianópolis/SC,4205407,30
 Brazil,MG,Ipatinga/MG,3131307,1
 Brazil,GO,Rio Verde/GO,5218805,7
 Brazil,GO,Goiânia/GO,5208707,33
-Brazil,RN,Natal/RN,2408102,19
+Brazil,RN,Natal/RN,2408102,22
 Brazil,BA,Salvador/BA,2927408,78
 Brazil,AM,Manaus/AM,1302603,105
 Brazil,SC,Joinville/SC,4209102,9
@@ -113,7 +113,7 @@ Brazil,RS,Canoas/RS,4304606,7
 Brazil,ES,Cariacica/ES,3201308,1
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,1
 Brazil,MA,São Luís/MA,2111300,13
-Brazil,RN,Parnamirim/RN,2403251,4
+Brazil,RN,Parnamirim/RN,2403251,6
 Brazil,MG,Mariana/MG,3140001,2
 Brazil,MG,Poços de Caldas/MG,3151800,1
 Brazil,SP,Osasco/SP,3534401,4
@@ -141,7 +141,7 @@ Brazil,RS,Estrela/RS,4307807,1
 Brazil,RS,Lajeado/RS,4311403,5
 Brazil,RS,Santa Maria/RS,4316907,2
 Brazil,RS,Viamão/RS,4323002,1
-Brazil,RN,Mossoró/RN,2408003,5
+Brazil,RN,Mossoró/RN,2408003,14
 Brazil,BA,Barreiras/BA,2903201,1
 Brazil,SP,São Sebastião/SP,3550704,2
 Brazil,PE,Olinda/PE,2609600,4
@@ -288,7 +288,9 @@ Brazil,SC,São Francisco do Sul/SC,4216206,1
 Brazil,SC,Urussanga/SC,4219002,1
 Brazil,SC,Papanduva/SC,4212205,2
 Brazil,SC,Brusque/SC,4202909,2
-Brazil,RN,NÃO ESPECIFICADA/RN,24,17
+Brazil,RN,Macaíba/RN,2407104,1
+Brazil,RN,Passa e Fica/RN,2409100,1
+Brazil,RN,Monte Alegre/RN,2407807,1
 Brazil,MS,NÃO ESPECIFICADA/MS,50,3
 Brazil,CE,NÃO ESPECIFICADA/CE,23,32
 Brazil,TO,NÃO ESPECIFICADA/TO,17,1
