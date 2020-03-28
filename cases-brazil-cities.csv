@@ -1,7 +1,7 @@
 country,state,city,ibgeID,totalCases
 Brazil,SP,São Paulo/SP,3550308,1044
 Brazil,RJ,Barra Mansa/RJ,3300407,1
-Brazil,ES,Vila Velha/ES,3205200,21
+Brazil,ES,Vila Velha/ES,3205200,24
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,489
 Brazil,DF,Brasília/DF,5300108,260
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,11
 Brazil,MG,Patrocínio/MG,3148103,1
 Brazil,SE,Aracaju/SE,2800308,13
 Brazil,ES,Linhares/ES,3203205,4
-Brazil,ES,Vitória/ES,3205309,18
+Brazil,ES,Vitória/ES,3205309,20
 Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,15
@@ -303,3 +303,5 @@ Brazil,BA,NÃO ESPECIFICADA/BA,29,5
 Brazil,AL,NÃO ESPECIFICADA/AL,27,3
 Brazil,MG,NÃO ESPECIFICADA/MG,31,3
 Brazil,PR,NÃO ESPECIFICADA/PR,41,8
+Brazil,ES,Guarapari/ES,3202405,1
+Brazil,ES,Itapemirim/ES,3202801,1
