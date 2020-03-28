@@ -13,7 +13,7 @@ Brazil,RS,Campo Bom/RS,4303905,2
 Brazil,RS,Porto Alegre/RS,4314902,107
 Brazil,PE,Recife/PE,2611606,46
 Brazil,RS,Caxias do Sul/RS,4305108,6
-Brazil,PR,Curitiba/PR,4106902,71
+Brazil,PR,Curitiba/PR,4106902,73
 Brazil,PR,Cianorte/PR,4105508,7
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,2
 Brazil,SC,Florianópolis/SC,4205407,30
@@ -51,15 +51,15 @@ Brazil,SP,Santo André/SP,3547809,17
 Brazil,MG,Nova Lima/MG,3144805,16
 Brazil,MG,Sete Lagoas/MG,3167202,2
 Brazil,MG,Uberlândia/MG,3170206,7
-Brazil,PR,Campo Largo/PR,4104204,1
+Brazil,PR,Campo Largo/PR,4104204,2
 Brazil,PR,Pinhais/PR,4119152,3
-Brazil,PR,Londrina/PR,4113700,3
+Brazil,PR,Londrina/PR,4113700,5
 Brazil,TO,Palmas/TO,1721000,8
 Brazil,GO,Jataí/GO,5211909,2
 Brazil,GO,Aparecida de Goiânia/GO,5201405,2
 Brazil,SC,Balneário Camboriú/SC,4202008,9
 Brazil,PR,Maringá/PR,4115200,7
-Brazil,PR,Foz do Iguaçu/PR,4108304,5
+Brazil,PR,Foz do Iguaçu/PR,4108304,7
 Brazil,PA,Belém/PA,1501402,9
 Brazil,SE,Propriá/SE,2805703,2
 Brazil,PB,João Pessoa/PB,2507507,6
@@ -181,14 +181,14 @@ Brazil,RS,Capão da Canoa/RS,4304630,2
 Brazil,SC,Porto Belo/SC,4213500,4
 Brazil,SC,Gaspar/SC,4205902,2
 Brazil,SC,Içara/SC,4207007,1
-Brazil,PR,Cascavel/PR,4104808,5
+Brazil,PR,Cascavel/PR,4104808,7
 Brazil,ES,Serra/ES,3205002,5
 Brazil,ES,Santa Teresa/ES,3204609,1
 Brazil,AL,FORA DO ESTADO/AL,27,1
 Brazil,BA,Conde/BA,2908606,1
 Brazil,BA,Teixeira de Freitas/BA,2931350,1
 Brazil,PR,Telêmaco Borba/PR,4127106,1
-Brazil,PR,Paranavaí/PR,4118402,1
+Brazil,PR,Paranavaí/PR,4118402,2
 Brazil,SP,ESTRANGEIRO/SP,35,27
 Brazil,RJ,Volta Redonda/RJ,3306305,11
 Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
@@ -301,8 +301,9 @@ Brazil,AP,NÃO ESPECIFICADA/AP,16,1
 Brazil,MT,NÃO ESPECIFICADA/MT,51,2
 Brazil,AL,NÃO ESPECIFICADA/AL,27,3
 Brazil,MG,NÃO ESPECIFICADA/MG,31,3
-Brazil,PR,NÃO ESPECIFICADA/PR,41,8
 Brazil,ES,Guarapari/ES,3202405,1
 Brazil,ES,Itapemirim/ES,3202801,1
 Brazil,RS,Canguçu/RS,4304507,1
 Brazil,BA,Itagibá/BA,2915205,1
+Brazil,PR,Mariópolis/PR,4115309,1
+Brazil,PR,Quatiguá/PR,4120705,1
