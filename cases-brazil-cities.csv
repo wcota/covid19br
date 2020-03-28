@@ -7,7 +7,7 @@ Brazil,RJ,Rio de Janeiro/RJ,3304557,431
 Brazil,DF,Brasília/DF,5300108,260
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,6
-Brazil,MG,Divinópolis/MG,3122306,6
+Brazil,MG,Divinópolis/MG,3122306,5
 Brazil,RJ,Niterói/RJ,3303302,36
 Brazil,RS,Campo Bom/RS,4303905,2
 Brazil,RS,Porto Alegre/RS,4314902,107
@@ -40,7 +40,7 @@ Brazil,CE,Fortaleza/CE,2304400,268
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
 Brazil,CE,Aquiraz/CE,2301000,6
-Brazil,MG,Belo Horizonte/MG,3106200,118
+Brazil,MG,Belo Horizonte/MG,3106200,129
 Brazil,GO,Anápolis/GO,5201108,3
 Brazil,BA,Porto Seguro/BA,2925303,10
 Brazil,PE,Belo Jardim/PE,2601706,1
@@ -48,7 +48,7 @@ Brazil,PE,Jaboatão dos Guararapes/PE,2607901,3
 Brazil,BA,Prado/BA,2925501,2
 Brazil,AC,Rio Branco/AC,1200401,25
 Brazil,SP,Santo André/SP,3547809,17
-Brazil,MG,Nova Lima/MG,3144805,13
+Brazil,MG,Nova Lima/MG,3144805,16
 Brazil,MG,Sete Lagoas/MG,3167202,2
 Brazil,MG,Uberlândia/MG,3170206,7
 Brazil,PR,Campo Largo/PR,4104204,1
@@ -164,7 +164,7 @@ Brazil,BA,Brumado/BA,2904605,1
 Brazil,MG,Betim/MG,3106705,4
 Brazil,MG,Bom Despacho/MG,3107406,1
 Brazil,MG,Campos Altos/MG,3111507,1
-Brazil,MG,Contagem/MG,3118601,3
+Brazil,MG,Contagem/MG,3118601,4
 Brazil,MG,Lagoa da Prata/MG,3137205,2
 Brazil,MG,Timóteo/MG,3168705,1
 Brazil,PE,FORA DO ESTADO/PE,26,2
@@ -226,7 +226,7 @@ Brazil,GO,Silvânia/GO,5220603,1
 Brazil,GO,Luziânia/GO,5212501,1
 Brazil,MG,Governador Valadares/MG,3127701,1
 Brazil,MG,Boa Esperança/MG,3107109,1
-Brazil,MG,São João del Rei/MG,3162500,1
+Brazil,MG,São João del Rei/MG,3162500,2
 Brazil,MA,Imperatriz/MA,2105302,1
 Brazil,BA,Alagoinhas/BA,2900702,1
 Brazil,PR,Rio Negro/PR,4122305,1
@@ -250,11 +250,11 @@ Brazil,SC,Itapema/SC,4208302,1
 Brazil,SC,Siderópolis/SC,4217600,2
 Brazil,SC,Timbé do Sul/SC,4218103,1
 Brazil,ES,Castelo/ES,3201407,1
-Brazil,MG,NÃO ESPECIFICADA/MG,31,21
 Brazil,RR,Bonfim/RR,1400159,3
-Brazil,MG,Sabará/MG,3156700,1
+Brazil,MG,Sabará/MG,3156700,3
+Brazil,MG,Carmo do Cajuru/MG,3114204,1
 Brazil,MG,Campo Belo/MG,3111200,1
-Brazil,MG,Patos de Minas/MG,3148004,1
+Brazil,MG,Guimarânia/MG,3128907,1
 Brazil,RS,Santa Rosa/RS,4317202,1
 Brazil,RS,Cachoeira do Sul/RS,4303004,1
 Brazil,PB,Sousa/PB,2516201,1
@@ -281,6 +281,7 @@ Brazil,GO,NÃO ESPECIFICADA/GO,52,12
 Brazil,RJ,NÃO ESPECIFICADA/RJ,33,65
 Brazil,BA,NÃO ESPECIFICADA/BA,29,5
 Brazil,AL,NÃO ESPECIFICADA/AL,27,3
+Brazil,MG,NÃO ESPECIFICADA/MG,31,3
 Brazil,PR,NÃO ESPECIFICADA/PR,41,8
 Brazil,SC,NÃO ESPECIFICADA/SC,42,21
 Brazil,RN,NÃO ESPECIFICADA/RN,24,17
