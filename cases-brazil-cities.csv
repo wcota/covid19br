@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,21
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,431
-Brazil,DF,Brasília/DF,5300108,240
+Brazil,DF,Brasília/DF,5300108,242
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,6
@@ -92,7 +92,7 @@ Brazil,SP,Suzano/SP,3552502,1
 Brazil,RO,Ji-Paraná/RO,1100122,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,1
 Brazil,CE,Fortim/CE,2304459,1
-Brazil,AP,Macapá/AP,1600303,2
+Brazil,AP,Macapá/AP,1600303,3
 Brazil,SC,Itajaí/SC,4208203,18
 Brazil,SC,Navegantes/SC,4211306,3
 Brazil,SC,Pomerode/SC,4213203,1
@@ -251,7 +251,7 @@ Brazil,SC,Siderópolis/SC,4217600,2
 Brazil,SC,Timbé do Sul/SC,4218103,1
 Brazil,ES,Castelo/ES,3201407,1
 Brazil,MG,NÃO ESPECIFICADA/MG,31,5
-Brazil,RR,Bonfim/RR,1400159,1
+Brazil,RR,Bonfim/RR,1400159,3
 Brazil,MG,Sabará/MG,3156700,1
 Brazil,MG,Campo Belo/MG,3111200,1
 Brazil,MG,Patos de Minas/MG,3148004,1
@@ -271,10 +271,10 @@ Brazil,CE,Maranguape/CE,2307700,1
 Brazil,GO,Hidrolândia/GO,5209705,1
 Brazil,MS,Batayporã/MS,5002001,1
 Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,1
-Brazil,SP,NÃO ESPECIFICADA/SP,35,3
-Brazil,PE,NÃO ESPECIFICADA/PE,26,8
-Brazil,GO,NÃO ESPECIFICADA/GO,52,5
 Brazil,SC,Antônio Carlos/SC,4201208,1
 Brazil,SC,São Lourenço do Oeste/SC,4216909,1
 Brazil,ES,São Roque do Canaã/ES,3204955,1
 Brazil,PE,Fernando de Noronha/PE,2605459,1
+Brazil,SP,NÃO ESPECIFICADA/SP,35,3
+Brazil,PE,NÃO ESPECIFICADA/PE,26,8
+Brazil,GO,NÃO ESPECIFICADA/GO,52,5
