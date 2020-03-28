@@ -3,27 +3,27 @@ Brazil,SP,São Paulo/SP,3550308,1044
 Brazil,RJ,Barra Mansa/RJ,3300407,1
 Brazil,ES,Vila Velha/ES,3205200,21
 Brazil,BA,Feira de Santana/BA,2910800,9
-Brazil,RJ,Rio de Janeiro/RJ,3304557,431
+Brazil,RJ,Rio de Janeiro/RJ,3304557,489
 Brazil,DF,Brasília/DF,5300108,260
 Brazil,AL,Maceió/AL,2704302,9
 Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,5
-Brazil,RJ,Niterói/RJ,3303302,36
+Brazil,RJ,Niterói/RJ,3303302,37
 Brazil,RS,Campo Bom/RS,4303905,2
 Brazil,RS,Porto Alegre/RS,4314902,107
-Brazil,PE,Recife/PE,2611606,33
+Brazil,PE,Recife/PE,2611606,46
 Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,71
 Brazil,PR,Cianorte/PR,4105508,7
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,2
-Brazil,SC,Florianópolis/SC,4205407,27
+Brazil,SC,Florianópolis/SC,4205407,30
 Brazil,MG,Ipatinga/MG,3131307,1
-Brazil,GO,Rio Verde/GO,5218805,6
-Brazil,GO,Goiânia/GO,5208707,26
+Brazil,GO,Rio Verde/GO,5218805,7
+Brazil,GO,Goiânia/GO,5208707,33
 Brazil,RN,Natal/RN,2408102,19
 Brazil,BA,Salvador/BA,2927408,78
-Brazil,AM,Manaus/AM,1302603,75
-Brazil,SC,Joinville/SC,4209102,8
+Brazil,AM,Manaus/AM,1302603,105
+Brazil,SC,Joinville/SC,4209102,9
 Brazil,SC,Rancho Queimado/SC,4214300,2
 Brazil,PE,ESTRANGEIRO/PE,26,3
 Brazil,MS,Campo Grande/MS,5002704,24
@@ -33,7 +33,7 @@ Brazil,SE,Aracaju/SE,2800308,13
 Brazil,ES,Linhares/ES,3203205,4
 Brazil,ES,Vitória/ES,3205309,18
 Brazil,SP,Carapicuíba/SP,3510609,2
-Brazil,SC,Braço do Norte/SC,4202800,9
+Brazil,SC,Braço do Norte/SC,4202800,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,15
 Brazil,SP,São Caetano do Sul/SP,3548807,16
 Brazil,CE,Fortaleza/CE,2304400,268
@@ -41,10 +41,10 @@ Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
 Brazil,CE,Aquiraz/CE,2301000,6
 Brazil,MG,Belo Horizonte/MG,3106200,129
-Brazil,GO,Anápolis/GO,5201108,3
+Brazil,GO,Anápolis/GO,5201108,4
 Brazil,BA,Porto Seguro/BA,2925303,10
 Brazil,PE,Belo Jardim/PE,2601706,1
-Brazil,PE,Jaboatão dos Guararapes/PE,2607901,3
+Brazil,PE,Jaboatão dos Guararapes/PE,2607901,5
 Brazil,BA,Prado/BA,2925501,2
 Brazil,AC,Rio Branco/AC,1200401,25
 Brazil,SP,Santo André/SP,3547809,17
@@ -55,7 +55,7 @@ Brazil,PR,Campo Largo/PR,4104204,1
 Brazil,PR,Pinhais/PR,4119152,3
 Brazil,PR,Londrina/PR,4113700,3
 Brazil,TO,Palmas/TO,1721000,8
-Brazil,GO,Jataí/GO,5211909,1
+Brazil,GO,Jataí/GO,5211909,2
 Brazil,GO,Aparecida de Goiânia/GO,5201405,2
 Brazil,SC,Balneário Camboriú/SC,4202008,9
 Brazil,PR,Maringá/PR,4115200,7
@@ -77,7 +77,7 @@ Brazil,CE,Sobral/CE,2312908,4
 Brazil,RS,Serafina Corrêa/RS,4320404,3
 Brazil,RS,Torres/RS,4321501,6
 Brazil,RS,Farroupilha/RS,4307906,1
-Brazil,SC,São José/SC,4216602,8
+Brazil,SC,São José/SC,4216602,9
 Brazil,MS,Sidrolândia/MS,5007901,1
 Brazil,BA,Lauro de Freitas/BA,2919207,7
 Brazil,BA,Itabuna/BA,2914802,2
@@ -98,8 +98,8 @@ Brazil,SC,Navegantes/SC,4211306,3
 Brazil,SC,Pomerode/SC,4213203,1
 Brazil,SC,Jaraguá do Sul/SC,4208906,2
 Brazil,SC,Imbituba/SC,4207304,5
-Brazil,SC,Criciúma/SC,4204608,12
-Brazil,SC,Chapecó/SC,4204202,4
+Brazil,SC,Criciúma/SC,4204608,13
+Brazil,SC,Chapecó/SC,4204202,5
 Brazil,PR,Guaíra/PR,4108809,2
 Brazil,BA,Camaçari/BA,2905701,1
 Brazil,RJ,Petrópolis/RJ,3303906,3
@@ -144,7 +144,7 @@ Brazil,RS,Viamão/RS,4323002,1
 Brazil,RN,Mossoró/RN,2408003,5
 Brazil,BA,Barreiras/BA,2903201,1
 Brazil,SP,São Sebastião/SP,3550704,2
-Brazil,PE,Olinda/PE,2609600,3
+Brazil,PE,Olinda/PE,2609600,4
 Brazil,PR,Colombo/PR,4105805,2
 Brazil,AM,Parintins/AM,1303403,2
 Brazil,BA,Conceição do Jacuípe/BA,2908507,1
@@ -178,8 +178,8 @@ Brazil,RS,Santiago/RS,4317400,1
 Brazil,RS,Sapiranga/RS,4319901,1
 Brazil,RS,Cruzeiro do Sul/RS,4306205,1
 Brazil,RS,Capão da Canoa/RS,4304630,2
-Brazil,SC,Porto Belo/SC,4213500,3
-Brazil,SC,Gaspar/SC,4205902,1
+Brazil,SC,Porto Belo/SC,4213500,4
+Brazil,SC,Gaspar/SC,4205902,2
 Brazil,SC,Içara/SC,4207007,1
 Brazil,PR,Cascavel/PR,4104808,5
 Brazil,ES,Serra/ES,3205002,5
@@ -190,12 +190,12 @@ Brazil,BA,Teixeira de Freitas/BA,2931350,1
 Brazil,PR,Telêmaco Borba/PR,4127106,1
 Brazil,PR,Paranavaí/PR,4118402,1
 Brazil,SP,ESTRANGEIRO/SP,35,27
-Brazil,RJ,Volta Redonda/RJ,3306305,9
+Brazil,RJ,Volta Redonda/RJ,3306305,11
 Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1
 Brazil,RJ,Duque de Caxias/RJ,3301702,3
 Brazil,RS,Garibaldi/RS,4308607,1
 Brazil,SC,FORA DO ESTADO/SC,42,5
-Brazil,SC,Camboriú/SC,4203204,4
+Brazil,SC,Camboriú/SC,4203204,7
 Brazil,SC,Laguna/SC,4209409,1
 Brazil,SC,São Ludgero/SC,4217006,1
 Brazil,SC,Tijucas/SC,4218004,1
@@ -261,7 +261,7 @@ Brazil,PB,Sousa/PB,2516201,1
 Brazil,PB,Campina Grande/PB,2504009,1
 Brazil,AM,Manacapuru/AM,1302504,2
 Brazil,SP,Diadema/SP,3513801,1
-Brazil,RJ,Itaboraí/RJ,3301900,1
+Brazil,RJ,Itaboraí/RJ,3301900,2
 Brazil,BA,Ipiaú/BA,2913903,1
 Brazil,PR,Guarapuava/PR,4109401,1
 Brazil,PR,Iretama/PR,4110805,1
@@ -276,21 +276,11 @@ Brazil,SC,São Lourenço do Oeste/SC,4216909,1
 Brazil,ES,São Roque do Canaã/ES,3204955,1
 Brazil,PE,Fernando de Noronha/PE,2605459,1
 Brazil,SP,NÃO ESPECIFICADA/SP,35,186
-Brazil,PE,NÃO ESPECIFICADA/PE,26,19
-Brazil,GO,NÃO ESPECIFICADA/GO,52,12
-Brazil,RJ,NÃO ESPECIFICADA/RJ,33,65
-Brazil,BA,NÃO ESPECIFICADA/BA,29,5
-Brazil,AL,NÃO ESPECIFICADA/AL,27,3
-Brazil,MG,NÃO ESPECIFICADA/MG,31,3
-Brazil,PR,NÃO ESPECIFICADA/PR,41,8
-Brazil,SC,NÃO ESPECIFICADA/SC,42,21
-Brazil,RN,NÃO ESPECIFICADA/RN,24,17
-Brazil,AM,NÃO ESPECIFICADA/AM,13,30
-Brazil,MS,NÃO ESPECIFICADA/MS,50,3
-Brazil,CE,NÃO ESPECIFICADA/CE,23,32
-Brazil,TO,NÃO ESPECIFICADA/TO,17,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,1
-Brazil,PB,NÃO ESPECIFICADA/PB,25,5
-Brazil,PI,NÃO ESPECIFICADA/PI,22,2
-Brazil,AP,NÃO ESPECIFICADA/AP,16,1
-Brazil,MT,NÃO ESPECIFICADA/MT,51,2
+Brazil,RJ,Resende/RJ,3304201,1
+Brazil,RJ,Mangaratiba/RJ,3302601,1
+Brazil,RJ,Nova Iguaçu/RJ,3303500,1
+Brazil,GO,Goianésia/GO,5208608,1
+Brazil,GO,Águas Lindas de Goiás/GO,5200258,1
+Brazil,PE,Goiana/PE,2606200,1
+Brazil,PE,Camaragibe/PE,2603454,1
+Brazil,PE,São Lourenço da Mata/PE,2613701,1
