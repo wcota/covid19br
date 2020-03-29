@@ -1,10 +1,10 @@
 country,state,city,ibgeID,totalCases
 Brazil,SP,São Paulo/SP,3550308,1044
 Brazil,RJ,Barra Mansa/RJ,3300407,1
-Brazil,ES,Vila Velha/ES,3205200,24
+Brazil,ES,Vila Velha/ES,3205200,28
 Brazil,BA,Feira de Santana/BA,2910800,9
 Brazil,RJ,Rio de Janeiro/RJ,3304557,516
-Brazil,DF,Brasília/DF,5300108,289
+Brazil,DF,Brasília/DF,5300108,298
 Brazil,AL,Maceió/AL,2704302,12
 Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,7
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,11
 Brazil,MG,Patrocínio/MG,3148103,1
 Brazil,SE,Aracaju/SE,2800308,13
 Brazil,ES,Linhares/ES,3203205,4
-Brazil,ES,Vitória/ES,3205309,20
+Brazil,ES,Vitória/ES,3205309,21
 Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,15
@@ -110,7 +110,7 @@ Brazil,RS,Taquara/RS,4321204,1
 Brazil,RS,Dois Irmãos/RS,4306403,1
 Brazil,RS,Eldorado do Sul/RS,4306767,1
 Brazil,RS,Canoas/RS,4304606,7
-Brazil,ES,Cariacica/ES,3201308,1
+Brazil,ES,Cariacica/ES,3201308,2
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,1
 Brazil,MA,São Luís/MA,2111300,15
 Brazil,RN,Parnamirim/RN,2403251,9
@@ -182,7 +182,7 @@ Brazil,SC,Porto Belo/SC,4213500,4
 Brazil,SC,Gaspar/SC,4205902,2
 Brazil,SC,Içara/SC,4207007,1
 Brazil,PR,Cascavel/PR,4104808,8
-Brazil,ES,Serra/ES,3205002,5
+Brazil,ES,Serra/ES,3205002,9
 Brazil,ES,Santa Teresa/ES,3204609,1
 Brazil,AL,FORA DO ESTADO/AL,27,1
 Brazil,BA,Conde/BA,2908606,1
@@ -326,13 +326,6 @@ Brazil,RS,Novo Hamburgo/RS,4313409,1
 Brazil,RJ,Rio das Ostras/RJ,3304524,2
 Brazil,RJ,Maricá/RJ,3302700,1
 Brazil,RJ,Seropédica/RJ,3305554,1
-Brazil,AL,NÃO ESPECIFICADA/AL,27,3
-Brazil,PE,NÃO ESPECIFICADA/PE,26,5
-Brazil,GO,NÃO ESPECIFICADA/GO,52,2
-Brazil,MS,NÃO ESPECIFICADA/MS,50,5
-Brazil,CE,NÃO ESPECIFICADA/CE,23,26
-Brazil,PI,NÃO ESPECIFICADA/PI,22,3
-Brazil,RR,NÃO ESPECIFICADA/RR,14,4
 Brazil,RN,Tibau/RN,2411056,1
 Brazil,RN,Açu/RN,2400208,1
 Brazil,RN,Caicó/RN,2402006,1
