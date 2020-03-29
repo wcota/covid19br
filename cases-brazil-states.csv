@@ -442,6 +442,7 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-28,Brazil,PB,TOTAL,0,5,14
 2020-03-28,Brazil,AP,TOTAL,0,1,4
 2020-03-28,Brazil,RS,TOTAL,2,3,200
+2020-03-28,Brazil,MA,TOTAL,0,2,16
 2020-03-28,Brazil,SP,TOTAL,84,183,1406
 2020-03-28,Brazil,TO,TOTAL,0,1,9
 2020-03-28,Brazil,PI,TOTAL,1,2,11
@@ -449,6 +450,5 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-28,Brazil,SE,TOTAL,0,0,16
 2020-03-28,Brazil,AC,TOTAL,0,0,25
 2020-03-28,Brazil,RO,TOTAL,0,0,6
-2020-03-28,Brazil,MA,TOTAL,0,0,14
 2020-03-28,Brazil,RR,TOTAL,0,0,12
-2020-03-28,Brazil,TOTAL,TOTAL,114,454,3928
+2020-03-28,Brazil,TOTAL,TOTAL,114,456,3930
