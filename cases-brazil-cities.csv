@@ -26,7 +26,7 @@ Brazil,AM,Manaus/AM,1302603,105
 Brazil,SC,Joinville/SC,4209102,9
 Brazil,SC,Rancho Queimado/SC,4214300,2
 Brazil,PE,ESTRANGEIRO/PE,26,3
-Brazil,MS,Campo Grande/MS,5002704,24
+Brazil,MS,Campo Grande/MS,5002704,25
 Brazil,MG,Juiz de Fora/MG,3136702,11
 Brazil,MG,Patrocínio/MG,3148103,1
 Brazil,SE,Aracaju/SE,2800308,13
@@ -36,10 +36,10 @@ Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,15
 Brazil,SP,São Caetano do Sul/SP,3548807,16
-Brazil,CE,Fortaleza/CE,2304400,268
+Brazil,CE,Fortaleza/CE,2304400,304
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
-Brazil,CE,Aquiraz/CE,2301000,6
+Brazil,CE,Aquiraz/CE,2301000,7
 Brazil,MG,Belo Horizonte/MG,3106200,129
 Brazil,GO,Anápolis/GO,5201108,4
 Brazil,BA,Porto Seguro/BA,2925303,10
@@ -60,9 +60,9 @@ Brazil,GO,Aparecida de Goiânia/GO,5201405,2
 Brazil,SC,Balneário Camboriú/SC,4202008,9
 Brazil,PR,Maringá/PR,4115200,7
 Brazil,PR,Foz do Iguaçu/PR,4108304,7
-Brazil,PA,Belém/PA,1501402,9
+Brazil,PA,Belém/PA,1501402,10
 Brazil,SE,Propriá/SE,2805703,2
-Brazil,PB,João Pessoa/PB,2507507,6
+Brazil,PB,João Pessoa/PB,2507507,10
 Brazil,RJ,Guapimirim/RJ,3301850,1
 Brazil,SP,Jaguariúna/SP,3524709,1
 Brazil,SP,São José do Rio Preto/SP,3549805,1
@@ -258,7 +258,7 @@ Brazil,MG,Guimarânia/MG,3128907,1
 Brazil,RS,Santa Rosa/RS,4317202,1
 Brazil,RS,Cachoeira do Sul/RS,4303004,1
 Brazil,PB,Sousa/PB,2516201,1
-Brazil,PB,Campina Grande/PB,2504009,1
+Brazil,PB,Campina Grande/PB,2504009,2
 Brazil,AM,Manacapuru/AM,1302504,2
 Brazil,SP,Diadema/SP,3513801,1
 Brazil,RJ,Itaboraí/RJ,3301900,2
@@ -291,19 +291,19 @@ Brazil,SC,Brusque/SC,4202909,2
 Brazil,RN,Macaíba/RN,2407104,1
 Brazil,RN,Passa e Fica/RN,2409100,1
 Brazil,RN,Monte Alegre/RN,2407807,1
-Brazil,MS,NÃO ESPECIFICADA/MS,50,3
-Brazil,CE,NÃO ESPECIFICADA/CE,23,32
-Brazil,TO,NÃO ESPECIFICADA/TO,17,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,1
-Brazil,PB,NÃO ESPECIFICADA/PB,25,5
-Brazil,PI,NÃO ESPECIFICADA/PI,22,2
-Brazil,AP,NÃO ESPECIFICADA/AP,16,1
-Brazil,MT,NÃO ESPECIFICADA/MT,51,2
-Brazil,AL,NÃO ESPECIFICADA/AL,27,3
-Brazil,MG,NÃO ESPECIFICADA/MG,31,3
+Brazil,PA,Parauapebas/PA,1505536,1
 Brazil,ES,Guarapari/ES,3202405,1
 Brazil,ES,Itapemirim/ES,3202801,1
 Brazil,RS,Canguçu/RS,4304507,1
 Brazil,BA,Itagibá/BA,2915205,1
 Brazil,PR,Mariópolis/PR,4115309,1
 Brazil,PR,Quatiguá/PR,4120705,1
+Brazil,MS,Dourados/MS,5003702,2
+Brazil,TO,Araguaína/TO,1702109,1
+Brazil,CE,Quixadá/CE,2311306,2
+Brazil,CE,Caucaia/CE,2303709,1
+Brazil,PI,NÃO ESPECIFICADA/PI,22,2
+Brazil,AP,NÃO ESPECIFICADA/AP,16,1
+Brazil,MT,NÃO ESPECIFICADA/MT,51,2
+Brazil,AL,NÃO ESPECIFICADA/AL,27,3
+Brazil,MG,NÃO ESPECIFICADA/MG,31,3
