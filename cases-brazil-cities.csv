@@ -21,7 +21,7 @@ Brazil,MG,Ipatinga/MG,3131307,1
 Brazil,GO,Rio Verde/GO,5218805,7
 Brazil,GO,Goiânia/GO,5208707,33
 Brazil,RN,Natal/RN,2408102,22
-Brazil,BA,Salvador/BA,2927408,81
+Brazil,BA,Salvador/BA,2927408,94
 Brazil,AM,Manaus/AM,1302603,105
 Brazil,SC,Joinville/SC,4209102,9
 Brazil,SC,Rancho Queimado/SC,4214300,2
@@ -79,7 +79,7 @@ Brazil,RS,Torres/RS,4321501,6
 Brazil,RS,Farroupilha/RS,4307906,1
 Brazil,SC,São José/SC,4216602,9
 Brazil,MS,Sidrolândia/MS,5007901,1
-Brazil,BA,Lauro de Freitas/BA,2919207,7
+Brazil,BA,Lauro de Freitas/BA,2919207,11
 Brazil,BA,Itabuna/BA,2914802,2
 Brazil,RJ,Miguel Pereira/RJ,3302908,1
 Brazil,RS,Bagé/RS,4301602,9
@@ -262,7 +262,6 @@ Brazil,PB,Campina Grande/PB,2504009,2
 Brazil,AM,Manacapuru/AM,1302504,2
 Brazil,SP,Diadema/SP,3513801,1
 Brazil,RJ,Itaboraí/RJ,3301900,2
-Brazil,BA,Ipiaú/BA,2913903,1
 Brazil,PR,Guarapuava/PR,4109401,1
 Brazil,PR,Iretama/PR,4110805,1
 Brazil,PR,Umuarama/PR,4128104,1
@@ -307,3 +306,6 @@ Brazil,PI,Parnaíba/PI,2207702,1
 Brazil,MT,NÃO ESPECIFICADA/MT,51,2
 Brazil,MG,NÃO ESPECIFICADA/MG,31,3
 Brazil,RN,NÃO ESPECIFICADA/RN,24,23
+Brazil,BA,Itamaraju/BA,2915601,1
+Brazil,BA,Itororó/BA,2917102,1
+Brazil,BA,Pojuca/BA,2925204,1
