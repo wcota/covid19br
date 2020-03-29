@@ -10,7 +10,7 @@ Brazil,SP,Santana de Parnaíba/SP,3547304,6
 Brazil,MG,Divinópolis/MG,3122306,7
 Brazil,RJ,Niterói/RJ,3303302,39
 Brazil,RS,Campo Bom/RS,4303905,2
-Brazil,RS,Porto Alegre/RS,4314902,135
+Brazil,RS,Porto Alegre/RS,4314902,143
 Brazil,PE,Recife/PE,2611606,46
 Brazil,RS,Caxias do Sul/RS,4305108,6
 Brazil,PR,Curitiba/PR,4106902,73
@@ -36,7 +36,7 @@ Brazil,SP,Carapicuíba/SP,3510609,2
 Brazil,SC,Braço do Norte/SC,4202800,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,15
 Brazil,SP,São Caetano do Sul/SP,3548807,16
-Brazil,CE,Fortaleza/CE,2304400,304
+Brazil,CE,Fortaleza/CE,2304400,338
 Brazil,MG,Coronel Fabriciano/MG,3119401,1
 Brazil,SP,Mauá/SP,3529401,2
 Brazil,CE,Aquiraz/CE,2301000,7
@@ -73,7 +73,7 @@ Brazil,SP,Cotia/SP,3513009,6
 Brazil,MG,Uberaba/MG,3170107,3
 Brazil,SC,Tubarão/SC,4218707,8
 Brazil,SC,ESTRANGEIRO/SC,42,3
-Brazil,CE,Sobral/CE,2312908,4
+Brazil,CE,Sobral/CE,2312908,5
 Brazil,RS,Serafina Corrêa/RS,4320404,3
 Brazil,RS,Torres/RS,4321501,7
 Brazil,RS,Farroupilha/RS,4307906,1
@@ -109,7 +109,7 @@ Brazil,RS,São Leopoldo/RS,4318705,3
 Brazil,RS,Taquara/RS,4321204,1
 Brazil,RS,Dois Irmãos/RS,4306403,1
 Brazil,RS,Eldorado do Sul/RS,4306767,1
-Brazil,RS,Canoas/RS,4304606,7
+Brazil,RS,Canoas/RS,4304606,8
 Brazil,ES,Cariacica/ES,3201308,2
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,1
 Brazil,MA,São Luís/MA,2111300,15
@@ -340,7 +340,8 @@ Brazil,AL,NÃO ESPECIFICADA/AL,27,3
 Brazil,PE,NÃO ESPECIFICADA/PE,26,5
 Brazil,GO,NÃO ESPECIFICADA/GO,52,2
 Brazil,MS,NÃO ESPECIFICADA/MS,50,5
-Brazil,CE,NÃO ESPECIFICADA/CE,23,26
+Brazil,CE,Itaitinga/CE,2306256,1
+Brazil,CE,Maracanaú/CE,2307650,1
 Brazil,PI,NÃO ESPECIFICADA/PI,22,3
 Brazil,RR,NÃO ESPECIFICADA/RR,14,4
 Brazil,ES,São Mateus/ES,3204906,1
