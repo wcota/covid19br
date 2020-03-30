@@ -3,12 +3,12 @@ Brazil,SP,São Paulo/SP,3550308,89,1044
 Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 Brazil,ES,Vila Velha/ES,3205200,0,28
 Brazil,BA,Feira de Santana/BA,2910800,0,9
-Brazil,RJ,Rio de Janeiro/RJ,3304557,13,516
+Brazil,RJ,Rio de Janeiro/RJ,3304557,13,553
 Brazil,DF,Brasília/DF,5300108,1,301
 Brazil,AL,Maceió/AL,2704302,0,12
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,6
 Brazil,MG,Divinópolis/MG,3122306,0,9
-Brazil,RJ,Niterói/RJ,3303302,1,39
+Brazil,RJ,Niterói/RJ,3303302,1,47
 Brazil,RS,Campo Bom/RS,4303905,0,2
 Brazil,RS,Porto Alegre/RS,4314902,2,143
 Brazil,PE,Recife/PE,2611606,4,51
@@ -157,7 +157,7 @@ Brazil,SP,FORA DO ESTADO/SP,35,0,14
 Brazil,SP,Iracemápolis/SP,3521408,0,1
 Brazil,SP,Jundiaí/SP,3525904,0,3
 Brazil,SP,Embu/SP,3515004,1,1
-Brazil,RJ,São Gonçalo/RJ,3304904,0,6
+Brazil,RJ,São Gonçalo/RJ,3304904,0,7
 Brazil,BA,Juazeiro/BA,2918407,0,2
 Brazil,BA,Jequié/BA,2918001,0,1
 Brazil,BA,Brumado/BA,2904605,0,1
@@ -275,9 +275,9 @@ Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
 Brazil,ES,São Roque do Canaã/ES,3204955,0,1
 Brazil,PE,Fernando de Noronha/PE,2605459,0,1
 Brazil,SP,NÃO ESPECIFICADA/SP,35,15,296
-Brazil,RJ,Resende/RJ,3304201,0,1
+Brazil,RJ,Resende/RJ,3304201,0,2
 Brazil,RJ,Mangaratiba/RJ,3302601,0,1
-Brazil,RJ,Nova Iguaçu/RJ,3303500,0,3
+Brazil,RJ,Nova Iguaçu/RJ,3303500,0,7
 Brazil,GO,Goianésia/GO,5208608,0,1
 Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,1
 Brazil,PE,Goiana/PE,2606200,1,1
@@ -344,20 +344,24 @@ Brazil,CE,Maracanaú/CE,2307650,0,1
 Brazil,PI,NÃO ESPECIFICADA/PI,22,0,3
 Brazil,RR,NÃO ESPECIFICADA/RR,14,0,4
 Brazil,ES,São Mateus/ES,3204906,0,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,0,1
 Brazil,MG,NÃO ESPECIFICADA/MG,31,0,3
 Brazil,MG,Curvelo/MG,3120904,0,1
 Brazil,MG,Unaí/MG,3170404,0,1
 Brazil,GO,Itumbiara/GO,5211503,0,2
-Brazil,AM,NÃO ESPECIFICADA/AM,13,0,11
 Brazil,PE,Palmares/PE,2610004,0,1
 Brazil,PR,Rio Branco do Sul/PR,4122206,0,1
 Brazil,PR,Matinhos/PR,4115705,0,1
 Brazil,PR,Almirante Tamandaré/PR,4100400,0,2
-Brazil,RJ,NÃO ESPECIFICADA/RJ,33,1,57
+Brazil,PA,NÃO ESPECIFICADA/PA,15,0,1
+Brazil,AM,NÃO ESPECIFICADA/AM,13,0,11
 Brazil,BA,NÃO ESPECIFICADA/BA,29,0,20
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,11
 Brazil,GO,NÃO ESPECIFICADA/GO,52,0,1
 Brazil,CE,NÃO ESPECIFICADA/CE,23,0,13
 Brazil,AC,NÃO ESPECIFICADA/AC,12,0,8
 Brazil,TO,NÃO ESPECIFICADA/TO,17,0,1
+Brazil,RJ,Queimados/RJ,3304144,0,1
+Brazil,RJ,São João de Meriti/RJ,3305109,0,1
+Brazil,RJ,Teresópolis/RJ,3305802,0,1
+Brazil,RJ,Angra dos Reis/RJ,3300100,0,1
+Brazil,RJ,Rio Bonito/RJ,3304300,1,2
