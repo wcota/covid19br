@@ -20,14 +20,14 @@ Brazil,SC,Florianópolis/SC,4205407,0,50
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,35
-Brazil,RN,Natal/RN,2408102,0,36
+Brazil,RN,Natal/RN,2408102,0,42
 Brazil,BA,Salvador/BA,2927408,1,117
 Brazil,AM,Manaus/AM,1302603,0,140
 Brazil,SC,Joinville/SC,4209102,0,14
 Brazil,SC,Rancho Queimado/SC,4214300,0,2
 Brazil,PE,ESTRANGEIRO/PE,26,1,3
 Brazil,MS,Campo Grande/MS,5002704,0,36
-Brazil,MG,Juiz de Fora/MG,3136702,0,13
+Brazil,MG,Juiz de Fora/MG,3136702,0,23
 Brazil,MG,Patrocínio/MG,3148103,0,1
 Brazil,SE,Aracaju/SE,2800308,0,15
 Brazil,ES,Linhares/ES,3203205,0,4
@@ -48,7 +48,7 @@ Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,6
 Brazil,BA,Prado/BA,2925501,0,3
 Brazil,AC,Rio Branco/AC,1200401,0,34
 Brazil,SP,Santo André/SP,3547809,0,40
-Brazil,MG,Nova Lima/MG,3144805,0,19
+Brazil,MG,Nova Lima/MG,3144805,0,20
 Brazil,MG,Sete Lagoas/MG,3167202,0,2
 Brazil,MG,Uberlândia/MG,3170206,0,10
 Brazil,PR,Campo Largo/PR,4104204,0,3
@@ -141,7 +141,7 @@ Brazil,RS,Estrela/RS,4307807,0,1
 Brazil,RS,Lajeado/RS,4311403,0,5
 Brazil,RS,Santa Maria/RS,4316907,0,2
 Brazil,RS,Viamão/RS,4323002,0,1
-Brazil,RN,Mossoró/RN,2408003,1,16
+Brazil,RN,Mossoró/RN,2408003,1,17
 Brazil,BA,Barreiras/BA,2903201,0,1
 Brazil,SP,São Sebastião/SP,3550704,0,2
 Brazil,PE,Olinda/PE,2609600,0,5
@@ -328,21 +328,21 @@ Brazil,RJ,Maricá/RJ,3302700,0,1
 Brazil,RJ,Seropédica/RJ,3305554,0,1
 Brazil,RN,Tibau/RN,2411056,0,1
 Brazil,RN,Açu/RN,2400208,0,1
-Brazil,RN,Caicó/RN,2402006,0,2
+Brazil,RN,Caicó/RN,2402006,0,1
 Brazil,RN,São Gonçalo do Amarante/RN,2412005,0,2
 Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,2
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,0,2
+Brazil,RN,NÃO ESPECIFICADA/RN,24,0,0
 Brazil,AL,NÃO ESPECIFICADA/AL,27,0,3
 Brazil,MS,NÃO ESPECIFICADA/MS,50,0,0
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
 Brazil,PI,NÃO ESPECIFICADA/PI,22,0,0
 Brazil,ES,São Mateus/ES,3204906,0,1
-Brazil,MG,NÃO ESPECIFICADA/MG,31,0,3
-Brazil,MG,Curvelo/MG,3120904,0,1
+Brazil,MG,NÃO ESPECIFICADA/MG,31,0,5
+Brazil,MG,Manhuaçu/MG,3139409,0,1
 Brazil,MG,Unaí/MG,3170404,0,1
 Brazil,GO,Itumbiara/GO,5211503,0,2
 Brazil,PE,Palmares/PE,2610004,0,1
@@ -367,6 +367,7 @@ Brazil,SP,São Pedro/SP,3550407,0,1
 Brazil,SP,Santos/SP,3548500,0,1
 Brazil,AM,Novo Airão/AM,1303205,0,1
 Brazil,RN,Apodi/RN,2401008,0,1
+Brazil,RN,FORA DO ESTADO/RN,24,0,2
 Brazil,RN,Luís Gomes/RN,2407005,0,1
 Brazil,RN,Carnaubais/RN,2402501,0,1
 Brazil,BA,Dias d'Ávila/BA,2910057,0,1
@@ -380,3 +381,4 @@ Brazil,PB,Patos/PB,2510808,0,1
 Brazil,CE,Beberibe/CE,2302206,0,1
 Brazil,PE,NÃO ESPECIFICADA/PE,26,0,1
 Brazil,AC,NÃO ESPECIFICADA/AC,12,0,1
+Brazil,MG,Alfenas/MG,3101607,0,1
