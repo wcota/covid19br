@@ -4,13 +4,13 @@ Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 Brazil,ES,Vila Velha/ES,3205200,0,31
 Brazil,BA,Feira de Santana/BA,2910800,0,17
 Brazil,RJ,Rio de Janeiro/RJ,3304557,13,553
-Brazil,DF,Brasília/DF,5300108,3,312
+Brazil,DF,Brasília/DF,5300108,3,332
 Brazil,AL,Maceió/AL,2704302,1,12
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,7
 Brazil,MG,Divinópolis/MG,3122306,0,9
 Brazil,RJ,Niterói/RJ,3303302,1,47
 Brazil,RS,Campo Bom/RS,4303905,0,2
-Brazil,RS,Porto Alegre/RS,4314902,2,161
+Brazil,RS,Porto Alegre/RS,4314902,2,190
 Brazil,PE,Recife/PE,2611606,4,58
 Brazil,RS,Caxias do Sul/RS,4305108,0,13
 Brazil,PR,Curitiba/PR,4106902,0,87
@@ -62,7 +62,7 @@ Brazil,PR,Maringá/PR,4115200,2,9
 Brazil,PR,Foz do Iguaçu/PR,4108304,0,10
 Brazil,PA,Belém/PA,1501402,0,21
 Brazil,SE,Propriá/SE,2805703,0,2
-Brazil,PB,João Pessoa/PB,2507507,0,12
+Brazil,PB,João Pessoa/PB,2507507,0,14
 Brazil,RJ,Guapimirim/RJ,3301850,0,1
 Brazil,SP,Jaguariúna/SP,3524709,0,1
 Brazil,SP,São José do Rio Preto/SP,3549805,0,3
@@ -105,7 +105,7 @@ Brazil,BA,Camaçari/BA,2905701,0,2
 Brazil,RJ,Petrópolis/RJ,3303906,1,4
 Brazil,RS,Ivoti/RS,4310801,1,3
 Brazil,RS,Charqueadas/RS,4305355,0,1
-Brazil,RS,São Leopoldo/RS,4318705,0,3
+Brazil,RS,São Leopoldo/RS,4318705,0,4
 Brazil,RS,Taquara/RS,4321204,0,1
 Brazil,RS,Dois Irmãos/RS,4306403,0,1
 Brazil,RS,Eldorado do Sul/RS,4306767,0,1
@@ -387,7 +387,6 @@ Brazil,PR,Quatro Barras/PR,4120804,0,1
 Brazil,PR,Francisco Beltrão/PR,4108403,0,1
 Brazil,PR,Verê/PR,4128609,0,1
 Brazil,RJ,NÃO ESPECIFICADA/RJ,33,5,51
-Brazil,DF,NÃO ESPECIFICADA/DF,53,0,20
 Brazil,CE,NÃO ESPECIFICADA/CE,23,2,8
 Brazil,BA,Barra/BA,2902708,0,1
 Brazil,BA,Candeias/BA,2906501,0,1
@@ -398,3 +397,4 @@ Brazil,BA,Nova Soure/BA,2922904,0,1
 Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
 Brazil,PA,Marituba/PA,1504422,0,1
+Brazil,RS,São Domingos do Sul/RS,4318051,0,1
