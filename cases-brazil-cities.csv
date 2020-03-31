@@ -2,7 +2,7 @@ country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,103,1233
 Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 Brazil,ES,Vila Velha/ES,3205200,0,31
-Brazil,BA,Feira de Santana/BA,2910800,0,9
+Brazil,BA,Feira de Santana/BA,2910800,0,12
 Brazil,RJ,Rio de Janeiro/RJ,3304557,13,553
 Brazil,DF,Brasília/DF,5300108,1,312
 Brazil,AL,Maceió/AL,2704302,0,12
@@ -20,9 +20,9 @@ Brazil,SC,Florianópolis/SC,4205407,0,50
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,35
-Brazil,RN,Natal/RN,2408102,0,34
-Brazil,BA,Salvador/BA,2927408,1,103
-Brazil,AM,Manaus/AM,1302603,0,131
+Brazil,RN,Natal/RN,2408102,0,36
+Brazil,BA,Salvador/BA,2927408,1,117
+Brazil,AM,Manaus/AM,1302603,0,140
 Brazil,SC,Joinville/SC,4209102,0,14
 Brazil,SC,Rancho Queimado/SC,4214300,0,2
 Brazil,PE,ESTRANGEIRO/PE,26,1,3
@@ -60,7 +60,7 @@ Brazil,GO,Aparecida de Goiânia/GO,5201405,0,2
 Brazil,SC,Balneário Camboriú/SC,4202008,0,9
 Brazil,PR,Maringá/PR,4115200,2,8
 Brazil,PR,Foz do Iguaçu/PR,4108304,0,10
-Brazil,PA,Belém/PA,1501402,0,16
+Brazil,PA,Belém/PA,1501402,0,17
 Brazil,SE,Propriá/SE,2805703,0,2
 Brazil,PB,João Pessoa/PB,2507507,0,12
 Brazil,RJ,Guapimirim/RJ,3301850,0,1
@@ -79,7 +79,7 @@ Brazil,RS,Torres/RS,4321501,0,7
 Brazil,RS,Farroupilha/RS,4307906,0,1
 Brazil,SC,São José/SC,4216602,1,10
 Brazil,MS,Sidrolândia/MS,5007901,0,1
-Brazil,BA,Lauro de Freitas/BA,2919207,0,10
+Brazil,BA,Lauro de Freitas/BA,2919207,0,12
 Brazil,BA,Itabuna/BA,2914802,0,2
 Brazil,RJ,Miguel Pereira/RJ,3302908,1,1
 Brazil,RS,Bagé/RS,4301602,0,15
@@ -113,7 +113,7 @@ Brazil,RS,Canoas/RS,4304606,0,8
 Brazil,ES,Cariacica/ES,3201308,0,3
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,24
-Brazil,RN,Parnamirim/RN,2403251,0,9
+Brazil,RN,Parnamirim/RN,2403251,0,10
 Brazil,MG,Mariana/MG,3140001,0,2
 Brazil,MG,Poços de Caldas/MG,3151800,0,2
 Brazil,SP,Osasco/SP,3534401,1,14
@@ -146,7 +146,7 @@ Brazil,BA,Barreiras/BA,2903201,0,1
 Brazil,SP,São Sebastião/SP,3550704,0,2
 Brazil,PE,Olinda/PE,2609600,0,5
 Brazil,PR,Colombo/PR,4105805,0,1
-Brazil,AM,Parintins/AM,1303403,1,2
+Brazil,AM,Parintins/AM,1303403,1,3
 Brazil,BA,Conceição do Jacuípe/BA,2908507,0,1
 Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,1
 Brazil,PR,FORA DO ESTADO/PR,41,0,5
@@ -329,13 +329,13 @@ Brazil,RJ,Maricá/RJ,3302700,0,1
 Brazil,RJ,Seropédica/RJ,3305554,0,1
 Brazil,RN,Tibau/RN,2411056,0,1
 Brazil,RN,Açu/RN,2400208,0,1
-Brazil,RN,Caicó/RN,2402006,0,1
-Brazil,RN,São Gonçalo do Amarante/RN,2412005,0,1
+Brazil,RN,Caicó/RN,2402006,0,2
+Brazil,RN,São Gonçalo do Amarante/RN,2412005,0,2
 Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,2
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,0,10
+Brazil,RN,NÃO ESPECIFICADA/RN,24,0,2
 Brazil,AL,NÃO ESPECIFICADA/AL,27,0,3
 Brazil,PE,NÃO ESPECIFICADA/PE,26,0,2
 Brazil,MS,NÃO ESPECIFICADA/MS,50,0,13
@@ -368,9 +368,11 @@ Brazil,SP,Paulínia/SP,3536505,0,1
 Brazil,SP,Porto Feliz/SP,3540606,0,1
 Brazil,SP,São Pedro/SP,3550407,0,1
 Brazil,SP,Santos/SP,3548500,0,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,0,1
-Brazil,AM,NÃO ESPECIFICADA/AM,13,0,11
-Brazil,BA,NÃO ESPECIFICADA/BA,29,0,20
+Brazil,AM,Novo Airão/AM,1303205,0,1
+Brazil,RN,Apodi/RN,2401008,0,1
+Brazil,RN,Luís Gomes/RN,2407005,0,1
+Brazil,RN,Carnaubais/RN,2402501,0,1
+Brazil,BA,Dias d'Ávila/BA,2910057,0,1
 Brazil,GO,NÃO ESPECIFICADA/GO,52,0,1
 Brazil,AC,NÃO ESPECIFICADA/AC,12,0,8
 Brazil,RO,Jaru/RO,1100114,0,1
