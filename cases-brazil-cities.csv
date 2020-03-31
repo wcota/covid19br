@@ -54,7 +54,7 @@ Brazil,MG,Uberlândia/MG,3170206,0,10
 Brazil,PR,Campo Largo/PR,4104204,0,3
 Brazil,PR,Pinhais/PR,4119152,0,3
 Brazil,PR,Londrina/PR,4113700,0,7
-Brazil,TO,Palmas/TO,1721000,0,8
+Brazil,TO,Palmas/TO,1721000,0,9
 Brazil,GO,Jataí/GO,5211909,0,2
 Brazil,GO,Aparecida de Goiânia/GO,5201405,0,2
 Brazil,SC,Balneário Camboriú/SC,4202008,0,9
@@ -62,7 +62,7 @@ Brazil,PR,Maringá/PR,4115200,2,8
 Brazil,PR,Foz do Iguaçu/PR,4108304,0,10
 Brazil,PA,Belém/PA,1501402,0,16
 Brazil,SE,Propriá/SE,2805703,0,2
-Brazil,PB,João Pessoa/PB,2507507,0,11
+Brazil,PB,João Pessoa/PB,2507507,0,12
 Brazil,RJ,Guapimirim/RJ,3301850,0,1
 Brazil,SP,Jaguariúna/SP,3524709,0,1
 Brazil,SP,São José do Rio Preto/SP,3549805,0,3
@@ -112,7 +112,7 @@ Brazil,RS,Eldorado do Sul/RS,4306767,0,1
 Brazil,RS,Canoas/RS,4304606,0,8
 Brazil,ES,Cariacica/ES,3201308,0,3
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
-Brazil,MA,São Luís/MA,2111300,0,15
+Brazil,MA,São Luís/MA,2111300,1,24
 Brazil,RN,Parnamirim/RN,2403251,0,9
 Brazil,MG,Mariana/MG,3140001,0,2
 Brazil,MG,Poços de Caldas/MG,3151800,0,2
@@ -298,14 +298,14 @@ Brazil,BA,Itagibá/BA,2915205,0,1
 Brazil,PR,Mariópolis/PR,4115309,0,1
 Brazil,PR,Quatiguá/PR,4120705,0,1
 Brazil,MS,Dourados/MS,5003702,0,2
-Brazil,TO,Araguaína/TO,1702109,0,1
+Brazil,TO,Araguaína/TO,1702109,0,2
 Brazil,CE,Quixadá/CE,2311306,0,2
 Brazil,CE,Caucaia/CE,2303709,0,1
 Brazil,PI,São José do Divino/PI,2210052,1,1
 Brazil,PI,Parnaíba/PI,2207702,0,1
 Brazil,MT,NÃO ESPECIFICADA/MT,51,0,7
 Brazil,SP,Sorocaba/SP,3552205,1,3
-Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
+Brazil,MA,NÃO ESPECIFICADA/MA,21,0,6
 Brazil,BA,Itamaraju/BA,2915601,0,1
 Brazil,BA,Itororó/BA,2917102,0,1
 Brazil,BA,FORA DO ESTADO/BA,29,0,1
@@ -338,7 +338,7 @@ Brazil,SC,Indaial/SC,4207502,0,1
 Brazil,RN,NÃO ESPECIFICADA/RN,24,0,10
 Brazil,AL,NÃO ESPECIFICADA/AL,27,0,3
 Brazil,PE,NÃO ESPECIFICADA/PE,26,0,2
-Brazil,MS,NÃO ESPECIFICADA/MS,50,1,13
+Brazil,MS,NÃO ESPECIFICADA/MS,50,0,13
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
 Brazil,PI,NÃO ESPECIFICADA/PI,22,0,0
@@ -374,8 +374,8 @@ Brazil,BA,NÃO ESPECIFICADA/BA,29,0,20
 Brazil,GO,NÃO ESPECIFICADA/GO,52,0,1
 Brazil,CE,NÃO ESPECIFICADA/CE,23,0,13
 Brazil,AC,NÃO ESPECIFICADA/AC,12,0,8
-Brazil,TO,NÃO ESPECIFICADA/TO,17,0,1
 Brazil,RO,Jaru/RO,1100114,0,1
 Brazil,RS,Taquari/RS,4321303,0,1
 Brazil,RS,Gravataí/RS,4309209,0,1
 Brazil,SC,Pescaria Brava/SC,4212650,0,1
+Brazil,PB,Patos/PB,2510808,0,1
