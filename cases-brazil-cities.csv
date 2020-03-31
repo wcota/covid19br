@@ -26,7 +26,7 @@ Brazil,AM,Manaus/AM,1302603,0,140
 Brazil,SC,Joinville/SC,4209102,0,14
 Brazil,SC,Rancho Queimado/SC,4214300,0,2
 Brazil,PE,ESTRANGEIRO/PE,26,1,3
-Brazil,MS,Campo Grande/MS,5002704,0,25
+Brazil,MS,Campo Grande/MS,5002704,0,36
 Brazil,MG,Juiz de Fora/MG,3136702,0,13
 Brazil,MG,Patrocínio/MG,3148103,0,1
 Brazil,SE,Aracaju/SE,2800308,0,15
@@ -269,7 +269,7 @@ Brazil,PR,Umuarama/PR,4128104,0,2
 Brazil,PR,União da Vitória/PR,4128203,0,1
 Brazil,CE,Maranguape/CE,2307700,0,1
 Brazil,GO,Hidrolândia/GO,5209705,0,1
-Brazil,MS,Batayporã/MS,5002001,0,1
+Brazil,MS,Batayporã/MS,5002001,0,3
 Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 Brazil,SC,Antônio Carlos/SC,4201208,0,1
 Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
@@ -338,7 +338,7 @@ Brazil,SC,Indaial/SC,4207502,0,1
 Brazil,RN,NÃO ESPECIFICADA/RN,24,0,2
 Brazil,AL,NÃO ESPECIFICADA/AL,27,0,3
 Brazil,PE,NÃO ESPECIFICADA/PE,26,0,2
-Brazil,MS,NÃO ESPECIFICADA/MS,50,0,13
+Brazil,MS,NÃO ESPECIFICADA/MS,50,0,0
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
 Brazil,PI,NÃO ESPECIFICADA/PI,22,0,0

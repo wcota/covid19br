@@ -492,6 +492,7 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-30,Brazil,SC,TOTAL,1,22,219
 2020-03-30,Brazil,RN,TOTAL,1,9,77
 2020-03-30,Brazil,AM,TOTAL,1,11,151
+2020-03-30,Brazil,MS,TOTAL,0,8,44
 2020-03-30,Brazil,SE,TOTAL,0,2,18
 2020-03-30,Brazil,CE,TOTAL,5,23,382
 2020-03-30,Brazil,TO,TOTAL,0,2,11
@@ -501,7 +502,6 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-30,Brazil,MA,TOTAL,1,9,31
 2020-03-30,Brazil,RO,TOTAL,0,2,8
 2020-03-30,Brazil,MT,TOTAL,0,2,18
-2020-03-30,Brazil,MS,TOTAL,0,8,44
 2020-03-30,Brazil,GO,TOTAL,1,3,61
 2020-03-30,Brazil,AC,TOTAL,0,8,42
 2020-03-30,Brazil,AL,TOTAL,0,0,17
