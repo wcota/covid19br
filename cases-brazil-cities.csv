@@ -19,7 +19,7 @@ Brazil,SP,Ferraz de Vasconcelos/SP,3515707,0,3
 Brazil,SC,Florianópolis/SC,4205407,0,50
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
-Brazil,GO,Goiânia/GO,5208707,0,35
+Brazil,GO,Goiânia/GO,5208707,0,39
 Brazil,RN,Natal/RN,2408102,0,42
 Brazil,BA,Salvador/BA,2927408,1,117
 Brazil,AM,Manaus/AM,1302603,0,140
@@ -29,7 +29,7 @@ Brazil,PE,ESTRANGEIRO/PE,26,1,3
 Brazil,MS,Campo Grande/MS,5002704,0,36
 Brazil,MG,Juiz de Fora/MG,3136702,0,23
 Brazil,MG,Patrocínio/MG,3148103,0,1
-Brazil,SE,Aracaju/SE,2800308,0,15
+Brazil,SE,Aracaju/SE,2800308,0,17
 Brazil,ES,Linhares/ES,3203205,0,4
 Brazil,ES,Vitória/ES,3205309,0,26
 Brazil,SP,Carapicuíba/SP,3510609,0,3
@@ -92,7 +92,7 @@ Brazil,SP,Suzano/SP,3552502,0,1
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
 Brazil,CE,Fortim/CE,2304459,0,1
-Brazil,AP,Macapá/AP,1600303,0,8
+Brazil,AP,Macapá/AP,1600303,0,10
 Brazil,SC,Itajaí/SC,4208203,0,18
 Brazil,SC,Navegantes/SC,4211306,0,3
 Brazil,SC,Pomerode/SC,4213203,0,1
@@ -199,7 +199,7 @@ Brazil,SC,Camboriú/SC,4203204,0,7
 Brazil,SC,Laguna/SC,4209409,0,1
 Brazil,SC,São Ludgero/SC,4217006,0,1
 Brazil,SC,Tijucas/SC,4218004,0,1
-Brazil,GO,Valparaíso de Goiás/GO,5221858,0,2
+Brazil,GO,Valparaíso de Goiás/GO,5221858,0,3
 Brazil,CE,Mauriti/CE,2308104,0,1
 Brazil,ES,FORA DO ESTADO/ES,32,0,1
 Brazil,RS,Anta Gorda/RS,4300703,0,2
@@ -268,7 +268,7 @@ Brazil,PR,Iretama/PR,4110805,0,1
 Brazil,PR,Umuarama/PR,4128104,0,2
 Brazil,PR,União da Vitória/PR,4128203,0,1
 Brazil,CE,Maranguape/CE,2307700,0,1
-Brazil,GO,Hidrolândia/GO,5209705,0,1
+Brazil,GO,NÃO ESPECIFICADA/GO,52,0,0
 Brazil,MS,Batayporã/MS,5002001,0,3
 Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 Brazil,SC,Antônio Carlos/SC,4201208,0,1
@@ -371,7 +371,6 @@ Brazil,RN,FORA DO ESTADO/RN,24,0,2
 Brazil,RN,Luís Gomes/RN,2407005,0,1
 Brazil,RN,Carnaubais/RN,2402501,0,1
 Brazil,BA,Dias d'Ávila/BA,2910057,0,1
-Brazil,GO,NÃO ESPECIFICADA/GO,52,0,1
 Brazil,MT,Rondonópolis/MT,5107602,0,3
 Brazil,RO,Jaru/RO,1100114,0,1
 Brazil,RS,Taquari/RS,4321303,0,1
@@ -385,3 +384,4 @@ Brazil,MG,Alfenas/MG,3101607,0,1
 Brazil,PA,Abaetetuba/PA,1500107,0,1
 Brazil,RS,Capão do Leão/RS,4304663,0,1
 Brazil,RS,Cachoeirinha/RS,4303103,0,1
+Brazil,GO,Paranaiguara/GO,5216304,0,1
