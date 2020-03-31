@@ -1,10 +1,10 @@
 country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,103,1233
 Brazil,RJ,Barra Mansa/RJ,3300407,0,1
-Brazil,ES,Vila Velha/ES,3205200,0,31
+Brazil,ES,Vila Velha/ES,3205200,0,35
 Brazil,BA,Feira de Santana/BA,2910800,0,17
 Brazil,RJ,Rio de Janeiro/RJ,3304557,13,553
-Brazil,DF,Brasília/DF,5300108,3,332
+Brazil,DF,Brasília/DF,5300108,3,333
 Brazil,AL,Maceió/AL,2704302,1,12
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,7
 Brazil,MG,Divinópolis/MG,3122306,0,9
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,0,23
 Brazil,MG,Patrocínio/MG,3148103,0,1
 Brazil,SE,Aracaju/SE,2800308,0,17
 Brazil,ES,Linhares/ES,3203205,0,4
-Brazil,ES,Vitória/ES,3205309,0,26
+Brazil,ES,Vitória/ES,3205309,0,28
 Brazil,SP,Carapicuíba/SP,3510609,0,3
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,1,33
@@ -110,7 +110,7 @@ Brazil,RS,Taquara/RS,4321204,0,1
 Brazil,RS,Dois Irmãos/RS,4306403,0,1
 Brazil,RS,Eldorado do Sul/RS,4306767,0,1
 Brazil,RS,Canoas/RS,4304606,0,8
-Brazil,ES,Cariacica/ES,3201308,0,3
+Brazil,ES,Cariacica/ES,3201308,0,5
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,30
 Brazil,RN,Parnamirim/RN,2403251,0,10
@@ -182,7 +182,7 @@ Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SC,Gaspar/SC,4205902,0,2
 Brazil,SC,Içara/SC,4207007,0,1
 Brazil,PR,Cascavel/PR,4104808,1,10
-Brazil,ES,Serra/ES,3205002,0,13
+Brazil,ES,Serra/ES,3205002,0,14
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,1
 Brazil,BA,Conde/BA,2908606,0,1
@@ -290,7 +290,7 @@ Brazil,RN,Macaíba/RN,2407104,0,1
 Brazil,RN,Passa e Fica/RN,2409100,0,1
 Brazil,RN,Monte Alegre/RN,2407807,0,1
 Brazil,PA,Parauapebas/PA,1505536,0,1
-Brazil,ES,Guarapari/ES,3202405,0,1
+Brazil,ES,Guarapari/ES,3202405,0,2
 Brazil,ES,Itapemirim/ES,3202801,0,1
 Brazil,RS,Canguçu/RS,4304507,0,1
 Brazil,BA,Itagibá/BA,2915205,0,1
@@ -398,3 +398,5 @@ Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
 Brazil,PA,Marituba/PA,1504422,0,1
 Brazil,RS,São Domingos do Sul/RS,4318051,0,1
+Brazil,ES,Alto Rio Novo/ES,3200359,0,1
+Brazil,ES,Viana/ES,3205101,0,1
