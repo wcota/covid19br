@@ -16,7 +16,7 @@ Brazil,RS,Caxias do Sul/RS,4305108,0,13
 Brazil,PR,Curitiba/PR,4106902,0,87
 Brazil,PR,Cianorte/PR,4105508,0,7
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,0,5
-Brazil,SC,Florianópolis/SC,4205407,0,50
+Brazil,SC,Florianópolis/SC,4205407,0,58
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,39
@@ -98,7 +98,7 @@ Brazil,SC,Navegantes/SC,4211306,0,3
 Brazil,SC,Pomerode/SC,4213203,0,1
 Brazil,SC,Jaraguá do Sul/SC,4208906,0,3
 Brazil,SC,Imbituba/SC,4207304,0,5
-Brazil,SC,Criciúma/SC,4204608,0,15
+Brazil,SC,Criciúma/SC,4204608,0,17
 Brazil,SC,Chapecó/SC,4204202,0,5
 Brazil,PR,Guaíra/PR,4108809,0,2
 Brazil,BA,Camaçari/BA,2905701,0,2
@@ -133,7 +133,7 @@ Brazil,SP,Poá/SP,3539806,0,1
 Brazil,SP,Caieiras/SP,3509007,1,9
 Brazil,MS,Ponta Porã/MS,5006606,0,1
 Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,1
-Brazil,RO,Porto Velho/RO,1100205,0,6
+Brazil,RO,Porto Velho/RO,1100205,0,7
 Brazil,RR,Boa Vista/RR,1400100,0,13
 Brazil,RS,Carlos Barbosa/RS,4304804,0,1
 Brazil,RS,Estância Velha/RS,4307609,0,2
@@ -150,7 +150,7 @@ Brazil,AM,Parintins/AM,1303403,1,4
 Brazil,BA,Conceição do Jacuípe/BA,2908507,0,1
 Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,1
 Brazil,PR,FORA DO ESTADO/PR,41,0,5
-Brazil,SC,Blumenau/SC,4202404,0,14
+Brazil,SC,Blumenau/SC,4202404,0,19
 Brazil,SC,Lages/SC,4209300,0,1
 Brazil,RS,Osório/RS,4313508,0,1
 Brazil,SP,FORA DO ESTADO/SP,35,0,18
@@ -285,7 +285,7 @@ Brazil,PE,São Lourenço da Mata/PE,2613701,0,3
 Brazil,SC,São Francisco do Sul/SC,4216206,0,1
 Brazil,SC,Urussanga/SC,4219002,0,1
 Brazil,SC,Papanduva/SC,4212205,0,2
-Brazil,SC,Brusque/SC,4202909,0,2
+Brazil,SC,Brusque/SC,4202909,0,3
 Brazil,RN,Macaíba/RN,2407104,0,1
 Brazil,RN,Passa e Fica/RN,2409100,0,1
 Brazil,RN,Monte Alegre/RN,2407807,0,1
@@ -385,8 +385,6 @@ Brazil,PR,Lapa/PR,4113205,0,1
 Brazil,PR,Quatro Barras/PR,4120804,0,1
 Brazil,PR,Francisco Beltrão/PR,4108403,0,1
 Brazil,PR,Verê/PR,4128609,0,1
-Brazil,RJ,NÃO ESPECIFICADA/RJ,33,5,51
-Brazil,CE,NÃO ESPECIFICADA/CE,23,2,8
 Brazil,BA,Barra/BA,2902708,0,1
 Brazil,BA,Candeias/BA,2906501,0,1
 Brazil,BA,Itajuípe/BA,2915502,0,3
@@ -419,3 +417,5 @@ Brazil,SP,Itaquaquecetuba/SP,3523107,0,1
 Brazil,SP,Franco da Rocha/SP,3516408,0,3
 Brazil,SP,Mogi Guaçu/SP,3530706,0,1
 Brazil,SP,Nova Odessa/SP,3533403,0,1
+Brazil,RJ,NÃO ESPECIFICADA/RJ,33,5,51
+Brazil,CE,NÃO ESPECIFICADA/CE,23,2,8
