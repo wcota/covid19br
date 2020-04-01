@@ -1,7 +1,7 @@
 country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,144,2418
 Brazil,RJ,Barra Mansa/RJ,3300407,0,2
-Brazil,ES,Vila Velha/ES,3205200,0,35
+Brazil,ES,Vila Velha/ES,3205200,0,36
 Brazil,BA,Feira de Santana/BA,2910800,0,18
 Brazil,RJ,Rio de Janeiro/RJ,3304557,20,697
 Brazil,DF,Brasília/DF,5300108,3,355
@@ -30,8 +30,8 @@ Brazil,MS,Campo Grande/MS,5002704,0,38
 Brazil,MG,Juiz de Fora/MG,3136702,0,24
 Brazil,MG,Patrocínio/MG,3148103,0,1
 Brazil,SE,Aracaju/SE,2800308,0,17
-Brazil,ES,Linhares/ES,3203205,0,4
-Brazil,ES,Vitória/ES,3205309,0,28
+Brazil,ES,Linhares/ES,3203205,0,7
+Brazil,ES,Vitória/ES,3205309,0,34
 Brazil,SP,Carapicuíba/SP,3510609,0,7
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,2,52
@@ -110,7 +110,7 @@ Brazil,RS,Taquara/RS,4321204,0,1
 Brazil,RS,Dois Irmãos/RS,4306403,0,1
 Brazil,RS,Eldorado do Sul/RS,4306767,0,1
 Brazil,RS,Canoas/RS,4304606,0,8
-Brazil,ES,Cariacica/ES,3201308,0,5
+Brazil,ES,Cariacica/ES,3201308,0,7
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,51
 Brazil,RN,Parnamirim/RN,2403251,0,10
@@ -182,7 +182,7 @@ Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SC,Gaspar/SC,4205902,0,2
 Brazil,SC,Içara/SC,4207007,0,1
 Brazil,PR,Cascavel/PR,4104808,1,10
-Brazil,ES,Serra/ES,3205002,0,14
+Brazil,ES,Serra/ES,3205002,0,22
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
@@ -250,7 +250,7 @@ Brazil,RS,Nova Palma/RS,4313102,0,1
 Brazil,SC,Itapema/SC,4208302,0,2
 Brazil,SC,Siderópolis/SC,4217600,0,2
 Brazil,SC,Timbé do Sul/SC,4218103,0,1
-Brazil,ES,Castelo/ES,3201407,0,1
+Brazil,ES,Castelo/ES,3201407,0,2
 Brazil,RR,Bonfim/RR,1400159,0,3
 Brazil,MG,Sabará/MG,3156700,0,4
 Brazil,MG,Carmo do Cajuru/MG,3114204,0,1
@@ -336,7 +336,7 @@ Brazil,SC,Indaial/SC,4207502,0,1
 Brazil,RN,NÃO ESPECIFICADA/RN,24,1,9
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
-Brazil,ES,São Mateus/ES,3204906,0,1
+Brazil,ES,São Mateus/ES,3204906,0,3
 Brazil,MG,NÃO ESPECIFICADA/MG,31,0,2
 Brazil,MG,Manhuaçu/MG,3139409,0,1
 Brazil,MG,Unaí/MG,3170404,0,1
@@ -392,7 +392,6 @@ Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
 Brazil,PA,Marituba/PA,1504422,0,1
 Brazil,RS,São Domingos do Sul/RS,4318051,0,1
-Brazil,ES,Alto Rio Novo/ES,3200359,0,1
 Brazil,ES,Viana/ES,3205101,0,1
 Brazil,SP,Votuporanga/SP,3557105,0,1
 Brazil,SP,Votorantim/SP,3557006,0,1
@@ -452,3 +451,5 @@ Brazil,GO,Campestre de Goiás/GO,5204607,0,1
 Brazil,GO,Cidade Ocidental/GO,5205497,0,1
 Brazil,GO,Trindade/GO,5221403,0,1
 Brazil,MS,Três Lagoas/MS,5008305,0,1
+Brazil,ES,Afonso Cláudio/ES,3200102,0,1
+Brazil,ES,Aracruz/ES,3200607,0,1
