@@ -114,7 +114,7 @@ Brazil,ES,Cariacica/ES,3201308,0,5
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,51
 Brazil,RN,Parnamirim/RN,2403251,0,10
-Brazil,MG,Mariana/MG,3140001,0,2
+Brazil,MG,Mariana/MG,3140001,1,2
 Brazil,MG,Poços de Caldas/MG,3151800,0,2
 Brazil,SP,Osasco/SP,3534401,2,33
 Brazil,SP,São José dos Campos/SP,3549904,0,9
@@ -235,7 +235,7 @@ Brazil,SP,Ribeirão Preto/SP,3543402,1,6
 Brazil,SP,Arujá/SP,3503901,0,2
 Brazil,SP,Mairiporã/SP,3528502,0,2
 Brazil,SP,Louveira/SP,3527306,0,1
-Brazil,SP,NÃO ESPECIFICADA/SP,35,1,646
+Brazil,SP,NÃO ESPECIFICADA/SP,35,29,646
 Brazil,SP,Vargem Grande Paulista/SP,3556453,1,2
 Brazil,RJ,Belford Roxo/RJ,3300456,0,2
 Brazil,AM,Santo Antônio do Içá/AM,1303700,0,1
@@ -334,7 +334,7 @@ Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,4
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,0,9
+Brazil,RN,NÃO ESPECIFICADA/RN,24,1,9
 Brazil,MS,NÃO ESPECIFICADA/MS,50,0,3
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
@@ -422,16 +422,16 @@ Brazil,MS,Nova Andradina/MS,5006200,0,2
 Brazil,CE,Santa Quitéria/CE,2312205,1,1
 Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,1
 Brazil,RJ,Macaé/RJ,3302403,0,1
-Brazil,RJ,NÃO ESPECIFICADA/RJ,33,0,124
+Brazil,RJ,NÃO ESPECIFICADA/RJ,33,5,124
 Brazil,BA,NÃO ESPECIFICADA/BA,29,0,29
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,22
 Brazil,RS,NÃO ESPECIFICADA/RS,43,0,1
-Brazil,PE,NÃO ESPECIFICADA/PE,26,0,8
+Brazil,PE,NÃO ESPECIFICADA/PE,26,2,8
 Brazil,PR,NÃO ESPECIFICADA/PR,41,0,39
 Brazil,AM,NÃO ESPECIFICADA/AM,13,0,25
-Brazil,CE,NÃO ESPECIFICADA/CE,23,0,43
+Brazil,CE,NÃO ESPECIFICADA/CE,23,1,43
 Brazil,AC,NÃO ESPECIFICADA/AC,12,0,1
 Brazil,PA,NÃO ESPECIFICADA/PA,15,0,6
 Brazil,PB,NÃO ESPECIFICADA/PB,25,0,1
 Brazil,AP,NÃO ESPECIFICADA/AP,16,0,1
-Brazil,MA,NÃO ESPECIFICADA/MA,21,1,2
+Brazil,MA,NÃO ESPECIFICADA/MA,21,0,2
