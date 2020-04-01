@@ -2,7 +2,7 @@ country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,121,1885
 Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 Brazil,ES,Vila Velha/ES,3205200,0,35
-Brazil,BA,Feira de Santana/BA,2910800,0,17
+Brazil,BA,Feira de Santana/BA,2910800,0,18
 Brazil,RJ,Rio de Janeiro/RJ,3304557,18,586
 Brazil,DF,Brasília/DF,5300108,3,333
 Brazil,AL,Maceió/AL,2704302,1,13
@@ -21,7 +21,7 @@ Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,39
 Brazil,RN,Natal/RN,2408102,0,42
-Brazil,BA,Salvador/BA,2927408,2,117
+Brazil,BA,Salvador/BA,2927408,2,153
 Brazil,AM,Manaus/AM,1302603,2,159
 Brazil,SC,Joinville/SC,4209102,1,14
 Brazil,SC,Rancho Queimado/SC,4214300,0,2
@@ -42,7 +42,7 @@ Brazil,SP,Mauá/SP,3529401,0,3
 Brazil,CE,Aquiraz/CE,2301000,0,14
 Brazil,MG,Belo Horizonte/MG,3106200,2,163
 Brazil,GO,Anápolis/GO,5201108,0,4
-Brazil,BA,Porto Seguro/BA,2925303,0,25
+Brazil,BA,Porto Seguro/BA,2925303,0,10
 Brazil,PE,Belo Jardim/PE,2601706,0,1
 Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,6
 Brazil,BA,Prado/BA,2925501,0,3
@@ -101,7 +101,7 @@ Brazil,SC,Imbituba/SC,4207304,0,5
 Brazil,SC,Criciúma/SC,4204608,0,17
 Brazil,SC,Chapecó/SC,4204202,0,5
 Brazil,PR,Guaíra/PR,4108809,0,2
-Brazil,BA,Camaçari/BA,2905701,0,2
+Brazil,BA,Camaçari/BA,2905701,0,4
 Brazil,RJ,Petrópolis/RJ,3303906,1,5
 Brazil,RS,Ivoti/RS,4310801,1,3
 Brazil,RS,Charqueadas/RS,4305355,0,1
@@ -160,7 +160,7 @@ Brazil,SP,Embu/SP,3515004,1,7
 Brazil,RJ,São Gonçalo/RJ,3304904,0,9
 Brazil,BA,Juazeiro/BA,2918407,0,2
 Brazil,BA,Jequié/BA,2918001,0,1
-Brazil,BA,Brumado/BA,2904605,0,4
+Brazil,BA,Brumado/BA,2904605,0,5
 Brazil,MG,Betim/MG,3106705,0,5
 Brazil,MG,Bom Despacho/MG,3107406,0,1
 Brazil,MG,Campos Altos/MG,3111507,0,1
@@ -186,7 +186,7 @@ Brazil,ES,Serra/ES,3205002,0,14
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
-Brazil,BA,Teixeira de Freitas/BA,2931350,0,1
+Brazil,BA,Teixeira de Freitas/BA,2931350,0,2
 Brazil,PR,Telêmaco Borba/PR,4127106,0,2
 Brazil,PR,Paranavaí/PR,4118402,0,2
 Brazil,SP,ESTRANGEIRO/SP,35,0,31
@@ -220,7 +220,7 @@ Brazil,PR,Campo Mourão/PR,4104303,0,4
 Brazil,SC,Balneário Arroio do Silva/SC,4201950,0,1
 Brazil,SC,Canelinha/SC,4203709,0,1
 Brazil,SC,São Pedro de Alcântara/SC,4217253,0,1
-Brazil,BA,Ilhéus/BA,2913606,0,6
+Brazil,BA,Ilhéus/BA,2913606,0,7
 Brazil,BA,Canarana/BA,2906204,0,1
 Brazil,GO,Silvânia/GO,5220603,0,1
 Brazil,GO,Luziânia/GO,5212501,1,1
@@ -389,7 +389,6 @@ Brazil,BA,Barra/BA,2902708,0,1
 Brazil,BA,Candeias/BA,2906501,0,1
 Brazil,BA,Itajuípe/BA,2915502,0,3
 Brazil,BA,Coaraci/BA,2908002,0,1
-Brazil,BA,Catu/BA,2907509,0,1
 Brazil,BA,Nova Soure/BA,2922904,0,1
 Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
@@ -423,7 +422,6 @@ Brazil,CE,Santa Quitéria/CE,2312205,1,1
 Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,1
 Brazil,RJ,Macaé/RJ,3302403,0,1
 Brazil,RJ,NÃO ESPECIFICADA/RJ,33,5,124
-Brazil,BA,NÃO ESPECIFICADA/BA,29,0,29
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,22
 Brazil,RS,NÃO ESPECIFICADA/RS,43,0,1
 Brazil,PE,NÃO ESPECIFICADA/PE,26,2,8
@@ -440,3 +438,6 @@ Brazil,PR,Fazenda Rio Grande/PR,4107652,0,1
 Brazil,PR,Araucária/PR,4101804,0,1
 Brazil,PR,Arapongas/PR,4101507,0,2
 Brazil,PR,Cambé/PR,4103701,0,1
+Brazil,BA,Barra do Rocha/BA,2903102,0,1
+Brazil,BA,Ipiaú/BA,2913903,0,1
+Brazil,BA,Vitória da Conquista/BA,2933307,0,1
