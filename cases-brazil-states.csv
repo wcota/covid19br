@@ -470,9 +470,9 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-29,Brazil,PI,TOTAL,1,5,16
 2020-03-29,Brazil,AP,TOTAL,0,4,8
 2020-03-29,Brazil,RR,TOTAL,0,4,16
+2020-03-29,Brazil,AL,TOTAL,0,3,17
 2020-03-29,Brazil,SP,TOTAL,98,45,1451
 2020-03-29,Brazil,MT,TOTAL,0,3,16
-2020-03-29,Brazil,AL,TOTAL,0,3,17
 2020-03-29,Brazil,MS,TOTAL,0,5,36
 2020-03-29,Brazil,SE,TOTAL,0,0,16
 2020-03-29,Brazil,TO,TOTAL,0,0,9
@@ -513,6 +513,7 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-31,Brazil,ES,TOTAL,0,12,97
 2020-03-31,Brazil,BA,TOTAL,2,41,217
 2020-03-31,Brazil,DF,TOTAL,3,21,333
+2020-03-31,Brazil,AL,TOTAL,1,1,18
 2020-03-31,Brazil,RS,TOTAL,4,51,305
 2020-03-31,Brazil,PE,TOTAL,6,9,87
 2020-03-31,Brazil,PR,TOTAL,3,25,185
@@ -532,7 +533,6 @@ date,country,state,city,deaths,newCases,totalCases
 2020-03-31,Brazil,RO,TOTAL,1,1,9
 2020-03-31,Brazil,RR,TOTAL,0,6,22
 2020-03-31,Brazil,TO,TOTAL,0,1,12
-2020-03-31,Brazil,AL,TOTAL,1,1,18
 2020-03-31,Brazil,AC,TOTAL,0,0,42
 2020-03-31,Brazil,PI,TOTAL,4,0,18
 2020-03-31,Brazil,TOTAL,TOTAL,201,1170,5834

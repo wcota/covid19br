@@ -5,7 +5,7 @@ Brazil,ES,Vila Velha/ES,3205200,0,35
 Brazil,BA,Feira de Santana/BA,2910800,0,17
 Brazil,RJ,Rio de Janeiro/RJ,3304557,18,586
 Brazil,DF,Brasília/DF,5300108,3,333
-Brazil,AL,Maceió/AL,2704302,1,12
+Brazil,AL,Maceió/AL,2704302,1,13
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,17
 Brazil,MG,Divinópolis/MG,3122306,0,9
 Brazil,RJ,Niterói/RJ,3303302,1,57
@@ -184,7 +184,7 @@ Brazil,SC,Içara/SC,4207007,0,1
 Brazil,PR,Cascavel/PR,4104808,1,10
 Brazil,ES,Serra/ES,3205002,0,14
 Brazil,ES,Santa Teresa/ES,3204609,0,1
-Brazil,AL,FORA DO ESTADO/AL,27,0,1
+Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
 Brazil,BA,Teixeira de Freitas/BA,2931350,0,1
 Brazil,PR,Telêmaco Borba/PR,4127106,0,2
@@ -332,7 +332,6 @@ Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,4
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,AL,NÃO ESPECIFICADA/AL,27,0,4
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,1
 Brazil,ES,São Mateus/ES,3204906,0,1
