@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 Brazil,ES,Vila Velha/ES,3205200,0,36
 Brazil,BA,Feira de Santana/BA,2910800,0,18
 Brazil,RJ,Rio de Janeiro/RJ,3304557,20,697
-Brazil,DF,Brasília/DF,5300108,4,355
+Brazil,DF,Brasília/DF,5300108,4,385
 Brazil,AL,Maceió/AL,2704302,1,13
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,18
 Brazil,MG,Divinópolis/MG,3122306,0,13
@@ -457,11 +457,9 @@ Brazil,MA,Açailândia/MA,2100055,0,1
 Brazil,CE,Eusébio/CE,2304285,1,1
 Brazil,CE,Tianguá/CE,2313401,1,1
 Brazil,PB,Cabedelo/PB,2503209,0,1
-Brazil,RJ,NÃO ESPECIFICADA/RJ,33,13,160
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,15
 Brazil,PE,NÃO ESPECIFICADA/PE,26,1,11
 Brazil,SE,NÃO ESPECIFICADA/SE,28,2,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,11,105
 Brazil,RO,NÃO ESPECIFICADA/RO,11,0,1
 Brazil,PR,Paranaguá/PR,4118204,0,1
 Brazil,PR,Mandirituba/PR,4114302,0,1
@@ -471,3 +469,6 @@ Brazil,PR,Terra Boa/PR,4127205,0,1
 Brazil,PR,São Manoel do Paraná/PR,4125555,0,1
 Brazil,PR,Cornélio Procópio/PR,4106407,0,1
 Brazil,PR,Leópolis/PR,4113403,0,1
+Brazil,CE,NÃO ESPECIFICADA/CE,23,11,105
+Brazil,RJ,NÃO ESPECIFICADA/RJ,33,13,160
+Brazil,AP,NÃO ESPECIFICADA/AP,16,0,1

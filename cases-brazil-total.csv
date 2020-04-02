@@ -1,10 +1,10 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,URL
-Brazil,TOTAL,7928,7910,18,299,https://covid.saude.gov.br/
+Brazil,TOTAL,7959,7910,49,299,https://covid.saude.gov.br/
 Brazil,SP,3506,3506,0,188,http://www.saopaulo.sp.gov.br/
 Brazil,RJ,992,992,0,41,http://www.rj.gov.br/
 Brazil,ES,120,120,0,1,https://saude.es.gov.br/
 Brazil,BA,267,267,0,3,http://www.saude.ba.gov.br/
-Brazil,DF,370,370,0,4,http://www.saude.df.gov.br/coronavirus/
+Brazil,DF,400,370,30,4,http://www.saude.df.gov.br/coronavirus/
 Brazil,AL,18,18,0,1,http://cidadao.saude.al.gov.br/
 Brazil,MG,370,370,0,4,https://www.saude.mg.gov.br/
 Brazil,RS,334,334,0,5,https://saude.rs.gov.br
@@ -23,7 +23,7 @@ Brazil,PA,49,46,3,1,http://www.saude.pa.gov.br
 Brazil,PB,28,21,7,1,https://paraiba.pb.gov.br/
 Brazil,PI,19,19,0,4,https://www.pi.gov.br/noticias
 Brazil,RO,10,10,0,1,http://www.rondonia.ro.gov.br/
-Brazil,AP,11,11,0,0,https://saude.portal.ap.gov.br/
+Brazil,AP,12,11,1,0,https://saude.portal.ap.gov.br/
 Brazil,MA,71,71,0,1,http://www.saude.ma.gov.br/
 Brazil,MT,36,36,0,0,http://www.saude.mt.gov.br/
 Brazil,RR,26,26,0,0,https://saude.rr.gov.br/
