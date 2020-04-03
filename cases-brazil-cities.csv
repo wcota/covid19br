@@ -334,7 +334,7 @@ Brazil,RN,NÃO ESPECIFICADA/RN,24,2,1
 Brazil,MS,NÃO ESPECIFICADA/MS,50,0,7
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,2
-Brazil,PI,NÃO ESPECIFICADA/PI,22,0,2
+Brazil,PI,NÃO ESPECIFICADA/PI,22,0,3
 Brazil,ES,São Mateus/ES,3204906,0,3
 Brazil,MG,NÃO ESPECIFICADA/MG,31,2,30
 Brazil,MG,Manhuaçu/MG,3139409,0,1
@@ -503,9 +503,6 @@ Brazil,SP,Itararé/SP,3523206,0,1
 Brazil,SP,Itu/SP,3523909,0,1
 Brazil,SP,Jaú/SP,3525300,0,1
 Brazil,SP,Águas de Lindóia/SP,3500501,0,1
-Brazil,AL,NÃO ESPECIFICADA/AL,27,1,4
-Brazil,SE,NÃO ESPECIFICADA/SE,28,0,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,0,26
 Brazil,PE,Cabo de Santo Agostinho/PE,2602902,0,2
 Brazil,PE,Paulista/PE,2610707,0,3
 Brazil,RN,Baía Formosa/RN,2401404,0,1
@@ -516,11 +513,14 @@ Brazil,GO,Bom Jesus de Goiás/GO,5203500,0,1
 Brazil,GO,Nova Veneza/GO,5215009,0,1
 Brazil,GO,Senador Canedo/GO,5220454,0,1
 Brazil,GO,São Luís de Montes Belos/GO,5220108,0,1
-Brazil,SC,NÃO ESPECIFICADA/SC,42,0,20
-Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
 Brazil,PR,Araruna/PR,4101705,0,1
 Brazil,PR,Campina Grande do Sul/PR,4104006,0,1
 Brazil,PR,Campo Magro/PR,4104253,0,1
 Brazil,PR,Colombo/PR,4105805,0,1
 Brazil,PR,Piraquara/PR,4119509,0,1
 Brazil,PR,Sarandi/PR,4126256,0,1
+Brazil,SC,NÃO ESPECIFICADA/SC,42,0,20
+Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
+Brazil,PA,NÃO ESPECIFICADA/PA,15,0,26
+Brazil,AL,NÃO ESPECIFICADA/AL,27,1,4
+Brazil,SE,NÃO ESPECIFICADA/SE,28,0,1
