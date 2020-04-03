@@ -568,6 +568,7 @@ date,country,state,city,deaths,newCases,totalCases
 2020-04-02,Brazil,BA,TOTAL,3,23,269
 2020-04-02,Brazil,DF,TOTAL,4,45,400
 2020-04-02,Brazil,RS,TOTAL,5,70,386
+2020-04-02,Brazil,PE,TOTAL,9,11,106
 2020-04-02,Brazil,PR,TOTAL,4,29,258
 2020-04-02,Brazil,SC,TOTAL,2,34,281
 2020-04-02,Brazil,AM,TOTAL,3,29,229
@@ -584,7 +585,6 @@ date,country,state,city,deaths,newCases,totalCases
 2020-04-02,Brazil,RN,TOTAL,2,13,105
 2020-04-02,Brazil,SE,TOTAL,2,1,23
 2020-04-02,Brazil,RO,TOTAL,1,1,10
-2020-04-02,Brazil,PE,TOTAL,9,11,106
 2020-04-02,Brazil,RJ,TOTAL,41,160,992
 2020-04-02,Brazil,AL,TOTAL,1,0,18
 2020-04-02,Brazil,GO,TOTAL,1,0,73
