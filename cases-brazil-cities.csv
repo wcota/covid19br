@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 Brazil,ES,Vila Velha/ES,3205200,0,44
 Brazil,BA,Feira de Santana/BA,2910800,0,21
 Brazil,RJ,Rio de Janeiro/RJ,3304557,31,798
-Brazil,DF,Brasília/DF,5300108,5,400
+Brazil,DF,Brasília/DF,5300108,5,425
 Brazil,AL,Maceió/AL,2704302,1,13
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,20
 Brazil,MG,Divinópolis/MG,3122306,0,9
@@ -13,7 +13,7 @@ Brazil,RS,Campo Bom/RS,4303905,0,2
 Brazil,RS,Porto Alegre/RS,4314902,3,232
 Brazil,PE,Recife/PE,2611606,6,92
 Brazil,RS,Caxias do Sul/RS,4305108,0,13
-Brazil,PR,Curitiba/PR,4106902,0,99
+Brazil,PR,Curitiba/PR,4106902,0,114
 Brazil,PR,Cianorte/PR,4105508,0,11
 Brazil,SP,Ferraz de Vasconcelos/SP,3515707,0,12
 Brazil,SC,Florianópolis/SC,4205407,1,71
@@ -52,14 +52,14 @@ Brazil,MG,Nova Lima/MG,3144805,0,22
 Brazil,MG,Sete Lagoas/MG,3167202,0,2
 Brazil,MG,Uberlândia/MG,3170206,0,22
 Brazil,PR,Campo Largo/PR,4104204,0,5
-Brazil,PR,Pinhais/PR,4119152,0,5
-Brazil,PR,Londrina/PR,4113700,0,27
+Brazil,PR,Pinhais/PR,4119152,0,6
+Brazil,PR,Londrina/PR,4113700,0,30
 Brazil,TO,Palmas/TO,1721000,0,9
 Brazil,GO,Jataí/GO,5211909,0,2
 Brazil,GO,Aparecida de Goiânia/GO,5201405,0,4
 Brazil,SC,Balneário Camboriú/SC,4202008,0,10
-Brazil,PR,Maringá/PR,4115200,2,13
-Brazil,PR,Foz do Iguaçu/PR,4108304,0,12
+Brazil,PR,Maringá/PR,4115200,2,15
+Brazil,PR,Foz do Iguaçu/PR,4108304,0,22
 Brazil,PA,Belém/PA,1501402,0,29
 Brazil,SE,Propriá/SE,2805703,0,2
 Brazil,PB,João Pessoa/PB,2507507,0,23
@@ -91,7 +91,7 @@ Brazil,SP,Taubaté/SP,3554102,0,1
 Brazil,SP,Suzano/SP,3552502,1,5
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,2,64
+Brazil,CE,NÃO ESPECIFICADA/CE,23,2,95
 Brazil,AP,Macapá/AP,1600303,0,19
 Brazil,SC,Itajaí/SC,4208203,0,19
 Brazil,SC,Navegantes/SC,4211306,0,4
@@ -180,13 +180,13 @@ Brazil,RS,Capão da Canoa/RS,4304630,0,2
 Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SC,Gaspar/SC,4205902,0,2
 Brazil,SC,Içara/SC,4207007,0,1
-Brazil,PR,Cascavel/PR,4104808,1,13
+Brazil,PR,Cascavel/PR,4104808,1,15
 Brazil,ES,Serra/ES,3205002,1,23
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
 Brazil,BA,Teixeira de Freitas/BA,2931350,0,2
-Brazil,PR,Telêmaco Borba/PR,4127106,0,3
+Brazil,PR,Telêmaco Borba/PR,4127106,0,4
 Brazil,PR,Paranavaí/PR,4118402,0,3
 Brazil,SP,ESTRANGEIRO/SP,35,0,33
 Brazil,RJ,Volta Redonda/RJ,3306305,2,43
@@ -201,6 +201,7 @@ Brazil,SC,Tijucas/SC,4218004,0,1
 Brazil,GO,Valparaíso de Goiás/GO,5221858,0,5
 Brazil,CE,Mauriti/CE,2308104,0,1
 Brazil,RS,Anta Gorda/RS,4300703,0,2
+Brazil,RS,NÃO ESPECIFICADA/RS,43,0,14
 Brazil,RS,Paraí/RS,4314001,0,1
 Brazil,MT,Nova Monte Verde/MT,5108956,0,1
 Brazil,PA,Ananindeua/PA,1500800,0,8
@@ -213,7 +214,7 @@ Brazil,RS,Pelotas/RS,4314407,0,2
 Brazil,RS,Cerro Grande do Sul/RS,4305173,0,1
 Brazil,RS,Dom Pedrito/RS,4306601,0,1
 Brazil,PR,Faxinal/PR,4107603,0,1
-Brazil,PR,Campo Mourão/PR,4104303,1,8
+Brazil,PR,Campo Mourão/PR,4104303,1,9
 Brazil,SC,Balneário Arroio do Silva/SC,4201950,0,1
 Brazil,SC,Canelinha/SC,4203709,0,1
 Brazil,SC,São Pedro de Alcântara/SC,4217253,0,1
@@ -261,7 +262,7 @@ Brazil,RJ,Itaboraí/RJ,3301900,0,6
 Brazil,PR,Guarapuava/PR,4109401,0,1
 Brazil,PR,Iretama/PR,4110805,0,1
 Brazil,PR,Umuarama/PR,4128104,0,2
-Brazil,PR,União da Vitória/PR,4128203,0,1
+Brazil,PR,União da Vitória/PR,4128203,0,2
 Brazil,CE,Maranguape/CE,2307700,0,2
 Brazil,GO,NÃO ESPECIFICADA/GO,52,1,1
 Brazil,MS,Batayporã/MS,5002001,1,4
@@ -308,10 +309,10 @@ Brazil,MG,Extrema/MG,3125101,0,1
 Brazil,MG,Muriaé/MG,3143906,0,3
 Brazil,MG,Serra do Salitre/MG,3166808,0,1
 Brazil,MG,Santa Luzia/MG,3157807,0,1
-Brazil,PR,São José dos Pinhais/PR,4125506,0,4
+Brazil,PR,São José dos Pinhais/PR,4125506,0,6
 Brazil,PR,Contenda/PR,4106209,0,1
 Brazil,PR,Marechal Cândido Rondon/PR,4114609,0,2
-Brazil,PR,Medianeira/PR,4115804,0,1
+Brazil,PR,Medianeira/PR,4115804,0,3
 Brazil,PR,Peabiru/PR,4118808,0,1
 Brazil,PR,Terra Rica/PR,4127304,0,1
 Brazil,PR,Castro/PR,4104907,0,1
@@ -385,7 +386,7 @@ Brazil,BA,Barra/BA,2902708,0,1
 Brazil,BA,Candeias/BA,2906501,0,1
 Brazil,BA,Itajuípe/BA,2915502,0,3
 Brazil,BA,Coaraci/BA,2908002,0,1
-Brazil,BA,NÃO ESPECIFICADA/BA,29,2,15
+Brazil,BA,NÃO ESPECIFICADA/BA,29,2,23
 Brazil,BA,Nova Soure/BA,2922904,0,1
 Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
@@ -419,9 +420,9 @@ Brazil,RJ,Macaé/RJ,3302403,0,1
 Brazil,PR,Assis Chateaubriand/PR,4102000,0,1
 Brazil,PR,Ibaiti/PR,4109708,0,1
 Brazil,PR,Fazenda Rio Grande/PR,4107652,0,1
-Brazil,PR,Araucária/PR,4101804,0,1
+Brazil,PR,Araucária/PR,4101804,0,2
 Brazil,PR,Arapongas/PR,4101507,0,2
-Brazil,PR,Cambé/PR,4103701,0,1
+Brazil,PR,Cambé/PR,4103701,0,2
 Brazil,BA,Barra do Rocha/BA,2903102,0,1
 Brazil,BA,Ipiaú/BA,2913903,0,1
 Brazil,BA,Vitória da Conquista/BA,2933307,0,1
@@ -452,7 +453,7 @@ Brazil,MA,Açailândia/MA,2100055,0,1
 Brazil,CE,Eusébio/CE,2304285,1,1
 Brazil,CE,Tianguá/CE,2313401,1,2
 Brazil,PB,Cabedelo/PB,2503209,0,1
-Brazil,PR,Paranaguá/PR,4118204,0,1
+Brazil,PR,Paranaguá/PR,4118204,0,2
 Brazil,PR,Mandirituba/PR,4114302,0,1
 Brazil,PR,Palmeira/PR,4117701,0,1
 Brazil,PR,Goioerê/PR,4108601,0,1
@@ -502,11 +503,9 @@ Brazil,SP,Itararé/SP,3523206,0,1
 Brazil,SP,Itu/SP,3523909,0,1
 Brazil,SP,Jaú/SP,3525300,0,1
 Brazil,SP,Águas de Lindóia/SP,3500501,0,1
-Brazil,DF,NÃO ESPECIFICADA/DF,53,0,2
 Brazil,AL,NÃO ESPECIFICADA/AL,27,1,4
-Brazil,PR,NÃO ESPECIFICADA/PR,41,0,43
 Brazil,SE,NÃO ESPECIFICADA/SE,28,0,1
-Brazil,PA,NÃO ESPECIFICADA/PA,15,0,1
+Brazil,PA,NÃO ESPECIFICADA/PA,15,0,26
 Brazil,PE,Cabo de Santo Agostinho/PE,2602902,0,2
 Brazil,PE,Paulista/PE,2610707,0,3
 Brazil,RN,Baía Formosa/RN,2401404,0,1
@@ -517,3 +516,11 @@ Brazil,GO,Bom Jesus de Goiás/GO,5203500,0,1
 Brazil,GO,Nova Veneza/GO,5215009,0,1
 Brazil,GO,Senador Canedo/GO,5220454,0,1
 Brazil,GO,São Luís de Montes Belos/GO,5220108,0,1
+Brazil,SC,NÃO ESPECIFICADA/SC,42,0,20
+Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
+Brazil,PR,Araruna/PR,4101705,0,1
+Brazil,PR,Campina Grande do Sul/PR,4104006,0,1
+Brazil,PR,Campo Magro/PR,4104253,0,1
+Brazil,PR,Colombo/PR,4105805,0,1
+Brazil,PR,Piraquara/PR,4119509,0,1
+Brazil,PR,Sarandi/PR,4126256,0,1
