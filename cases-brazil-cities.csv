@@ -36,10 +36,10 @@ Brazil,SP,Carapicuíba/SP,3510609,0,7
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,2,52
 Brazil,SP,São Caetano do Sul/SP,3548807,1,32
-Brazil,CE,Fortaleza/CE,2304400,6,413
+Brazil,CE,Fortaleza/CE,2304400,16,526
 Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 Brazil,SP,Mauá/SP,3529401,0,3
-Brazil,CE,Aquiraz/CE,2301000,0,14
+Brazil,CE,Aquiraz/CE,2301000,0,13
 Brazil,MG,Belo Horizonte/MG,3106200,2,188
 Brazil,GO,Anápolis/GO,5201108,0,4
 Brazil,BA,Porto Seguro/BA,2925303,0,10
@@ -91,7 +91,6 @@ Brazil,SP,Taubaté/SP,3554102,0,1
 Brazil,SP,Suzano/SP,3552502,1,4
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-Brazil,CE,Fortim/CE,2304459,0,1
 Brazil,AP,Macapá/AP,1600303,0,11
 Brazil,SC,Itajaí/SC,4208203,0,18
 Brazil,SC,Navegantes/SC,4211306,0,3
@@ -267,7 +266,7 @@ Brazil,PR,Guarapuava/PR,4109401,0,1
 Brazil,PR,Iretama/PR,4110805,0,1
 Brazil,PR,Umuarama/PR,4128104,0,2
 Brazil,PR,União da Vitória/PR,4128203,0,1
-Brazil,CE,Maranguape/CE,2307700,0,1
+Brazil,CE,Maranguape/CE,2307700,0,2
 Brazil,MS,Batayporã/MS,5002001,1,4
 Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 Brazil,SC,Antônio Carlos/SC,4201208,0,1
@@ -335,7 +334,7 @@ Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
 Brazil,RN,NÃO ESPECIFICADA/RN,24,1,22
 Brazil,CE,Itaitinga/CE,2306256,0,1
-Brazil,CE,Maracanaú/CE,2307650,0,1
+Brazil,CE,Maracanaú/CE,2307650,0,2
 Brazil,ES,São Mateus/ES,3204906,0,3
 Brazil,MG,NÃO ESPECIFICADA/MG,31,1,58
 Brazil,MG,Manhuaçu/MG,3139409,0,1
@@ -455,7 +454,7 @@ Brazil,PA,Santarém/PA,1506807,0,4
 Brazil,PA,Barcarena/PA,1501303,0,1
 Brazil,MA,Açailândia/MA,2100055,0,1
 Brazil,CE,Eusébio/CE,2304285,1,1
-Brazil,CE,Tianguá/CE,2313401,1,1
+Brazil,CE,Tianguá/CE,2313401,1,2
 Brazil,PB,Cabedelo/PB,2503209,0,1
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,15
 Brazil,PE,NÃO ESPECIFICADA/PE,26,1,11
@@ -469,6 +468,8 @@ Brazil,PR,Terra Boa/PR,4127205,0,1
 Brazil,PR,São Manoel do Paraná/PR,4125555,0,1
 Brazil,PR,Cornélio Procópio/PR,4106407,0,1
 Brazil,PR,Leópolis/PR,4113403,0,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,11,105
 Brazil,RJ,NÃO ESPECIFICADA/RJ,33,13,160
 Brazil,AP,NÃO ESPECIFICADA/AP,16,0,1
+Brazil,CE,Icó/CE,2305407,0,2
+Brazil,CE,Itapipoca/CE,2306405,0,1
+Brazil,CE,Jaguaribe/CE,2306900,1,1

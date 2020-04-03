@@ -567,6 +567,7 @@ date,country,state,city,deaths,newCases,totalCases
 2020-04-02,Brazil,DF,TOTAL,4,45,400
 2020-04-02,Brazil,RS,TOTAL,5,18,334
 2020-04-02,Brazil,PR,TOTAL,4,29,258
+2020-04-02,Brazil,CE,TOTAL,20,118,563
 2020-04-02,Brazil,AC,TOTAL,0,2,45
 2020-04-02,Brazil,PA,TOTAL,1,8,49
 2020-04-02,Brazil,PB,TOTAL,1,7,28
@@ -580,7 +581,6 @@ date,country,state,city,deaths,newCases,totalCases
 2020-04-02,Brazil,PE,TOTAL,9,11,106
 2020-04-02,Brazil,SE,TOTAL,2,1,23
 2020-04-02,Brazil,RO,TOTAL,1,1,10
-2020-04-02,Brazil,CE,TOTAL,20,105,550
 2020-04-02,Brazil,RJ,TOTAL,41,160,992
 2020-04-02,Brazil,AP,TOTAL,0,1,12
 2020-04-02,Brazil,ES,TOTAL,1,0,120
@@ -591,4 +591,4 @@ date,country,state,city,deaths,newCases,totalCases
 2020-04-02,Brazil,PI,TOTAL,4,0,19
 2020-04-02,Brazil,MA,TOTAL,1,0,71
 2020-04-02,Brazil,RR,TOTAL,0,0,26
-2020-04-02,Brazil,TOTAL,TOTAL,299,1043,7959
+2020-04-02,Brazil,TOTAL,TOTAL,299,1056,7972
