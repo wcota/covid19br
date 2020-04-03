@@ -20,7 +20,7 @@ Brazil,SC,Florianópolis/SC,4205407,0,71
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,43
-Brazil,RN,Natal/RN,2408102,0,42
+Brazil,RN,Natal/RN,2408102,0,56
 Brazil,BA,Salvador/BA,2927408,3,167
 Brazil,AM,Manaus/AM,1302603,2,205
 Brazil,SC,Joinville/SC,4209102,1,16
@@ -112,7 +112,7 @@ Brazil,RS,Canoas/RS,4304606,0,8
 Brazil,ES,Cariacica/ES,3201308,0,11
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,78
-Brazil,RN,Parnamirim/RN,2403251,0,10
+Brazil,RN,Parnamirim/RN,2403251,0,13
 Brazil,MG,Mariana/MG,3140001,1,3
 Brazil,MG,Poços de Caldas/MG,3151800,0,2
 Brazil,SP,Osasco/SP,3534401,3,51
@@ -140,7 +140,7 @@ Brazil,RS,Estrela/RS,4307807,0,1
 Brazil,RS,Lajeado/RS,4311403,0,6
 Brazil,RS,Santa Maria/RS,4316907,0,2
 Brazil,RS,Viamão/RS,4323002,0,4
-Brazil,RN,Mossoró/RN,2408003,1,17
+Brazil,RN,Mossoró/RN,2408003,1,21
 Brazil,BA,Barreiras/BA,2903201,0,1
 Brazil,SP,São Sebastião/SP,3550704,0,3
 Brazil,PE,Olinda/PE,2609600,1,5
@@ -326,7 +326,7 @@ Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,4
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,1,22
+Brazil,RN,NÃO ESPECIFICADA/RN,24,1,0
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,2
 Brazil,ES,São Mateus/ES,3204906,0,3
@@ -354,7 +354,7 @@ Brazil,SP,Paulínia/SP,3536505,0,1
 Brazil,SP,Santos/SP,3548500,0,37
 Brazil,AM,Novo Airão/AM,1303205,0,1
 Brazil,RN,Apodi/RN,2401008,0,1
-Brazil,RN,FORA DO ESTADO/RN,24,0,2
+Brazil,RN,FORA DO ESTADO/RN,24,0,3
 Brazil,RN,Luís Gomes/RN,2407005,0,1
 Brazil,RN,Carnaubais/RN,2402501,0,1
 Brazil,BA,Dias d'Ávila/BA,2910057,0,1
@@ -481,6 +481,7 @@ Brazil,MG,Santo Antônio do Monte/MG,3160405,0,2
 Brazil,MG,Toledo/MG,3169109,0,1
 Brazil,SE,Capela/SE,2801306,0,1
 Brazil,RO,NÃO ESPECIFICADA/RO,11,0,1
+Brazil,RN,Ceará-Mirim/RN,2402600,0,1
 Brazil,RR,Cantá/RR,1400175,0,3
 Brazil,RJ,Itaguaí/RJ,3302007,0,1
 Brazil,RJ,Magé/RJ,3302502,0,3
