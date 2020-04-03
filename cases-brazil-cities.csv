@@ -2,7 +2,7 @@ country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,164,2815
 Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 Brazil,ES,Vila Velha/ES,3205200,0,44
-Brazil,BA,Feira de Santana/BA,2910800,0,22
+Brazil,BA,Feira de Santana/BA,2910800,0,21
 Brazil,RJ,Rio de Janeiro/RJ,3304557,31,798
 Brazil,DF,Brasília/DF,5300108,4,400
 Brazil,AL,Maceió/AL,2704302,1,13
@@ -79,7 +79,7 @@ Brazil,RS,Torres/RS,4321501,0,7
 Brazil,RS,Farroupilha/RS,4307906,0,1
 Brazil,SC,São José/SC,4216602,1,12
 Brazil,MS,Sidrolândia/MS,5007901,0,1
-Brazil,BA,Lauro de Freitas/BA,2919207,0,12
+Brazil,BA,Lauro de Freitas/BA,2919207,0,11
 Brazil,BA,Itabuna/BA,2914802,0,4
 Brazil,RJ,Miguel Pereira/RJ,3302908,1,1
 Brazil,RS,Bagé/RS,4301602,0,16
