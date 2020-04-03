@@ -1,6 +1,6 @@
 # Number of confirmed cases of COVID-19 in Brazil
 
-Confirmed cases by day, using information from the news.
+Confirmed cases by day, using official information and [brasil.io](https://brasil.io/dataset/covid19/caso).
 
 More information: https://wcota.me/covid19br
 
@@ -10,6 +10,7 @@ More information: https://wcota.me/covid19br
 - [Telegram bot](https://t.me/CoronavirusBRBot)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
 - [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
+- [brasil.io](https://brasil.io/dataset/covid19/caso)
 
 ## Team
 
