@@ -1,7 +1,7 @@
 country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,144,2418
 Brazil,RJ,Barra Mansa/RJ,3300407,0,2
-Brazil,ES,Vila Velha/ES,3205200,0,36
+Brazil,ES,Vila Velha/ES,3205200,0,44
 Brazil,BA,Feira de Santana/BA,2910800,0,18
 Brazil,RJ,Rio de Janeiro/RJ,3304557,20,697
 Brazil,DF,Brasília/DF,5300108,4,385
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,0,24
 Brazil,MG,Patrocínio/MG,3148103,0,1
 Brazil,SE,Aracaju/SE,2800308,0,19
 Brazil,ES,Linhares/ES,3203205,0,7
-Brazil,ES,Vitória/ES,3205309,0,34
+Brazil,ES,Vitória/ES,3205309,0,36
 Brazil,SP,Carapicuíba/SP,3510609,0,7
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,2,52
@@ -62,7 +62,7 @@ Brazil,PR,Maringá/PR,4115200,2,13
 Brazil,PR,Foz do Iguaçu/PR,4108304,0,12
 Brazil,PA,Belém/PA,1501402,0,29
 Brazil,SE,Propriá/SE,2805703,0,2
-Brazil,PB,João Pessoa/PB,2507507,0,22
+Brazil,PB,João Pessoa/PB,2507507,0,23
 Brazil,RJ,Guapimirim/RJ,3301850,0,1
 Brazil,SP,Jaguariúna/SP,3524709,0,1
 Brazil,SP,São José do Rio Preto/SP,3549805,0,7
@@ -109,7 +109,7 @@ Brazil,RS,Taquara/RS,4321204,0,1
 Brazil,RS,Dois Irmãos/RS,4306403,0,1
 Brazil,RS,Eldorado do Sul/RS,4306767,0,1
 Brazil,RS,Canoas/RS,4304606,0,8
-Brazil,ES,Cariacica/ES,3201308,0,7
+Brazil,ES,Cariacica/ES,3201308,0,10
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,1,68
 Brazil,RN,Parnamirim/RN,2403251,0,10
@@ -181,7 +181,7 @@ Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SC,Gaspar/SC,4205902,0,2
 Brazil,SC,Içara/SC,4207007,0,1
 Brazil,PR,Cascavel/PR,4104808,1,13
-Brazil,ES,Serra/ES,3205002,0,22
+Brazil,ES,Serra/ES,3205002,0,23
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
@@ -200,7 +200,6 @@ Brazil,SC,São Ludgero/SC,4217006,0,1
 Brazil,SC,Tijucas/SC,4218004,0,1
 Brazil,GO,Valparaíso de Goiás/GO,5221858,0,4
 Brazil,CE,Mauriti/CE,2308104,0,1
-Brazil,ES,FORA DO ESTADO/ES,32,0,1
 Brazil,RS,Anta Gorda/RS,4300703,0,2
 Brazil,RS,Camaquã/RS,4303509,0,1
 Brazil,RS,Paraí/RS,4314001,0,1
@@ -289,7 +288,7 @@ Brazil,RN,Macaíba/RN,2407104,0,1
 Brazil,RN,Passa e Fica/RN,2409100,0,1
 Brazil,RN,Monte Alegre/RN,2407807,0,1
 Brazil,PA,Parauapebas/PA,1505536,0,1
-Brazil,ES,Guarapari/ES,3202405,0,2
+Brazil,ES,Guarapari/ES,3202405,0,3
 Brazil,ES,Itapemirim/ES,3202801,0,1
 Brazil,RS,Canguçu/RS,4304507,0,1
 Brazil,BA,Itagibá/BA,2915205,0,1
@@ -393,7 +392,7 @@ Brazil,BA,Medeiros Neto/BA,2921104,0,1
 Brazil,PA,Tucuruí/PA,1508100,0,1
 Brazil,PA,Marituba/PA,1504422,0,1
 Brazil,RS,São Domingos do Sul/RS,4318051,0,1
-Brazil,ES,NÃO ESPECIFICADA/ES,32,1,-1
+Brazil,ES,NÃO ESPECIFICADA/ES,32,1,1
 Brazil,ES,Viana/ES,3205101,0,1
 Brazil,SP,Votuporanga/SP,3557105,0,1
 Brazil,SP,Votorantim/SP,3557006,0,1
@@ -473,3 +472,5 @@ Brazil,AP,NÃO ESPECIFICADA/AP,16,0,1
 Brazil,CE,Icó/CE,2305407,0,2
 Brazil,CE,Itapipoca/CE,2306405,0,1
 Brazil,CE,Jaguaribe/CE,2306900,1,1
+Brazil,ES,Fundão/ES,3202207,0,1
+Brazil,ES,Sooretama/ES,3205010,0,2
