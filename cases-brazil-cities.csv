@@ -20,7 +20,7 @@ Brazil,SC,Florianópolis/SC,4205407,0,71
 Brazil,MG,Ipatinga/MG,3131307,0,1
 Brazil,GO,Rio Verde/GO,5218805,0,7
 Brazil,GO,Goiânia/GO,5208707,0,43
-Brazil,RN,Natal/RN,2408102,0,56
+Brazil,RN,Natal/RN,2408102,1,56
 Brazil,BA,Salvador/BA,2927408,3,167
 Brazil,AM,Manaus/AM,1302603,2,205
 Brazil,SC,Joinville/SC,4209102,1,16
@@ -132,7 +132,7 @@ Brazil,SP,Poá/SP,3539806,0,2
 Brazil,SP,Caieiras/SP,3509007,1,15
 Brazil,MS,Ponta Porã/MS,5006606,0,1
 Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,1
-Brazil,RO,Porto Velho/RO,1100205,0,7
+Brazil,RO,Porto Velho/RO,1100205,0,8
 Brazil,RR,Boa Vista/RR,1400100,0,24
 Brazil,RS,Carlos Barbosa/RS,4304804,0,1
 Brazil,RS,Estância Velha/RS,4307609,0,3
@@ -326,7 +326,6 @@ Brazil,RN,São José de Mipibu/RN,2412203,0,1
 Brazil,AM,Itacoatiara/AM,1301902,0,4
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
-Brazil,RN,NÃO ESPECIFICADA/RN,24,1,0
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,2
 Brazil,ES,São Mateus/ES,3204906,0,3
@@ -480,7 +479,6 @@ Brazil,MG,Santana do Paraíso/MG,3158953,0,1
 Brazil,MG,Santo Antônio do Monte/MG,3160405,0,2
 Brazil,MG,Toledo/MG,3169109,0,1
 Brazil,SE,Capela/SE,2801306,0,1
-Brazil,RO,NÃO ESPECIFICADA/RO,11,0,1
 Brazil,RN,Ceará-Mirim/RN,2402600,0,1
 Brazil,RR,Cantá/RR,1400175,0,3
 Brazil,RJ,Itaguaí/RJ,3302007,0,1
