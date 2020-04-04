@@ -36,10 +36,10 @@ Brazil,SP,Carapicuíba/SP,3510609,1,11
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,4,70
 Brazil,SP,São Caetano do Sul/SP,3548807,1,36
-Brazil,CE,Fortaleza/CE,2304400,16,526
+Brazil,CE,Fortaleza/CE,2304400,16,600
 Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 Brazil,SP,Mauá/SP,3529401,0,10
-Brazil,CE,Aquiraz/CE,2301000,0,13
+Brazil,CE,Aquiraz/CE,2301000,0,15
 Brazil,MG,Belo Horizonte/MG,3106200,3,225
 Brazil,GO,Anápolis/GO,5201108,0,4
 Brazil,BA,Porto Seguro/BA,2925303,0,10
@@ -91,7 +91,7 @@ Brazil,SP,Taubaté/SP,3554102,0,1
 Brazil,SP,Suzano/SP,3552502,1,6
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,2,95
+Brazil,CE,NÃO ESPECIFICADA/CE,23,2,12
 Brazil,AP,Macapá/AP,1600303,0,19
 Brazil,SC,Itajaí/SC,4208203,0,19
 Brazil,SC,Navegantes/SC,4211306,0,4
@@ -295,7 +295,7 @@ Brazil,PR,Quatiguá/PR,4120705,0,2
 Brazil,MS,Dourados/MS,5003702,0,6
 Brazil,TO,Araguaína/TO,1702109,0,3
 Brazil,CE,Quixadá/CE,2311306,0,2
-Brazil,CE,Caucaia/CE,2303709,0,1
+Brazil,CE,Caucaia/CE,2303709,0,4
 Brazil,PI,São José do Divino/PI,2210052,1,1
 Brazil,PI,Parnaíba/PI,2207702,1,1
 Brazil,MT,NÃO ESPECIFICADA/MT,51,1,0
@@ -547,3 +547,7 @@ Brazil,SP,Jaboticabal/SP,3524303,1,3
 Brazil,SP,Marília/SP,3529005,0,1
 Brazil,SP,Promissão/SP,3541604,0,1
 Brazil,SP,Rio Claro/SP,3543907,0,1
+Brazil,CE,Canindé/CE,2302800,0,1
+Brazil,CE,Farias Brito/CE,2304301,0,1
+Brazil,CE,Fortim/CE,2304459,0,1
+Brazil,CE,Ipaporanga/CE,2305654,0,1
