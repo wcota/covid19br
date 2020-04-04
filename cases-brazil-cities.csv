@@ -4,7 +4,7 @@ Brazil,RJ,Barra Mansa/RJ,3300407,0,3
 Brazil,ES,Vila Velha/ES,3205200,1,46
 Brazil,BA,Feira de Santana/BA,2910800,0,20
 Brazil,RJ,Rio de Janeiro/RJ,3304557,36,867
-Brazil,DF,Brasília/DF,5300108,5,425
+Brazil,DF,Brasília/DF,5300108,5,441
 Brazil,AL,Maceió/AL,2704302,2,17
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,22
 Brazil,MG,Divinópolis/MG,3122306,0,12
@@ -91,7 +91,7 @@ Brazil,SP,Taubaté/SP,3554102,0,1
 Brazil,SP,Suzano/SP,3552502,1,6
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,0,12
+Brazil,CE,NÃO ESPECIFICADA/CE,23,0,35
 Brazil,AP,Macapá/AP,1600303,0,19
 Brazil,SC,Itajaí/SC,4208203,0,19
 Brazil,SC,Navegantes/SC,4211306,0,4
@@ -329,6 +329,7 @@ Brazil,AM,Itacoatiara/AM,1301902,0,4
 Brazil,AM,Anori/AM,1300102,0,1
 Brazil,SC,Indaial/SC,4207502,0,1
 Brazil,RN,NÃO ESPECIFICADA/RN,24,0,1
+Brazil,MS,NÃO ESPECIFICADA/MS,50,0,2
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,2
 Brazil,ES,São Mateus/ES,3204906,0,3
@@ -551,3 +552,8 @@ Brazil,PB,Serra Branca/PB,2515500,0,1
 Brazil,ES,Colatina/ES,3201506,0,1
 Brazil,AL,Marechal Deodoro/AL,2704708,0,1
 Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
+Brazil,SC,NÃO ESPECIFICADA/SC,42,0,33
+Brazil,PR,NÃO ESPECIFICADA/PR,41,0,94
+Brazil,PE,NÃO ESPECIFICADA/PE,26,0,40
+Brazil,PA,NÃO ESPECIFICADA/PA,15,0,3
+Brazil,AP,NÃO ESPECIFICADA/AP,16,0,9
