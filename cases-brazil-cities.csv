@@ -7,7 +7,7 @@ Brazil,RJ,Rio de Janeiro/RJ,3304557,36,867
 Brazil,DF,Brasília/DF,5300108,7,443
 Brazil,AL,Maceió/AL,2704302,2,17
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,22
-Brazil,MG,Divinópolis/MG,3122306,0,12
+Brazil,MG,Divinópolis/MG,3122306,0,14
 Brazil,RJ,Niterói/RJ,3303302,1,65
 Brazil,RS,Campo Bom/RS,4303905,0,3
 Brazil,RS,Porto Alegre/RS,4314902,3,233
@@ -40,7 +40,7 @@ Brazil,CE,Fortaleza/CE,2304400,17,600
 Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 Brazil,SP,Mauá/SP,3529401,0,10
 Brazil,CE,Aquiraz/CE,2301000,0,15
-Brazil,MG,Belo Horizonte/MG,3106200,3,225
+Brazil,MG,Belo Horizonte/MG,3106200,3,237
 Brazil,GO,Anápolis/GO,5201108,0,4
 Brazil,BA,Porto Seguro/BA,2925303,0,10
 Brazil,PE,Belo Jardim/PE,2601706,0,1
@@ -48,9 +48,9 @@ Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,8
 Brazil,BA,Prado/BA,2925501,0,4
 Brazil,AC,Rio Branco/AC,1200401,0,36
 Brazil,SP,Santo André/SP,3547809,2,70
-Brazil,MG,Nova Lima/MG,3144805,0,30
+Brazil,MG,Nova Lima/MG,3144805,0,32
 Brazil,MG,Sete Lagoas/MG,3167202,0,2
-Brazil,MG,Uberlândia/MG,3170206,2,24
+Brazil,MG,Uberlândia/MG,3170206,2,26
 Brazil,PR,Campo Largo/PR,4104204,0,5
 Brazil,PR,Pinhais/PR,4119152,0,6
 Brazil,PR,Londrina/PR,4113700,0,30
@@ -163,7 +163,7 @@ Brazil,BA,Brumado/BA,2904605,0,5
 Brazil,MG,Betim/MG,3106705,0,5
 Brazil,MG,Bom Despacho/MG,3107406,0,1
 Brazil,MG,Campos Altos/MG,3111507,0,1
-Brazil,MG,Contagem/MG,3118601,0,10
+Brazil,MG,Contagem/MG,3118601,0,11
 Brazil,MG,Lagoa da Prata/MG,3137205,0,5
 Brazil,MG,Timóteo/MG,3168705,0,1
 Brazil,PE,FORA DO ESTADO/PE,26,0,2
@@ -335,7 +335,7 @@ Brazil,MS,NÃO ESPECIFICADA/MS,50,0,2
 Brazil,CE,Itaitinga/CE,2306256,0,1
 Brazil,CE,Maracanaú/CE,2307650,0,2
 Brazil,ES,São Mateus/ES,3204906,0,3
-Brazil,MG,NÃO ESPECIFICADA/MG,31,0,33
+Brazil,MG,NÃO ESPECIFICADA/MG,31,0,6
 Brazil,MG,Manhuaçu/MG,3139409,0,1
 Brazil,MG,Unaí/MG,3170404,0,1
 Brazil,GO,Itumbiara/GO,5211503,0,2
@@ -429,7 +429,7 @@ Brazil,RJ,Arraial do Cabo/RJ,3300258,1,1
 Brazil,RS,Alegrete/RS,4300406,0,1
 Brazil,RS,São Sebastião do Caí/RS,4319505,0,2
 Brazil,MG,Araguari/MG,3103504,0,1
-Brazil,MG,Lavras/MG,3138203,0,1
+Brazil,MG,Lavras/MG,3138203,0,2
 Brazil,MG,Capitólio/MG,3112802,0,1
 Brazil,MG,Pouso Alegre/MG,3152501,0,3
 Brazil,AM,Careiro da Várzea/AM,1301159,0,1
@@ -577,3 +577,7 @@ Brazil,TO,TO,17,0,2
 Brazil,PB,PB,25,0,2
 Brazil,AP,AP,16,0,1
 Brazil,MA,MA,21,0,8
+Brazil,MG,Varginha/MG,3170701,0,3
+Brazil,MG,Patos de Minas/MG,3148004,0,1
+Brazil,MG,Nanuque/MG,3144300,0,2
+Brazil,MG,Carmo da Cachoeira/MG,3113909,0,1
