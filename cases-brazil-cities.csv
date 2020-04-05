@@ -36,7 +36,7 @@ Brazil,SP,Carapicuíba/SP,3510609,1,11
 Brazil,SC,Braço do Norte/SC,4202800,0,12
 Brazil,SP,São Bernardo do Campo/SP,3548708,4,70
 Brazil,SP,São Caetano do Sul/SP,3548807,1,36
-Brazil,CE,Fortaleza/CE,2304400,17,600
+Brazil,CE,Fortaleza/CE,2304400,17,681
 Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 Brazil,SP,Mauá/SP,3529401,0,10
 Brazil,CE,Aquiraz/CE,2301000,0,15
@@ -91,7 +91,7 @@ Brazil,SP,Taubaté/SP,3554102,0,1
 Brazil,SP,Suzano/SP,3552502,1,6
 Brazil,RO,Ji-Paraná/RO,1100122,0,1
 Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-Brazil,CE,NÃO ESPECIFICADA/CE,23,0,84
+Brazil,CE,NÃO ESPECIFICADA/CE,23,0,14
 Brazil,AP,Macapá/AP,1600303,0,19
 Brazil,SC,Itajaí/SC,4208203,0,19
 Brazil,SC,Navegantes/SC,4211306,0,4
@@ -449,7 +449,7 @@ Brazil,PA,Santarém/PA,1506807,1,5
 Brazil,PA,Barcarena/PA,1501303,0,1
 Brazil,MA,Açailândia/MA,2100055,0,1
 Brazil,CE,Eusébio/CE,2304285,1,1
-Brazil,CE,Tianguá/CE,2313401,1,2
+Brazil,CE,Tianguá/CE,2313401,1,1
 Brazil,PB,Cabedelo/PB,2503209,0,1
 Brazil,PR,Paranaguá/PR,4118204,0,2
 Brazil,PR,Mandirituba/PR,4114302,0,1
@@ -549,7 +549,6 @@ Brazil,SP,Promissão/SP,3541604,0,1
 Brazil,SP,Rio Claro/SP,3543907,0,1
 Brazil,CE,Canindé/CE,2302800,0,1
 Brazil,CE,Farias Brito/CE,2304301,1,1
-Brazil,CE,Fortim/CE,2304459,0,1
 Brazil,CE,Ipaporanga/CE,2305654,0,1
 Brazil,PB,Junco do Seridó/PB,2507804,0,1
 Brazil,PB,Serra Branca/PB,2515500,0,1
@@ -564,7 +563,6 @@ Brazil,AP,NÃO ESPECIFICADA/AP,16,1,9
 Brazil,DF,NÃO ESPECIFICADA/DF,53,0,13
 Brazil,TO,NÃO ESPECIFICADA/TO,17,0,1
 Brazil,RO,NÃO ESPECIFICADA/RO,11,0,1
-Brazil,CE,CE,23,0,14
 Brazil,RS,RS,43,0,8
 Brazil,SC,SC,42,0,22
 Brazil,BA,BA,29,0,4
@@ -581,3 +579,6 @@ Brazil,MG,Varginha/MG,3170701,0,3
 Brazil,MG,Patos de Minas/MG,3148004,0,1
 Brazil,MG,Nanuque/MG,3144300,0,2
 Brazil,MG,Carmo da Cachoeira/MG,3113909,0,1
+Brazil,CE,Abaiara/CE,2300101,0,1
+Brazil,CE,Horizonte/CE,2305233,0,4
+Brazil,CE,Itapajé/CE,2306306,0,1
