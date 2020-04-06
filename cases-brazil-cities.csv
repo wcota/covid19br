@@ -1,7 +1,7 @@
 country,state,city,ibgeID,deaths,totalCases
 Brazil,SP,São Paulo/SP,3550308,212,3612
 Brazil,RJ,Barra Mansa/RJ,3300407,0,3
-Brazil,ES,Vila Velha/ES,3205200,2,50
+Brazil,ES,Vila Velha/ES,3205200,2,53
 Brazil,BA,Feira de Santana/BA,2910800,0,28
 Brazil,RJ,Rio de Janeiro/RJ,3304557,38,1068
 Brazil,DF,Brasília/DF,5300108,7,468
@@ -31,7 +31,7 @@ Brazil,MG,Juiz de Fora/MG,3136702,0,37
 Brazil,MG,Patrocínio/MG,3148103,0,3
 Brazil,SE,Aracaju/SE,2800308,3,28
 Brazil,ES,Linhares/ES,3203205,0,8
-Brazil,ES,Vitória/ES,3205309,2,43
+Brazil,ES,Vitória/ES,3205309,2,62
 Brazil,SP,Carapicuíba/SP,3510609,1,14
 Brazil,SC,Braço do Norte/SC,4202800,0,15
 Brazil,SP,São Bernardo do Campo/SP,3548708,4,81
@@ -110,7 +110,7 @@ Brazil,RS,Taquara/RS,4321204,0,1
 Brazil,RS,Dois Irmãos/RS,4306403,0,2
 Brazil,RS,Eldorado do Sul/RS,4306767,0,1
 Brazil,RS,Canoas/RS,4304606,0,10
-Brazil,ES,Cariacica/ES,3201308,0,14
+Brazil,ES,Cariacica/ES,3201308,0,16
 Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,1
 Brazil,MA,São Luís/MA,2111300,2,121
 Brazil,RN,Parnamirim/RN,2403251,0,17
@@ -181,7 +181,7 @@ Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SC,Gaspar/SC,4205902,0,2
 Brazil,SC,Içara/SC,4207007,0,1
 Brazil,PR,Cascavel/PR,4104808,1,15
-Brazil,ES,Serra/ES,3205002,1,28
+Brazil,ES,Serra/ES,3205002,1,31
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,AL,FORA DO ESTADO/AL,27,0,4
 Brazil,BA,Conde/BA,2908606,0,1
@@ -545,7 +545,7 @@ Brazil,CE,Farias Brito/CE,2304301,1,1
 Brazil,CE,Ipaporanga/CE,2305654,0,1
 Brazil,PB,Junco do Seridó/PB,2507804,1,1
 Brazil,PB,Serra Branca/PB,2515500,0,1
-Brazil,ES,Colatina/ES,3201506,0,1
+Brazil,ES,Colatina/ES,3201506,0,2
 Brazil,AL,Marechal Deodoro/AL,2704708,0,2
 Brazil,MA,Paço do Lumiar/MA,2107506,0,2
 Brazil,MA,São José de Ribamar/MA,2111201,0,5
@@ -585,7 +585,6 @@ Brazil,SP,São Manuel/SP,3550100,0,1
 Brazil,SC,NÃO ESPECIFICADA/SC,42,0,24
 Brazil,AP,NÃO ESPECIFICADA/AP,16,1,0
 Brazil,PR,NÃO ESPECIFICADA/PR,41,2,138
-Brazil,ES,NÃO ESPECIFICADA/ES,32,0,28
 Brazil,RO,Rolim de Moura/RO,1100288,0,1
 Brazil,RO,Vilhena/RO,1100304,0,1
 Brazil,RS,Arroio do Sal/RS,4301057,0,1
