@@ -31,7 +31,7 @@ Brazil,SE,Aracaju/SE,2800308,3,30
 Brazil,CE,Aracati/CE,2301109,0,2
 Brazil,ES,Aracruz/ES,3200607,0,5
 Brazil,MG,Araguari/MG,3103504,0,2
-Brazil,TO,Araguaína/TO,1702109,0,4
+Brazil,TO,Araguaína/TO,1702109,0,5
 Brazil,PR,Arapongas/PR,4101507,0,7
 Brazil,SC,Araranguá/SC,4201406,0,4
 Brazil,SP,Araraquara/SP,3503208,0,5
@@ -383,7 +383,7 @@ Brazil,MT,Lucas do Rio Verde/MT,5105259,1,1
 Brazil,GO,Luziânia/GO,5212501,1,6
 Brazil,RN,Luís Gomes/RN,2407005,0,1
 Brazil,PE,Macaparana/PE,2609006,0,1
-Brazil,AP,Macapá/AP,1600303,1,29
+Brazil,AP,Macapá/AP,1600303,1,35
 Brazil,RJ,Macaé/RJ,3302403,0,6
 Brazil,RN,Macaíba/RN,2407104,0,2
 Brazil,AL,Maceió/AL,2704302,2,24
@@ -452,11 +452,11 @@ Brazil,PA,Novo Progresso/PA,1505031,0,1
 Brazil,AC,NÃO ESPECIFICADA/AC,12,1,0
 Brazil,AL,NÃO ESPECIFICADA/AL,27,0,2
 Brazil,AM,NÃO ESPECIFICADA/AM,13,9,-1
-Brazil,AP,NÃO ESPECIFICADA/AP,16,1,19
+Brazil,AP,NÃO ESPECIFICADA/AP,16,1,12
 Brazil,BA,NÃO ESPECIFICADA/BA,29,3,-3
 Brazil,CE,NÃO ESPECIFICADA/CE,23,9,10
 Brazil,GO,NÃO ESPECIFICADA/GO,52,2,14
-Brazil,MA,NÃO ESPECIFICADA/MA,21,2,58
+Brazil,MA,NÃO ESPECIFICADA/MA,21,2,1
 Brazil,MG,NÃO ESPECIFICADA/MG,31,5,9
 Brazil,MS,NÃO ESPECIFICADA/MS,50,1,0
 Brazil,MT,NÃO ESPECIFICADA/MT,51,0,2
@@ -471,7 +471,7 @@ Brazil,RS,NÃO ESPECIFICADA/RS,43,1,0
 Brazil,SC,NÃO ESPECIFICADA/SC,42,1,1
 Brazil,SE,NÃO ESPECIFICADA/SE,28,1,0
 Brazil,SP,NÃO ESPECIFICADA/SP,35,112,9
-Brazil,TO,NÃO ESPECIFICADA/TO,17,0,3
+Brazil,TO,NÃO ESPECIFICADA/TO,17,0,2
 Brazil,PA,Oeiras do Pará/PA,1505205,0,1
 Brazil,AP,Oiapoque/AP,1600501,0,1
 Brazil,PE,Olinda/PE,2609600,3,18
@@ -511,7 +511,7 @@ Brazil,PE,Paudalho/PE,2610608,0,4
 Brazil,PE,Paulista/PE,2610707,0,8
 Brazil,SC,Paulo Lopes/SC,4212304,0,2
 Brazil,SP,Paulínia/SP,3536505,0,2
-Brazil,MA,Paço do Lumiar/MA,2107506,0,4
+Brazil,MA,Paço do Lumiar/MA,2107506,0,6
 Brazil,PR,Peabiru/PR,4118808,0,1
 Brazil,CE,Pedra Branca/CE,2310506,0,1
 Brazil,SC,Pedras Grandes/SC,4212403,1,1
@@ -595,6 +595,7 @@ Brazil,BA,Santa Cruz Cabrália/BA,2927705,0,4
 Brazil,SP,Santa Cruz do Rio Pardo/SP,3546405,0,2
 Brazil,RS,Santa Cruz do Sul/RS,4316808,0,1
 Brazil,PR,Santa Fé/PR,4123402,0,2
+Brazil,MA,Santa Inês/MA,2109908,0,1
 Brazil,SP,Santa Isabel/SP,3546801,0,2
 Brazil,MG,Santa Luzia/MG,3157807,0,1
 Brazil,BA,Santa Maria da Vitória/BA,2928109,0,1
@@ -607,7 +608,7 @@ Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,27
 Brazil,CE,Santana do Acaraú/CE,2312007,0,1
 Brazil,MG,Santana do Paraíso/MG,3158953,0,1
-Brazil,AP,Santana/AP,1600600,0,2
+Brazil,AP,Santana/AP,1600600,0,3
 Brazil,PA,Santarém/PA,1506807,1,10
 Brazil,RS,Santiago/RS,4317400,0,1
 Brazil,SC,Santo Amaro da Imperatriz/SC,4215703,0,1
@@ -647,6 +648,7 @@ Brazil,SP,Sorocaba/SP,3552205,2,11
 Brazil,PB,Sousa/PB,2516201,0,1
 Brazil,SP,Sumaré/SP,3552403,0,2
 Brazil,SP,Suzano/SP,3552502,0,13
+Brazil,MA,São Benedito do Rio Preto/MA,2110401,0,1
 Brazil,SP,São Bernardo do Campo/SP,3548708,4,129
 Brazil,SP,São Caetano do Sul/SP,3548807,1,50
 Brazil,SP,São Carlos/SP,3548906,0,1
@@ -662,7 +664,7 @@ Brazil,RN,São Gonçalo do Amarante/RN,2412005,0,11
 Brazil,RJ,São Gonçalo/RJ,3304904,1,22
 Brazil,RS,São Jorge/RS,4318440,0,1
 Brazil,RN,São José de Mipibu/RN,2412203,0,1
-Brazil,MA,São José de Ribamar/MA,2111201,0,8
+Brazil,MA,São José de Ribamar/MA,2111201,0,10
 Brazil,PI,São José do Divino/PI,2210052,1,3
 Brazil,SP,São José do Rio Pardo/SP,3549706,0,1
 Brazil,SP,São José do Rio Preto/SP,3549805,0,28
@@ -679,7 +681,7 @@ Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
 Brazil,RS,São Lourenço do Sul/RS,4318804,0,1
 Brazil,SC,São Ludgero/SC,4217006,1,3
 Brazil,GO,São Luís de Montes Belos/GO,5220108,0,1
-Brazil,MA,São Luís/MA,2111300,2,152
+Brazil,MA,São Luís/MA,2111300,2,203
 Brazil,PR,São Manoel do Paraná/PR,4125555,0,1
 Brazil,SP,São Manuel/SP,3550100,0,1
 Brazil,ES,São Mateus/ES,3204906,1,4
