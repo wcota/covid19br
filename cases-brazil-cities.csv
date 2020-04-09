@@ -17,7 +17,7 @@ Brazil,MT,Alta Floresta/MT,5100250,0,1
 Brazil,PA,Altamira/PA,1500602,0,2
 Brazil,RR,Alto Alegre/RR,1400050,0,1
 Brazil,ES,Alto Rio Novo/ES,3200359,0,0
-Brazil,RS,Alvorada/RS,4300604,0,4
+Brazil,RS,Alvorada/RS,4300604,1,4
 Brazil,SP,Americana/SP,3501608,2,3
 Brazil,CE,Amontada/CE,2300754,0,1
 Brazil,PA,Ananindeua/PA,1500800,0,16
@@ -50,6 +50,7 @@ Brazil,RN,Areia Branca/RN,2401107,0,1
 Brazil,MT,Aripuanã/MT,5101407,0,1
 Brazil,RJ,Arraial do Cabo/RJ,3300258,1,1
 Brazil,RS,Arroio do Sal/RS,4301057,0,1
+Brazil,RS,Arroio dos Ratos/RS,4301107,0,1
 Brazil,SP,Arujá/SP,3503901,1,8
 Brazil,PR,Assis Chateaubriand/PR,4102000,0,3
 Brazil,SP,Assis/SP,3504008,0,2
@@ -87,7 +88,7 @@ Brazil,RJ,Belford Roxo/RJ,3300456,3,19
 Brazil,BA,Belmonte/BA,2903409,0,2
 Brazil,MG,Belo Horizonte/MG,3106200,6,299
 Brazil,PE,Belo Jardim/PE,2601706,0,1
-Brazil,PA,Belém/PA,1501402,3,100
+Brazil,PA,Belém/PA,1501402,4,111
 Brazil,PA,Benevides/PA,1501501,0,1
 Brazil,RS,Bento Gonçalves/RS,4302105,0,11
 Brazil,MG,Betim/MG,3106705,0,6
@@ -186,7 +187,7 @@ Brazil,CE,Catarina/CE,2303600,0,1
 Brazil,PE,Catende/PE,2604205,1,1
 Brazil,BA,Catu/BA,2907509,0,1
 Brazil,CE,Caucaia/CE,2303709,0,14
-Brazil,RS,Caxias do Sul/RS,4305108,0,31
+Brazil,RS,Caxias do Sul/RS,4305108,0,32
 Brazil,SP,Caçapava/SP,3508504,0,2
 Brazil,RN,Ceará-Mirim/RN,2402600,0,3
 Brazil,SP,Cedral/SP,3511300,0,1
@@ -265,6 +266,7 @@ Brazil,ES,Fundão/ES,3202207,0,1
 Brazil,BA,Gandu/BA,2911204,0,1
 Brazil,RS,Garibaldi/RS,4308607,0,2
 Brazil,SC,Gaspar/SC,4205902,1,5
+Brazil,RS,Glorinha/RS,4309050,0,1
 Brazil,PE,Goiana/PE,2606200,2,2
 Brazil,GO,Goiandira/GO,5208509,1,1
 Brazil,PA,Goianésia do Pará/PA,1503093,0,1
@@ -292,7 +294,7 @@ Brazil,RS,Guaíba/RS,4309308,0,1
 Brazil,PR,Guaíra/PR,4108809,0,2
 Brazil,MG,Guimarânia/MG,3128907,0,1
 Brazil,TO,Gurupi/TO,1709500,0,1
-Brazil,RS,Harmonia/RS,4309555,0,2
+Brazil,RS,Harmonia/RS,4309555,0,3
 Brazil,GO,Hidrolândia/GO,5209705,0,0
 Brazil,CE,Horizonte/CE,2305233,0,6
 Brazil,SP,Hortolândia/SP,3519071,0,2
@@ -307,14 +309,12 @@ Brazil,GO,INDEFINIDA/GO,52,0,4
 Brazil,MA,INDEFINIDA/MA,21,0,1
 Brazil,MG,INDEFINIDA/MG,31,0,14
 Brazil,MT,INDEFINIDA/MT,51,0,2
-Brazil,PA,INDEFINIDA/PA,15,1,13
+Brazil,PA,INDEFINIDA/PA,15,0,2
 Brazil,PE,INDEFINIDA/PE,26,1,7
-Brazil,PI,INDEFINIDA/PI,22,0,7
 Brazil,PR,INDEFINIDA/PR,41,0,11
 Brazil,RJ,INDEFINIDA/RJ,33,17,251
 Brazil,RN,INDEFINIDA/RN,24,0,12
-Brazil,RS,INDEFINIDA/RS,43,1,26
-Brazil,SC,INDEFINIDA/SC,42,0,12
+Brazil,SC,INDEFINIDA/SC,42,0,11
 Brazil,SP,INDEFINIDA/SP,35,0,86
 Brazil,PR,Ibaiti/PR,4109708,0,1
 Brazil,PR,Ibema/PR,4109757,0,1
@@ -537,7 +537,7 @@ Brazil,RN,Parnamirim/RN,2403251,0,30
 Brazil,PI,Parnaíba/PI,2207702,1,1
 Brazil,RN,Passa e Fica/RN,2409100,0,1
 Brazil,PE,Passira/PE,2610509,0,1
-Brazil,RS,Passo Fundo/RS,4314100,0,14
+Brazil,RS,Passo Fundo/RS,4314100,0,15
 Brazil,PR,Pato Branco/PR,4118501,0,3
 Brazil,MG,Patos de Minas/MG,3148004,0,5
 Brazil,PB,Patos/PB,2510808,1,1
@@ -549,7 +549,7 @@ Brazil,SP,Paulínia/SP,3536505,0,2
 Brazil,MA,Paço do Lumiar/MA,2107506,1,9
 Brazil,PR,Peabiru/PR,4118808,0,1
 Brazil,CE,Pedra Branca/CE,2310506,0,1
-Brazil,SC,Pedras Grandes/SC,4212403,1,1
+Brazil,SC,Pedras Grandes/SC,4212403,1,2
 Brazil,RS,Pelotas/RS,4314407,0,5
 Brazil,SP,Penápolis/SP,3537305,1,1
 Brazil,SP,Peruíbe/SP,3537602,0,3
@@ -576,7 +576,7 @@ Brazil,PR,Ponta Grossa/PR,4119905,0,5
 Brazil,MS,Ponta Porã/MS,5006606,0,1
 Brazil,RJ,Porciúncula/RJ,3304102,0,1
 Brazil,AC,Porto Acre/AC,1200807,0,1
-Brazil,RS,Porto Alegre/RS,4314902,5,272
+Brazil,RS,Porto Alegre/RS,4314902,6,279
 Brazil,SC,Porto Belo/SC,4213500,0,4
 Brazil,SP,Porto Feliz/SP,3540606,0,0
 Brazil,AL,Porto Real do Colégio/AL,2707503,0,1
@@ -641,11 +641,11 @@ Brazil,MA,Santa Inês/MA,2109908,0,1
 Brazil,SP,Santa Isabel/SP,3546801,0,1
 Brazil,MG,Santa Luzia/MG,3157807,0,1
 Brazil,BA,Santa Maria da Vitória/BA,2928109,0,1
-Brazil,RS,Santa Maria/RS,4316907,0,2
+Brazil,RS,Santa Maria/RS,4316907,0,8
 Brazil,CE,Santa Quitéria/CE,2312205,1,1
 Brazil,PB,Santa Rita/PB,2513703,0,4
 Brazil,SC,Santa Rosa de Lima/SC,4215604,0,1
-Brazil,RS,Santa Rosa/RS,4317202,0,3
+Brazil,RS,Santa Rosa/RS,4317202,0,4
 Brazil,ES,Santa Teresa/ES,3204609,0,1
 Brazil,SP,Santana de Parnaíba/SP,3547304,0,29
 Brazil,CE,Santana do Acaraú/CE,2312007,0,1
@@ -662,7 +662,7 @@ Brazil,PA,Santo Antônio do Tauá/PA,1507003,0,1
 Brazil,RN,Santo Antônio/RN,2411502,0,1
 Brazil,SP,Santos/SP,3548500,3,109
 Brazil,RS,Sapiranga/RS,4319901,0,1
-Brazil,RS,Sapucaia do Sul/RS,4320008,0,2
+Brazil,RS,Sapucaia do Sul/RS,4320008,0,3
 Brazil,RJ,Sapucaia/RJ,3305406,0,1
 Brazil,PR,Sarandi/PR,4126256,0,2
 Brazil,MG,Sarzedo/MG,3165537,0,1
@@ -722,7 +722,7 @@ Brazil,RJ,São João da Barra/RJ,3305000,0,1
 Brazil,RJ,São João de Meriti/RJ,3305109,1,12
 Brazil,MG,São João del Rei/MG,3162500,0,3
 Brazil,PR,São João do Ivaí/PR,4125001,0,1
-Brazil,RS,São Leopoldo/RS,4318705,0,9
+Brazil,RS,São Leopoldo/RS,4318705,0,14
 Brazil,PE,São Lourenço da Mata/PE,2613701,5,15
 Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
 Brazil,RS,São Lourenço do Sul/RS,4318804,0,1
@@ -758,7 +758,7 @@ Brazil,SP,Taubaté/SP,3554102,0,5
 Brazil,BA,Teixeira de Freitas/BA,2931350,0,3
 Brazil,PR,Telêmaco Borba/PR,4127106,0,6
 Brazil,RN,Tenente Ananias/RN,2414100,1,1
-Brazil,PI,Teresina/PI,2211001,3,24
+Brazil,PI,Teresina/PI,2211001,4,31
 Brazil,RJ,Teresópolis/RJ,3305802,0,7
 Brazil,PR,Terra Boa/PR,4127205,0,1
 Brazil,PR,Terra Rica/PR,4127304,0,1
@@ -795,6 +795,7 @@ Brazil,RS,Uruguaiana/RS,4322400,0,2
 Brazil,SC,Urussanga/SC,4219002,0,2
 Brazil,BA,Uruçuca/BA,2932705,1,4
 Brazil,BA,Utinga/BA,2932804,1,1
+Brazil,RS,Vacaria/RS,4322509,0,1
 Brazil,RJ,Valença/RJ,3306107,0,2
 Brazil,SP,Valinhos/SP,3556206,0,4
 Brazil,GO,Valparaíso de Goiás/GO,5221858,0,6
