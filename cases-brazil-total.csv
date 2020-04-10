@@ -1,13 +1,13 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL
-Brazil,TOTAL,19725,19638,87,1058,1057,https://covid.saude.gov.br/
+Brazil,TOTAL,19854,19638,216,1058,1057,https://covid.saude.gov.br/
 Brazil,AC,70,70,0,2,2,http://saude.acre.gov.br/
 Brazil,AL,45,45,0,4,4,http://cidadao.saude.al.gov.br/
 Brazil,AM,981,981,0,50,50,http://www.amazonas.am.gov.br/
 Brazil,AP,166,166,0,2,2,https://saude.portal.ap.gov.br/
-Brazil,BA,604,604,0,19,19,http://www.saude.ba.gov.br/
-Brazil,CE,1514,1478,36,58,58,https://www.saude.ce.gov.br
+Brazil,BA,616,604,12,19,19,http://www.saude.ba.gov.br/
+Brazil,CE,1558,1478,80,58,58,https://www.saude.ce.gov.br
 Brazil,DF,563,555,8,14,14,http://www.saude.df.gov.br/coronavirus/
-Brazil,ES,300,300,0,7,7,https://saude.es.gov.br/
+Brazil,ES,349,300,49,7,7,https://saude.es.gov.br/
 Brazil,GO,191,191,0,8,8,http://www.saude.go.gov.br/
 Brazil,MA,293,293,0,16,16,http://www.saude.ma.gov.br/
 Brazil,MG,699,698,1,17,17,https://www.saude.mg.gov.br/
@@ -23,7 +23,7 @@ Brazil,RN,263,263,0,11,11,http://www.natal.rn.gov.br/
 Brazil,RO,32,32,0,2,2,http://www.rondonia.ro.gov.br/
 Brazil,RR,63,63,0,3,3,https://saude.rr.gov.br/
 Brazil,RS,640,636,4,14,14,https://saude.rs.gov.br
-Brazil,SC,693,693,0,18,18,http://www.saude.sc.gov.br
+Brazil,SC,717,693,24,18,18,http://www.saude.sc.gov.br
 Brazil,SE,42,42,0,4,4,https://www.se.gov.br/noticias/saude
 Brazil,SP,8216,8216,0,540,540,http://www.saopaulo.sp.gov.br/
 Brazil,TO,23,23,0,0,0,http://www.saude.to.gov.br/
