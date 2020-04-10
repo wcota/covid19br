@@ -25,6 +25,7 @@ Mais informações: https://wcota.me/covid19br
 
 - [BBC Brasil - Coronavírus: os sites que mostram dados de mortes, curvas de contágio e situação dos Estados no Brasil](https://www.bbc.com/portuguese/brasil-52067243)
 - [G1 - Estudante da UFV faz parte de pesquisa na Espanha sobre modelo computacional que prevê o risco de incidência do coronavírus](https://g1.globo.com/mg/zona-da-mata/noticia/2020/03/15/estudante-da-ufv-faz-parte-de-pesquisa-na-espanha-sobre-modelo-computacional-que-preve-o-risco-de-incidencia-do-coronavirus.ghtml)
+- [G1 - Universidades federais da Zona da Mata e Vertentes adotam medidas orçamentárias para pesquisas da Covid-19](https://g1.globo.com/mg/zona-da-mata/noticia/2020/04/05/universidades-federais-da-zona-da-mata-e-vertentes-adotam-medidas-orcamentarias-para-pesquisas-da-covid-19.ghtml)
 
 ## Licença
 
