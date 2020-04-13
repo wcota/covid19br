@@ -2,6 +2,7 @@ country,state,city,ibgeID,deaths,totalCases
 Brazil,PA,Abaetetuba/PA,1500107,0,2
 Brazil,MG,Abaeté/MG,3100203,0,1
 Brazil,PE,Abreu e Lima/PE,2600054,0,10
+Brazil,PA,Acará/PA,1500206,0,1
 Brazil,AC,Acrelândia/AC,1200013,0,10
 Brazil,SP,Adamantina/SP,3500105,0,0
 Brazil,BA,Adustina/BA,2900355,1,1
@@ -26,7 +27,7 @@ Brazil,SP,Americana/SP,3501608,2,3
 Brazil,CE,Amontada/CE,2300754,0,1
 Brazil,SP,Amparo/SP,3501905,0,1
 Brazil,SP,Américo Brasiliense/SP,3501707,0,1
-Brazil,PA,Ananindeua/PA,1500800,0,21
+Brazil,PA,Ananindeua/PA,1500800,0,26
 Brazil,RJ,Angra dos Reis/RJ,3300100,0,5
 Brazil,GO,Anhanguera/GO,5201207,0,1
 Brazil,SC,Anita Garibaldi/SC,4201000,0,1
@@ -80,7 +81,7 @@ Brazil,SC,Balneário Piçarras/SC,4212809,0,2
 Brazil,PR,Balsa Nova/PR,4102307,0,5
 Brazil,PR,Bandeirantes/PR,4102406,0,3
 Brazil,MG,Barbacena/MG,3105608,0,2
-Brazil,PA,Barcarena/PA,1501303,0,5
+Brazil,PA,Barcarena/PA,1501303,0,2
 Brazil,RJ,Barra Mansa/RJ,3300407,0,11
 Brazil,SC,Barra Velha/SC,4202107,0,1
 Brazil,BA,Barra do Choça/BA,2902906,0,1
@@ -104,7 +105,7 @@ Brazil,RJ,Belford Roxo/RJ,3300456,3,46
 Brazil,BA,Belmonte/BA,2903409,0,2
 Brazil,MG,Belo Horizonte/MG,3106200,6,355
 Brazil,PE,Belo Jardim/PE,2601706,0,2
-Brazil,PA,Belém/PA,1501402,7,147
+Brazil,PA,Belém/PA,1501402,11,180
 Brazil,PA,Benevides/PA,1501501,0,1
 Brazil,RS,Bento Gonçalves/RS,4302105,0,11
 Brazil,MG,Betim/MG,3106705,0,9
@@ -136,6 +137,7 @@ Brazil,SP,Brodowski/SP,3507803,0,2
 Brazil,BA,Brumado/BA,2904605,0,8
 Brazil,SC,Brusque/SC,4202909,0,17
 Brazil,AC,Bujari/AC,1200138,0,1
+Brazil,PA,Bujaru/PA,1501907,0,1
 Brazil,PB,Cabedelo/PB,2503209,2,5
 Brazil,RJ,Cabo Frio/RJ,3300704,0,7
 Brazil,PE,Cabo de Santo Agostinho/PE,2602902,5,15
@@ -214,7 +216,7 @@ Brazil,PE,Caruaru/PE,2604106,1,7
 Brazil,CE,Cascavel/CE,2303501,0,1
 Brazil,PR,Cascavel/PR,4104808,2,60
 Brazil,RJ,Casimiro de Abreu/RJ,3301306,0,4
-Brazil,PA,Castanhal/PA,1502400,0,3
+Brazil,PA,Castanhal/PA,1502400,0,4
 Brazil,ES,Castelo/ES,3201407,0,2
 Brazil,PR,Castro/PR,4104907,0,2
 Brazil,GO,Catalão/GO,5205109,0,1
@@ -366,7 +368,6 @@ Brazil,ES,INDEFINIDA/ES,32,0,0
 Brazil,GO,INDEFINIDA/GO,52,0,0
 Brazil,MG,INDEFINIDA/MG,31,0,10
 Brazil,MT,INDEFINIDA/MT,51,0,3
-Brazil,PA,INDEFINIDA/PA,15,4,42
 Brazil,PE,INDEFINIDA/PE,26,1,8
 Brazil,PI,INDEFINIDA/PI,22,0,4
 Brazil,PR,INDEFINIDA/PR,41,1,12
@@ -640,7 +641,7 @@ Brazil,GO,Paranaiguara/GO,5216304,0,1
 Brazil,PR,Paranavaí/PR,4118402,0,4
 Brazil,MS,Paranaíba/MS,5006309,0,1
 Brazil,RJ,Paraty/RJ,3303807,0,1
-Brazil,PA,Parauapebas/PA,1505536,0,8
+Brazil,PA,Parauapebas/PA,1505536,0,10
 Brazil,RS,Paraí/RS,4314001,0,2
 Brazil,RJ,Paraíba do Sul/RJ,3303708,0,3
 Brazil,TO,Paraíso do Tocantins/TO,1716109,0,1
@@ -721,6 +722,7 @@ Brazil,GO,Professor Jamil/GO,5218391,0,1
 Brazil,SP,Promissão/SP,3541604,0,1
 Brazil,SE,Propriá/SE,2805703,0,2
 Brazil,PR,Quatiguá/PR,4120705,1,2
+Brazil,PA,Quatipuru/PA,1506112,0,1
 Brazil,RJ,Quatis/RJ,3304128,0,2
 Brazil,PR,Quatro Barras/PR,4120804,0,1
 Brazil,RJ,Queimados/RJ,3304144,0,11
@@ -801,7 +803,7 @@ Brazil,SP,Santo André/SP,3547809,3,147
 Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,2
 Brazil,AM,Santo Antônio do Içá/AM,1303700,0,7
 Brazil,MG,Santo Antônio do Monte/MG,3160405,0,4
-Brazil,PA,Santo Antônio do Tauá/PA,1507003,0,1
+Brazil,PA,Santo Antônio do Tauá/PA,1507003,0,2
 Brazil,RN,Santo Antônio/RN,2411502,0,2
 Brazil,SP,Santos/SP,3548500,6,166
 Brazil,RS,Sapiranga/RS,4319901,0,1
@@ -897,6 +899,7 @@ Brazil,PR,São Manoel do Paraná/PR,4125555,0,1
 Brazil,SP,São Manuel/SP,3550100,1,3
 Brazil,ES,São Mateus/ES,3204906,1,5
 Brazil,SP,São Miguel Arcanjo/SP,3550209,0,1
+Brazil,PA,São Miguel do Guamá/PA,1507607,1,0
 Brazil,AM,São Paulo de Olivença/AM,1303908,1,5
 Brazil,SP,São Paulo/SP,3550308,445,6352
 Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,4
