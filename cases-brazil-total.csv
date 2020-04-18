@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL
-Brazil,TOTAL,34281,33682,599,2147,2141,https://covid.saude.gov.br/
+Brazil,TOTAL,34300,33682,618,2147,2141,https://covid.saude.gov.br/
 Brazil,AC,135,135,0,5,5,http://saude.acre.gov.br/
 Brazil,AL,110,110,0,7,7,http://cidadao.saude.al.gov.br/
 Brazil,AM,1809,1809,0,145,145,http://www.amazonas.am.gov.br/
@@ -20,10 +20,10 @@ Brazil,PI,123,102,21,9,8,https://www.pi.gov.br/noticias
 Brazil,PR,887,874,13,43,42,http://www.saude.pr.gov.br/
 Brazil,RJ,4349,4349,0,341,341,http://www.rj.gov.br/
 Brazil,RN,463,463,0,23,23,http://www.natal.rn.gov.br/
-Brazil,RO,92,92,0,3,3,http://www.rondonia.ro.gov.br/
+Brazil,RO,110,92,18,3,3,http://www.rondonia.ro.gov.br/
 Brazil,RR,164,164,0,3,3,https://saude.rr.gov.br/
 Brazil,RS,831,802,29,24,22,https://saude.rs.gov.br
 Brazil,SC,962,926,36,30,30,http://www.saude.sc.gov.br
 Brazil,SE,53,53,0,4,4,https://www.se.gov.br/noticias/saude
 Brazil,SP,12841,12841,0,928,928,http://www.saopaulo.sp.gov.br/
-Brazil,TO,31,31,0,1,1,http://www.saude.to.gov.br/
+Brazil,TO,32,31,1,1,1,http://www.saude.to.gov.br/
