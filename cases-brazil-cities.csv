@@ -225,17 +225,17 @@ Brazil,RO,Buritis/RO,1100452,0,1
 Brazil,AC,CASO SEM LOCALIZAÇÃO DEFINIDA/AC,12,0,19
 Brazil,AL,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,27,3,41
 Brazil,AM,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,13,14,209
-Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,1,13
-Brazil,BA,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,29,4,153
-Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,12,250
-Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,1,55
+Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,1,26
+Brazil,BA,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,29,4,154
+Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,12,455
+Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,1,93
 Brazil,GO,CASO SEM LOCALIZAÇÃO DEFINIDA/GO,52,2,17
 Brazil,MG,CASO SEM LOCALIZAÇÃO DEFINIDA/MG,31,3,65
 Brazil,MS,CASO SEM LOCALIZAÇÃO DEFINIDA/MS,50,0,2
 Brazil,MT,CASO SEM LOCALIZAÇÃO DEFINIDA/MT,51,0,6
 Brazil,PA,CASO SEM LOCALIZAÇÃO DEFINIDA/PA,15,5,170
 Brazil,PE,CASO SEM LOCALIZAÇÃO DEFINIDA/PE,26,23,401
-Brazil,PR,CASO SEM LOCALIZAÇÃO DEFINIDA/PR,41,6,56
+Brazil,PR,CASO SEM LOCALIZAÇÃO DEFINIDA/PR,41,4,38
 Brazil,RJ,CASO SEM LOCALIZAÇÃO DEFINIDA/RJ,33,31,245
 Brazil,RN,CASO SEM LOCALIZAÇÃO DEFINIDA/RN,24,1,43
 Brazil,RS,CASO SEM LOCALIZAÇÃO DEFINIDA/RS,43,0,5
@@ -288,7 +288,7 @@ Brazil,PR,Campo Largo/PR,4104204,2,17
 Brazil,SP,Campo Limpo Paulista/SP,3509601,1,7
 Brazil,PR,Campo Magro/PR,4104253,0,1
 Brazil,PI,Campo Maior/PI,2202208,0,3
-Brazil,PR,Campo Mourão/PR,4104303,4,23
+Brazil,PR,Campo Mourão/PR,4104303,4,24
 Brazil,MT,Campo Novo do Parecis/MT,5102637,0,1
 Brazil,MG,Campos Altos/MG,3111507,0,1
 Brazil,MG,Campos Gerais/MG,3111606,0,1
@@ -385,7 +385,7 @@ Brazil,PR,Chopinzinho/PR,4105409,0,1
 Brazil,CE,Chorozinho/CE,2303956,0,3
 Brazil,PE,Chã Grande/PE,2604502,0,3
 Brazil,PE,Chã de Alegria/PE,2604403,0,2
-Brazil,PR,Cianorte/PR,4105508,1,14
+Brazil,PR,Cianorte/PR,4105508,1,15
 Brazil,GO,Cidade Ocidental/GO,5205497,0,4
 Brazil,RS,Cidreira/RS,4305454,1,2
 Brazil,BA,Coaraci/BA,2908002,0,4
@@ -394,7 +394,7 @@ Brazil,SC,Cocal do Sul/SC,4204251,0,1
 Brazil,PA,Colares/PA,1502608,0,1
 Brazil,ES,Colatina/ES,3201506,0,17
 Brazil,MA,Colinas/MA,2103505,0,2
-Brazil,PR,Colombo/PR,4105805,0,8
+Brazil,PR,Colombo/PR,4105805,0,9
 Brazil,PI,Colônia do Gurguéia/PI,2202752,0,1
 Brazil,MG,Conceição das Alagoas/MG,3117306,0,2
 Brazil,PA,Conceição do Araguaia/PA,1502707,0,1
@@ -433,7 +433,7 @@ Brazil,SP,Cubatão/SP,3513504,0,24
 Brazil,MT,Cuiabá/MT,5103403,1,96
 Brazil,PE,Cupira/PE,2605004,0,1
 Brazil,BA,Curaçá/BA,2909901,0,3
-Brazil,PR,Curitiba/PR,4106902,9,369
+Brazil,PR,Curitiba/PR,4106902,11,373
 Brazil,RN,Currais Novos/RN,2403103,0,1
 Brazil,PA,Curralinho/PA,1502806,0,1
 Brazil,MA,Cururupu/MA,2103703,1,1
@@ -542,7 +542,7 @@ Brazil,PE,Gravatá/PE,2606408,0,2
 Brazil,CE,Graça/CE,2304657,0,2
 Brazil,CE,Groaíras/CE,2304905,0,1
 Brazil,SC,Guabiruba/SC,4206306,0,2
-Brazil,PR,Guairaçá/PR,4108908,0,1
+Brazil,PR,Guairaçá/PR,4108908,0,3
 Brazil,CE,Guaiúba/CE,2304954,0,1
 Brazil,BA,Guanambi/BA,2911709,0,0
 Brazil,RJ,Guapimirim/RJ,3301850,0,3
@@ -789,7 +789,7 @@ Brazil,PE,Limoeiro/PE,2608909,3,9
 Brazil,SC,Lindóia do Sul/SC,4209854,0,4
 Brazil,ES,Linhares/ES,3203205,1,25
 Brazil,SP,Lins/SP,3527108,2,6
-Brazil,PR,Londrina/PR,4113700,7,94
+Brazil,PR,Londrina/PR,4113700,7,90
 Brazil,SP,Lorena/SP,3527207,0,1
 Brazil,SP,Louveira/SP,3527306,0,1
 Brazil,MT,Lucas do Rio Verde/MT,5105259,1,1
@@ -813,6 +813,7 @@ Brazil,SP,Mairinque/SP,3528403,0,1
 Brazil,SP,Mairiporã/SP,3528502,4,14
 Brazil,AM,Manacapuru/AM,1302504,12,218
 Brazil,AM,Manaus/AM,1302603,163,1809
+Brazil,PR,Mandaguari/PR,4114203,0,1
 Brazil,PR,Mandirituba/PR,4114302,0,3
 Brazil,RJ,Mangaratiba/RJ,3302601,2,5
 Brazil,MG,Manhuaçu/MG,3139409,0,3
@@ -828,7 +829,7 @@ Brazil,AL,Marechal Deodoro/AL,2704708,1,6
 Brazil,MG,Mariana/MG,3140001,1,12
 Brazil,AL,Maribondo/AL,2704807,0,1
 Brazil,RJ,Maricá/RJ,3302700,5,39
-Brazil,PR,Maringá/PR,4115200,5,41
+Brazil,PR,Maringá/PR,4115200,5,49
 Brazil,MG,Maripá de Minas/MG,3140209,0,1
 Brazil,PA,Marituba/PA,1504422,1,18
 Brazil,PR,Mariópolis/PR,4115309,0,2
@@ -959,7 +960,7 @@ Brazil,PA,Pacajá/PA,1505486,0,1
 Brazil,RR,Pacaraima/RR,1400456,0,13
 Brazil,CE,Pacatuba/CE,2309706,0,16
 Brazil,SE,Pacatuba/SE,2804904,0,2
-Brazil,PR,Paiçandu/PR,4117503,0,0
+Brazil,PR,Paiçandu/PR,4117503,0,1
 Brazil,SC,Palhoça/SC,4211900,1,17
 Brazil,SC,Palma Sola/SC,4212007,0,1
 Brazil,PE,Palmares/PE,2610004,3,5
@@ -975,7 +976,7 @@ Brazil,CE,Paracuru/CE,2310209,0,1
 Brazil,MG,Paraisópolis/MG,3147303,2,4
 Brazil,BA,Paramirim/BA,2923605,0,1
 Brazil,PR,Paranacity/PR,4118105,0,4
-Brazil,PR,Paranaguá/PR,4118204,2,11
+Brazil,PR,Paranaguá/PR,4118204,2,12
 Brazil,GO,Paranaiguara/GO,5216304,0,1
 Brazil,PR,Paranavaí/PR,4118402,2,12
 Brazil,MS,Paranaíba/MS,5006309,0,2
@@ -1040,7 +1041,7 @@ Brazil,CE,Pindoretama/CE,2310852,0,2
 Brazil,PR,Pinhais/PR,4119152,1,18
 Brazil,PR,Pinhal de São Bento/PR,4119251,0,1
 Brazil,RJ,Pinheiral/RJ,3303955,0,1
-Brazil,PR,Pinhão/PR,4119301,0,1
+Brazil,PR,Pinhão/PR,4119301,0,2
 Brazil,SP,Piracaia/SP,3538600,0,1
 Brazil,SP,Piracicaba/SP,3538709,2,25
 Brazil,PI,Piracuruca/PI,2208304,2,5
@@ -1398,7 +1399,7 @@ Brazil,SP,Taubaté/SP,3554102,0,7
 Brazil,CE,Tauá/CE,2313302,0,5
 Brazil,AM,Tefé/AM,1304203,1,6
 Brazil,BA,Teixeira de Freitas/BA,2931350,0,8
-Brazil,PR,Telêmaco Borba/PR,4127106,0,7
+Brazil,PR,Telêmaco Borba/PR,4127106,0,8
 Brazil,RN,Tenente Ananias/RN,2414100,2,2
 Brazil,PI,Teresina/PI,2211001,7,150
 Brazil,RJ,Teresópolis/RJ,3305802,1,21
