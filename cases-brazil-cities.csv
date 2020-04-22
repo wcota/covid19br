@@ -71,7 +71,7 @@ Brazil,RN,Apodi/RN,2401008,1,7
 Brazil,PR,Apucarana/PR,4101408,2,12
 Brazil,CE,Aquiraz/CE,2301000,0,39
 Brazil,SC,Arabutã/SC,4201273,0,4
-Brazil,SE,Aracaju/SE,2800308,4,60
+Brazil,SE,Aracaju/SE,2800308,5,74
 Brazil,CE,Aracati/CE,2301109,1,8
 Brazil,BA,Araci/BA,2902104,1,1
 Brazil,CE,Aracoiaba/CE,2301208,0,3
@@ -455,7 +455,7 @@ Brazil,RS,Esteio/RS,4307708,0,5
 Brazil,SP,Estiva Gerbi/SP,3557303,0,1
 Brazil,RS,Estrela/RS,4307807,0,4
 Brazil,RS,Estância Velha/RS,4307609,0,3
-Brazil,SE,Estância/SE,2802106,0,6
+Brazil,SE,Estância/SE,2802106,0,12
 Brazil,BA,Euclides da Cunha/BA,2910701,0,1
 Brazil,BA,Eunápolis/BA,2910727,0,13
 Brazil,CE,Eusébio/CE,2304285,6,39
@@ -565,7 +565,6 @@ Brazil,PR,INDEFINIDA/PR,41,2,18
 Brazil,RJ,INDEFINIDA/RJ,33,2,0
 Brazil,RN,INDEFINIDA/RN,24,0,5
 Brazil,SC,INDEFINIDA/SC,42,0,14
-Brazil,SE,INDEFINIDA/SE,28,0,25
 Brazil,SP,INDEFINIDA/SP,35,0,63
 Brazil,TO,INDEFINIDA/TO,17,0,1
 Brazil,PR,Ibaiti/PR,4109708,0,1
@@ -633,7 +632,7 @@ Brazil,PR,Iretama/PR,4110805,1,1
 Brazil,ES,Irupi/ES,3202652,0,1
 Brazil,PB,Itabaiana/PB,2506905,0,1
 Brazil,SE,Itabaiana/SE,2802908,0,4
-Brazil,SE,Itabaianinha/SE,2803005,1,6
+Brazil,SE,Itabaianinha/SE,2803005,1,7
 Brazil,BA,Itabela/BA,2914653,0,1
 Brazil,BA,Itaberaba/BA,2914703,0,1
 Brazil,MG,Itabira/MG,3131703,1,6
@@ -756,7 +755,7 @@ Brazil,AM,Juruá/AM,1302207,0,1
 Brazil,PR,Jussara/PR,4113007,1,1
 Brazil,AM,Jutaí/AM,1302306,0,1
 Brazil,MS,Ladário/MS,5005202,0,1
-Brazil,SE,Lagarto/SE,2803500,0,1
+Brazil,SE,Lagarto/SE,2803500,0,2
 Brazil,SC,Lages/SC,4209300,0,13
 Brazil,MG,Lagoa Santa/MG,3137601,0,3
 Brazil,MG,Lagoa da Prata/MG,3137205,0,14
@@ -1267,7 +1266,7 @@ Brazil,SC,Siderópolis/SC,4217600,0,7
 Brazil,MS,Sidrolândia/MS,5007901,0,1
 Brazil,RJ,Silva Jardim/RJ,3305604,0,1
 Brazil,GO,Silvânia/GO,5220603,0,1
-Brazil,SE,Simão Dias/SE,2807105,0,1
+Brazil,SE,Simão Dias/SE,2807105,1,4
 Brazil,BA,Simões Filho/BA,2930709,0,5
 Brazil,MT,Sinop/MT,5107909,0,13
 Brazil,PE,Sirinhaém/PE,2614204,0,2
