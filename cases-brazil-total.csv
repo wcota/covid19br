@@ -1,13 +1,13 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL
-Brazil,TOTAL,49492,49492,0,3313,3313,https://covid.saude.gov.br/
+Brazil,TOTAL,49776,49492,284,3313,3313,https://covid.saude.gov.br/
 Brazil,AC,227,227,0,10,10,http://saude.acre.gov.br/
 Brazil,AL,324,324,0,22,22,http://cidadao.saude.al.gov.br/
 Brazil,AM,2888,2888,0,234,234,http://www.amazonas.am.gov.br/
 Brazil,AP,548,548,0,16,16,https://saude.portal.ap.gov.br/
 Brazil,BA,1789,1789,0,59,59,http://www.saude.ba.gov.br/
-Brazil,CE,4598,4598,0,266,266,https://www.saude.ce.gov.br
-Brazil,DF,963,963,0,25,25,http://www.saude.df.gov.br/coronavirus/
-Brazil,ES,1363,1363,0,42,42,https://saude.es.gov.br/
+Brazil,CE,4702,4598,104,266,266,https://www.saude.ce.gov.br
+Brazil,DF,968,963,5,25,25,http://www.saude.df.gov.br/coronavirus/
+Brazil,ES,1453,1363,90,42,42,https://saude.es.gov.br/
 Brazil,GO,453,453,0,23,23,http://www.saude.go.gov.br/
 Brazil,MA,1757,1757,0,76,76,http://www.saude.ma.gov.br/
 Brazil,MG,1308,1308,0,51,51,https://www.saude.mg.gov.br/
@@ -15,7 +15,7 @@ Brazil,MS,186,186,0,7,7,http://www.ms.gov.br/
 Brazil,MT,221,221,0,7,7,http://www.saude.mt.gov.br/
 Brazil,PA,1267,1267,0,53,53,http://www.saude.pa.gov.br
 Brazil,PB,345,345,0,40,40,https://paraiba.pb.gov.br/
-Brazil,PE,3519,3519,0,312,312,http://www.pe.gov.br/blog/saude/
+Brazil,PE,3604,3519,85,312,312,http://www.pe.gov.br/blog/saude/
 Brazil,PI,217,217,0,15,15,https://www.pi.gov.br/noticias
 Brazil,PR,1082,1082,0,60,60,http://www.saude.pr.gov.br/
 Brazil,RJ,6172,6172,0,530,530,http://www.rj.gov.br/
