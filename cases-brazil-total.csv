@@ -1,9 +1,9 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL
-Brazil,TOTAL,59593,58509,1084,4053,4016,https://covid.saude.gov.br/
+Brazil,TOTAL,59593,58509,1084,4054,4016,https://covid.saude.gov.br/
 Brazil,AC,258,258,0,11,11,http://saude.acre.gov.br/
 Brazil,AL,501,501,0,29,29,http://cidadao.saude.al.gov.br/
 Brazil,AM,3635,3635,0,287,287,http://www.amazonas.am.gov.br/
-Brazil,AP,689,685,4,19,19,https://saude.portal.ap.gov.br/
+Brazil,AP,689,685,4,20,19,https://saude.portal.ap.gov.br/
 Brazil,BA,2116,2081,35,72,70,http://www.saude.ba.gov.br/
 Brazil,CE,5667,5421,246,310,310,https://www.saude.ce.gov.br
 Brazil,DF,1148,1013,135,27,26,http://www.saude.df.gov.br/coronavirus/
