@@ -1,3 +1,5 @@
+Current DOI: 10.34740/kaggle/ds/576001
+
 # (pt-BR) Número de casos confirmados de COVID-19 no Brasil
 
 Casos e óbitos confirmados por dia, utilizando informação oficial pelo [Ministério da Saúde](https://covid.saude.gov.br/), dados no nível municipal do [Brasil.IO](https://brasil.io/dataset/covid19/caso) e dados mais recentes reportados pela equipe do [@CoronavirusBra1](https://twitter.com/CoronavirusBra1).
