@@ -4,7 +4,9 @@ Current DOI: 10.34740/kaggle/ds/576001
 
 Casos e óbitos confirmados por dia, utilizando informação oficial pelo [Ministério da Saúde](https://covid.saude.gov.br/), dados no nível municipal do [Brasil.IO](https://brasil.io/dataset/covid19/caso) e dados mais recentes reportados pela equipe do [@CoronavirusBra1](https://twitter.com/CoronavirusBra1).
 
-Mais informações: https://wcota.me/covid19br
+Os dados sobre o número de recuperados por estado foram obtidos a partir da [planilha](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) atualizada pelo [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) usando os boletins de cada estado. Não há dados para SC, GO e MG. Novos números para SP não foram divulgados recentemente pela secretaria de saúde.
+
+Mais informações: https://covid19br.wcota.me/
 
 ## Links relacionados
 
@@ -37,7 +39,9 @@ Mais informações: https://wcota.me/covid19br
 
 Confirmed cases and deaths by day, using official information given by [Ministério da Saúde](https://covid.saude.gov.br/), data at the municipal level by [Brasil.IO](https://brasil.io/dataset/covid19/caso) and the most recent reported cases by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1).
 
-More information: https://wcota.me/covid19br
+Data for the number of recovered individuals were obtained from the [spreadsheet](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) updated by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) using the reports for each state. There is no data for SC, GO and MG. New numbers for SP were not provided recently.
+
+More information: https://covid19br.wcota.me/ (pt-br)
 
 ## Related links
 
