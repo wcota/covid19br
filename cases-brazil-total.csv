@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered
-Brazil,TOTAL,73152,71886,1266,5054,5017,https://covid.saude.gov.br/,2.40498,34.80990,0.06909,15021
+Brazil,TOTAL,73511,71886,1625,5054,5017,https://covid.saude.gov.br/,2.40498,34.98073,0.06875,15021
 Brazil,AC,317,311,6,16,16,http://saude.acre.gov.br/,1.81419,35.94369,0.05047,114
 Brazil,AL,777,777,0,36,36,http://cidadao.saude.al.gov.br/,1.07870,23.28190,0.04633,107
 Brazil,AM,4337,4337,0,351,351,http://www.amazonas.am.gov.br/,8.46886,104.64226,0.08093,1456
@@ -9,14 +9,14 @@ Brazil,CE,6985,6918,67,417,403,https://www.saude.ce.gov.br,4.56632,76.48862,0.05
 Brazil,DF,1384,1213,171,28,28,http://www.saude.df.gov.br/coronavirus/,0.92861,45.89973,0.02023,791
 Brazil,ES,2164,1874,290,77,64,https://saude.es.gov.br/,1.91607,53.84893,0.03558,501
 Brazil,GO,661,661,0,27,27,http://www.saude.go.gov.br/,0.38471,9.41816,0.04085,
-Brazil,MA,2528,2528,0,145,145,http://www.saude.ma.gov.br/,2.04942,35.73053,0.05736,533
+Brazil,MA,2804,2528,276,145,145,http://www.saude.ma.gov.br/,2.04942,39.63149,0.05171,533
 Brazil,MG,1649,1649,0,71,71,https://www.saude.mg.gov.br/,0.33540,7.78977,0.04306,
 Brazil,MS,240,240,0,9,9,http://www.ms.gov.br/,0.32386,8.63624,0.03750,124
 Brazil,MT,263,261,2,11,11,http://www.saude.mt.gov.br/,0.31569,7.54778,0.04183,145
 Brazil,PA,2319,2262,57,132,129,http://www.saude.pa.gov.br,1.53437,26.95614,0.05692,1124
 Brazil,PB,699,633,66,53,53,https://paraiba.pb.gov.br/,1.31902,17.39616,0.07582,149
 Brazil,PE,5724,5724,0,508,508,http://www.pe.gov.br/blog/saude/,5.31544,59.89283,0.08875,943
-Brazil,PI,408,408,0,21,21,https://www.pi.gov.br/noticias,0.64157,12.46476,0.05147,121
+Brazil,PI,454,408,46,21,21,https://www.pi.gov.br/noticias,0.64157,13.87010,0.04626,121
 Brazil,PR,1271,1271,0,77,77,http://www.saude.pr.gov.br/,0.67343,11.11601,0.06058,851
 Brazil,RJ,8504,8504,0,738,738,http://www.rj.gov.br/,4.27456,49.25588,0.08678,4002
 Brazil,RN,857,857,0,48,48,http://www.natal.rn.gov.br/,1.36875,24.43786,0.05601,352
@@ -26,4 +26,4 @@ Brazil,RS,1350,1286,64,45,45,https://saude.rs.gov.br,0.39553,11.86580,0.03333,78
 Brazil,SC,1995,1476,519,44,44,http://www.saude.sc.gov.br,0.61411,27.84451,0.02206,
 Brazil,SE,280,280,0,11,11,https://www.se.gov.br/noticias/saude,0.47853,12.18082,0.03929,45
 Brazil,SP,24041,24041,0,2049,2049,http://www.saopaulo.sp.gov.br/,4.46220,52.35518,0.08523,1524
-Brazil,TO,79,79,0,2,2,http://www.saude.to.gov.br/,0.12716,5.02268,0.02532,17
+Brazil,TO,116,79,37,2,2,http://www.saude.to.gov.br/,0.12716,7.37507,0.01724,17
