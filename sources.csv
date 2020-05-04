@@ -1741,6 +1741,7 @@ date,URL
 2020-05-01,http://www.saude.ma.gov.br/wp-content/uploads/2020/05/BOLETIM-01-05.pdf
 2020-05-01,http://www.saude.mt.gov.br/arquivo/11041
 2020-05-01,http://www.saude.mt.gov.br/arquivo/11042
+2020-05-01,http://www.saude.mt.gov.br/arquivo/11043
 2020-05-01,http://www.saude.pr.gov.br/arquivos/File/INFORME_EPIDEMIOLOGICO_01_05_2020.csv
 2020-05-01,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/coronavirus010520_65situacao_epidemiologica.pdf
 2020-05-01,https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_d0cc8e911c12494aaf58567bf2bd6391.pdf
@@ -1810,6 +1811,7 @@ date,URL
 2020-05-03,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-03_05_-2020.pdf
 2020-05-03,http://www.saude.ma.gov.br/wp-content/uploads/2020/05/BOLETIM-03-05.pdf
 2020-05-03,http://www.saude.mt.gov.br/arquivo/11043
+2020-05-03,http://www.saude.pr.gov.br/arquivos/File/INFORME_EPIDEMIOLOGICO_03_05_2020.csv
 2020-05-03,http://www.saude.sc.gov.br/index.php/noticias-geral/11260-governo-do-estado-confirma-2-519-casos-de-covid-19
 2020-05-03,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/coronavirus030520_67situacao_epidemiologica.pdf
 2020-05-03,https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_8c4cb0282b064def8bd94982a9ad5f1a.pdf
@@ -1818,6 +1820,7 @@ date,URL
 2020-05-03,https://brasil.io/dataset/covid19/caso
 2020-05-03,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-05-03,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-03-05-1-019-obitos-e-11-139-casos-confirmados-no-rj/
+2020-05-03,https://dados.seplag.pe.gov.br/apps/corona_dados.html
 2020-05-03,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-05-03,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-05-03,https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-05-03_19_57_28.csv
@@ -1836,9 +1839,15 @@ date,URL
 2020-05-03,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/05/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.05.03-1.pdf
 2020-05-04,http://painel.saude.rj.gov.br/monitoramento/covid19.html
 2020-05-04,http://ti.saude.rs.gov.br/covid19/
+2020-05-04,http://www.agenciaalagoas.al.gov.br/noticia/item/33128-alagoas-tem-1-538-casos-da-covid-19-e-72-obitos
 2020-05-04,http://www.fvs.am.gov.br/noticias_view/3888
 2020-05-04,http://www.ms.gov.br/mato-grosso-do-sul-registra-274-casos-confirmados-de-coronavirus-e-monitora-50-suspeitos/
+2020-05-04,http://www.saude.al.gov.br/wp-content/uploads/2020/05/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-59-04052020.pdf
+2020-05-04,http://www.saude.al.gov.br/wp-content/uploads/2020/05/Informe-Epidemiológico-COVID-19-nº-59-04052020.pdf
 2020-05-04,http://www.saude.ba.gov.br/2020/05/04/bahia-registra-13-obitos-em-24-horas-devido-ao-coronavirus-e-total-de-casos-chega-a-3-734/
+2020-05-04,http://www.saude.mt.gov.br/arquivo/11049
+2020-05-04,http://www.saude.pr.gov.br/arquivos/File/INFORME_EPIDEMIOLOGICO_04_05_2020.csv
+2020-05-04,http://www.saude.pr.gov.br/arquivos/File/INFORME_EPIDEMIOLOGICO_04_05_2020.pdf
 2020-05-04,http://www.saude.pr.gov.br/modules/noticias/article.php?storyid=7343&tit=Sesa-confirma-mais-um-obito-e-48-novos-casos-de-Covid-19
 2020-05-04,https://agencia.ac.gov.br/boletim-parcial-desta-segunda-feira-4-sobre-o-coronavirus/
 2020-05-04,https://app.powerbi.com/view?r=eyJrIjoiMDgwOGI4YjItNGFjNC00ZThkLWIyNzctMmNjZTQxMmU1ZjRhIiwidCI6Ijg3ZTRkYTJiLTgyZGYtNDhmNi05MTU3LTY5YzNjYTYwMGRmMiIsImMiOjR9
@@ -1853,5 +1862,8 @@ date,URL
 2020-05-04,https://twitter.com/governodoamapa/status/1257409908066189312
 2020-05-04,https://twitter.com/governope/status/1257424538767425542
 2020-05-04,https://www.covid-19.pa.gov.br/#/
+2020-05-04,https://www.dropbox.com/s/trx4cegk32qs6kt/Boletim%20Covid-19%20-%20Secretaria%20de%20Sa%C3%BAde%20de%20Pernambuco%20-%2004.05.pdf?dl=0
+2020-05-04,https://www.instagram.com/p/B_x_F9bFTQi/
 2020-05-04,https://www.saopaulo.sp.gov.br/coronavirus/?utm_source=site&utm_medium=banner&utm_campaign=coronavirus-acoes-sp&utm_content=Coronav%C3%ADrus%20-%20A%C3%A7%C3%B5es%20do%20Governo%20de%20SP
 2020-05-04,https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/04.05.2020_Boletim_epidemiologico_COVID-19_MG.pdf
+2020-05-04,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/05/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.05.04.pdf
