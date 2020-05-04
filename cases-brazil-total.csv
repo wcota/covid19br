@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,103216,101147,2069,7070,7025,https://covid.saude.gov.br/,3.36431,49.11607,0.06850,21606,229738,249063,118.51840
+Brazil,TOTAL,103216,101147,2069,7072,7025,https://covid.saude.gov.br/,3.36526,49.11607,0.06852,21606,229738,249063,118.51840
 Brazil,AC,658,657,1,25,24,http://saude.acre.gov.br/,2.83468,74.60867,0.03799,177,406,3362,381.20723
 Brazil,AL,1441,1441,0,64,64,http://cidadao.saude.al.gov.br/,1.91769,43.17788,0.04441,292,875,3872,116.01995
 Brazil,AM,6683,6683,0,548,548,http://www.amazonas.am.gov.br/,13.22203,161.24608,0.08200,1901,993,,
@@ -7,10 +7,10 @@ Brazil,AP,1482,1482,0,43,43,https://saude.portal.ap.gov.br/,5.08436,175.23302,0.
 Brazil,BA,3708,3495,213,128,123,http://www.saude.ba.gov.br/,0.86062,24.93098,0.03452,784,3672,15168,101.98302
 Brazil,CE,8686,8370,316,677,663,https://www.saude.ce.gov.br,7.41343,95.11526,0.07794,187,24858,27283,298.76004
 Brazil,DF,1740,1649,91,33,33,http://www.saude.df.gov.br/coronavirus/,1.09443,57.70631,0.01897,1009,,43707,1449.52289
-Brazil,ES,3208,3086,122,114,114,https://saude.es.gov.br/,2.83677,79.82780,0.03554,998,,14443,359.39930
+Brazil,ES,3208,3086,122,115,114,https://saude.es.gov.br/,2.86166,79.82780,0.03585,998,,14443,359.39930
 Brazil,GO,850,850,0,30,30,http://www.saude.go.gov.br/,0.42745,12.11110,0.03529,,9939,3569,50.85238
 Brazil,MA,4227,4040,187,249,237,http://www.saude.ma.gov.br/,3.51934,59.74405,0.05891,1005,9193,9318,131.69981
-Brazil,MG,2347,2118,229,89,89,https://www.saude.mg.gov.br/,0.42043,11.08708,0.03792,,89056,10063,47.53696
+Brazil,MG,2347,2118,229,90,89,https://www.saude.mg.gov.br/,0.42515,11.08708,0.03835,,89056,10063,47.53696
 Brazil,MS,274,272,2,10,10,http://www.ms.gov.br/,0.35984,9.85971,0.03650,172,50,2859,102.87925
 Brazil,MT,337,337,0,12,12,http://www.saude.mt.gov.br/,0.34439,9.67150,0.03561,190,23,2200,63.13736
 Brazil,PA,4125,3863,262,317,309,http://www.saude.pa.gov.br,3.68482,47.94914,0.07685,2199,399,6959,80.89166
