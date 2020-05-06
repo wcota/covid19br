@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,121616,114715,6901,7965,7921,https://covid.saude.gov.br/,3.79020,57.87184,0.06549,24536,233237,249331,118.64592
+Brazil,TOTAL,122220,114715,7505,7965,7921,https://covid.saude.gov.br/,3.79020,58.15925,0.06517,24544,233237,249331,118.64592
 Brazil,AC,817,817,0,29,29,http://saude.acre.gov.br/,3.28822,92.63721,0.03550,233,278,3362,381.20723
 Brazil,AL,1606,1606,0,80,80,http://cidadao.saude.al.gov.br/,2.39711,48.12191,0.04981,376,1038,3872,116.01995
 Brazil,AM,8109,8109,0,649,649,http://www.amazonas.am.gov.br/,15.65894,195.65232,0.08003,2097,993,,
@@ -15,7 +15,7 @@ Brazil,MS,283,283,0,10,10,http://www.ms.gov.br/,0.35984,10.18357,0.03534,181,21,
 Brazil,MT,366,365,1,13,13,http://www.saude.mt.gov.br/,0.37308,10.50376,0.03552,215,23,2200,63.13736
 Brazil,PA,5017,4472,545,375,369,http://www.saude.pa.gov.br,4.35901,58.31778,0.07475,2536,242,6959,80.89166
 Brazil,PB,1493,1361,132,92,85,https://paraiba.pb.gov.br/,2.28962,37.15662,0.06162,310,,3176,79.04180
-Brazil,PE,9325,9325,0,749,749,http://www.pe.gov.br/blog/saude/,7.83713,97.57174,0.08032,1312,,15609,163.32410
+Brazil,PE,9881,9325,556,749,749,http://www.pe.gov.br/blog/saude/,7.83713,103.38942,0.07580,1312,,15609,163.32410
 Brazil,PI,949,875,74,30,29,https://www.pi.gov.br/noticias,0.91653,28.99280,0.03161,170,172,7244,221.31065
 Brazil,PR,1608,1588,20,102,99,http://www.saude.pr.gov.br/,0.89208,14.06337,0.06343,1070,315,14149,123.74544
 Brazil,RJ,12391,12391,0,1123,1123,http://www.rj.gov.br/,6.50451,71.76971,0.09063,7260,,,
@@ -26,4 +26,4 @@ Brazil,RS,2050,1815,235,83,79,https://saude.rs.gov.br,0.72953,18.01843,0.04049,1
 Brazil,SC,2795,2623,172,58,55,http://www.saude.sc.gov.br,0.80951,39.01023,0.02075,,72,12095,168.81169
 Brazil,SE,898,898,0,21,21,https://www.se.gov.br/noticias/saude,0.91356,39.06563,0.02339,79,,3095,134.64155
 Brazil,SP,37853,34053,3800,2851,2851,http://www.saopaulo.sp.gov.br/,6.20875,82.43420,0.07532,1524,81543,35600,77.52774
-Brazil,TO,303,303,0,7,7,http://www.saude.to.gov.br/,0.44505,19.26420,0.02310,44,,,
+Brazil,TO,351,303,48,7,7,http://www.saude.to.gov.br/,0.44505,22.31595,0.01994,52,,,
