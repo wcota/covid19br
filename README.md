@@ -29,7 +29,7 @@ Mais informações: https://covid19br.wcota.me/
 
 ## Citação
 
-Por favor, caso utilize esses dados em publicações acadêmicas, utilizar o seguinte DOI: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPreprints.362)
+Por favor, caso utilize esses dados em publicações acadêmicas, utilizar o seguinte DOI: [10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
 
 > W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
 
@@ -68,7 +68,7 @@ More information: https://covid19br.wcota.me/en
 
 ## Citation
 
-If you use this dataset, please cite the following DOI: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPreprints.362)
+If you use this dataset, please cite the following DOI: [10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
 
 > W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
 
