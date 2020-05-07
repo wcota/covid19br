@@ -27,6 +27,27 @@ Mais informações: https://covid19br.wcota.me/
 - [@fgrehm](https://twitter.com/fgrehm)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
 
+## Citação
+
+Por favor, caso utilize esses dados em publicações acadêmicas, utilizar o seguinte DOI: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPreprints.362)
+
+> W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
+
+Em BibTeX:
+
+```
+@article{CotaCovid19br2020,
+	doi = {10.1590/scielopreprints.362},
+	url = {https://doi.org/10.1590/scielopreprints.362},
+	year = {2020},
+	month = may,
+	journal={{SciELOPreprints:362}},
+	publisher = {{FapUNIFESP} ({SciELO})},
+	author = {Wesley Cota},
+	title = {Monitoring the number of {COVID}-19 cases and deaths in Brazil at municipal and federative units level}
+}
+```
+
 ## Na mídia
 
 - [BBC Brasil - Coronavírus: os sites que mostram dados de mortes, curvas de contágio e situação dos Estados no Brasil](https://www.bbc.com/portuguese/brasil-52067243)
@@ -43,7 +64,28 @@ Confirmed cases and deaths by day, using official information given by [Ministé
 
 Data for the number of recovered individuals were obtained from the [spreadsheet](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) updated by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) using the reports for each state. There is no data for SC, GO and MG. New numbers for SP were not provided recently.
 
-More information: https://covid19br.wcota.me/ (pt-br)
+More information: https://covid19br.wcota.me/en
+
+## Citation
+
+If you use this dataset, please cite the following DOI: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPreprints.362)
+
+> W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
+
+BibTeX:
+
+```
+@article{CotaCovid19br2020,
+	doi = {10.1590/scielopreprints.362},
+	url = {https://doi.org/10.1590/scielopreprints.362},
+	year = {2020},
+	month = may,
+	journal={{SciELOPreprints:362}},
+	publisher = {{FapUNIFESP} ({SciELO})},
+	author = {Wesley Cota},
+	title = {Monitoring the number of {COVID}-19 cases and deaths in Brazil at municipal and federative units level}
+}
+```
 
 ## Related links
 
