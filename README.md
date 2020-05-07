@@ -1,4 +1,6 @@
-Current DOI: 10.34740/kaggle/ds/576001
+Current DOI: 10.1590/SciELOPreprints.362
+
+Description of the data: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPreprints.362)
 
 # (pt-BR) Número de casos confirmados de COVID-19 no Brasil
 
