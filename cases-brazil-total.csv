@@ -1,7 +1,7 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,145510,145328,182,9898,9897,https://covid.saude.gov.br/,4.71003,69.24197,0.06802,34775,258231,299605,142.56916
+Brazil,TOTAL,145884,145328,556,9898,9897,https://covid.saude.gov.br/,4.71003,69.41994,0.06785,35007,258308,299605,142.56916
 Brazil,AC,1177,1177,0,38,38,http://saude.acre.gov.br/,4.30871,133.45655,0.03229,251,334,3975,450.71349
-Brazil,AL,2033,2033,0,108,108,http://cidadao.saude.al.gov.br/,3.23609,60.91647,0.05312,588,1299,4656,139.51160
+Brazil,AL,2033,2033,0,108,108,http://cidadao.saude.al.gov.br/,3.23609,60.91647,0.05312,820,1376,4656,139.51160
 Brazil,AM,10727,10727,0,874,874,http://www.amazonas.am.gov.br/,21.08770,258.81889,0.08148,6159,993,,
 Brazil,AP,2322,2322,0,66,66,https://saude.portal.ap.gov.br/,7.80390,274.55538,0.02842,640,3469,7689,909.15433
 Brazil,BA,4818,4818,0,183,183,http://www.saude.ba.gov.br/,1.23041,32.39413,0.03798,1144,1958,23114,155.40846
@@ -13,7 +13,7 @@ Brazil,MA,5909,5909,0,330,330,http://www.saude.ma.gov.br/,4.66419,83.51730,0.055
 Brazil,MG,2943,2943,0,111,111,https://www.saude.mg.gov.br/,0.52436,13.90254,0.03772,,96212,11218,52.99311
 Brazil,MS,326,326,0,11,11,http://www.ms.gov.br/,0.39583,11.73090,0.03374,199,61,4432,159.48263
 Brazil,MT,457,457,0,14,14,http://www.saude.mt.gov.br/,0.40178,13.11535,0.03063,258,23,2358,67.67178
-Brazil,PA,6145,6141,4,515,515,http://www.saude.pa.gov.br,5.98638,71.42969,0.08381,3399,548,8402,97.66514
+Brazil,PA,6519,6141,378,515,515,http://www.saude.pa.gov.br,5.98638,75.77708,0.07900,3399,548,8402,97.66514
 Brazil,PB,2031,2031,0,114,114,https://paraiba.pb.gov.br/,2.83714,50.54594,0.05613,490,,3904,97.15970
 Brazil,PE,11587,11587,0,927,927,http://www.pe.gov.br/blog/saude/,9.69962,121.24007,0.08000,1388,,17697,185.17180
 Brazil,PI,1131,1131,0,37,37,https://www.pi.gov.br/noticias,1.13038,34.55306,0.03271,200,172,13136,401.31650
