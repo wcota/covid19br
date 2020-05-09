@@ -1,10 +1,10 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,156233,155939,294,10631,10627,https://covid.saude.gov.br/,5.05884,74.34458,0.06805,38508,272075,299605,142.56916
+Brazil,TOTAL,156278,155939,339,10631,10627,https://covid.saude.gov.br/,5.05884,74.36599,0.06803,38549,272075,299605,142.56916
 Brazil,AC,1335,1335,0,39,39,http://saude.acre.gov.br/,4.42209,151.37170,0.02921,366,373,3975,450.71349
 Brazil,AL,2172,2172,0,114,114,http://cidadao.saude.al.gov.br/,3.41588,65.08144,0.05249,934,1346,4656,139.51160
-Brazil,AM,11925,11925,0,962,962,http://www.amazonas.am.gov.br/,23.21094,287.72399,0.08067,6494,993,,
+Brazil,AM,11925,11925,0,962,962,http://www.amazonas.am.gov.br/,23.21094,287.72399,0.08067,6504,993,,
 Brazil,AP,2493,2493,0,69,69,https://saude.portal.ap.gov.br/,8.15862,294.77458,0.02768,665,4453,7689,909.15433
-Brazil,BA,5174,5174,0,196,196,http://www.saude.ba.gov.br/,1.31782,34.78772,0.03788,1316,1958,23114,155.40846
+Brazil,BA,5174,5174,0,196,196,http://www.saude.ba.gov.br/,1.31782,34.78772,0.03788,1337,1958,23114,155.40846
 Brazil,CE,15879,15879,0,1062,1062,https://www.saude.ce.gov.br,11.62934,173.88156,0.06688,187,28933,34159,374.05506
 Brazil,DF,2576,2576,0,39,39,http://www.saude.df.gov.br/coronavirus/,1.29342,85.43188,0.01514,1324,,45176,1498.24162
 Brazil,ES,4412,4412,0,172,172,https://saude.es.gov.br/,4.28004,109.78811,0.03898,1607,,16996,422.92810
@@ -16,7 +16,7 @@ Brazil,MT,502,502,0,16,16,http://www.saude.mt.gov.br/,0.45918,14.40680,0.03187,2
 Brazil,PA,7018,6775,243,578,578,http://www.saude.pa.gov.br,6.71869,81.57747,0.08236,3754,545,8402,97.66514
 Brazil,PB,2156,2156,0,124,124,https://paraiba.pb.gov.br/,3.08601,53.65684,0.05751,490,,3904,97.15970
 Brazil,PE,12470,12470,0,972,972,http://www.pe.gov.br/blog/saude/,10.17048,130.47931,0.07795,1480,,17697,185.17180
-Brazil,PI,1233,1233,0,38,38,https://www.pi.gov.br/noticias,1.16093,37.66925,0.03082,210,172,13136,401.31650
+Brazil,PI,1278,1233,45,38,38,https://www.pi.gov.br/noticias,1.16093,39.04404,0.02973,220,172,13136,401.31650
 Brazil,PR,1785,1785,0,109,107,http://www.saude.pr.gov.br/,0.95330,15.61139,0.06106,1210,736,14998,131.17069
 Brazil,RJ,16929,16929,0,1653,1653,http://www.rj.gov.br/,9.57431,98.05419,0.09764,10732,,,
 Brazil,RN,1919,1919,0,87,87,http://www.natal.rn.gov.br/,2.48086,54.72143,0.04534,662,6696,6587,187.83222
