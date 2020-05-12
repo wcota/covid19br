@@ -1,7 +1,7 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,178045,177589,456,12450,12400,https://covid.saude.gov.br/,5.92442,84.72398,0.06993,54822,284801,359273,170.96261
-Brazil,AC,1590,1590,0,51,51,http://saude.acre.gov.br/,5.78274,180.28540,0.03208,366,471,5056,573.28488
-Brazil,AL,2580,2580,0,150,150,http://cidadao.saude.al.gov.br/,4.49457,77.30668,0.05814,1227,1498,5629,168.66640
+Brazil,TOTAL,178045,177589,456,12450,12400,https://covid.saude.gov.br/,5.92442,84.72398,0.06993,55163,284846,359273,170.96261
+Brazil,AC,1590,1590,0,51,51,http://saude.acre.gov.br/,5.78274,180.28540,0.03208,488,680,5056,573.28488
+Brazil,AL,2580,2580,0,150,150,http://cidadao.saude.al.gov.br/,4.49457,77.30668,0.05814,1446,1334,5629,168.66640
 Brazil,AM,14168,14168,0,1098,1098,http://www.amazonas.am.gov.br/,26.49232,341.84264,0.07750,6782,993,,
 Brazil,AP,2910,2910,0,86,86,https://saude.portal.ap.gov.br/,10.16872,344.08104,0.02955,837,5205,10617,1255.36370
 Brazil,BA,6204,6204,0,225,225,http://www.saude.ba.gov.br/,1.51280,41.71299,0.03627,1644,2029,26059,175.20936
