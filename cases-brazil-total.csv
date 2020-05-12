@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,169633,168331,1302,11631,11519,https://covid.saude.gov.br/,5.53469,80.72107,0.06857,50247,279224,359273,170.96261
+Brazil,TOTAL,169635,168331,1304,11631,11519,https://covid.saude.gov.br/,5.53469,80.72202,0.06856,50447,279182,359273,170.96261
 Brazil,AC,1460,1460,0,45,45,http://saude.acre.gov.br/,5.10242,165.54508,0.03082,366,471,5056,573.28488
 Brazil,AL,2343,2343,0,138,138,http://cidadao.saude.al.gov.br/,4.13501,70.20526,0.05890,1227,1498,5629,168.66640
 Brazil,AM,12919,12919,0,1035,1035,http://www.amazonas.am.gov.br/,24.97227,311.70702,0.08011,6685,993,,
@@ -20,7 +20,7 @@ Brazil,PI,1443,1332,111,49,45,https://www.pi.gov.br/noticias,1.49699,44.08494,0.
 Brazil,PR,1859,1849,10,112,111,http://www.saude.pr.gov.br/,0.97954,16.25859,0.06025,1266,521,16683,145.90749
 Brazil,RJ,17939,17939,0,1770,1770,http://www.rj.gov.br/,10.25199,103.90419,0.09867,11654,,,
 Brazil,RN,1989,1989,0,92,92,http://www.natal.rn.gov.br/,2.62343,56.71752,0.04625,662,6696,7298,208.10681
-Brazil,RO,1396,1396,0,47,47,http://www.rondonia.ro.gov.br/,2.64457,78.54942,0.03367,308,550,5386,303.05673
+Brazil,RO,1398,1396,2,47,47,http://www.rondonia.ro.gov.br/,2.64457,78.66196,0.03362,508,508,5386,303.05673
 Brazil,RR,1328,1295,33,24,24,https://saude.rr.gov.br/,3.96196,219.22838,0.01807,287,60,1731,285.75626
 Brazil,RS,2808,2576,232,105,105,https://saude.rs.gov.br,0.92290,24.68086,0.03739,1461,380,,
 Brazil,SC,3529,3529,0,69,69,http://www.saude.sc.gov.br,0.96304,49.25477,0.01955,1469,61,22885,319.40931
