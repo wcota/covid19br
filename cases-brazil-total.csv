@@ -1,8 +1,8 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,189883,188974,909,13234,13149,https://covid.saude.gov.br/,6.29749,90.35717,0.06970,59648,286660,359273,170.96261
+Brazil,TOTAL,190055,188974,1081,13234,13149,https://covid.saude.gov.br/,6.29749,90.43902,0.06963,60841,286548,359273,170.96261
 Brazil,AC,1694,1694,0,52,52,http://saude.acre.gov.br/,5.89613,192.07765,0.03070,541,680,5056,573.28488
 Brazil,AL,2761,2761,0,164,164,http://cidadao.saude.al.gov.br/,4.91407,82.73014,0.05940,1482,1253,5629,168.66640
-Brazil,AM,15816,15816,0,1160,1160,http://www.amazonas.am.gov.br/,27.98825,381.60526,0.07334,6782,993,,
+Brazil,AM,15816,15816,0,1160,1160,http://www.amazonas.am.gov.br/,27.98825,381.60526,0.07334,7975,881,,
 Brazil,AP,3005,3005,0,94,94,https://saude.portal.ap.gov.br/,11.11465,355.31392,0.03128,862,5418,10617,1255.36370
 Brazil,BA,6547,6547,0,236,236,http://www.saude.ba.gov.br/,1.58676,44.01917,0.03605,1790,2029,26059,175.20936
 Brazil,CE,19156,19156,0,1389,1389,https://www.saude.ce.gov.br,15.21012,209.76606,0.07251,9796,32297,43575,477.16412
@@ -16,7 +16,7 @@ Brazil,MT,673,661,12,20,20,http://www.saude.mt.gov.br/,0.57398,19.31429,0.02972,
 Brazil,PA,10344,9618,726,1022,946,http://www.saude.pa.gov.br,11.87976,120.23901,0.09880,6023,723,10737,124.80726
 Brazil,PB,3045,3045,0,157,157,https://paraiba.pb.gov.br/,3.90729,75.78158,0.05156,601,,4867,121.12609
 Brazil,PE,14901,14901,0,1224,1224,http://www.pe.gov.br/blog/saude/,12.80727,155.91597,0.08214,2600,,21380,223.70871
-Brazil,PI,1612,1612,0,57,57,https://www.pi.gov.br/noticias,1.74140,49.24804,0.03536,258,172,15398,470.42261
+Brazil,PI,1784,1612,172,57,57,https://www.pi.gov.br/noticias,1.74140,54.50279,0.03195,258,172,15398,470.42261
 Brazil,PR,1996,1996,0,117,117,http://www.saude.pr.gov.br/,1.02327,17.45677,0.05862,1424,686,16683,145.90749
 Brazil,RJ,18728,18728,0,2050,2050,http://www.rj.gov.br/,11.87377,108.47415,0.10946,13917,,,
 Brazil,RN,2367,2367,0,105,105,http://www.natal.rn.gov.br/,2.99414,67.49641,0.04436,804,7814,7298,208.10681
