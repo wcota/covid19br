@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,187052,177589,9463,13063,0,https://covid.saude.gov.br/,6.21612,89.01002,0.06984,58922,286623,359273,170.96261
+Brazil,TOTAL,187052,177589,9463,13082,0,https://covid.saude.gov.br/,6.22516,89.01002,0.06994,58922,286623,359273,170.96261
 Brazil,AC,1694,1590,104,51,0,http://saude.acre.gov.br/,5.78274,192.07765,0.03011,541,680,5056,573.28488
 Brazil,AL,2761,2580,181,164,0,http://cidadao.saude.al.gov.br/,4.91407,82.73014,0.05940,1482,1253,5629,168.66640
 Brazil,AM,14168,14168,0,1098,0,http://www.amazonas.am.gov.br/,26.49232,341.84264,0.07750,6782,993,,
@@ -19,10 +19,10 @@ Brazil,PE,14901,14309,592,1224,0,http://www.pe.gov.br/blog/saude/,12.80727,155.9
 Brazil,PI,1612,1443,169,57,0,https://www.pi.gov.br/noticias,1.74140,49.24804,0.03536,250,172,15398,470.42261
 Brazil,PR,1996,1906,90,117,0,http://www.saude.pr.gov.br/,1.02327,17.45677,0.05862,1424,686,16683,145.90749
 Brazil,RJ,18728,18486,242,2050,0,http://www.rj.gov.br/,11.87377,108.47415,0.10946,13917,,,
-Brazil,RN,2367,2033,334,93,0,http://www.natal.rn.gov.br/,2.65195,67.49641,0.03929,804,7814,7298,208.10681
+Brazil,RN,2367,2033,334,105,0,http://www.natal.rn.gov.br/,2.99414,67.49641,0.04436,804,7814,7298,208.10681
 Brazil,RO,1460,1460,0,50,0,http://www.rondonia.ro.gov.br/,2.81337,82.15054,0.03425,508,508,5386,303.05673
 Brazil,RR,1411,1328,83,28,0,https://saude.rr.gov.br/,4.62229,232.93015,0.01984,326,60,1731,285.75626
-Brazil,RS,2997,2917,80,111,0,https://saude.rs.gov.br,0.97563,26.34207,0.03704,1683,380,,
+Brazil,RS,2997,2917,80,118,0,https://saude.rs.gov.br,1.03716,26.34207,0.03937,1683,380,,
 Brazil,SC,3828,3733,95,73,0,http://www.saude.sc.gov.br,1.01887,53.42796,0.01907,2132,102,22885,319.40931
 Brazil,SE,2032,2032,0,37,0,https://www.se.gov.br/noticias/saude,1.60961,88.39794,0.01821,107,,5732,249.35877
 Brazil,SP,51097,47719,3378,4118,0,http://www.saopaulo.sp.gov.br/,8.96796,111.27626,0.08059,1524,113408,35600,77.52774
