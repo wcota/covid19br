@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,254439,241080,13359,16755,16118,https://covid.saude.gov.br/,7.97299,121.07660,0.06585,93391,322937,466209,221.84886
+Brazil,TOTAL,254878,241080,13798,16768,16118,https://covid.saude.gov.br/,7.97917,121.28550,0.06579,93682,322937,466209,221.84886
 Brazil,AC,2234,1997,237,67,60,http://saude.acre.gov.br/,7.59693,253.30665,0.02999,642,1525,6302,714.56513
 Brazil,AL,4031,3816,215,221,210,http://cidadao.saude.al.gov.br/,6.62201,120.78420,0.05483,2379,1090,6498,194.70497
 Brazil,AM,20913,20328,585,1433,1413,http://www.amazonas.am.gov.br/,34.57513,504.58464,0.06852,13929,881,,
@@ -14,7 +14,7 @@ Brazil,MG,4695,4611,84,161,156,https://www.saude.mg.gov.br/,0.76055,22.17888,0.0
 Brazil,MS,613,570,43,16,15,http://www.ms.gov.br/,0.57575,22.05841,0.02610,217,24,4338,156.10010
 Brazil,MT,941,901,40,30,27,http://www.saude.mt.gov.br/,0.86096,27.00557,0.03188,337,127,3228,92.63973
 Brazil,PA,15467,13864,1603,1330,1239,http://www.saude.pa.gov.br,15.45997,179.78894,0.08599,9752,234,14850,172.61691
-Brazil,PB,4347,4347,0,194,194,https://paraiba.pb.gov.br/,4.82812,108.18473,0.04463,1171,,7594,188.99353
+Brazil,PB,4786,4347,439,207,194,https://paraiba.pb.gov.br/,5.15165,119.11022,0.04325,1462,,7594,188.99353
 Brazil,PE,20094,19452,642,1640,1516,http://www.pe.gov.br/blog/saude/,17.16007,210.25270,0.08162,2969,507,25188,263.55355
 Brazil,PI,2287,2252,35,80,72,https://www.pi.gov.br/noticias,2.44407,69.86989,0.03498,296,172,18352,560.66994
 Brazil,PR,2360,2286,74,127,124,http://www.saude.pr.gov.br/,1.11073,20.64027,0.05381,1492,875,18944,165.68192
