@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants
-Brazil,TOTAL,250940,241080,9860,16616,16118,https://covid.saude.gov.br/,7.90684,119.41158,0.06622,84797,320631,466209,221.84886
+Brazil,TOTAL,251353,241080,10273,16633,16118,https://covid.saude.gov.br/,7.91493,119.60811,0.06617,84797,320631,466209,221.84886
 Brazil,AC,2234,1997,237,67,60,http://saude.acre.gov.br/,7.59693,253.30665,0.02999,642,1525,6302,714.56513
 Brazil,AL,3816,3816,0,210,210,http://cidadao.saude.al.gov.br/,6.29240,114.34198,0.05503,2132,937,6498,194.70497
 Brazil,AM,20328,20328,0,1413,1413,http://www.amazonas.am.gov.br/,34.09258,490.46988,0.06951,11663,881,,
@@ -7,7 +7,7 @@ Brazil,AP,3952,3952,0,119,119,https://saude.portal.ap.gov.br/,14.07067,467.28806
 Brazil,BA,8444,8443,1,295,295,http://www.saude.ba.gov.br/,1.98345,56.77378,0.03494,2199,2733,31125,209.27093
 Brazil,CE,26107,24255,1852,1692,1641,https://www.saude.ce.gov.br,18.52809,285.88236,0.06481,14430,39241,55035,602.65582
 Brazil,DF,4427,4368,59,59,59,http://www.saude.df.gov.br/coronavirus/,1.95671,146.81945,0.01333,2247,529,66644,2210.21813
-Brazil,ES,6744,6744,0,285,285,https://saude.es.gov.br/,7.09193,167.81755,0.04226,2585,,24486,609.30910
+Brazil,ES,7157,6744,413,302,285,https://saude.es.gov.br/,7.51496,178.09463,0.04220,2585,,24486,609.30910
 Brazil,GO,1749,1692,57,70,70,http://www.saude.go.gov.br/,0.99738,24.92037,0.04002,,14824,6063,86.38778
 Brazil,MA,13238,12492,746,576,549,http://www.saude.ma.gov.br/,8.14113,187.10475,0.04351,2881,3280,20787,293.80167
 Brazil,MG,4695,4611,84,161,156,https://www.saude.mg.gov.br/,0.76055,22.17888,0.03429,2254,101572,16571,78.28033
