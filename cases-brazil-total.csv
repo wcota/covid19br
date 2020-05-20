@@ -1,7 +1,7 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants,date,newCases,newDeaths
-Brazil,TOTAL,272847,271628,1219,18016,17971,https://covid.saude.gov.br/,8.57304,129.83618,0.06603,99441,347385,583549,277.68593,2020-05-19,16699,1112
+Brazil,TOTAL,272847,271628,1219,18020,17971,https://covid.saude.gov.br/,8.57494,129.83618,0.06604,99441,347385,583549,277.68593,2020-05-19,16699,1116
 Brazil,AC,2482,2482,0,72,72,http://saude.acre.gov.br/,8.16387,281.42664,0.02901,909,1407,8045,912.19874,2020-05-19,248,5
-Brazil,AL,4319,4316,3,231,231,http://cidadao.saude.al.gov.br/,6.92164,129.41378,0.05348,2504,1100,7373,220.92332,2020-05-19,288,10
+Brazil,AL,4319,4316,3,235,231,http://cidadao.saude.al.gov.br/,7.04150,129.41378,0.05441,2504,1100,7373,220.92332,2020-05-19,288,14
 Brazil,AM,22132,22132,0,1491,1491,http://www.amazonas.am.gov.br/,35.97455,533.99643,0.06737,13929,641,,,2020-05-19,1219,58
 Brazil,AP,4310,4310,0,136,136,https://saude.portal.ap.gov.br/,16.08076,509.61831,0.03155,1231,7446,15736,1860.63890,2020-05-19,287,9
 Brazil,BA,11013,11013,0,326,326,http://www.saude.ba.gov.br/,2.19188,74.04661,0.02960,2803,23532,69717,468.74672,2020-05-19,2431,14
