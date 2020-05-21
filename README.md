@@ -12,9 +12,9 @@ Mais informações: https://covid19br.wcota.me/
 
 ## Links relacionados
 
-- [Mapa de risco da COVID-19 no Brasil, Portugal e Espanha](https://covid-19-risk.github.io/map/)
+- [Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1)
 - [Bot no Telegram](https://t.me/CoronavirusBRBot)
-- [Monitor da COVID-19 no Brasil](https://fgrehm.github.io/monitor-covid19-br/)
+- [Monitor da COVID-19 no Brasil](https://covid19br.pub/)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
 - [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
 - [Brasil.IO](https://brasil.io/dataset/covid19/caso)
@@ -26,6 +26,8 @@ Mais informações: https://covid19br.wcota.me/
 - [@PokeCorona](https://twitter.com/PokeCorona)
 - [@fgrehm](https://twitter.com/fgrehm)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
+- [@hexry13](https://twitter.com/hexry13)
+- [@leonardomed](https://twitter.com/leonardomed)
 
 ## Citação
 
@@ -51,6 +53,10 @@ Em BibTeX:
 ## Na mídia
 
 - [BBC Brasil - Coronavírus: os sites que mostram dados de mortes, curvas de contágio e situação dos Estados no Brasil](https://www.bbc.com/portuguese/brasil-52067243)
+- [Meio Dia Paraná - Curitiba \| Pesquisa mostra o avanço da Covid-19 no Paraná \| Globoplay](https://globoplay.globo.com/v/8550860/programa/)
+- [MG2 \| Flexibilização do isolamento social pode aumentar casos de COVID-19 em cidades pequenas \| Globoplay](https://globoplay.globo.com/v/8551799/programa/)
+- [MODELAGEM AJUDA NO COMBATE AO CORONAVÍRUS EM MG - Jornal Minas](https://www.youtube.com/watch?v=lAeNOCKML90)
+- [Menor isolamento em capitais pode multiplicar coronavírus no interior - Jornal O Globo](https://oglobo.globo.com/sociedade/coronavirus/menor-isolamento-em-capitais-pode-multiplicar-coronavirus-no-interior-24418972)
 - [G1 - Estudante da UFV faz parte de pesquisa na Espanha sobre modelo computacional que prevê o risco de incidência do coronavírus](https://g1.globo.com/mg/zona-da-mata/noticia/2020/03/15/estudante-da-ufv-faz-parte-de-pesquisa-na-espanha-sobre-modelo-computacional-que-preve-o-risco-de-incidencia-do-coronavirus.ghtml)
 - [G1 - Universidades federais da Zona da Mata e Vertentes adotam medidas orçamentárias para pesquisas da Covid-19](https://g1.globo.com/mg/zona-da-mata/noticia/2020/04/05/universidades-federais-da-zona-da-mata-e-vertentes-adotam-medidas-orcamentarias-para-pesquisas-da-covid-19.ghtml)
 
@@ -89,9 +95,9 @@ BibTeX:
 
 ## Related links
 
-- [Risk map of COVID-19 in Brazil, Portugal and Spain](https://covid-19-risk.github.io/map/)
+- [Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil](https://covidbr.github.io/pub/1)
 - [Telegram bot](https://t.me/CoronavirusBRBot)
-- [Monitor da COVID-19 no Brasil (official news and tweets)](https://fgrehm.github.io/monitor-covid19-br/)
+- [Monitor da COVID-19 no Brasil (official news and tweets)](https://covid19br.pub/)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
 - [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
 - [Brasil.IO](https://brasil.io/dataset/covid19/caso)
@@ -103,6 +109,8 @@ BibTeX:
 - [@PokeCorona](https://twitter.com/PokeCorona)
 - [@fgrehm](https://twitter.com/fgrehm)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
+- [@hexry13](https://twitter.com/hexry13)
+- [@leonardomed](https://twitter.com/leonardomed)
 
 ## License
 
