@@ -1722,6 +1722,7 @@ date,URL
 2020-05-01,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-05-01,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-05
 2020-05-01,https://raw.githubusercontent.com/luiseduardobr1/covid19-Ceara/master/integraSUS_Municipios_CE/municipios_2020-05-01_19_30_30.csv
+2020-05-01,https://saude.rr.gov.br/index.php
 2020-05-01,https://www.covid-19.pa.gov.br/#/
 2020-05-01,https://www.portal.ap.gov.br/noticia/0105/boletim-informativo-covid-19-amapa-1-ordm-de-maio-de-2020
 2020-05-01,https://www.saude.go.gov.br/files/Arquivos-noticias/maio/DadosCorona1demaiode2020.pdf
@@ -2298,6 +2299,7 @@ date,URL
 2020-05-20,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-05-20,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-20-05
 2020-05-20,https://portal.ap.gov.br/noticia/2005/boletim-informativo-covid-19-amapa-20-de-maio-de-2020
+2020-05-20,https://saude.rr.gov.br/index.php
 2020-05-20,https://todoscontraocorona.net.br/wp-content/uploads/2020/05/Boletim-20.05.2020.pdf
 2020-05-20,https://www.covid-19.pa.gov.br/#/
 2020-05-20,https://www.irrd.org/covid-19/
@@ -2325,6 +2327,7 @@ date,URL
 2020-05-21,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-05-21,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-21-05-4
 2020-05-21,https://portal.ap.gov.br/noticia/2105/boletim-informativo-covid-19-amapa-21-de-maio-de-2020
+2020-05-21,https://saude.rr.gov.br/index.php
 2020-05-21,https://ti.saude.rs.gov.br/covid19/
 2020-05-21,https://todoscontraocorona.net.br/wp-content/uploads/2020/05/Boletim-21.05.2020-1.pdf
 2020-05-21,https://www.covid-19.pa.gov.br/#/
@@ -2383,6 +2386,7 @@ date,URL
 2020-05-23,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-05
 2020-05-23,https://roraimacontraocorona.rr.gov.br/winner/public/mapa.xhtml
 2020-05-23,https://saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/Boletim_Epidemiologico_COVID-19_23.05.2020.pdf
+2020-05-23,https://saude.to.gov.br/noticia/2020/5/23/acompanhe-o-69-boletim-epidemiologico-da-covid-19-no-tocantins--2305/
 2020-05-23,https://ti.saude.rs.gov.br/covid19/
 2020-05-23,https://todoscontraocorona.net.br/wp-content/uploads/2020/05/Boletim-23.05.2020-2.pdf
 2020-05-23,https://www.covid-19.pa.gov.br/#/
@@ -3075,11 +3079,13 @@ date,URL
 2020-06-16,https://agencia.ac.gov.br/wp-content/uploads/2020/06/BOLETIM_COVID-19_ACRE_16_06_2020.pdf
 2020-06-16,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-06-16,https://brasil.io/dataset/covid19/caso
+2020-06-16,https://central3.to.gov.br/arquivo/511828/
 2020-06-16,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-16-06-7-967-obitos-e-83-343-casos-confirmados-no-rj/
 2020-06-16,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2020-06-16,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-06-16,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-06-16,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-06-2020
+2020-06-16,https://saude.rr.gov.br/
 2020-06-16,https://todoscontraocorona.net.br/boletim-16-06-2020/
 2020-06-16,https://www.covid-19.pa.gov.br/#/
 2020-06-16,https://www.irrd.org/covid-19/#tab-pe
@@ -3094,7 +3100,9 @@ date,URL
 2020-06-17,http://www.ms.gov.br/com-mais-379-confirmados-mato-grosso-do-sul-passa-para-4-164-pacientes-com-coronavirus/
 2020-06-17,http://www.saude.ba.gov.br/2020/06/17/bahia-tem-1720-casos-registrados-de-covid-19-nas-ultimas-24-horas/
 2020-06-17,http://www.saude.ba.gov.br/wp-content/uploads/2020/06/BOLETIM_ELETRONICO_BAHIAN_85___17062020.pdf
+2020-06-17,http://www.saude.ma.gov.br/wp-content/uploads/2020/06/BOLETIM-17-06.pdf
 2020-06-17,http://www.saude.pr.gov.br/Pagina/Coronavirus-Covid-19
+2020-06-17,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-06/informe_epidemiologico_17_06_2020.csv
 2020-06-17,https://agencia.ac.gov.br/boletim-parcial-desta-quarta-feira-17-sobre-o-coronavirus/
 2020-06-17,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9
 2020-06-17,https://brasil.io/dataset/covid19/caso
@@ -3102,8 +3110,10 @@ date,URL
 2020-06-17,https://covid.lais.ufrn.br/
 2020-06-17,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
 2020-06-17,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
+2020-06-17,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-06-17,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
 2020-06-17,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2020-06-17,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-06-2020
 2020-06-17,https://saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/Boletim_Epidemiologico_COVID-19_17.06.2020.pdf
 2020-06-17,https://saude.rr.gov.br/
 2020-06-17,https://superset.plataformatarget.com.br/superset/dashboard/55/
@@ -3111,3 +3121,4 @@ date,URL
 2020-06-17,https://twitter.com/governope/status/1273272720294281216
 2020-06-17,https://www.covid-19.pa.gov.br/#/
 2020-06-17,https://www.saopaulo.sp.gov.br/coronavirus/?utm_source=site&utm_medium=banner&utm_campaign=coronavirus-acoes-sp&utm_content=Coronav%C3%ADrus%20-%20A%C3%A7%C3%B5es%20do%20Governo%20de%20SP
+2020-06-17,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-15-015-casos-e-216-mortes-por-covid-19
