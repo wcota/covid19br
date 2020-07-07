@@ -2423,6 +2423,7 @@ date,URL
 2020-05-24,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-governo-do-estado-confirma-6-696-casos-e-105-obitos-por-covid-19
 2020-05-24,https://www.seade.gov.br/coronavirus/
 2020-05-24,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/05/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.05.25-novo.pdf
+2020-05-25,http://integra.saude.to.gov.br/covid19
 2020-05-25,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000231941.PDF
 2020-05-25,http://www.agenciaminas.mg.gov.br/ckeditor_assets/attachments/8317/boletim_epidemiologico_covid-19_25_05_2020.pdf
 2020-05-25,http://www.rondonia.ro.gov.br/edicao-70-boletim-diario-sobre-coronavirus-em-rondonia/
@@ -2445,7 +2446,6 @@ date,URL
 2020-05-25,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-05-2020
 2020-05-25,https://portal.ap.gov.br/noticia/2505/boletim-informativo-covid-19-amapa-25-de-maio-de-2020
 2020-05-25,https://roraimacontraocorona.rr.gov.br/winner/public/mapa.xhtml
-2020-05-25,https://saude.to.gov.br/noticia/2020/5/25/acompanhe-o-71-boletim-epidemiologico-da-covid-19-no-tocantins--2505/
 2020-05-25,https://ti.saude.rs.gov.br/covid19/
 2020-05-25,https://todoscontraocorona.net.br/wp-content/uploads/2020/05/Boletim-25.05.2020.pdf
 2020-05-25,https://www.covid-19.pa.gov.br/#/
@@ -3664,9 +3664,11 @@ date,URL
 2020-07-05,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-121-5-7-2020.pdf
 2020-07-05,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-05,https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/Boletim_Epidemiologico_COVID-19_05.07.2020_-_Atualizado_1.pdf
+2020-07-05,https://www.saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1387-boletim-epidemiologico-coronavirus-155-2020
 2020-07-05,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-32-969-casos-e-393-mortes-por-covid-19
 2020-07-05,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/07/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.07.06.pdf
 2020-07-06,http://covid19.saude.go.gov.br
+2020-07-06,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas
 2020-07-06,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-06-de-junho.pdf
 2020-07-06,http://ti.saude.rs.gov.br/covid19/
 2020-07-06,http://www.fvs.am.gov.br/publicacoes
@@ -3684,6 +3686,7 @@ date,URL
 2020-07-06,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-06,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-07-06,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-07-2020
+2020-07-06,https://saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1388-boletim-epidemiologico-coronavirus-156-2020
 2020-07-06,https://todoscontraocorona.net.br/wp-content/uploads/2020/07/Boletim-06.07.2020.pdf
 2020-07-06,https://www.covid-19.pa.gov.br/#/
 2020-07-06,https://www.irrd.org/covid-19/#tab-pe
@@ -3694,10 +3697,13 @@ date,URL
 2020-07-06,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-33-822-casos-e-406-mortes-por-covid-19
 2020-07-07,http://coronavirus.saude.mg.gov.br/images/boletim/07-julho/Boletim_Epidemiologico_COVID-19_07.07.2020.pdf
 2020-07-07,http://coronavirus.to.gov.br/
+2020-07-07,http://covid19.saude.go.gov.br/
 2020-07-07,http://painel.saude.rj.gov.br/monitoramento/covid19.html
+2020-07-07,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-7-de-junho.pdf
 2020-07-07,http://ti.saude.rs.gov.br/covid19/
 2020-07-07,http://www.ms.gov.br/mato-grosso-do-sul-tem-128-mortes-por-coronavirus-e-10-687-confirmados/
 2020-07-07,http://www.saude.ba.gov.br/2020/07/07/bahia-registra-3-675-casos-novos-de-covid-19-e-48-obitos-nas-ultimas-24-horas/
+2020-07-07,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-07/INFORME_EPIDEMIOLOGICO_07_07_2020.csv
 2020-07-07,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-07/INFORME_EPIDEMIOLOGICO_07_07_2020.pdf
 2020-07-07,https://agencia.ac.gov.br/boletim-parcial-desta-terca-feira-7-sobre-o-coronavirus/
 2020-07-07,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9
@@ -3705,9 +3711,11 @@ date,URL
 2020-07-07,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-07-07,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
 2020-07-07,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
+2020-07-07,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-07,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
 2020-07-07,https://github.com/seade-R/dados-covid-sp/blob/master/data/Municipios%20informacoes%20dia.xlsx
 2020-07-07,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2020-07-07,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-07-2020
 2020-07-07,https://saude.rr.gov.br/
 2020-07-07,https://superset.plataformatarget.com.br/superset/dashboard/55/
 2020-07-07,https://todoscontraocorona.net.br/
@@ -3717,3 +3725,5 @@ date,URL
 2020-07-07,https://www.covid-19.pa.gov.br/#/
 2020-07-07,https://www.saopaulo.sp.gov.br/spnoticias/sp-registra-164-mil-obitos-e-3327-mil-casos-de-coronavirus/
 2020-07-07,https://www.saude.al.gov.br/2020/07/07/alagoas-tem-41-524-casos-da-covid-19-e-1-192-obitos/
+2020-07-07,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-123-7-7-2020-1.pdf
+2020-07-07,https://www.saude.go.gov.br/noticias/764-coronavirus/11146-atualizacao-dos-casos-de-doenca-pelo-coronavirus-covid-19-em-goias-07-07-2020
