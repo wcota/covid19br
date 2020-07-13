@@ -2423,7 +2423,6 @@ date,URL
 2020-05-24,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-governo-do-estado-confirma-6-696-casos-e-105-obitos-por-covid-19
 2020-05-24,https://www.seade.gov.br/coronavirus/
 2020-05-24,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/05/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.05.25-novo.pdf
-2020-05-25,http://integra.saude.to.gov.br/covid19
 2020-05-25,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000231941.PDF
 2020-05-25,http://www.agenciaminas.mg.gov.br/ckeditor_assets/attachments/8317/boletim_epidemiologico_covid-19_25_05_2020.pdf
 2020-05-25,http://www.rondonia.ro.gov.br/edicao-70-boletim-diario-sobre-coronavirus-em-rondonia/
@@ -2438,6 +2437,7 @@ date,URL
 2020-05-25,https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_5afad4e6db0347748a520163896ba6c7.pdf
 2020-05-25,https://agencia.ac.gov.br/wp-content/uploads/2020/05/BOLETIM_COVID-19_ACRE_25_05_2020.pdf
 2020-05-25,https://brasil.io/dataset/covid19/caso
+2020-05-25,https://central3.to.gov.br/arquivo/507826/
 2020-05-25,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-05-25,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-25-05-4-105-obitos-e-39-298-casos-confirmados-no-rj/
 2020-05-25,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
@@ -3796,6 +3796,7 @@ date,URL
 2020-07-10,http://www.saude.mt.gov.br/arquivo/11377
 2020-07-10,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-07/INFORME_EPIDEMIOLOGICO_10_07_2020.csv
 2020-07-10,http://www.seade.gov.br/wp-content/uploads/2020/07/Dados-covid-19-municipios.csv
+2020-07-10,https://agencia.ac.gov.br/wp-content/uploads/2020/07/BOLETIM_COVID-19_ACRE_10_07_2020-ATUAL.pdf
 2020-07-10,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-07-10,https://brasil.io/dataset/covid19/caso
 2020-07-10,https://central3.to.gov.br/arquivo/516399/
@@ -3819,10 +3820,14 @@ date,URL
 2020-07-11,http://coronavirus.saude.mg.gov.br/images/boletim/07-julho/Boletim_Epidemiologico_COVID-19_11.07.2020.pdf
 2020-07-11,http://covid19.saude.go.gov.br
 2020-07-11,http://ti.saude.rs.gov.br/covid19/
+2020-07-11,http://www.fvs.am.gov.br/media/publicacao/11_07_20_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
+2020-07-11,http://www.rondonia.ro.gov.br/edicao-117-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-11,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_109___11072020.pdf
 2020-07-11,http://www.saude.ma.gov.br/wp-content/uploads/2020/07/BOLETIM-11-07.pdf
 2020-07-11,http://www.seade.gov.br/wp-content/uploads/2020/07/Dados-covid-19-municipios.csv
+2020-07-11,https://agencia.ac.gov.br/wp-content/uploads/2020/07/BOLETIM_COVID-19_ACRE_11_07_2020-ATUAL-1.pdf
 2020-07-11,https://brasil.io/dataset/covid19/caso
+2020-07-11,https://central3.to.gov.br/arquivo/516411/
 2020-07-11,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-07-11,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-11-07-11-406-obitos-e-129-675-casos-confirmados-no-rj/
 2020-07-11,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
@@ -3838,16 +3843,21 @@ date,URL
 2020-07-11,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-11,https://www.saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1401-boletim-epidemiologico-coronavirus-161-2020
 2020-07-11,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-42-026-casos-e-485-mortes-por-covid-19
+2020-07-11,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/07/Boletim-Epidemiol%C3%B3gico-COVID-19-2020.07.12.pdf
 2020-07-12,http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido
 2020-07-12,http://coronavirus.saude.mg.gov.br/images/Boletim_Epidemiologico_COVID-19_12.07.2020.pdf
 2020-07-12,http://coronavirus.to.gov.br/
+2020-07-12,http://covid19.saude.go.gov.br
 2020-07-12,http://painel.saude.rj.gov.br/monitoramento/covid19.html
 2020-07-12,http://ti.saude.rs.gov.br/covid19/
+2020-07-12,http://www.fvs.am.gov.br/media/publicacao/12_07_20_BOLETIM_DIARIO_DE_CASOS_COVID-19.pdf
 2020-07-12,http://www.fvs.am.gov.br/noticias_view/4031
 2020-07-12,http://www.ms.gov.br/mato-grosso-do-sul-tem-161-mortes-por-coronavirus-e-13-197-confirmados/
 2020-07-12,http://www.mt.gov.br/-/14866382-domingo-12-mato-grosso-registra-28.791-casos-e-1.077-obitos-por-covid-19
 2020-07-12,http://www.rondonia.ro.gov.br/edicao-118-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-12,http://www.saude.ba.gov.br/2020/07/12/bahia-registra-1-575-casos-de-covid-19-nas-ultimas-24-horas/
+2020-07-12,http://www.saude.ma.gov.br/wp-content/uploads/2020/07/BOLETIM-12-07.pdf
+2020-07-12,http://www.saude.mt.gov.br/arquivo/11379
 2020-07-12,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-07/informe_epidemiologico_12_07_2020.pdf
 2020-07-12,https://agencia.ac.gov.br/boletim-parcial-deste-domingo-12-sobre-o-coronavirus/
 2020-07-12,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9
@@ -3855,7 +3865,9 @@ date,URL
 2020-07-12,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-07-12,https://brasil.io/dataset/covid19/caso
 2020-07-12,https://coronavirus.es.gov.br/painel-covid-19-es
+2020-07-12,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-12-07-11-415-obitos-e-129-684-casos-confirmados-no-rj/
 2020-07-12,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
+2020-07-12,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2020-07-12,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-07-12,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-12,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
@@ -3869,4 +3881,6 @@ date,URL
 2020-07-12,https://www.portal.ap.gov.br/noticia/1207/boletim-informativo-covid-19-amapa-12-de-julho-de-2020
 2020-07-12,https://www.saopaulo.sp.gov.br/ultimas-noticias/sp-registra-178-mil-obitos-e-3719-mil-casos-de-coronavirus/
 2020-07-12,https://www.saude.al.gov.br/index.php/alagoas-tem-45-330-casos-da-covid-19-e-1-281-obitos/
+2020-07-12,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-128-12-7-2020.pdf
+2020-07-12,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-12,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-43-031-casos-e-497-mortes-por-covid-19
