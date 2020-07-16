@@ -3789,6 +3789,7 @@ date,URL
 2020-07-10,http://covid19.saude.go.gov.br/
 2020-07-10,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-10-de-junho.pdf
 2020-07-10,http://ti.saude.rs.gov.br/covid19/
+2020-07-10,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000235201.PDF
 2020-07-10,http://www.amazonas.am.gov.br/content/uploads/2020/07/10_07_20-BOLETIM-DIA%CC%81RIO-DE-CASOS-COVID-19.pdf
 2020-07-10,http://www.rondonia.ro.gov.br/edicao-116-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-10,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_108___10072020-1-2.pdf
@@ -3809,7 +3810,6 @@ date,URL
 2020-07-10,https://twitter.com/saudegovpi/status/1281364390952960002
 2020-07-10,https://www.covid-19.pa.gov.br/#/
 2020-07-10,https://www.dropbox.com/s/0t3pbtf6rjktaxq/Boletim%20Covid-19%20-%20Secretaria%20de%20Sa%C3%BAde%20de%20Pernambuco%20-%2010.07.pdf?dl=0
-2020-07-10,https://www.instagram.com/p/CChQ6LllUMR/
 2020-07-10,https://www.irrd.org/covid-19/
 2020-07-10,https://www.portal.ap.gov.br/noticia/1007/boletim-informativo-covid-19-amapa-10-de-julho-de-2020
 2020-07-10,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiológico-COVID-19-nº-126-10-7-2020.pdf
@@ -3851,6 +3851,7 @@ date,URL
 2020-07-12,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas
 2020-07-12,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-Epidemiolo%CC%81gico-Covid19-.pdf
 2020-07-12,http://ti.saude.rs.gov.br/covid19/
+2020-07-12,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000235200.PDF
 2020-07-12,http://www.fvs.am.gov.br/media/publicacao/12_07_20_BOLETIM_DIARIO_DE_CASOS_COVID-19.pdf
 2020-07-12,http://www.rondonia.ro.gov.br/edicao-118-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-12,http://www.saude.ba.gov.br/2020/07/12/bahia-registra-1-575-casos-de-covid-19-nas-ultimas-24-horas/
@@ -3862,7 +3863,6 @@ date,URL
 2020-07-12,https://brasil.io/dataset/covid19/caso
 2020-07-12,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-12-07-11-415-obitos-e-129-684-casos-confirmados-no-rj/
 2020-07-12,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
-2020-07-12,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-12,https://github.com/seade-R/dados-covid-sp/blob/master/data/Municipios%20informacoes%20dia.xlsx
 2020-07-12,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-07-12,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-07-2020
@@ -3880,6 +3880,7 @@ date,URL
 2020-07-13,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas
 2020-07-13,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-13-de-julho.pdf
 2020-07-13,http://ti.saude.rs.gov.br/covid19/
+2020-07-13,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000235327.PDF
 2020-07-13,http://www.amazonas.am.gov.br/content/uploads/2020/07/13_07_20-BOLETIM-DIA769_RIO-DE-CASOS-COVID-19.pdf
 2020-07-13,http://www.rondonia.ro.gov.br/edicao-119-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-13,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_111___13072020.pdf
@@ -3925,6 +3926,7 @@ date,URL
 2020-07-14,https://todoscontraocorona.net.br/wp-content/uploads/2020/07/Boletim-14.07.2020.pdf
 2020-07-14,https://www.covid-19.pa.gov.br/#/
 2020-07-14,https://www.irrd.org/covid-19/#tab-pe
+2020-07-14,https://www.portal.ap.gov.br/noticia/1407/boletim-informativo-covid-19-amapa-14-de-julho-de-2020
 2020-07-14,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiológico-COVID-19-nº-130-14-7-2020.pdf
 2020-07-14,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-14,https://www.saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1405-boletim-epidemiologico-coronavirus-164-2020
@@ -3933,8 +3935,10 @@ date,URL
 2020-07-15,http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido
 2020-07-15,http://coronavirus.saude.mg.gov.br/images/boletim/07-julho/Boletim_Epidemiologico_COVID-19_15.07.2020.pdf
 2020-07-15,http://coronavirus.to.gov.br/
+2020-07-15,http://covid19.saude.go.gov.br/
 2020-07-15,http://covid19.sesau.ro.gov.br/
 2020-07-15,http://painel.saude.rj.gov.br/monitoramento/covid19.html
+2020-07-15,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-15-de-julho.pdf
 2020-07-15,http://ti.saude.rs.gov.br/covid19/
 2020-07-15,http://www.fvs.am.gov.br/media/publicacao/15_07_20_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2020-07-15,http://www.fvs.am.gov.br/noticias_view/4036
@@ -3949,7 +3953,9 @@ date,URL
 2020-07-15,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-07-15,https://brasil.io/dataset/covid19/caso
 2020-07-15,https://coronavirus.es.gov.br/painel-covid-19-es
+2020-07-15,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-15-07-11-757-obitos-e-134-449-casos-confirmados-no-rj/
 2020-07-15,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
+2020-07-15,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2020-07-15,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-07-15,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-15,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
@@ -3958,9 +3964,14 @@ date,URL
 2020-07-15,https://saude.rr.gov.br/
 2020-07-15,https://superset.plataformatarget.com.br/superset/dashboard/55/
 2020-07-15,https://todoscontraocorona.net.br/
+2020-07-15,https://todoscontraocorona.net.br/wp-content/uploads/2020/07/Boletim-15.07.2020.pdf
 2020-07-15,https://twitter.com/governodoamapa/status/1283514418312155138
 2020-07-15,https://twitter.com/governope/status/1283416358450073601
 2020-07-15,https://www.corona.ma.gov.br/
 2020-07-15,https://www.covid-19.pa.gov.br/#/
+2020-07-15,https://www.instagram.com/p/CCrpLj3DM7D/
+2020-07-15,https://www.portal.ap.gov.br/noticia/1507/boletim-informativo-covid-19-amapa-15-de-julho-de-2020
 2020-07-15,https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-registra-186-mil-obitos-e-3931-mil-casos-de-coronavirus/
 2020-07-15,https://www.saude.al.gov.br/alagoas-tem-47-864-casos-da-covid-19-e-1-331-obitos/
+2020-07-15,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiológico-COVID-19-nº-131-15-7-2020.pdf
+2020-07-15,https://www.saude.go.gov.br/noticias/764-coronavirus/11252-atualizacao-dos-casos-de-doenca-pelo-coronavirus-covid-19-em-goias-15-07-2020
