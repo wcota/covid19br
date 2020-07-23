@@ -4077,6 +4077,7 @@ date,URL
 2020-07-20,http://coronavirus.saude.mg.gov.br/images/boletim/07-julho/Boletim_Epidemiologico_COVID-19_20.07.2020.pdf
 2020-07-20,http://covid19.saude.go.gov.br/
 2020-07-20,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas
+2020-07-20,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000235843.PDF
 2020-07-20,http://www.fvs.am.gov.br/publicacoes
 2020-07-20,http://www.rondonia.ro.gov.br/edicao-124-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-20,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_118___20072020.pdf
@@ -4106,6 +4107,9 @@ date,URL
 2020-07-21,http://coronavirus.pi.gov.br/
 2020-07-21,http://coronavirus.saude.mg.gov.br/images/boletim/21-07-Boletim_Epidemiologico_COVID-19.pdf
 2020-07-21,http://covid19.saude.go.gov.br
+2020-07-21,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000236022.PDF
+2020-07-21,http://www.amazonas.am.gov.br/content/uploads/2020/07/21_07_20-BOLETIM-DIA%CC%81RIO-DE-CASOS-COVID-19.pdf
+2020-07-21,http://www.rondonia.ro.gov.br/edicao-125-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-21,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_119___21072020.pdf
 2020-07-21,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-21-de-julho.pdf
 2020-07-21,http://www.saude.ma.gov.br/wp-content/uploads/2020/07/BOLETIM-21-07.pdf
@@ -4113,6 +4117,7 @@ date,URL
 2020-07-21,https://agencia.ac.gov.br/wp-content/uploads/2020/07/BOLETIM_COVID-19_ACRE_21_07_2020-ATUAL.pdf
 2020-07-21,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-07-21,https://brasil.io/dataset/covid19/caso
+2020-07-21,https://central3.to.gov.br/arquivo/519306/
 2020-07-21,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-21-07-12-293-obitos-e-145-121-casos-confirmados-no-rj/
 2020-07-21,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-21,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
@@ -4122,6 +4127,7 @@ date,URL
 2020-07-21,https://www.covid-19.pa.gov.br/#/
 2020-07-21,https://www.dropbox.com/s/4tpze7xcueygya1/Boletim%20Covid-19%20-%20Secretaria%20de%20Sa%C3%BAde%20de%20Pernambuco%20-%2021.07.pdf?dl=0
 2020-07-21,https://www.irrd.org/covid-19/
+2020-07-21,https://www.portal.ap.gov.br/noticia/2107/boletim-informativo-covid-19-amapa-21-de-julho-de-2020
 2020-07-21,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-137-21-7-2020.pdf
 2020-07-21,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-21,https://www.saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1438-boletim-epidemiologico-coronavirus-171-2020
@@ -4130,11 +4136,15 @@ date,URL
 2020-07-22,http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido
 2020-07-22,http://coronavirus.saude.mg.gov.br/images/boletim/07-julho/Boletim_Epidemiologico_COVID-19_22.07.2020.pdf
 2020-07-22,http://coronavirus.to.gov.br/
+2020-07-22,http://covid19.saude.go.gov.br
 2020-07-22,http://covid19.sesau.ro.gov.br/
+2020-07-22,http://painel.saude.rj.gov.br/monitoramento/covid19.html
 2020-07-22,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF-22-de-julho.pdf
 2020-07-22,http://ti.saude.rs.gov.br/covid19/
 2020-07-22,http://www.fvs.am.gov.br/noticias_view/4049
 2020-07-22,http://www.ms.gov.br/ms-registra-mais-de-15-mil-novos-casos-positivos-de-coronavirus-em-apenas-24-horas/
+2020-07-22,http://www.mt.gov.br/-/14935965-quarta-feira-22-mato-grosso-registra-38.931-casos-e-1.474-obitos-por-covid-19
+2020-07-22,http://www.rondonia.ro.gov.br/edicao-126-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-07-22,http://www.saude.ba.gov.br/wp-content/uploads/2020/07/BOLETIM_ELETRONICO_BAHIAN_120___22072020.pdf
 2020-07-22,http://www.saude.ma.gov.br/wp-content/uploads/2020/07/BOLETIM-22-07.pdf
 2020-07-22,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-07/INFORME_EPIDEMIOLOGICO_22_07_2020%20.pdf
@@ -4143,8 +4153,10 @@ date,URL
 2020-07-22,https://bi.saude.ba.gov.br/transparencia/
 2020-07-22,https://brasil.io/dataset/covid19/caso
 2020-07-22,https://coronavirus.es.gov.br/painel-covid-19-es
+2020-07-22,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-22-07-12-443-obitos-e-148-623-casos-confirmados-no-rj/
 2020-07-22,https://covid.lais.ufrn.br/
 2020-07-22,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
+2020-07-22,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2020-07-22,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-07-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-07-22,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
@@ -4157,7 +4169,10 @@ date,URL
 2020-07-22,https://twitter.com/governope/status/1285950650803720193
 2020-07-22,https://www.corona.ma.gov.br/
 2020-07-22,https://www.covid-19.pa.gov.br/#/
+2020-07-22,https://www.portal.ap.gov.br/noticia/2207/boletim-informativo-covid-19-amapa-22-de-julho-de-2020
 2020-07-22,https://www.saopaulo.sp.gov.br/noticias-coronavirus/estado-de-sp-registra-205-mil-obitos-e-4394-mil-casos-de-coronavirus/
 2020-07-22,https://www.saude.al.gov.br/alagoas-tem-51-680-casos-da-covid-19-e-1-443-obitos/
 2020-07-22,https://www.saude.al.gov.br/wp-content/uploads/2020/07/Informe-Epidemiol%C3%B3gico-COVID-19-n%C2%BA-138-22-7-2020.pdf
+2020-07-22,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-07-22,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-59-556-casos-e-765-mortes-por-covid-19
+2020-07-22,https://www.seade.gov.br/coronavirus/
