@@ -5292,6 +5292,7 @@ date,URL
 2020-09-01,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-09-01,https://brasil.io/dataset/covid19/caso
 2020-09-01,https://central3.to.gov.br/arquivo/526533/
+2020-09-01,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-01-09-16-217-obitos-e-226-800-casos-confirmados-no-rj/
 2020-09-01,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-09-01,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-09-01,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
@@ -5307,6 +5308,8 @@ date,URL
 2020-09-01,https://www.saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1533-boletim-epidemiologico-coronavirus-213-2020
 2020-09-01,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-180-474-casos-169-414-recuperados-e-2-301-mortes-por-covid-19
 2020-09-01,https://www.seade.gov.br/coronavirus/
+2020-09-01,https://www.vs.saude.ms.gov.br/wp-content/uploads/2020/09/Boletim-Epidemiologico-COVID-19-2020.09.02.pdf
+2020-09-02,http://coronavirus.saude.mg.gov.br/images/Boletim-Epidemiologico_COVID-19_02.09.2020.pdf
 2020-09-02,http://covid19.saude.go.gov.br/
 2020-09-02,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_2_SET.pdf
 2020-09-02,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-09/informe_epidemiologico_02_09_2020_geral.csv
@@ -5355,6 +5358,7 @@ date,URL
 2020-09-04,http://ti.saude.rs.gov.br/covid19/
 2020-09-04,http://www.fvs.am.gov.br/noticias_view/4138
 2020-09-04,http://www.mt.gov.br/-/15324760-sexta-feira-04-mato-grosso-registra-97.550-casos-e-2.923-obitos-por-covid-19
+2020-09-04,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_4_SET.pdf
 2020-09-04,http://www.seade.gov.br/wp-content/uploads/2020/09/Dados-covid-19-municipios.csv
 2020-09-04,https://agencia.ac.gov.br/boletim-parcial-desta-sexta-feira-4-sobre-o-coronavirus/
 2020-09-04,https://agencia.ac.gov.br/wp-content/uploads/2020/09/BOLETIM_COVID-19_ACRE_04_09_2020-ATUAL-1.pdf
@@ -5377,5 +5381,6 @@ date,URL
 2020-09-04,https://www.covid-19.pa.gov.br/#/
 2020-09-04,https://www.saopaulo.sp.gov.br/noticias-coronavirus/estado-de-sp-registra-31-mil-obitos-e-845-mil-casos-de-coronavirus/
 2020-09-04,https://www.saude.al.gov.br/alagoas-tem-80-103-casos-da-covid-19-e-1-917-obitos/
+2020-09-04,https://www.saude.al.gov.br/wp-content/uploads/2020/09/Informe-Epidemiologico-COVID-19-no-182-04-9-2020-1.pdf
 2020-09-04,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-09/informe_epidemiologico_04_09_2020_.pdf
 2020-09-04,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-186-596-casos-175-385-recuperados-e-2-376-mortes-por-covid-19
