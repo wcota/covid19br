@@ -5371,6 +5371,7 @@ date,URL
 2020-09-04,http://www.seade.gov.br/wp-content/uploads/2020/09/Dados-covid-19-municipios.csv
 2020-09-04,https://agencia.ac.gov.br/wp-content/uploads/2020/09/BOLETIM_COVID-19_ACRE_04_09_2020-ATUAL-1.pdf
 2020-09-04,https://bi.saude.ba.gov.br/transparencia/
+2020-09-04,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-09-04,https://brasil.io/dataset/covid19/caso
 2020-09-04,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-04-09-16-467-obitos-e-232-489-casos-confirmados-no-rj/
 2020-09-04,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
@@ -5394,6 +5395,7 @@ date,URL
 2020-09-05,http://www.saude.ba.gov.br/
 2020-09-05,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-09/informe_epidemiologico_05_09_2020_geral.csv
 2020-09-05,https://agencia.ac.gov.br/
+2020-09-05,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-09-05,https://brasil.io/dataset/covid19/caso
 2020-09-05,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-05-09-16-526-obitos-e-232-747-casos-confirmados-no-rj/
 2020-09-05,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
@@ -5415,6 +5417,7 @@ date,URL
 2020-09-06,http://www.saude.ba.gov.br/wp-content/uploads/2020/09/BOLETIM_ELETRONICO_BAHIAN_166___06092020.pdf
 2020-09-06,http://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-09/informe_epidemiologico_06_09_2020_geral_0.csv
 2020-09-06,https://agencia.ac.gov.br
+2020-09-06,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-09-06,https://brasil.io/dataset/covid19/caso
 2020-09-06,https://central3.to.gov.br/arquivo/527078/
 2020-09-06,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-06-09-16-568-obitos-e-232-818-casos-confirmados-no-rj/
@@ -5437,6 +5440,7 @@ date,URL
 2020-09-07,http://www.rondonia.ro.gov.br/edicao-173-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-09-07,http://www.saude.ba.gov.br/wp-content/uploads/2020/09/BOLETIM_ELETRONICO_BAHIAN_167___07092020.pdf
 2020-09-07,https://agencia.ac.gov.br/boletim-sesacre-desta-segunda-feira-7-sobre-o-coronavirus/
+2020-09-07,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-09-07,https://brasil.io/dataset/covid19/caso
 2020-09-07,https://central3.to.gov.br/arquivo/527123/
 2020-09-07,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-07-09-16-593-obitos-e-233-052-casos-confirmados-no-rj/
@@ -5550,6 +5554,7 @@ date,URL
 2020-09-11,https://ti.saude.rs.gov.br/covid19/
 2020-09-11,https://todoscontraocorona.net.br/wp-content/uploads/2020/09/Boletim-11.09.2020.pdf
 2020-09-11,https://www.covid-19.pa.gov.br/#/
+2020-09-11,https://www.irrd.org/covid-19/#tab-pe
 2020-09-11,https://www.portal.ap.gov.br/noticia/1109/boletim-informativo-covid-19-amapa-11-de-setembro-de-2020
 2020-09-11,https://www.saude.al.gov.br/wp-content/uploads/2020/09/Informe-Epidemiologico-COVID-19-no-189-11-9-2020.pdf
 2020-09-11,https://www.saude.go.gov.br/noticias/764-coronavirus
@@ -5568,6 +5573,7 @@ date,URL
 2020-09-12,https://bi.saude.ba.gov.br/transparencia/
 2020-09-12,https://brasil.io/dataset/covid19/caso
 2020-09-12,https://coronavirus.es.gov.br/painel-covid-19-es
+2020-09-12,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-12-09-16-985-obitos-e-240-776-casos-confirmados-no-rj/
 2020-09-12,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
 2020-09-12,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2020-09-12,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
@@ -5576,6 +5582,7 @@ date,URL
 2020-09-12,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-09-12,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-09-2020
 2020-09-12,https://saude.rr.gov.br/
+2020-09-12,https://ti.saude.rs.gov.br/covid19/
 2020-09-12,https://todoscontraocorona.net.br/
 2020-09-12,https://twitter.com/GovernoAcre/status/1304899961994313729
 2020-09-12,https://twitter.com/governope/status/1304843687827046412
@@ -5584,4 +5591,5 @@ date,URL
 2020-09-12,https://www.saopaulo.sp.gov.br/noticias-coronavirus/sp-registra-325-mil-obitos-e-8906-mil-casos-de-coronavirus/
 2020-09-12,https://www.saude.al.gov.br/alagoas-tem-82-028-casos-da-covid-19-e-1-972-obitos/
 2020-09-12,https://www.saude.al.gov.br/wp-content/uploads/2020/09/Informe-Epidemiologico-COVID-19-no-190-12-9-2020.pdf
+2020-09-12,https://www.saude.ma.gov.br/wp-content/uploads/2020/09/BOLETIM-12-09.pdf
 2020-09-12,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-09/informe_epidemiologico_12_09_2020.pdf
