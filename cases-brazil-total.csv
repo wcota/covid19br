@@ -1,5 +1,5 @@
 country,state,totalCases,totalCasesMS,notConfirmedByMS,deaths,deathsMS,URL,deaths_per_100k_inhabitants,totalCases_per_100k_inhabitants,deaths_by_totalCases,recovered,suspects,tests,tests_per_100k_inhabitants,date,newCases,newDeaths
-Brazil,TOTAL,5004613,5000694,3919,148357,148228,https://covid.saude.gov.br/,70.59673,2381.48059,0.02964,4457172,2457664,15715116,7478.14942,2020-10-07,29345,703
+Brazil,TOTAL,5004613,5000694,3919,148357,148228,https://covid.saude.gov.br/,70.06045,2363.39007,0.02964,4457172,2457664,15715116,7421.34289,2020-10-07,29345,703
 Brazil,AC,28818,28818,0,668,668,http://saude.acre.gov.br/,75.74254,3267.58775,0.02318,26979,20,73721,8359.00605,2020-10-07,13,0
 Brazil,AL,88426,88426,0,2115,2115,http://cidadao.saude.al.gov.br/,63.37350,2649.58169,0.02392,85258,2465,188483,5647.67269,2020-10-07,143,6
 Brazil,AM,144492,144492,0,4202,4202,http://www.amazonas.am.gov.br/,101.38501,3486.27382,0.02908,120012,1125,343853,8296.41579,2020-10-07,921,9
