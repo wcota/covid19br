@@ -155,7 +155,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 2613503,São José do Belmonte/PE,PE,Nordeste,33959,1,26012,Serra Talhada
 2613602,São José do Egito/PE,PE,Nordeste,33951,1,26001,Afogados da Ingazeira
 2613701,São Lourenço da Mata/PE,PE,Nordeste,113230,0,26010,Recife
-2613800,São Vicente Ferrer/PE,PE,Nordeste,18018,1,26005,Goiana
+2613800,São Vicente Férrer/PE,PE,Nordeste,18018,1,26005,Goiana
 2613909,Serra Talhada/PE,PE,Nordeste,86350,1,26012,Serra Talhada
 2614006,Serrita/PE,PE,Nordeste,19165,1,26011,Salgueiro
 2614105,Sertânia/PE,PE,Nordeste,35907,1,26002,Arcoverde
@@ -928,7 +928,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 2901908,Aporá/BA,BA,Nordeste,17731,1,29001,Alagoinhas
 2901957,Apuarema/BA,BA,Nordeste,7330,1,29015,Jequié
 2902005,Aracatu/BA,BA,Nordeste,13135,1,29003,Brumado
-2902054,Araças/BA,BA,Nordeste,12177,1,29001,Alagoinhas
+2902054,Araçás/BA,BA,Nordeste,12177,1,29001,Alagoinhas
 2902104,Araci/BA,BA,Nordeste,54379,1,29025,Serrinha
 2902203,Aramari/BA,BA,Nordeste,11397,1,29001,Alagoinhas
 2902252,Arataca/BA,BA,Nordeste,11019,1,29009,Ilhéus
@@ -1108,7 +1108,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 2917102,Itororó/BA,BA,Nordeste,20382,1,29013,Itapetinga
 2917201,Ituaçu/BA,BA,Nordeste,18962,1,29003,Brumado
 2917300,Ituberá/BA,BA,Nordeste,28602,1,29027,Valença
-2917334,Iuiú/BA,BA,Nordeste,10994,1,29007,Guanambi
+2917334,Iuiu/BA,BA,Nordeste,10994,1,29007,Guanambi
 2917359,Jaborandi/BA,BA,Nordeste,8385,1,29021,Santa Maria da Vitória
 2917409,Jacaraci/BA,BA,Nordeste,14842,1,29007,Guanambi
 2917508,Jacobina/BA,BA,Nordeste,80518,1,29014,Jacobina
@@ -1172,7 +1172,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 2922052,Mulungu do Morro/BA,BA,Nordeste,10889,1,29010,Irecê
 2922102,Mundo Novo/BA,BA,Nordeste,26776,1,29006,Feira de Santana
 2922201,Muniz Ferreira/BA,BA,Nordeste,7422,1,29022,Santo Antônio de Jesus
-2922250,Muquém de São Francisco/BA,BA,Nordeste,11348,1,29008,Ibotirama
+2922250,Muquém do São Francisco/BA,BA,Nordeste,11348,1,29008,Ibotirama
 2922300,Muritiba/BA,BA,Nordeste,29399,1,29005,Cruz das Almas
 2922409,Mutuípe/BA,BA,Nordeste,22221,1,29022,Santo Antônio de Jesus
 2922508,Nazaré/BA,BA,Nordeste,28525,1,29022,Santo Antônio de Jesus
@@ -2958,7 +2958,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 3147501,Passabém/MG,MG,Sudeste,1649,1,31021,Itabira
 3147600,Passa Quatro/MG,MG,Sudeste,16344,1,31008,São Lourenço
 3147709,Passa Tempo/MG,MG,Sudeste,8084,1,31088,Oliveira/Santo Antônio do Amparo
-3147808,Passa-Vinte/MG,MG,Sudeste,2039,1,31090,Lima Duarte
+3147808,Passa Vinte/MG,MG,Sudeste,2039,1,31090,Lima Duarte
 3147907,Passos/MG,MG,Sudeste,114679,1,31092,Passos
 3147956,Patis/MG,MG,Sudeste,5972,1,31049,Brasília de Minas/São Francisco
 3148004,Patos de Minas/MG,MG,Sudeste,152488,1,31057,Patos de Minas
@@ -3889,7 +3889,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 3515806,Flora Rica/SP,SP,Sudeste,1464,1,35111,Alta Paulista
 3515905,Floreal/SP,SP,Sudeste,2917,1,35157,Votuporanga
 3516002,Flórida Paulista/SP,SP,Sudeste,14640,1,35091,Adamantina
-3516101,Florínia/SP,SP,Sudeste,2676,1,35092,Assis
+3516101,Florínea/SP,SP,Sudeste,2676,1,35092,Assis
 3516200,Franca/SP,SP,Sudeste,353187,1,35081,Três Colinas
 3516507,Gabriel Monteiro/SP,SP,Sudeste,2776,1,35023,Consórcios do DRS II
 3516606,Gália/SP,SP,Sudeste,6548,1,35093,Marília
@@ -3954,7 +3954,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 3521903,Itajobi/SP,SP,Sudeste,15262,1,35151,Catanduva
 3522000,Itaju/SP,SP,Sudeste,3835,1,35064,Jaú
 3522109,Itanhaém/SP,SP,Sudeste,101816,1,35041,Baixada Santista
-3522158,Itaóca/SP,SP,Sudeste,3328,1,35162,Itapeva
+3522158,Itaoca/SP,SP,Sudeste,3328,1,35162,Itapeva
 3522307,Itapetininga/SP,SP,Sudeste,163901,1,35161,Itapetininga
 3522406,Itapeva/SP,SP,Sudeste,94354,1,35162,Itapeva
 3522604,Itapira/SP,SP,Sudeste,74773,1,35141,Baixa Mogiana
@@ -4466,7 +4466,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 4209409,Laguna/SC,SC,Sul,45814,1,42016,Laguna
 4209458,Lajeado Grande/SC,SC,Sul,1427,1,42003,Xanxerê
 4209508,Laurentino/SC,SC,Sul,6970,1,42004,Alto Vale do Itajaí
-4209607,Lauro Muller/SC,SC,Sul,15244,1,42015,Carbonífera
+4209607,Lauro Müller/SC,SC,Sul,15244,1,42015,Carbonífera
 4209706,Lebon Régis/SC,SC,Sul,12107,1,42009,Alto Vale do Rio do Peixe
 4209805,Leoberto Leal/SC,SC,Sul,3041,0,42007,Grande Florianópolis
 4209854,Lindóia do Sul/SC,SC,Sul,4563,1,42010,Alto Uruguai Catarinense
@@ -4561,7 +4561,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 4215802,São Bento do Sul/SC,SC,Sul,84507,1,42012,Planalto Norte
 4215901,São Bonifácio/SC,SC,Sul,2838,0,42007,Grande Florianópolis
 4216008,São Carlos/SC,SC,Sul,11281,1,42002,Oeste
-4216057,São Cristovão do Sul/SC,SC,Sul,5549,1,42009,Alto Vale do Rio do Peixe
+4216057,São Cristóvão do Sul/SC,SC,Sul,5549,1,42009,Alto Vale do Rio do Peixe
 4216107,São Domingos/SC,SC,Sul,9445,1,42003,Xanxerê
 4216206,São Francisco do Sul/SC,SC,Sul,52721,1,42011,Nordeste
 4216255,São João do Oeste/SC,SC,Sul,6381,1,42001,Extremo Oeste
@@ -4617,7 +4617,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 4219853,Zortéa/SC,SC,Sul,3363,1,42008,Meio Oeste
 3503901,Arujá/SP,SP,Sudeste,89824,0,35011,Alto do Tietê
 3505708,Barueri/SP,SP,Sudeste,274182,0,35014,Rota dos Bandeirantes
-3506607,Biritiba-Mirim/SP,SP,Sudeste,32598,0,35011,Alto do Tietê
+3506607,Biritiba Mirim/SP,SP,Sudeste,32598,0,35011,Alto do Tietê
 3509007,Caieiras/SP,SP,Sudeste,101470,0,35012,Franco da Rocha
 3509205,Cajamar/SP,SP,Sudeste,76801,0,35012,Franco da Rocha
 3510609,Carapicuíba/SP,SP,Sudeste,400927,0,35014,Rota dos Bandeirantes
@@ -4951,7 +4951,7 @@ ibge,city,state,region,pop2019,isCountryside,cod_RegiaoDeSaude,name_RegiaoDeSaud
 2304236,Croatá/CE,CE,Nordeste,18063,1,23013,13ª Região Tianguá
 2304251,Cruz/CE,CE,Nordeste,24827,1,23012,12ª Região Acaraú
 2304269,Deputado Irapuan Pinheiro/CE,CE,Nordeste,9625,1,23018,18ª Região Iguatú
-2304277,Ererê/CE,CE,Nordeste,7198,1,23010,10ª Região Limoeiro do Norte
+2304277,Ereré/CE,CE,Nordeste,7198,1,23010,10ª Região Limoeiro do Norte
 2304285,Eusébio/CE,CE,Nordeste,53618,0,23001,1ª Região Fortaleza
 2304301,Farias Brito/CE,CE,Nordeste,19450,1,23020,20ª Região Crato
 2304350,Forquilha/CE,CE,Nordeste,24218,1,23011,11ª Região Sobral
