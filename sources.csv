@@ -5198,6 +5198,7 @@ date,URL
 2020-08-28,https://agencia.ac.gov.br/wp-content/uploads/2020/08/BOLETIM_COVID-19_ACRE_28_08_2020-ATUAL-1.pdf
 2020-08-28,https://bi.saude.ba.gov.br/transparencia/
 2020-08-28,https://brasil.io/dataset/covid19/caso
+2020-08-28,https://central3.to.gov.br/arquivo/526070/
 2020-08-28,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-08-28,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-08-28,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
@@ -5249,6 +5250,7 @@ date,URL
 2020-08-30,https://agencia.ac.gov.br/wp-content/uploads/2020/08/BOLETIM_COVID-19_ACRE_31_08_2020-ATUAL-1.pdf
 2020-08-30,https://bi.static.es.gov.br/covid19/MICRODADOS.csv
 2020-08-30,https://brasil.io/dataset/covid19/caso
+2020-08-30,https://central3.to.gov.br/arquivo/526140/
 2020-08-30,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-30-08-16-027-obitos-e-223-302-casos-confirmados-no-rj/
 2020-08-30,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-08-30,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
@@ -7779,8 +7781,10 @@ date,URL
 2020-12-02,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-378-621-casos-341-732-recuperados-e-3-855-mortes-por-covid-19
 2020-12-03,http://coronavirus.saude.mg.gov.br/images/boletim/12-dezembro/03.12.2020Boletim_Epidemiologico__COVID-19.pdf
 2020-12-03,http://covid19.saude.go.gov.br/
+2020-12-03,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000246570.PDF
 2020-12-03,http://www.fvs.am.gov.br/noticias_view/4308
 2020-12-03,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiol%C3%B3gico+270/c2a5b734-603a-e67d-c353-145ffbc79289
+2020-12-03,http://www.rondonia.ro.gov.br/edicao-258-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-12-03,http://www.saude.ba.gov.br/wp-content/uploads/2020/12/BOLETIM_ELETRONICO_BAHIAN_254___03122020.pdf
 2020-12-03,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_276.pdf
 2020-12-03,http://www.saude.mt.gov.br/painelcovidmt2/
@@ -7807,11 +7811,13 @@ date,URL
 2020-12-04,http://coronavirus.saude.mg.gov.br/images/boletim/12-dezembro/04-12_Boletim_Epidemiologico_COVID-19.pdf
 2020-12-04,http://covid19.saude.go.gov.br
 2020-12-04,http://www.fvs.am.gov.br/media/publicacao/04_12_20_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
+2020-12-04,http://www.rondonia.ro.gov.br/edicao-259-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-12-04,http://www.saude.ba.gov.br/wp-content/uploads/2020/12/BOLETIM_ELETRONICO_BAHIAN_255___04122020.pdf
 2020-12-04,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_277.pdf
 2020-12-04,http://www.saude.mt.gov.br/painelcovidmt2/
 2020-12-04,http://www.saude.mt.gov.br/upload/noticia/1/arquivo/041220170416-SES-MT-A-indicasus-painel-04-12-2020--1-.pdf
 2020-12-04,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/dezembro/coronavirus041220_situacao_epidemiologica.pdf
+2020-12-04,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID-19_ACRE_04_12_2020.pdf
 2020-12-04,https://bi.saude.ba.gov.br/transparencia/
 2020-12-04,https://brasil.io/dataset/covid19/caso
 2020-12-04,https://central3.to.gov.br/arquivo/541894/
@@ -7837,7 +7843,9 @@ date,URL
 2020-12-05,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_278.pdf
 2020-12-05,http://www.fvs.am.gov.br/media/publicacao/05_12_20_BOLETIM_DIARIO_DE_CASOS_COVID-19.pdf
 2020-12-05,http://www.fvs.am.gov.br/noticias_view/4310
+2020-12-05,http://www.rondonia.ro.gov.br/edicao-260-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-12-05,http://www.saude.mt.gov.br/upload/noticia/1/arquivo/051220180024-SES-MT-A-indicasus-painel-novo--3-.pdf
+2020-12-05,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID-19_ACRE_05_12_2020.pdf
 2020-12-05,https://bi.saude.ba.gov.br/transparencia/
 2020-12-05,https://brasil.io/dataset/covid19/caso
 2020-12-05,https://central3.to.gov.br/arquivo/541921/
@@ -7859,11 +7867,13 @@ date,URL
 2020-12-06,http://coronavirus.saude.mg.gov.br/painel
 2020-12-06,http://covid19.saude.go.gov.br/
 2020-12-06,http://www.fvs.am.gov.br/noticias_view/4311
+2020-12-06,http://www.rondonia.ro.gov.br/edicao-261-boletim-diario-sobre-coronavirus-em-rondonia/
 2020-12-06,http://www.saude.ba.gov.br/wp-content/uploads/2020/12/BOLETIM_ELETRONICO_BAHIAN_257___06122020.pdf
 2020-12-06,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_279.pdf
 2020-12-06,http://www.saude.mt.gov.br/painelcovidmt2/
 2020-12-06,http://www.saude.mt.gov.br/upload/noticia/1/arquivo/061220170609-SES-MT-A-indicasus-painel-06-12-2020.pdf
 2020-12-06,http://www.seade.gov.br/wp-content/uploads/2020/12/Dados-covid-19-municipios.csv
+2020-12-06,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID-19_ACRE_06_12_2020.pdf
 2020-12-06,https://bi.saude.ba.gov.br/transparencia/
 2020-12-06,https://brasil.io/dataset/covid19/caso
 2020-12-06,https://coronavirus.es.gov.br/painel-covid-19-es
@@ -7871,6 +7881,8 @@ date,URL
 2020-12-06,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-12-06,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-12-06,https://superset.plataformatarget.com.br/superset/dashboard/55/
+2020-12-06,https://todoscontraocorona.net.br/boletim-covid-19-06-12-2020/
+2020-12-06,https://www.covid-19.pa.gov.br/#/
 2020-12-06,https://www.irrd.org/covid-19/#tab-pe
 2020-12-06,https://www.saude.al.gov.br/wp-content/uploads/2020/12/Informe-Epidemiologico-COVID-19-no-275-06-12-2020.pdf
 2020-12-06,https://www.saude.ma.gov.br/wp-content/uploads/2020/12/BOLETIM-06-12.pdf
@@ -7886,11 +7898,14 @@ date,URL
 2020-12-07,https://agencia.ac.gov.br/boletim-sesacre-deste-sabado-10-sobre-o-coronavirus/
 2020-12-07,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9
 2020-12-07,https://bi.saude.ba.gov.br/transparencia/
+2020-12-07,https://brasil.io/dataset/covid19/caso
 2020-12-07,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-12-07,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
 2020-12-07,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
+2020-12-07,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-12-07,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
 2020-12-07,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2020-12-07,https://raw.githubusercontent.com/seade-R/dados-covid-sp/master/data/dados_covid_sp_latin1.csv
 2020-12-07,https://saude.rr.gov.br/
 2020-12-07,https://todoscontraocorona.net.br/
 2020-12-07,https://twitter.com/governope/status/1314944279568093191
@@ -7898,3 +7913,4 @@ date,URL
 2020-12-07,https://www.covid-19.pa.gov.br/#/
 2020-12-07,https://www.saopaulo.sp.gov.br/ultimas-noticias/sp-registra-372-mil-obitos-e-103-milhao-casos-de-coronavirus/
 2020-12-07,https://www.saude.al.gov.br/alagoas-tem-88-790-casos-da-covid-19-e-2-132-obitos/
+2020-12-07,https://www.seade.gov.br/wp-content/uploads/2020/12/Boletim-Coronavirus.pdf
