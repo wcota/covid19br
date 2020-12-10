@@ -5285,6 +5285,7 @@ date,URL
 2020-08-31,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-31-08-16-065-obitos-e-223-631-casos-confirmados-no-rj/
 2020-08-31,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-08-31,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2020-08-31,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-08-31,https://saude.rr.gov.br/index.php/informacoesx/coronavirus/informacoes-coronavirus/file/1532-boletim-epidemiologico-coronavirus-212-2020
 2020-08-31,https://superset.plataformatarget.com.br/superset/dashboard/55/
 2020-08-31,https://ti.saude.rs.gov.br/covid19/?fbclid=IwAR0fUftIBxeRVkOoBmI309Jh4AZgyxV8Cuon6gljSDAmA5XuckybngTQIY0
@@ -8018,6 +8019,7 @@ date,URL
 2020-12-09,http://www.saude.mt.gov.br/upload/noticia/1/arquivo/091220172418-SES-MT-A-painel-epidemiologico-276.pdf
 2020-12-09,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID-19_ACRE_09_12_2020.pdf
 2020-12-09,https://brasil.io/dataset/covid19/caso
+2020-12-09,https://central3.to.gov.br/arquivo/542644/
 2020-12-09,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-12-09,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-12-09,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
@@ -8036,11 +8038,14 @@ date,URL
 2020-12-10,https://agencia.ac.gov.br/boletim-sesacre-deste-sabado-10-sobre-o-coronavirus/
 2020-12-10,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9
 2020-12-10,https://bi.saude.ba.gov.br/transparencia/
+2020-12-10,https://brasil.io/dataset/covid19/caso
 2020-12-10,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-12-10,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/
 2020-12-10,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
+2020-12-10,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-12-10,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent
 2020-12-10,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2020-12-10,https://raw.githubusercontent.com/seade-R/dados-covid-sp/master/data/dados_covid_sp_latin1.csv
 2020-12-10,https://saude.rr.gov.br/
 2020-12-10,https://todoscontraocorona.net.br/
 2020-12-10,https://twitter.com/governope/status/1314944279568093191
@@ -8048,3 +8053,4 @@ date,URL
 2020-12-10,https://www.covid-19.pa.gov.br/#/
 2020-12-10,https://www.saopaulo.sp.gov.br/ultimas-noticias/sp-registra-372-mil-obitos-e-103-milhao-casos-de-coronavirus/
 2020-12-10,https://www.saude.al.gov.br/alagoas-tem-88-790-casos-da-covid-19-e-2-132-obitos/
+2020-12-10,https://www.seade.gov.br/wp-content/uploads/2020/12/Boletim-Coronavirus.pdf
