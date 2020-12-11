@@ -4,15 +4,18 @@ Description of the data: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPre
 
 # (pt-BR) Número de casos confirmados de COVID-19 no Brasil
 
-Casos e óbitos confirmados por dia, utilizando informação oficial pelo [Ministério da Saúde](https://covid.saude.gov.br/), dados no nível municipal do [Brasil.IO](https://brasil.io/dataset/covid19/caso) e dados mais recentes reportados pela equipe do [@CoronavirusBra1](https://twitter.com/CoronavirusBra1).
+Casos e óbitos confirmados por dia, utilizando informação oficial pelo [Ministério da Saúde](https://covid.saude.gov.br/), dados no nível municipal do [Brasil.IO](https://brasil.io/dataset/covid19/caso) e dados de recuperados e testes de [Giscard](http://www.giscard.com.br/coronavirus/).
 
-Os dados sobre o número de recuperados, suspeitos e testes por estado foram obtidos a partir da [planilha](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) atualizada pelo [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) usando os boletins de cada estado, quando disponíveis.
+Desde o dia 10/10/2020 os dados de suspeitos não são mais atualizados, já que somente algumas UFs disponibizava esses dados. Os dados de recuperados, testes e suspeitos até 10 de outubro vinham da [planilha](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) atualizada pelo [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) usando os boletins de cada estado, quando disponíveis.
+
+Agora os dados de recuperados e testes são obtidos por informações do [Giscard](http://www.giscard.com.br/coronavirus/). Detalhes sobre os testes estão no arquivo `_tests_meta.csv`.
 
 Mais informações: https://covid19br.wcota.me/
 
 ## Links relacionados
 
-- [Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1)
+- [Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1), [Phys. Rev. Research 2, 043306 (2020)](https://wcota.me/covid19brmetapop)
+- [Bot no Twitter](https://twitter.com/covid19brbot)
 - [Bot no Telegram](https://t.me/CoronavirusBRBot)
 - [Monitor da COVID-19 no Brasil](https://covid19br.pub/)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
@@ -22,12 +25,12 @@ Mais informações: https://covid19br.wcota.me/
 ## Equipe
 
 - [Wesley Cota](https://wesleycota.com), [@wlcota](https://twitter.com/wlcota)
-- [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
-- [@PokeCorona](https://twitter.com/PokeCorona)
-- [@fgrehm](https://twitter.com/fgrehm)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
-- [@hexry13](https://twitter.com/hexry13)
 - [@leonardomed](https://twitter.com/leonardomed)
+- [@hexry13](https://twitter.com/hexry13)
+- [@fgrehm](https://twitter.com/fgrehm)
+- [@PokeCorona](https://twitter.com/PokeCorona)
+- [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
 
 ## Citação
 
@@ -66,9 +69,11 @@ Em BibTeX:
 
 # (en) Number of confirmed cases of COVID-19 in Brazil
 
-Confirmed cases and deaths by day, using official information given by [Ministério da Saúde](https://covid.saude.gov.br/), data at the municipal level by [Brasil.IO](https://brasil.io/dataset/covid19/caso) and the most recent reported cases by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1).
+Confirmed cases and deaths by day, using official information given by [Ministério da Saúde](https://covid.saude.gov.br/), data at the municipal level by [Brasil.IO](https://brasil.io/dataset/covid19/caso) and recovered and tests data from [Giscard](http://www.giscard.com.br/coronavirus/).
 
-Data for the number of recovered, suspects and tests were obtained from the [spreadsheet](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) updated by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) using the reports for each state, when available.
+Since October 10, 2020, data of suspected cases are not updated anymore, since it was only available for a few UFs. Recovered, tests and suspected data up to Oct. 10 came from the [spreadsheet](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) updated by [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) using the reports for each state, when available.
+
+The source of recovered and test data is [Giscard](http://www.giscard.com.br/coronavirus/) website. Details about tests are available in the file `_tests_meta.csv`.
 
 More information: https://covid19br.wcota.me/en
 
@@ -95,7 +100,8 @@ BibTeX:
 
 ## Related links
 
-- [Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil](https://covidbr.github.io/pub/1)
+- [Outbreak diversity in epidemic waves propagating through distinct geographical scales in Brazil](https://covidbr.github.io/pub/1), [Phys. Rev. Research 2, 043306 (2020)](https://wcota.me/covid19brmetapop)
+- [Bot no Twitter](https://twitter.com/covid19brbot)
 - [Telegram bot](https://t.me/CoronavirusBRBot)
 - [Monitor da COVID-19 no Brasil (official news and tweets)](https://covid19br.pub/)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
@@ -105,12 +111,12 @@ BibTeX:
 ## Team
 
 - [Wesley Cota](https://wesleycota.com), [@wlcota](https://twitter.com/wlcota)
-- [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
-- [@PokeCorona](https://twitter.com/PokeCorona)
-- [@fgrehm](https://twitter.com/fgrehm)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
-- [@hexry13](https://twitter.com/hexry13)
 - [@leonardomed](https://twitter.com/leonardomed)
+- [@hexry13](https://twitter.com/hexry13)
+- [@fgrehm](https://twitter.com/fgrehm)
+- [@PokeCorona](https://twitter.com/PokeCorona)
+- [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
 
 ## License
 
