@@ -101,7 +101,7 @@ BibTeX:
 ## Related links
 
 - [Outbreak diversity in epidemic waves propagating through distinct geographical scales in Brazil](https://covidbr.github.io/pub/1), [Phys. Rev. Research 2, 043306 (2020)](https://wcota.me/covid19brmetapop)
-- [Bot no Twitter](https://twitter.com/covid19brbot)
+- [Twitter bot](https://twitter.com/covid19brbot)
 - [Telegram bot](https://t.me/CoronavirusBRBot)
 - [Monitor da COVID-19 no Brasil (official news and tweets)](https://covid19br.pub/)
 - [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
