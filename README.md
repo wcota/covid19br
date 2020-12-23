@@ -4,6 +4,8 @@ Description of the data: [SciELOPreprints:362](https://doi.org/10.1590/SciELOPre
 
 # (pt-BR) Número de casos confirmados de COVID-19 no Brasil
 
+Ao clonar é altamente recomendável usar uma profundidade de apenas 1 commit, já que há diversas atualizações diárias, com `git clone --depth 1`
+
 Casos e óbitos confirmados por dia, utilizando informação oficial pelo [Ministério da Saúde](https://covid.saude.gov.br/), dados no nível municipal do [Brasil.IO](https://brasil.io/dataset/covid19/caso) e dados de recuperados e testes de [Giscard](http://www.giscard.com.br/coronavirus/).
 
 Desde o dia 10/10/2020 os dados de suspeitos não são mais atualizados, já que somente algumas UFs disponibizava esses dados. Os dados de recuperados, testes e suspeitos até 10 de outubro vinham da [planilha](https://docs.google.com/spreadsheets/d/1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/edit?usp=sharing) atualizada pelo [@CoronavirusBra1](https://twitter.com/CoronavirusBra1) usando os boletins de cada estado, quando disponíveis.
@@ -68,6 +70,8 @@ Em BibTeX:
 [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
 
 # (en) Number of confirmed cases of COVID-19 in Brazil
+
+When cloning it is highly recommended to use a depth of just 1 commit, as there are several daily updates, with `git clone --depth 1`.
 
 Confirmed cases and deaths by day, using official information given by [Ministério da Saúde](https://covid.saude.gov.br/), data at the municipal level by [Brasil.IO](https://brasil.io/dataset/covid19/caso) and recovered and tests data from [Giscard](http://www.giscard.com.br/coronavirus/).
 
