@@ -8538,6 +8538,7 @@ date,URL
 2020-12-26,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_299.pdf
 2020-12-26,http://www.fvs.am.gov.br/noticias_view/4339
 2020-12-26,http://www.saude.mt.gov.br/painelcovidmt2/
+2020-12-26,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID_AC_26_12_2020-1.pdf
 2020-12-26,https://bi.saude.ba.gov.br/transparencia/
 2020-12-26,https://brasil.io/dataset/covid19/caso
 2020-12-26,https://central3.to.gov.br/arquivo/545384/
@@ -8559,6 +8560,7 @@ date,URL
 2020-12-27,http://saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_300.pdf
 2020-12-27,http://www.fvs.am.gov.br/noticias_view/4340
 2020-12-27,http://www.seade.gov.br/wp-content/uploads/2020/12/Dados-covid-19-municipios.csv
+2020-12-27,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID_AC_27_12_2020-1.pdf
 2020-12-27,https://bi.saude.ba.gov.br/transparencia/
 2020-12-27,https://brasil.io/dataset/covid19/caso
 2020-12-27,https://central3.to.gov.br/arquivo/545572/
@@ -8580,6 +8582,7 @@ date,URL
 2020-12-28,http://www.mt.gov.br/documents/21013/15961004/Painel+Epidemiol%C3%B3gico+295/f91920b5-fd85-459a-6d3c-7867edf3f1cc
 2020-12-28,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_301.pdf
 2020-12-28,http://www.saude.mt.gov.br/painelcovidmt2/
+2020-12-28,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID_AC_28_12_2020-1.pdf
 2020-12-28,https://bi.saude.ba.gov.br/transparencia/
 2020-12-28,https://brasil.io/dataset/covid19/caso
 2020-12-28,https://central3.to.gov.br/arquivo/545649/
@@ -8601,17 +8604,20 @@ date,URL
 2020-12-29,http://www.saude.ba.gov.br/wp-content/uploads/2020/12/BOLETIM_ELETRONICO_BAHIAN_280___29122020.pdf
 2020-12-29,http://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim-COVID_DF_302.pdf
 2020-12-29,http://www.saude.mt.gov.br/painelcovidmt2/
+2020-12-29,https://agencia.ac.gov.br/wp-content/uploads/2020/12/BOLETIM_COVID_AC_29_12_2020-1.pdf
 2020-12-29,https://brasil.io/dataset/covid19/caso
 2020-12-29,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-12-29,https://coronavirus.rj.gov.br/boletim/boletim-coronavirus-29-12-25-078-obitos-e-426-259-casos-confirmados-no-rj/
 2020-12-29,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2020-12-29,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-12-29,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2020-12-29,https://raw.githubusercontent.com/seade-R/dados-covid-sp/master/data/dados_covid_sp_latin1.csv
 2020-12-29,https://superset.plataformatarget.com.br/superset/dashboard/55/
 2020-12-29,https://www.covid-19.pa.gov.br/#/
 2020-12-29,https://www.dropbox.com/s/uomtxn9tuvtw0fs/Boletim%20Covid-19%20-%20Secretaria%20de%20Sa%C3%BAde%20de%20Pernambuco%20-%2029.12.pdf?dl=0
 2020-12-29,https://www.irrd.org/covid-19/
 2020-12-29,https://www.saude.ma.gov.br/wp-content/uploads/2020/12/BOLETIM-29-12.pdf
+2020-12-29,https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/dezembro/coronavirus291220_situacao_epidemiologica.pdf
 2020-12-29,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-485-935-casos-463-863-recuperados-e-5-161-mortes-por-covid-19
 2020-12-30,http://integra.saude.to.gov.br/
 2020-12-30,http://painel.corona.ap.gov.br/
@@ -8621,10 +8627,12 @@ date,URL
 2020-12-30,http://www.saude.mt.gov.br/painelcovidmt2/
 2020-12-30,http://www.saude.rn.gov.br/
 2020-12-30,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
+2020-12-30,https://brasil.io/dataset/covid19/caso
 2020-12-30,https://coronavirus.es.gov.br/painel-covid-19-es
 2020-12-30,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2020-12-30,https://covid19.sesau.ro.gov.br/
 2020-12-30,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2020-12-30,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2020-12-30,https://extranet.saude.go.gov.br/
 2020-12-30,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2020-12-30,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
