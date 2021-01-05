@@ -8701,6 +8701,7 @@ date,URL
 2020-12-31,https://www.saude.al.gov.br/wp-content/uploads/2020/12/Informe-Epidemiologico-COVID-19-no-300-31-12-2020-1.pdf
 2020-12-31,https://www.saude.go.gov.br/noticias/764-coronavirus
 2020-12-31,https://www.saude.ma.gov.br/boletins-covid-19/
+2020-12-31,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-12/informe_epidemiologico_31_12_2020.pdf
 2020-12-31,https://www.saude.rj.gov.br/noticias/2020/12/boletim-coronavirus-3112
 2020-12-31,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-492-583-casos-469-769-recuperados-e-5-253-mortes-por-covid-19
 2021-01-01,http://covid19.saude.go.gov.br
@@ -8726,6 +8727,7 @@ date,URL
 2021-01-01,https://www.saude.al.gov.br/wp-content/uploads/2021/01/Informe-Epidemiologico-COVID-19-no-301-01-01-2021.pdf
 2021-01-01,https://www.saude.go.gov.br/noticias/764-coronavirus
 2021-01-01,https://www.saude.ma.gov.br/boletins-covid-19/
+2021-01-01,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/informe_epidemiologico_01_01_2021.pdf
 2021-01-01,https://www.saude.rj.gov.br/noticias/2021/01/boletim-coronavirus-0101
 2021-01-01,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-494-447-casos-472-484-recuperados-e-5-270-mortes-por-covid-19
 2021-01-02,http://coronavirus.pi.gov.br/
@@ -8740,6 +8742,7 @@ date,URL
 2021-01-02,https://central3.to.gov.br/arquivo/545970/
 2021-01-02,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-01-02,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-01-02,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-01-02,https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-01-2021
 2021-01-02,https://ti.saude.rs.gov.br/covid19/
 2021-01-02,https://www.covid-19.pa.gov.br/#/
@@ -8748,6 +8751,7 @@ date,URL
 2021-01-02,https://www.portal.ap.gov.br/noticia/0201/boletim-informativo-covid-19-amapa-2-de-janeiro-de-2021
 2021-01-02,https://www.saude.al.gov.br/wp-content/uploads/2021/01/Informe-Epidemiologico-COVID-19-no-302-02-01-2021.pdf
 2021-01-02,https://www.saude.ma.gov.br/boletins-covid-19/
+2021-01-02,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/informe_epidemiologico_02_01_2021.pdf
 2021-01-02,https://www.saude.rj.gov.br/noticias/2021/01/boletim-coronavirus-0201
 2021-01-02,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-496-524-casos-474-313-recuperados-e-5-294-mortes-por-covid-19
 2021-01-03,http://covid19.saude.go.gov.br/
@@ -8767,6 +8771,7 @@ date,URL
 2021-01-03,https://www.covid-19.pa.gov.br/#/
 2021-01-03,https://www.saude.al.gov.br/wp-content/uploads/2021/01/Informe-Epidemiologico-COVID-19-no-303-03-01-2021.pdf
 2021-01-03,https://www.saude.ma.gov.br/wp-content/uploads/2021/01/BOLETIM-03-01.pdf
+2021-01-03,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/informe_epidemiologico_03_01_2021_corrigido.pdf
 2021-01-03,https://www.saude.rj.gov.br/noticias/2021/01/boletim-coronavirus-0301
 2021-01-03,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-497-345-casos-475-841-recuperados-e-5-314-mortes-por-covid-19
 2021-01-04,http://integra.saude.to.gov.br/
@@ -8783,10 +8788,12 @@ date,URL
 2021-01-04,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-01-04,https://covid19.sesau.ro.gov.br/
 2021-01-04,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-01-04,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-01-04,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-01-04,https://extranet.saude.go.gov.br/
 2021-01-04,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-01-04,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
+2021-01-04,https://raw.githubusercontent.com/seade-R/dados-covid-sp/master/data/dados_covid_sp_latin1.csv
 2021-01-04,https://saude.rr.gov.br/
 2021-01-04,https://ti.saude.rs.gov.br/covid19/
 2021-01-04,https://todoscontraocorona.net.br/
@@ -8794,3 +8801,4 @@ date,URL
 2021-01-04,https://www.saude.ma.gov.br/
 2021-01-04,https://www.saude.ms.gov.br/informacoes-covid-19/
 2021-01-04,https://www.saude.pr.gov.br/
+2021-01-04,https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/janeiro/coronavirus040121_situacao_epidemiologica.pdf
