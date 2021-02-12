@@ -18,6 +18,7 @@ In general, the files are in CSV format.
 | IBGE     | Instituto Brasileiro de Geografia e Estatística | https://www.ibge.gov.br/                        |
 | SES      | Secretarias Estaduais de Saúde                  |                                                 |
 | BrIO     | Brasil.IO                                       | https://brasil.io/covid19/                      |
+| Bra1     | @coronavirusbra1                                | https://coronavirusbra1.github.io/              |
 | Gi       | GISCARD                                         | http://www.giscard.com.br/coronavirus           |
 | OSM      | OpenStreetMap                                   | https://www.openstreetmap.org/                  |
 
