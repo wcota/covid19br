@@ -78,8 +78,8 @@ The full timeline is available in `cases-brazil-cities-time.csv.gz` (with gzip c
 | deaths_per_100k_inhabitants     | Total number of deaths by 100k inhabitants              |         | CC BY           |
 | totalCases_per_100k_inhabitants | Total number of cases by 100k inhabitants               |         | CC BY           |
 | deaths_by_totalCases            | Fraction of deaths (`deaths`/`totalCases`)              |         | CC BY           |
-| _source                         | Source of the numbers: can be MS or SES (via Brasil.IO) |         | CC BY           |
-| last_info_date                  | Last report date of the respective federative unit      | MS,BrIO | CC BY           |
+| _source                         | Source of the numbers: can be MS or SES (via Brasil.IO) |         |                 |
+| last_info_date                  | Last report date of the respective federative unit      | MS,BrIO | CC BY, CC BY-SA |
 | cod_RegiaoDeSaude               | ID of the "Região de Saúde"                             |         | CC BY           |
 | name_RegiaoDeSaude              | Name of the "Região de Saúde"                           |         | CC BY           |
 
