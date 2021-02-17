@@ -8,12 +8,12 @@ More information: [README.en.md](README.md)
 
 In general, the files are in CSV format.
 
-## Name and references definitions
+## Name and reference definitions
 
 | nome     | descrição                                       | url                                             |
 |----------|-------------------------------------------------|-------------------------------------------------|
-| CC BY    | Licença Creative Commons CC BY 4.0              | https://creativecommons.org/licenses/by/4.0/    |
-| CC BY-SA | Licença Creative Commons CC BY-SA 4.0           | https://creativecommons.org/licenses/by-sa/4.0/ |
+| CC BY    | Creative Commons CC BY 4.0 License              | https://creativecommons.org/licenses/by/4.0/    |
+| CC BY-SA | Creative Commons CC BY-SA 4.0 License           | https://creativecommons.org/licenses/by-sa/4.0/ |
 | MS       | Ministério da Saúde                             | https://covid.saude.gov.br/                     |
 | IBGE     | Instituto Brasileiro de Geografia e Estatística | https://www.ibge.gov.br/                        |
 | SES      | Secretarias Estaduais de Saúde                  |                                                 |
