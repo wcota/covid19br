@@ -36,8 +36,6 @@ This dataset is part of a Post-Doctoral project registered at [Universidade Fede
 - [Twitter bot](https://twitter.com/covid19brbot)
 - [Telegram bot](https://t.me/CoronavirusBRBot)
 - [Monitor da COVID-19 no Brasil (official news and tweets)](https://covid19br.pub/)
-- [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
-- [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
 - [Brasil.IO](https://brasil.io/dataset/covid19/caso)
 
 ## Current team: [@coronavirusbra1](https://coronavirusbra1.github.io/)

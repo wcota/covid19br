@@ -36,8 +36,6 @@ Essa base de dados é parte do projeto de pós-doutorado *"Monitoramento contín
 - [Bot no Twitter](https://twitter.com/covid19brbot)
 - [Bot no Telegram](https://t.me/CoronavirusBRBot)
 - [Monitor da COVID-19 no Brasil](https://covid19br.pub/)
-- [COVIDBR APP](https://github.com/vmarcosp/covidbr-app)
-- [COVIDBR API](https://github.com/vmarcosp/covidbr-api)
 - [Brasil.IO](https://brasil.io/dataset/covid19/caso)
 
 ## Equipe atual do [@coronavirusbra1](https://coronavirusbra1.github.io/)
