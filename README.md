@@ -20,6 +20,8 @@ Esse dataset é mantido exclusivamente por mim, [Wesley Cota](https://wesleycota
 
 Mais informações: https://covid19br.wcota.me/
 
+Exemplo de acesso aos dados com `pandas` no Python: <https://colab.research.google.com/drive/1H1N387IIAGV-3YRtyxzPz94vSiLrhE0M?usp=sharing>
+
 **💬 Observação sobre as licenças**
 
 Em geral, os dados aqui disponibilizados seguem uma licença CC BY 4.0, ou compatíveis. No entanto, alguns dados, como os casos e óbitos confirmados por município das secretarias estaduais via Brasil.IO, seguem uma licença CC BY-SA 4.0. Ao utilizar dados que contenham essas últimas informações, siga a licença dada pela fonte inicial, que é CC BY-SA 4.0.

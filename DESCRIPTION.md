@@ -4,9 +4,11 @@ Mais informações: [README.en.md](README.en.md)
 
 [**DESCRIPTION in English**](DESCRIPTION.en.md)
 
-# Descrição dos dados
+# Descrição dos dados e utilização
 
 Em geral, os arquivos estão no formato CSV, um formato livre e aberto de fácil acesso. Os nomes dos arquivos podem não ser os ideais, mas foram mantidos para não quebrar a compatibilidade de acesso por pessoas que já usavam os nomes antigos.
+
+Exemplo de acesso aos dados com `pandas` no Python: <https://colab.research.google.com/drive/1H1N387IIAGV-3YRtyxzPz94vSiLrhE0M?usp=sharing>
 
 ## Definição de nomes e referências
 
@@ -21,6 +23,20 @@ Em geral, os arquivos estão no formato CSV, um formato livre e aberto de fácil
 | Bra1     | @coronavirusbra1                                | https://coronavirusbra1.github.io/              |
 | Gi       | GISCARD                                         | http://www.giscard.com.br/coronavirus           |
 | OSM      | OpenStreetMap                                   | https://www.openstreetmap.org/                  |
+
+## Coluna `epi_week`
+
+Essa coluna corresponde ao número da semana epidemiológica. Ela vai de 1 até 53 para o ano de 2020. Em 2021, os números vão de 101 até 152. O primeiro dígito é utilizado para indicar que corresponde ao ano de 2021.
+Para obter a semana epidemiológica bruta, utilize a [operação módulo](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_m%C3%B3dulo). Por exemplo, no Python:
+
+```python
+semana_epidemiologica = 152 % 100 # = 52
+```
+
+Os intervalos são definidos pelo Ministério da Saúde no Calendário Epidemiológico:
+
+- 2020: http://portalsinan.saude.gov.br/calendario-epidemiologico-2020
+- 2021: http://www.portalsinan.saude.gov.br/calendario-epidemiologico
 
 ## Arquivos com dados de COVID-19
 

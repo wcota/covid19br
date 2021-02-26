@@ -4,9 +4,11 @@ More information: [README.en.md](README.md)
 
 [**DESCRIPTION em português**](DESCRIPTION.md)
 
-# Data description
+# Data description and usage
 
 In general, the files are in CSV format.
+
+Example with `pandas` on Python: <https://colab.research.google.com/drive/1H1N387IIAGV-3YRtyxzPz94vSiLrhE0M?usp=sharing>
 
 ## Name and reference definitions
 
@@ -21,6 +23,19 @@ In general, the files are in CSV format.
 | Bra1     | @coronavirusbra1                                | https://coronavirusbra1.github.io/              |
 | Gi       | GISCARD                                         | http://www.giscard.com.br/coronavirus           |
 | OSM      | OpenStreetMap                                   | https://www.openstreetmap.org/                  |
+
+## Coluna `epi_week`
+
+This column corresponds to the number of the epidemiological week. The values range from 1 to 53 in 2020, and from 101 to 152 in 2021. The first digit (1, for example) is used to indicate that this corresponds to the year 2021, instead of 2020. To obtain the respective epidemiological week, please use the [modulo operation](https://en.wikipedia.org/wiki/Modulo_operation). For example, using Python:
+
+```python
+epidemiological_week = 152 % 100 # = 52
+```
+
+The date intervals are defined by the Ministério da Saúde in their Epidemiological Calendar:
+
+- 2020: http://portalsinan.saude.gov.br/calendario-epidemiologico-2020
+- 2021: http://www.portalsinan.saude.gov.br/calendario-epidemiologico
 
 ## Dataset files of COVID-19 in Brazil
 

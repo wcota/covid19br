@@ -20,6 +20,8 @@ This dataset is maintained exclusively by me, [Wesley Cota](https://wesleycota.c
 
 More information: https://covid19br.wcota.me/
 
+Example with `pandas` on Python: <https://colab.research.google.com/drive/1H1N387IIAGV-3YRtyxzPz94vSiLrhE0M?usp=sharing>
+
 **💬 Note about the license**
 
 In general, the data available here follow CC BY 4.0 or compatible license. However, some data, such as cases and deaths at municipality level via Brasil.IO follow a CC BY-SA 4.0 license. When using these data, please follow the license from the original source, which is CC BY-SA 4.0.
