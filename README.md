@@ -45,6 +45,7 @@ Essa base de dados é parte do projeto de pós-doutorado *"Monitoramento contín
 - [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
 - [@leonardomed](https://twitter.com/leonardomed)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
+- [@altendorfme](https://twitter.com/altendorfme)
 - [@hexry13](https://twitter.com/hexry13)
 - [@fgrehm](https://twitter.com/fgrehm)
 - [@PokeCorona](https://twitter.com/PokeCorona)

@@ -45,6 +45,7 @@ This dataset is part of a Post-Doctoral project registered at [Universidade Fede
 - [@CoronavirusBra1](https://twitter.com/CoronavirusBra1)
 - [@leonardomed](https://twitter.com/leonardomed)
 - [@rafaelcalpena](https://twitter.com/rafaelcalpena)
+- [@altendorfme](https://twitter.com/altendorfme)
 - [@hexry13](https://twitter.com/hexry13)
 - [@fgrehm](https://twitter.com/fgrehm)
 - [@PokeCorona](https://twitter.com/PokeCorona)
