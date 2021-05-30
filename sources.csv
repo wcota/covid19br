@@ -12866,6 +12866,7 @@ date,URL
 2021-05-23,https://www.portal.ap.gov.br/noticia/2305/boletim-informativo-covid-19-amapa-23-de-maio-de-2021
 2021-05-23,https://www.saude.ma.gov.br/wp-content/uploads/2021/05/BOLETIM-23-05.pdf
 2021-05-23,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-05/informe_epidemiologico_23_05_2021.pdf
+2021-05-23,https://www.vs.saude.ms.gov.br/wp-content/uploads/2021/05/Boletim-Epidemiologico-COVID-19-2021.05.24.pdf
 2021-05-24,http://coronavirus.pi.gov.br/
 2021-05-24,http://covid19.saude.go.gov.br
 2021-05-24,http://dados.sc.gov.br/dataset/covid-19-dados-anonimizados-de-casos-confirmados
@@ -12892,6 +12893,7 @@ date,URL
 2021-05-24,https://www.saude.ma.gov.br/boletins-covid-19/
 2021-05-24,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-05/informe_epidemiologico_24_05_2021.pdf
 2021-05-24,https://www.saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=2713:boletim-epidemiologico-coronavirus-478-2021
+2021-05-24,https://www.vs.saude.ms.gov.br/wp-content/uploads/2021/05/Boletim-Epidemiologico-COVID-19-2021.05.25.pdf
 2021-05-25,http://covid19.saude.go.gov.br/
 2021-05-25,http://dados.sc.gov.br/dataset/covid-19-dados-anonimizados-de-casos-confirmados
 2021-05-25,http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/covid_munic_diario.def
@@ -12943,6 +12945,7 @@ date,URL
 2021-05-26,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-05/informe_epidemiologico_26_05_2021_1.pdf
 2021-05-26,https://www.saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=2722:boletim-epidemiologico-coronavirus-480-2021
 2021-05-26,https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/2021/maio/coronavirus260521_situacao_epidemiologica.pdf
+2021-05-26,https://www.vs.saude.ms.gov.br/wp-content/uploads/2021/05/Boletim-Epidemiologico-COVID-19-2021.05.27.pdf
 2021-05-27,http://coronavirus.pi.gov.br/
 2021-05-27,http://covid19.saude.go.gov.br/
 2021-05-27,http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/covid_munic_diario.def
@@ -12977,11 +12980,19 @@ date,URL
 2021-05-28,https://coronavirus.saude.mg.gov.br/images/1_2021/05-maio/28.05.11COVID-19_-_BOLETIM.pdf
 2021-05-28,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-05-28,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
+2021-05-28,https://www.fvs.am.gov.br/media/publicacao/28_05_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2021-05-28,https://www.irrd.org/covid-19/#tab-pe
+2021-05-28,https://www.portal.ap.gov.br/noticia/2805/boletim-informativo-covid-19-amapa-28-de-maio-de-2021
 2021-05-28,https://www.saude.ma.gov.br/wp-content/uploads/2021/05/BOLETIM-28-05.pdf
 2021-05-29,http://www.mt.gov.br/-/17187831-sabado-28-mato-grosso-registra-405.350-casos-e-10.877-obitos-por-covid-19
+2021-05-29,https://agencia.ac.gov.br/wp-content/uploads/2021/05/BOLETIM_AC_COVID_29-05-2021.pdf
 2021-05-29,https://brasil.io/dataset/covid19/caso
+2021-05-29,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
 2021-05-29,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-05-29,https://portal.ap.gov.br/noticia/2905/boletim-informativo-covid-19-amapa-29-de-maio-de-2021
+2021-05-29,https://www.fvs.am.gov.br/media/publicacao/29_05_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
+2021-05-29,https://www.irrd.org/covid-19/#tab-pe
+2021-05-30,http://dados.sc.gov.br/dataset/covid-19-dados-anonimizados-de-casos-confirmados
 2021-05-30,http://integra.saude.to.gov.br/
 2021-05-30,http://painel.corona.ap.gov.br/
 2021-05-30,http://www.coronavirus.sc.gov.br/
@@ -12990,10 +13001,12 @@ date,URL
 2021-05-30,http://www.saude.rn.gov.br/
 2021-05-30,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-05-30,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-05-30,https://brasil.io/dataset/covid19/caso
 2021-05-30,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-05-30,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-05-30,https://covid19.sesau.ro.gov.br/
 2021-05-30,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-05-30,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-05-30,https://extranet.saude.go.gov.br/
 2021-05-30,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-05-30,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
