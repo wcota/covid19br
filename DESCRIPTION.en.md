@@ -67,12 +67,12 @@ Both files share column names. The complete timeline is available at `cases-braz
 | suspects                               | Total number of suspects                                          | Bra1       | CC BY           |
 | tests                                  | Total number of tests                                             | Bra1,Gi    | CC BY           |
 | tests_per_100k_inhabitants             | Total number of tests by 100k inhabitants                         |            | CC BY           |
-| vaccinated                             | Total number of vaccinated (first dose)                           | Bra1       | CC BY           |
-| vaccinated_per_100_inhabitants         | Total number of vaccinated (first dose)  by 100 inhabitants       |            | CC BY           |
+| vaccinated                             | Total number of vaccinated with a first dose                      | Bra1       | CC BY           |
+| vaccinated_per_100_inhabitants         | Percentage of vaccinated with a first dose                        |            | CC BY           |
 | vaccinated_second                      | Total number of vaccinated with a second dose                     | Bra1       | CC BY           |
-| vaccinated_second_per_100_inhabitants  | Total number of vaccinated with a second dose by 100 inhabitants  |            | CC BY           |
+| vaccinated_second_per_100_inhabitants  | Percentage of vaccinated with a second dose                       |            | CC BY           |
 | vaccinated_single                      | Total number of vaccinated with a single-shot                     | Bra1       | CC BY           |
-| vaccinated_single_per_100_inhabitants  | Total number of vaccinated with a single-shot by 100 inhabitants  |            | CC BY           |
+| vaccinated_single_per_100_inhabitants  | Percentage of vaccinated with a single-shot                       |            | CC BY           |
 
 ### By municipalities: `cases-brazil-cities.csv`, `cases-brazil-cities-time.csv.gz` and `cases-brazil-cities-time_changesOnly.csv`
 

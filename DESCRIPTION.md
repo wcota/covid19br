@@ -68,12 +68,12 @@ Os dois arquivos possuem colunas iguais. A linha do tempo completa está dispon�
 | suspects                               | Número de suspeitos                                                   | Bra1       | CC BY           |
 | tests                                  | Número de testes realizados                                           | Bra1,Gi    | CC BY           |
 | tests_per_100k_inhabitants             | Número de testes realizados por 100 mil habitantes                    |            | CC BY           |
-| vaccinated                             | Número de pessoas vacinadas (primeira dose)                           | Bra1       | CC BY           |
-| vaccinated_per_100_inhabitants         | Número de pessoas vacinadas (primeira dose) por 100 habitantes        |            | CC BY           |
+| vaccinated                             | Número de pessoas que receberam a primeira dose                       | Bra1       | CC BY           |
+| vaccinated_per_100_inhabitants         | Porcentagem de pessoas que receberam a primeira dose                  |            | CC BY           |
 | vaccinated_second                      | Número de pessoas que receberam a segunda dose                        | Bra1       | CC BY           |
-| vaccinated_second_per_100_inhabitants  | Número de pessoas que receberam a segunda dose por 100 habitantes     |            | CC BY           |
+| vaccinated_second_per_100_inhabitants  | Porcentagem de pessoas que receberam a segunda dose                   |            | CC BY           |
 | vaccinated_single                      | Número de pessoas que receberam a dose única                          | Bra1       | CC BY           |
-| vaccinated_single_per_100_inhabitants  | Número de pessoas que receberam a dose única por 100 habitantes       |            | CC BY           |
+| vaccinated_single_per_100_inhabitants  | Porcentagem de pessoas que receberam a dose única                     |            | CC BY           |
 
 ### Por municípios: `cases-brazil-cities.csv`, `cases-brazil-cities-time.csv.gz` e `cases-brazil-cities-time_changesOnly.csv`
 
