@@ -11401,7 +11401,7 @@ date,URL
 2021-04-01,https://agencia.ac.gov.br/wp-content/uploads/2021/04/BOLETIM_AC_COVID_01.04.2021.pdf
 2021-04-01,https://bi.saude.ba.gov.br/transparencia/
 2021-04-01,https://brasil.io/dataset/covid19/caso
-2021-04-01,https://central3.to.gov.br/arquivo/560835/
+2021-04-01,https://central.to.gov.br/download/103403
 2021-04-01,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-04-01,https://coronavirus.saude.mg.gov.br/images/1_2021/01-boletim/01-04-COVID-19_-_BOLETIM20210401.pdf
 2021-04-01,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
@@ -11999,7 +11999,7 @@ date,URL
 2021-04-22,https://agencia.ac.gov.br/wp-content/uploads/2021/04/BOLETIM_AC_COVID_22-04-2021.pdf
 2021-04-22,https://bi.saude.ba.gov.br/transparencia/
 2021-04-22,https://brasil.io/dataset/covid19/caso
-2021-04-22,https://central3.to.gov.br/arquivo/564301/
+2021-04-22,https://central.to.gov.br/download/103423
 2021-04-22,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-04-22,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-04-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
@@ -12867,10 +12867,10 @@ date,URL
 2021-05-22,https://agencia.ac.gov.br/wp-content/uploads/2021/05/BOLETIM_AC_COVID_22-05-2021.pdf
 2021-05-22,https://bi.saude.ba.gov.br/transparencia/
 2021-05-22,https://brasil.io/dataset/covid19/caso
+2021-05-22,https://central.to.gov.br/download/244939
 2021-05-22,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-05-22,https://coronavirus.saude.mg.gov.br/images/1_2021/05-maio/Boletim_Vers%C3%A3o_Resumida_22-05-2021_Minas_Gerais.pdf
 2021-05-22,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
-2021-05-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-05-22,https://indicadores.integrasus.saude.ce.gov.br/#/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-05-22,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=2710:boletim-epidemiologico-coronavirus-476-2021
 2021-05-22,https://superset.plataformatarget.com.br/superset/dashboard/55/
@@ -14076,6 +14076,7 @@ date,URL
 2021-07-04,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-07-04,https://indicadores.integrasus.saude.ce.gov.br/#/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-07-04,https://superset.plataformatarget.com.br/superset/dashboard/55/
+2021-07-04,https://ti.saude.rs.gov.br/covid19/
 2021-07-04,https://todoscontraocorona.net.br/boletim-covid-19-04-07-2021/
 2021-07-04,https://www.covid-19.pa.gov.br/#/
 2021-07-04,https://www.fvs.am.gov.br/media/publicacao/04_07_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
@@ -14104,6 +14105,7 @@ date,URL
 2021-07-05,https://indicadores.integrasus.saude.ce.gov.br/#/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-07-05,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=2965:boletim-epidemiologico-coronavirus-520-2021
 2021-07-05,https://superset.plataformatarget.com.br/superset/dashboard/55/
+2021-07-05,https://ti.saude.rs.gov.br/covid19/
 2021-07-05,https://todoscontraocorona.net.br/boletim-covid-19-05-07-2021/
 2021-07-05,https://www.covid-19.pa.gov.br/#/
 2021-07-05,https://www.fvs.am.gov.br/media/publicacao/05_07_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
@@ -14128,6 +14130,7 @@ date,URL
 2021-07-06,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-07-06,https://portal.ap.gov.br/noticia/0607/boletim-informativo-covid-19-amapa-6-de-julho-de-2021
 2021-07-06,https://superset.plataformatarget.com.br/superset/dashboard/55/
+2021-07-06,https://ti.saude.rs.gov.br/covid19/
 2021-07-06,https://todoscontraocorona.net.br/boletim-covid-19-06-07-2021/
 2021-07-06,https://www.covid-19.pa.gov.br/#/
 2021-07-06,https://www.fvs.am.gov.br/media/publicacao/06_07_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
@@ -14149,6 +14152,7 @@ date,URL
 2021-07-07,https://indicadores.integrasus.saude.ce.gov.br/#/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-07-07,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=2979:boletim-epidemiologico-coronavirus-522-2021
 2021-07-07,https://superset.plataformatarget.com.br/superset/dashboard/55/
+2021-07-07,https://ti.saude.rs.gov.br/covid19/
 2021-07-07,https://todoscontraocorona.net.br/boletim-covid-19-07-07-2021/
 2021-07-07,https://www.covid-19.pa.gov.br/#/
 2021-07-07,https://www.fvs.am.gov.br/media/publicacao/07_07_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
@@ -14166,6 +14170,7 @@ date,URL
 2021-07-08,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/2021/julho/coronavirus080721_situacao_epidemiologica.pdf
 2021-07-08,https://agencia.ac.gov.br/wp-content/uploads/2021/07/BOLETIM_AC_COVID_-08-07-2021.pdf
 2021-07-08,https://brasil.io/dataset/covid19/caso
+2021-07-08,https://central.to.gov.br/download/251433
 2021-07-08,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-07-08,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-07-08,https://indicadores.integrasus.saude.ce.gov.br/#/indicadores/indicadores-coronavirus/coronavirus-ceara
@@ -14177,8 +14182,16 @@ date,URL
 2021-07-08,https://www.saude.ma.gov.br/boletins-covid-19/
 2021-07-08,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-07/informe_epidemiologico_08_07_2021.pdf
 2021-07-08,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-071-810-casos-1-036-549-recuperados-e-17-222-mortes
+2021-07-09,http://coronavirus.pi.gov.br/
+2021-07-09,http://www.mt.gov.br/-/17481599-sexta-feira-09-mato-grosso-registra-463.263-casos-e-12.278-obitos-por-covid-19
+2021-07-09,http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus/2021/julho/coronavirus090721_situacao_epidemiologica.pdf
 2021-07-09,https://brasil.io/dataset/covid19/caso
 2021-07-09,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-07-09,https://portal.ap.gov.br/noticia/0907/boletim-informativo-covid-19-amapa-9-de-julho-de-2021
+2021-07-09,https://todoscontraocorona.net.br/boletim-covid-19-09-07-2021/
+2021-07-09,https://www.dropbox.com/s/l5sw9usy14yive7/09.07%20-%20BOLETIM%20COVID-19_COMUNICA%C3%87%C3%83O%20SES_PE.pdf?dl=0
+2021-07-09,https://www.fvs.am.gov.br/media/publicacao/09_07_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
+2021-07-09,https://www.irrd.org/covid-19/
 2021-07-10,http://integra.saude.to.gov.br/
 2021-07-10,http://painel.corona.ap.gov.br/
 2021-07-10,http://www.coronavirus.sc.gov.br/
@@ -14187,10 +14200,12 @@ date,URL
 2021-07-10,http://www.saude.rn.gov.br/
 2021-07-10,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-07-10,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-07-10,https://brasil.io/dataset/covid19/caso
 2021-07-10,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-07-10,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-07-10,https://covid19.sesau.ro.gov.br/
 2021-07-10,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-07-10,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-07-10,https://extranet.saude.go.gov.br/
 2021-07-10,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-07-10,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
