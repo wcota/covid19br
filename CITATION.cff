@@ -10,7 +10,7 @@ references:
     - type: article
       authors: 
         - family-names: Cota
-        given-names: Wesley
+          given-names: Wesley
       title: "Monitoring the number of COVID-19 cases and deaths in Brazil at municipal and federative units level"
       doi: 10.1590/SciELOPreprints.362
       journal: SciELOPreprints:362
