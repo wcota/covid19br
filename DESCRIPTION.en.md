@@ -73,6 +73,8 @@ Both files share column names. The complete timeline is available at `cases-braz
 | vaccinated_second_per_100_inhabitants  | Percentage of vaccinated with a second dose                       |            | CC BY           |
 | vaccinated_single                      | Total number of vaccinated with a single-shot                     | Bra1       | CC BY           |
 | vaccinated_single_per_100_inhabitants  | Percentage of vaccinated with a single-shot                       |            | CC BY           |
+| vaccinated_third                       | Total number of vaccinated with a booster shot                    | Bra1       | CC BY           |
+| vaccinated_third_per_100_inhabitants   | Percentage of vaccinated with a booster shot                      |            | CC BY           |
 
 ### By municipalities: `cases-brazil-cities.csv`, `cases-brazil-cities-time.csv.gz` and `cases-brazil-cities-time_changesOnly.csv`
 

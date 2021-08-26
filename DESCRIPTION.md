@@ -74,6 +74,8 @@ Os dois arquivos possuem colunas iguais. A linha do tempo completa está dispon�
 | vaccinated_second_per_100_inhabitants  | Porcentagem de pessoas que receberam a segunda dose                   |            | CC BY           |
 | vaccinated_single                      | Número de pessoas que receberam a dose única                          | Bra1       | CC BY           |
 | vaccinated_single_per_100_inhabitants  | Porcentagem de pessoas que receberam a dose única                     |            | CC BY           |
+| vaccinated_third                       | Número de pessoas que receberam a dose de reforço                     | Bra1       | CC BY           |
+| vaccinated_third_per_100_inhabitants   | Porcentagem de pessoas que receberam a dose de reforço                |            | CC BY           |
 
 ### Por municípios: `cases-brazil-cities.csv`, `cases-brazil-cities-time.csv.gz` e `cases-brazil-cities-time_changesOnly.csv`
 
