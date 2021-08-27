@@ -100,8 +100,6 @@ A linha do tempo completa está em `cases-brazil-cities-time.csv.gz` (compactaç
 | deaths_by_totalCases            | Razão entre número de óbitos e casos (`deaths`/`totalCases`) |         | CC BY           |
 | _source                         | Fonte do dado: pode ser MS ou SES (via Brasil.IO)            |         |                 |
 | last_info_date                  | Data de divulgação do último boletim da unidade federativa   | MS,BrIO | CC BY, CC BY-SA |
-| cod_RegiaoDeSaude               | Código identificador da região de saúde do municipio         |         | CC BY           |
-| name_RegiaoDeSaude              | Nome da região de saúde do município                         |         | CC BY           |
 
 ## Arquivos auxiliares
 

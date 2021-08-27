@@ -11,3 +11,4 @@
 - 2021-06-26 - Replace `vaccinated*100k` by `vaccinated*100`: vaccinated per 100 inhabitants (%)
 - 2021-08-26 - Add column `vaccinated_third` to states data
 - 2021-08-27 - Update population with the estimates for the year of 2021 <https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=resultados>
+- 2021-08-27 - Remove `RegiaoDeSaude` from cities data. If necessary, see `cities_info.csv`.
