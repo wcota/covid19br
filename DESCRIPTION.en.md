@@ -114,6 +114,7 @@ The full timeline is available in `cases-brazil-cities-time.csv.gz` (with gzip c
 | region             | Name of the region                                                      | IBGE    |         |
 | pop2019            | Estimated population in 2019                                            | IBGE    |         |
 | pop2020            | Estimated population in 2020                                            | IBGE    |         |
+| pop2021            | Estimated population in 2021                                            | IBGE    |         |
 | isCountryside      | Equal to  `1` if in the countryside, or `0` if at a Metropolitan region | IBGE    |         |
 | cod_RegiaoDeSaude  | ID of the "Região de Saúde"                                             |         |         |
 | name_RegiaoDeSaude | Name of the "Região de Saúde"                                           |         |         |

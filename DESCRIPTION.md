@@ -115,6 +115,7 @@ A linha do tempo completa está em `cases-brazil-cities-time.csv.gz` (compactaç
 | region             | Nome da região                                                               | IBGE   |         |
 | pop2019            | Estimativa da população em 2019                                              | IBGE   |         |
 | pop2020            | Estimativa da população em 2020                                              | IBGE   |         |
+| pop2021            | Estimativa da população em 2021                                              | IBGE   |         |
 | isCountryside      | Igual a `1` se está no interior do Brasil, ou `0` se em região metropolitana | IBGE   |         |
 | cod_RegiaoDeSaude  | Código identificador da região de saúde do municipio                         |        |         |
 | name_RegiaoDeSaude | Nome da região de saúde do município                                         |        |         |
