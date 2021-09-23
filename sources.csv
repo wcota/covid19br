@@ -15833,6 +15833,7 @@ date,URL
 2021-09-16,http://covid19.saude.go.gov.br/
 2021-09-16,http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/covid_munic_diario.def
 2021-09-16,http://www.saude.mt.gov.br/painelcovidmt2/
+2021-09-16,http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=240728&ACT=&PAGE=0&PARM=&LBL=ACERVO+DE+MAT%C9RIAS
 2021-09-16,https://agencia.ac.gov.br/wp-content/uploads/2021/09/BOLETIM_AC_COVID_16-09-2021.pdf
 2021-09-16,https://brasil.io/dataset/covid19/caso
 2021-09-16,https://coronavirus.es.gov.br/painel-covid-19-es
@@ -15911,9 +15912,16 @@ date,URL
 2021-09-21,https://www.saude.al.gov.br/wp-content/uploads/2021/09/Informe-Epidemiologico-COVID-19-no-564-21-09-2021.pdf
 2021-09-21,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_568.pdf
 2021-09-21,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-09/informe_epidemiologico_21_09_2021_1.pdf
+2021-09-21,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-169-652-casos-1-145-590-recuperados-e-19-119-mortes
+2021-09-22,http://www.mt.gov.br/-/17970873-quarta-feira-22-mato-grosso-registra-533.153-casos-e-13.746-obitos-por-covid-19
 2021-09-22,https://brasil.io/dataset/covid19/caso
+2021-09-22,https://coronavirus.saude.mg.gov.br/images/1_2021/09-setembro/COVID-19_-_BOLETIM20210922.pdf
+2021-09-22,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-09-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-09-22,https://www.irrd.org/covid-19/#tab-pe
 2021-09-22,https://www.saude.al.gov.br/wp-content/uploads/2021/09/Informe-Epidemiologico-COVID-19-no-565-22-09-2021.pdf
+2021-09-22,https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-09/informe_epidemiologico_22_09_2021.pdf
+2021-09-22,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-184-733-casos-1-157-079-recuperados-e-19-146-mortes
 2021-09-23,http://integra.saude.to.gov.br/
 2021-09-23,http://painel.corona.ap.gov.br/
 2021-09-23,http://www.coronavirus.sc.gov.br/
@@ -15922,10 +15930,13 @@ date,URL
 2021-09-23,http://www.saude.rn.gov.br/
 2021-09-23,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-09-23,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-09-23,https://brasil.io/dataset/covid19/caso
 2021-09-23,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-09-23,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-09-23,https://covid19.sesau.ro.gov.br/
 2021-09-23,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-09-23,https://datastudio.google.com/u/0/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-09-23,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-09-23,https://extranet.saude.go.gov.br/
 2021-09-23,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-09-23,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
@@ -15936,3 +15947,4 @@ date,URL
 2021-09-23,https://www.saude.ma.gov.br/
 2021-09-23,https://www.saude.ms.gov.br/informacoes-covid-19/
 2021-09-23,https://www.saude.pr.gov.br/
+2021-09-23,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-185-864-casos-1-158-269-recuperados-e-19-160-mortes
