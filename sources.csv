@@ -16817,6 +16817,7 @@ date,URL
 2021-11-09,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-09,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-09,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=3809:boletim-epidemiologico-coronavirus-647-2021
+2021-11-09,https://ti.saude.rs.gov.br/covid19/
 2021-11-09,https://www.covid-19.pa.gov.br/#/
 2021-11-09,https://www.portal.ap.gov.br/noticia/0911/boletim-informativo-covid-19-amapa-9-de-novembro-de-2021
 2021-11-09,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-613-09-11-2021.pdf
@@ -16853,6 +16854,7 @@ date,URL
 2021-11-12,https://brasil.io/dataset/covid19/caso
 2021-11-12,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-12,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-12,https://ti.saude.rs.gov.br/covid19/
 2021-11-12,https://www.covid-19.pa.gov.br/#/
 2021-11-12,https://www.portal.ap.gov.br/noticia/1211/boletim-informativo-covid-19-amapa-12-de-novembro-de-2021
 2021-11-12,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-616-12-11-2021.pdf
@@ -16863,6 +16865,7 @@ date,URL
 2021-11-13,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiológico+615/91225916-7503-c2ef-19cf-44f3237a8c32
 2021-11-13,https://brasil.io/dataset/covid19/caso
 2021-11-13,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-13,https://ti.saude.rs.gov.br/covid19/
 2021-11-13,https://www.portal.ap.gov.br/noticia/1311/boletim-informativo-covid-19-amapa-13-de-novembro-de-2021
 2021-11-13,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-617-13-11-2021.pdf
 2021-11-13,https://www.saude.go.gov.br/noticias/764-coronavirus
@@ -16897,6 +16900,7 @@ date,URL
 2021-11-16,https://brasil.io/dataset/covid19/caso
 2021-11-16,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-16,https://portal.ap.gov.br/noticia/1611/boletim-informativo-covid-19-amapa-16-de-novembro-de-2021
+2021-11-16,https://ti.saude.rs.gov.br/covid19/
 2021-11-16,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-620-16-11-2021.pdf
 2021-11-16,https://www.saude.go.gov.br/noticias/764-coronavirus
 2021-11-17,http://www.mt.gov.br/documents/21013/17997871/Painel+Epidemiol%C3%B3gico+619/0a49f596-6ddf-1871-bc7f-8c5ecb451554
@@ -16906,11 +16910,13 @@ date,URL
 2021-11-17,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-17,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-17,https://portal.ap.gov.br/noticia/1711/boletim-informativo-covid-19-amapa-17-de-novembro-de-2021
+2021-11-17,https://ti.saude.rs.gov.br/covid19/
 2021-11-17,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-621-17-11-2021.pdf
 2021-11-17,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-226-086-casos-1-201-762-recuperados-e-19-863-mortes
 2021-11-18,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiol%C3%B3gico+620/b93822e6-1a59-2328-672c-904bf5f04b5a
 2021-11-18,http://www.saude.ba.gov.br/wp-content/uploads/2021/11/BOLETIM_ELETRONICO_BAHIAN_604___18112021.pdf
 2021-11-18,https://brasil.io/dataset/covid19/caso
+2021-11-18,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-18,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-18,https://portal.ap.gov.br/noticia/1811/boletim-informativo-covid-19-amapa-18-de-novembro-de-2021
 2021-11-18,https://www.covid-19.pa.gov.br/#/
@@ -16921,10 +16927,18 @@ date,URL
 2021-11-19,https://brasil.io/dataset/covid19/caso
 2021-11-19,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-19,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-19,https://ti.saude.rs.gov.br/covid19/
+2021-11-19,https://www.portal.ap.gov.br/noticia/1911/boletim-informativo-covid-19-amapa-19-de-novembro-de-2021
 2021-11-19,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-623-19-11-2021.pdf
 2021-11-19,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-227-536-casos-1-203-108-recuperados-e-19-891-mortes
+2021-11-20,http://www.mt.gov.br/-/18442679-sabado-20-mato-grosso-registra-551.155-casos-e-13.981-obitos-por-covid-19
 2021-11-20,https://brasil.io/dataset/covid19/caso
+2021-11-20,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-20,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-20,https://portal.ap.gov.br/noticia/2011/boletim-informativo-covid-19-amapa-20-de-novembro-de-2021
+2021-11-20,https://ti.saude.rs.gov.br/covid19/
+2021-11-20,https://www.covid-19.pa.gov.br/#/
+2021-11-20,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-228-283-casos-1-203-680-recuperados-e-19-905-mortes
 2021-11-21,http://integra.saude.to.gov.br/
 2021-11-21,http://painel.corona.ap.gov.br/
 2021-11-21,http://www.coronavirus.sc.gov.br/
@@ -16933,10 +16947,12 @@ date,URL
 2021-11-21,http://www.saude.rn.gov.br/
 2021-11-21,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-11-21,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-11-21,https://brasil.io/dataset/covid19/caso
 2021-11-21,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-11-21,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-11-21,https://covid19.sesau.ro.gov.br/
 2021-11-21,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-11-21,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-21,https://extranet.saude.go.gov.br/
 2021-11-21,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-11-21,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
