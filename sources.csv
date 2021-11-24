@@ -16832,6 +16832,7 @@ date,URL
 2021-11-09,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=3809:boletim-epidemiologico-coronavirus-647-2021
 2021-11-09,https://ti.saude.rs.gov.br/covid19/
 2021-11-09,https://www.covid-19.pa.gov.br/#/
+2021-11-09,https://www.fvs.am.gov.br/media/publicacao/09_11_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2021-11-09,https://www.portal.ap.gov.br/noticia/0911/boletim-informativo-covid-19-amapa-9-de-novembro-de-2021
 2021-11-09,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-613-09-11-2021.pdf
 2021-11-09,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_Covid_615.pdf
@@ -16846,6 +16847,7 @@ date,URL
 2021-11-10,https://saude.rr.gov.br/index.php/transparencia/transparencia-saude/coronavirus/informacoes-coronavirus?download=3816:boletim-epidemiologico-coronavirus-648-2021
 2021-11-10,https://ti.saude.rs.gov.br/covid19/
 2021-11-10,https://www.covid-19.pa.gov.br/#/
+2021-11-10,https://www.fvs.am.gov.br/media/publicacao/10_11_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2021-11-10,https://www.portal.ap.gov.br/noticia/1011/boletim-informativo-covid-19-amapa-10-de-novembro-de-2021
 2021-11-10,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-614-10-11-2021.pdf
 2021-11-10,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_Covid_616.pdf
@@ -16919,6 +16921,7 @@ date,URL
 2021-11-16,https://ti.saude.rs.gov.br/covid19/
 2021-11-16,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-620-16-11-2021.pdf
 2021-11-16,https://www.saude.go.gov.br/noticias/764-coronavirus
+2021-11-17,http://covid19.saude.go.gov.br/
 2021-11-17,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000274585.PDF
 2021-11-17,http://www.mt.gov.br/documents/21013/17997871/Painel+Epidemiol%C3%B3gico+619/0a49f596-6ddf-1871-bc7f-8c5ecb451554
 2021-11-17,http://www.saude.ba.gov.br/wp-content/uploads/2021/11/BOLETIM_ELETRONICO_BAHIAN_603___17112021.pdf
@@ -16930,6 +16933,7 @@ date,URL
 2021-11-17,https://ti.saude.rs.gov.br/covid19/
 2021-11-17,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-621-17-11-2021.pdf
 2021-11-17,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-226-086-casos-1-201-762-recuperados-e-19-863-mortes
+2021-11-18,http://covid19.saude.go.gov.br/
 2021-11-18,http://www.adcon.rn.gov.br/ACERVO/sesap/DOC/DOC000000000274726.PDF
 2021-11-18,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiol%C3%B3gico+620/b93822e6-1a59-2328-672c-904bf5f04b5a
 2021-11-18,http://www.saude.ba.gov.br/wp-content/uploads/2021/11/BOLETIM_ELETRONICO_BAHIAN_604___18112021.pdf
@@ -16940,6 +16944,7 @@ date,URL
 2021-11-18,https://www.covid-19.pa.gov.br/#/
 2021-11-18,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-622-18-11-2021.pdf
 2021-11-18,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-226-836-casos-1-202-429-recuperados-e-19-879-mortes
+2021-11-19,http://covid19.saude.go.gov.br/
 2021-11-19,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiol%C3%B3gico+621/09a66c8c-7f96-23de-94d6-177f281e96a8
 2021-11-19,http://www.saude.ba.gov.br/wp-content/uploads/2021/11/BOLETIM_ELETRONICO_BAHIAN_605___19112021.pdf
 2021-11-19,https://brasil.io/dataset/covid19/caso
@@ -16964,8 +16969,12 @@ date,URL
 2021-11-21,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-21,https://ti.saude.rs.gov.br/covid19/
 2021-11-21,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-625-21-11-2021.pdf
+2021-11-21,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-228-530-casos-1-204-029-recuperados-e-19-908-mortes
+2021-11-22,http://www.saude.ba.gov.br/wp-content/uploads/2021/11/BOLETIM_ELETRONICO_BAHIAN_608___22112021.pdf
 2021-11-22,https://brasil.io/dataset/covid19/caso
+2021-11-22,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-22,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-626-22-11-2021.pdf
 2021-11-23,http://integra.saude.to.gov.br/
 2021-11-23,http://painel.corona.ap.gov.br/
 2021-11-23,http://www.coronavirus.sc.gov.br/
@@ -16974,10 +16983,12 @@ date,URL
 2021-11-23,http://www.saude.rn.gov.br/
 2021-11-23,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-11-23,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-11-23,https://brasil.io/dataset/covid19/caso
 2021-11-23,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-11-23,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-11-23,https://covid19.sesau.ro.gov.br/
 2021-11-23,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-11-23,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-11-23,https://extranet.saude.go.gov.br/
 2021-11-23,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-11-23,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
@@ -16985,6 +16996,7 @@ date,URL
 2021-11-23,https://ti.saude.rs.gov.br/covid19/
 2021-11-23,https://todoscontraocorona.net.br/
 2021-11-23,https://www.pecontracoronavirus.pe.gov.br/
+2021-11-23,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-627-23-11-2021.pdf
 2021-11-23,https://www.saude.ma.gov.br/
 2021-11-23,https://www.saude.ms.gov.br/informacoes-covid-19/
 2021-11-23,https://www.saude.pr.gov.br/
