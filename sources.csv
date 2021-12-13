@@ -17011,6 +17011,7 @@ date,URL
 2021-11-22,https://brasil.io/dataset/covid19/caso
 2021-11-22,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-11-22,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-22,https://ti.saude.rs.gov.br/covid19/
 2021-11-22,https://www.fvs.am.gov.br/media/publicacao/22_11_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2021-11-22,https://www.portal.ap.gov.br/noticia/2211/boletim-informativo-covid-19-amapa-22-de-novembro-de-2021
 2021-11-22,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-626-22-11-2021.pdf
@@ -17058,6 +17059,7 @@ date,URL
 2021-11-26,http://www.saude.mt.gov.br/upload/noticia/1/arquivo/261121180628-SES-MT-A-indicasus-painel-26-11-2021.pdf
 2021-11-26,https://brasil.io/dataset/covid19/caso
 2021-11-26,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-26,https://ti.saude.rs.gov.br/covid19/
 2021-11-26,https://www.fvs.am.gov.br/media/publicacao/26_11_21_BOLETIM_DIÁRIO_DE_CASOS_COVID-19.pdf
 2021-11-26,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-630-26-11-2021.pdf
 2021-11-26,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_Covid_627-1.pdf
@@ -17085,6 +17087,7 @@ date,URL
 2021-11-29,http://www.saude.mt.gov.br/painelcovidmt2/
 2021-11-29,https://brasil.io/dataset/covid19/caso
 2021-11-29,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-29,https://ti.saude.rs.gov.br/covid19/
 2021-11-29,https://www.fvs.am.gov.br/media/publicacao/29_11_21_BOLETIM_DI%C3%81RIO_DE_CASOS_COVID-19.pdf
 2021-11-29,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-633-29-11-2021.pdf
 2021-11-29,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_Covid_628.pdf
@@ -17094,6 +17097,7 @@ date,URL
 2021-11-30,http://www.mt.gov.br/documents/21013/0/Painel+Epidemiol%C3%B3gico+632/63cd326e-9532-b6e1-2e4a-134c9a997c40
 2021-11-30,https://brasil.io/dataset/covid19/caso
 2021-11-30,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-11-30,https://ti.saude.rs.gov.br/covid19/
 2021-11-30,https://www.saude.al.gov.br/wp-content/uploads/2021/11/Informe-Epidemiologico-COVID-19-no-634-30-11-2021.pdf
 2021-11-30,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-232-912-casos-1-208-847-recuperados-e-19-992-mortes
 2021-12-01,http://coronavirus.pi.gov.br/
@@ -17129,6 +17133,7 @@ date,URL
 2021-12-05,http://www.saude.mt.gov.br/painelcovidmt2/
 2021-12-05,https://brasil.io/dataset/covid19/caso
 2021-12-05,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-12-05,https://ti.saude.rs.gov.br/covid19/
 2021-12-05,https://www.saude.al.gov.br/wp-content/uploads/2021/12/Informe-Epidemiologico-COVID-19-no-639-05-12-2021.pdf
 2021-12-05,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-235-222-casos-1-211-423-recuperados-e-20-035-mortes
 2021-12-06,http://www.mt.gov.br/-/18553616-segunda-feira-06-mato-grosso-registra-553.658-casos-e-14.004-obitos-por-covid-19
@@ -17142,6 +17147,7 @@ date,URL
 2021-12-07,https://brasil.io/dataset/covid19/caso
 2021-12-07,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-12-07,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-12-07,https://ti.saude.rs.gov.br/covid19/
 2021-12-07,https://www.saude.df.gov.br/wp-conteudo/uploads/2020/03/Boletim_Covid_633.pdf
 2021-12-08,http://coronavirus.pi.gov.br/
 2021-12-08,http://www.mt.gov.br/noticias
@@ -17152,12 +17158,18 @@ date,URL
 2021-12-09,https://brasil.io/dataset/covid19/caso
 2021-12-09,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/3PzLB
 2021-12-09,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-12-09,https://ti.saude.rs.gov.br/covid19/
 2021-12-09,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-237-060-casos-1-213-590-recuperados-e-20-073-mortes
+2021-12-10,http://coronavirus.pi.gov.br/
 2021-12-10,http://www.mt.gov.br/-/18595699-sexta-feira-10-mato-grosso-registra-554.463-casos-e-14.015-obitos-por-covid-19
 2021-12-10,https://brasil.io/dataset/covid19/caso
 2021-12-10,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-12-10,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-237-533-casos-1-214-115-recuperados-e-20-076-mortes
+2021-12-11,http://coronavirus.pi.gov.br/
+2021-12-11,http://www.mt.gov.br/noticias
 2021-12-11,https://brasil.io/dataset/covid19/caso
 2021-12-11,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
+2021-12-11,https://www.sc.gov.br/noticias/temas/coronavirus/coronavirus-em-sc-estado-confirma-1-237-607-casos-1-214-385-recuperados-e-20-083-mortes
 2021-12-12,http://integra.saude.to.gov.br/
 2021-12-12,http://painel.corona.ap.gov.br/
 2021-12-12,http://www.coronavirus.sc.gov.br/
@@ -17166,10 +17178,12 @@ date,URL
 2021-12-12,http://www.saude.rn.gov.br/
 2021-12-12,https://agencia.ac.gov.br/agencia-de-informacoes-sobre-coronavirus/
 2021-12-12,https://app.powerbi.com/view?r=eyJrIjoiZDdmMTE3N2UtZWE1NS00MWRmLTg0MmYtNmE3ZmJjNjg5ZmYwIiwidCI6IjkxNzAxZWRlLWM3ZjctNDA0Ny04YzVjLTkyMDMxOGE4NmYxMSJ9&pa
+2021-12-12,https://brasil.io/dataset/covid19/caso
 2021-12-12,https://coronavirus.es.gov.br/painel-covid-19-es
 2021-12-12,https://covid19.ibge.gov.br/pnad-covid/saude.php
 2021-12-12,https://covid19.sesau.ro.gov.br/
 2021-12-12,https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/2itOB
+2021-12-12,https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv
 2021-12-12,https://extranet.saude.go.gov.br/
 2021-12-12,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara
 2021-12-12,https://paraiba.pb.gov.br/diretas/saude/coronavirus/
