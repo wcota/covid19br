@@ -81,7 +81,7 @@ Os dois arquivos possuem colunas iguais. A linha do tempo completa está dispon�
 
 Todos os arquivos possuem colunas iguais. Não há a coluna `epi_week` em `cases-brazil-cities.csv`. Não há as colunas `cod_RegiaoDeSaude` e `name_RegiaoDeSaude` em `cases-brazil-cities-time.csv.gz` e `cases-brazil-cities-time_changesOnly.csv`.
 
-A linha do tempo completa está em `cases-brazil-cities-time.csv.gz` (compactação gzip), e os dados do último dia em `cases-brazil-cities.csv`. O arquivo `cases-brazil-cities-time_changesOnly.csv` é um subconjunto de `cases-brazil-cities-time.csv`, onde as colunas `newCases` e/ou `newDeaths` são não nulas.
+A linha do tempo completa está em `cases-brazil-cities-time.csv.gz` (compactação gzip, sem as colunas `country`, `_source`, `last_info_date`), e os dados do último dia em `cases-brazil-cities.csv`. O arquivo `cases-brazil-cities-time_changesOnly.csv` é um subconjunto de `cases-brazil-cities-time.csv`, onde as colunas `newCases` e/ou `newDeaths` são não nulas.
 
 | nome                            | descrição                                                    | fontes  | licença         |
 |---------------------------------|--------------------------------------------------------------|---------|-----------------|
