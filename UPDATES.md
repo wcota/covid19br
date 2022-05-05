@@ -13,3 +13,4 @@
 - 2021-08-27 - Update population with the estimates for the year of 2021 <https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=resultados>
 - 2021-08-27 - Remove `RegiaoDeSaude` from cities data. If necessary, see `cities_info.csv`.
 - 2022-01-09 - Remove columns `country`, `_source`, `last_update_date` from `cases-brazil-cities-time.csv.gz` and keep only 3 decimal places instead of 5.
+- 2022-05-04 - Data from previous years are now in separated files for `cases-brazil-cities-time.csv.gz`. For example, for 2020: `cases-brazil-cities-time_2020.csv.gz`.
