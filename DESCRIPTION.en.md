@@ -82,6 +82,12 @@ All files share column names. `epi_week` is not available in `cases-brazil-citie
 
 The full timeline is available in `cases-brazil-cities-time*.csv.gz` (with gzip compression, without columns `country`, `_source`, `last_info_date`), and data for the last day in `cases-brazil-cities.csv`. The data for previous years are available at `cases-brazil-cities-time_20xx.csv.gz` files, while the data for the current year are at `cases-brazil-cities-time.csv.gz`. The file `cases-brazil-cities-time_changesOnly.csv` is a subset of `cases-brazil-cities-time.csv`, where `newCases` and/or `newDeaths` are non zero.
 
+To read the whole cities time series with `pandas`, use:
+
+```python
+pd.concat([pd.read_csv(x) for x in glob.glob('cases-brazil-cities-time_2*.csv.gz') + ['cases-brazil-cities-time.csv.gz']])
+```
+
 | name                            | description                                             | sources | license         |
 |---------------------------------|---------------------------------------------------------|---------|-----------------|
 | epi_week                        | Epidemiological week                                    | MS      |                 |

@@ -83,6 +83,12 @@ Todos os arquivos possuem colunas iguais. Não há a coluna `epi_week` em `cases
 
 A linha do tempo completa está nos arquivos `cases-brazil-cities-time*.csv.gz` (compactação gzip, sem as colunas `country`, `_source`, `last_info_date`), e os dados do último dia em `cases-brazil-cities.csv`. Neste caso, os dados para os anos anteriores ao corrente estão em `cases-brazil-cities-time_20xx.csv.gz`, enquanto para o ano corrente estão no arquivo `cases-brazil-cities-time.csv.gz`. O arquivo `cases-brazil-cities-time_changesOnly.csv` é um subconjunto de `cases-brazil-cities-time.csv`, onde as colunas `newCases` e/ou `newDeaths` são não nulas.
 
+Para ler toda a série temporal dos municípios com `pandas`, use:
+
+```python
+pd.concat([pd.read_csv(x) for x in glob.glob('cases-brazil-cities-time_2*.csv.gz') + ['cases-brazil-cities-time.csv.gz']])
+```
+
 | nome                            | descrição                                                    | fontes  | licença         |
 |---------------------------------|--------------------------------------------------------------|---------|-----------------|
 | epi_week                        | Número da semana epidemiológica                              | MS      |                 |
