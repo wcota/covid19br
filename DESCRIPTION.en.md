@@ -76,11 +76,11 @@ Both files share column names. The complete timeline is available at `cases-braz
 | vaccinated_third                       | Total number of vaccinated with a booster shot                    | Bra1       | CC BY           |
 | vaccinated_third_per_100_inhabitants   | Percentage of vaccinated with a booster shot                      |            | CC BY           |
 
-### By municipalities: `cases-brazil-cities.csv`, `cases-brazil-cities-time.csv.gz` and `cases-brazil-cities-time_changesOnly.csv`
+### By municipalities: `cases-brazil-cities.csv`, `cases-brazil-cities-time*.csv.gz` and `cases-brazil-cities-time_changesOnly.csv`
 
 All files share column names. `epi_week` is not available in `cases-brazil-cities.csv`. The columns `cod_RegiaoDeSaude` and `name_RegiaoDeSaude` are not shown in `cases-brazil-cities-time.csv.gz` and `cases-brazil-cities-time_changesOnly.csv`.
 
-The full timeline is available in `cases-brazil-cities-time.csv.gz` (with gzip compression, without columns `country`, `_source`, `last_info_date`), and data for the last day in `cases-brazil-cities.csv`. The file `cases-brazil-cities-time_changesOnly.csv` is a subset of `cases-brazil-cities-time.csv`, where `newCases` and/or `newDeaths` are non zero.
+The full timeline is available in `cases-brazil-cities-time*.csv.gz` (with gzip compression, without columns `country`, `_source`, `last_info_date`), and data for the last day in `cases-brazil-cities.csv`. The data for previous years are available at `cases-brazil-cities-time_20xx.csv.gz` files, while the data for the current year are at `cases-brazil-cities-time.csv.gz`. The file `cases-brazil-cities-time_changesOnly.csv` is a subset of `cases-brazil-cities-time.csv`, where `newCases` and/or `newDeaths` are non zero.
 
 | name                            | description                                             | sources | license         |
 |---------------------------------|---------------------------------------------------------|---------|-----------------|
