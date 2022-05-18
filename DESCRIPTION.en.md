@@ -85,7 +85,7 @@ The full timeline is available in `cases-brazil-cities-time*.csv.gz` (with gzip 
 To read the whole cities time series with `pandas` and `glob` packages, use:
 
 ```python
-pd.concat([pd.read_csv(x) for x in glob.glob('cases-brazil-cities-time_2*.csv.gz') + ['cases-brazil-cities-time.csv.gz']])
+pd.concat([pd.read_csv(x) for x in sorted(glob.glob('cases-brazil-cities-time_2*.csv.gz')) + ['cases-brazil-cities-time.csv.gz']])
 ```
 
 | name                            | description                                             | sources | license         |
