@@ -1,0 +1,1112 @@
+{
+    "date": "2022-06-04",
+    "updated": "2022-06-05T10:31:13.434433+00:00",
+    "vaccination": {
+        "AC": {
+            "population": 906876,
+            "0": {
+                "total": 13175,
+                "Johnson&Johnson": 13175
+            },
+            "1": {
+                "total": 660035,
+                "Oxford/AstraZeneca": 239701,
+                "Pfizer/BioNTech": 300292,
+                "Sinovac": 120042
+            },
+            "2": {
+                "total": 539327,
+                "Johnson&Johnson": 10,
+                "Oxford/AstraZeneca": 220073,
+                "Pfizer/BioNTech": 221449,
+                "Sinovac": 97795
+            },
+            "3": {
+                "total": 233234,
+                "Johnson&Johnson": 12738,
+                "Oxford/AstraZeneca": 31795,
+                "Pfizer/BioNTech": 187767,
+                "Sinovac": 934
+            },
+            "4": {
+                "total": 3,
+                "Johnson&Johnson": 1,
+                "Pfizer/BioNTech": 2
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 1445774
+        },
+        "AL": {
+            "population": 3365351,
+            "0": {
+                "total": 55940,
+                "Johnson&Johnson": 55940
+            },
+            "1": {
+                "total": 2581665,
+                "Oxford/AstraZeneca": 861013,
+                "Pfizer/BioNTech": 1077774,
+                "Sinovac": 642878
+            },
+            "2": {
+                "total": 2212872,
+                "Johnson&Johnson": 20,
+                "Oxford/AstraZeneca": 795195,
+                "Pfizer/BioNTech": 859283,
+                "Sinovac": 558374
+            },
+            "3": {
+                "total": 1102711,
+                "Johnson&Johnson": 51367,
+                "Oxford/AstraZeneca": 102156,
+                "Pfizer/BioNTech": 946967,
+                "Sinovac": 2221
+            },
+            "4": {
+                "total": 5,
+                "Johnson&Johnson": 1,
+                "Pfizer/BioNTech": 4
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 5953193
+        },
+        "AM": {
+            "population": 4269995,
+            "0": {
+                "total": 56067,
+                "Johnson&Johnson": 56067
+            },
+            "1": {
+                "total": 3109745,
+                "Johnson&Johnson": 2001,
+                "Oxford/AstraZeneca": 1298783,
+                "Pfizer/BioNTech": 996505,
+                "Sinovac": 812456
+            },
+            "2": {
+                "total": 2555344,
+                "Johnson&Johnson": 2303,
+                "Oxford/AstraZeneca": 1167573,
+                "Pfizer/BioNTech": 742418,
+                "Sinovac": 643050
+            },
+            "3": {
+                "total": 1195689,
+                "Johnson&Johnson": 44796,
+                "Oxford/AstraZeneca": 246946,
+                "Pfizer/BioNTech": 901453,
+                "Sinovac": 2494
+            },
+            "4": {
+                "total": 65549,
+                "Johnson&Johnson": 319,
+                "Oxford/AstraZeneca": 5831,
+                "Pfizer/BioNTech": 59356,
+                "Sinovac": 43
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 6982394
+        },
+        "AP": {
+            "population": 877613,
+            "0": {
+                "total": 11106,
+                "Johnson&Johnson": 11106
+            },
+            "1": {
+                "total": 574098,
+                "Johnson&Johnson": 1,
+                "Oxford/AstraZeneca": 203171,
+                "Pfizer/BioNTech": 229390,
+                "Sinovac": 141536
+            },
+            "2": {
+                "total": 443963,
+                "Johnson&Johnson": 10,
+                "Oxford/AstraZeneca": 172690,
+                "Pfizer/BioNTech": 163236,
+                "Sinovac": 108027
+            },
+            "3": {
+                "total": 172354,
+                "Johnson&Johnson": 5014,
+                "Oxford/AstraZeneca": 16276,
+                "Pfizer/BioNTech": 150512,
+                "Sinovac": 552
+            },
+            "4": {
+                "total": 1,
+                "Pfizer/BioNTech": 1
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 1201522
+        },
+        "BA": {
+            "population": 14985284,
+            "0": {
+                "total": 276163,
+                "Johnson&Johnson": 276163
+            },
+            "1": {
+                "total": 12103525,
+                "Johnson&Johnson": 2,
+                "Oxford/AstraZeneca": 3912320,
+                "Pfizer/BioNTech": 4630842,
+                "Sinovac": 3560361
+            },
+            "2": {
+                "total": 10307046,
+                "Johnson&Johnson": 1819,
+                "Oxford/AstraZeneca": 3570345,
+                "Pfizer/BioNTech": 3705127,
+                "Sinovac": 3029755
+            },
+            "3": {
+                "total": 5877578,
+                "Johnson&Johnson": 1118042,
+                "Oxford/AstraZeneca": 943497,
+                "Pfizer/BioNTech": 3802692,
+                "Sinovac": 13347
+            },
+            "4": {
+                "total": 8,
+                "Johnson&Johnson": 2,
+                "Pfizer/BioNTech": 6
+            },
+            "5": {
+                "total": 7,
+                "Johnson&Johnson": 3,
+                "Oxford/AstraZeneca": 3,
+                "Pfizer/BioNTech": 1
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 28564327
+        },
+        "CE": {
+            "population": 9240580,
+            "0": {
+                "total": 193920,
+                "Johnson&Johnson": 193920
+            },
+            "1": {
+                "total": 7228211,
+                "Johnson&Johnson": 588,
+                "Oxford/AstraZeneca": 2318155,
+                "Pfizer/BioNTech": 2667011,
+                "Sinovac": 2242457
+            },
+            "2": {
+                "total": 6141632,
+                "Johnson&Johnson": 18337,
+                "Oxford/AstraZeneca": 2032310,
+                "Pfizer/BioNTech": 2162990,
+                "Sinovac": 1927995
+            },
+            "3": {
+                "total": 3763374,
+                "Johnson&Johnson": 369089,
+                "Oxford/AstraZeneca": 695508,
+                "Pfizer/BioNTech": 2689440,
+                "Sinovac": 9337
+            },
+            "4": {
+                "total": 12491,
+                "Johnson&Johnson": 1943,
+                "Oxford/AstraZeneca": 107,
+                "Pfizer/BioNTech": 10439,
+                "Sinovac": 2
+            },
+            "5": {
+                "total": 1521,
+                "Johnson&Johnson": 567,
+                "Oxford/AstraZeneca": 865,
+                "Pfizer/BioNTech": 89
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 17341149
+        },
+        "DF": {
+            "population": 3094325,
+            "0": {
+                "total": 63139,
+                "Johnson&Johnson": 63139
+            },
+            "1": {
+                "total": 2480034,
+                "Johnson&Johnson": 8,
+                "Oxford/AstraZeneca": 755538,
+                "Pfizer/BioNTech": 1086029,
+                "Sinovac": 638459
+            },
+            "2": {
+                "total": 2282381,
+                "Johnson&Johnson": 147,
+                "Oxford/AstraZeneca": 765631,
+                "Pfizer/BioNTech": 953067,
+                "Sinovac": 563536
+            },
+            "3": {
+                "total": 1343100,
+                "Johnson&Johnson": 247316,
+                "Oxford/AstraZeneca": 200758,
+                "Pfizer/BioNTech": 871349,
+                "Sinovac": 23677
+            },
+            "4": {
+                "total": 13,
+                "Johnson&Johnson": 3,
+                "Pfizer/BioNTech": 10
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 6168667
+        },
+        "ES": {
+            "population": 4108508,
+            "0": {
+                "total": 116152,
+                "Johnson&Johnson": 116152
+            },
+            "1": {
+                "total": 3444174,
+                "Johnson&Johnson": 9,
+                "Oxford/AstraZeneca": 1216485,
+                "Pfizer/BioNTech": 1231977,
+                "Sinovac": 995703
+            },
+            "2": {
+                "total": 2978608,
+                "Johnson&Johnson": 49,
+                "Oxford/AstraZeneca": 1084308,
+                "Pfizer/BioNTech": 1047658,
+                "Sinovac": 846593
+            },
+            "3": {
+                "total": 1629648,
+                "Johnson&Johnson": 165222,
+                "Oxford/AstraZeneca": 260947,
+                "Pfizer/BioNTech": 1195596,
+                "Sinovac": 7883
+            },
+            "4": {
+                "total": 318007,
+                "Johnson&Johnson": 173265,
+                "Oxford/AstraZeneca": 75575,
+                "Pfizer/BioNTech": 68401,
+                "Sinovac": 766
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 8486589
+        },
+        "GO": {
+            "population": 7206589,
+            "0": {
+                "total": 161579,
+                "Johnson&Johnson": 161579
+            },
+            "1": {
+                "total": 5779925,
+                "Oxford/AstraZeneca": 1966562,
+                "Pfizer/BioNTech": 2268597,
+                "Sinovac": 1544766
+            },
+            "2": {
+                "total": 4987393,
+                "Johnson&Johnson": 94,
+                "Oxford/AstraZeneca": 1816217,
+                "Pfizer/BioNTech": 1845425,
+                "Sinovac": 1325657
+            },
+            "3": {
+                "total": 2680396,
+                "Johnson&Johnson": 361778,
+                "Oxford/AstraZeneca": 132306,
+                "Pfizer/BioNTech": 2176746,
+                "Sinovac": 9566
+            },
+            "4": {
+                "total": 12,
+                "Johnson&Johnson": 4,
+                "Pfizer/BioNTech": 8
+            },
+            "5": {
+                "total": 1,
+                "Oxford/AstraZeneca": 1
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 13609306
+        },
+        "MA": {
+            "population": 7153262,
+            "0": {
+                "total": 120749,
+                "Johnson&Johnson": 120749
+            },
+            "1": {
+                "total": 5054306,
+                "Johnson&Johnson": 1,
+                "Oxford/AstraZeneca": 2131046,
+                "Pfizer/BioNTech": 1836873,
+                "Sinovac": 1086386
+            },
+            "2": {
+                "total": 4126520,
+                "Johnson&Johnson": 105,
+                "Oxford/AstraZeneca": 1820886,
+                "Pfizer/BioNTech": 1398467,
+                "Sinovac": 907062
+            },
+            "3": {
+                "total": 1840190,
+                "Johnson&Johnson": 79229,
+                "Oxford/AstraZeneca": 152725,
+                "Pfizer/BioNTech": 1604743,
+                "Sinovac": 3493
+            },
+            "4": {
+                "total": 13,
+                "Johnson&Johnson": 5,
+                "Pfizer/BioNTech": 8
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 11141778
+        },
+        "MG": {
+            "population": 21411923,
+            "0": {
+                "total": 512839,
+                "Johnson&Johnson": 512839
+            },
+            "1": {
+                "total": 17951484,
+                "Johnson&Johnson": 241,
+                "Oxford/AstraZeneca": 6417195,
+                "Pfizer/BioNTech": 6609192,
+                "Sinovac": 4924856
+            },
+            "2": {
+                "total": 16239008,
+                "Johnson&Johnson": 17553,
+                "Oxford/AstraZeneca": 6033893,
+                "Pfizer/BioNTech": 5692328,
+                "Sinovac": 4495234
+            },
+            "3": {
+                "total": 11051479,
+                "Johnson&Johnson": 1671080,
+                "Oxford/AstraZeneca": 2025170,
+                "Pfizer/BioNTech": 7320254,
+                "Sinovac": 34975
+            },
+            "4": {
+                "total": 32,
+                "Johnson&Johnson": 14,
+                "Oxford/AstraZeneca": 10,
+                "Pfizer/BioNTech": 8
+            },
+            "5": {
+                "total": 4,
+                "Johnson&Johnson": 2,
+                "Oxford/AstraZeneca": 2
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 45754846
+        },
+        "MS": {
+            "population": 2839188,
+            "0": {
+                "total": 235840,
+                "Johnson&Johnson": 235840
+            },
+            "1": {
+                "total": 2181814,
+                "Johnson&Johnson": 205,
+                "Oxford/AstraZeneca": 742885,
+                "Pfizer/BioNTech": 769482,
+                "Sinovac": 669242
+            },
+            "2": {
+                "total": 1914980,
+                "Johnson&Johnson": 629,
+                "Oxford/AstraZeneca": 673031,
+                "Pfizer/BioNTech": 652839,
+                "Sinovac": 588481
+            },
+            "3": {
+                "total": 1256633,
+                "Johnson&Johnson": 141813,
+                "Oxford/AstraZeneca": 121257,
+                "Pfizer/BioNTech": 988822,
+                "Sinovac": 4741
+            },
+            "4": {
+                "total": 90341,
+                "Johnson&Johnson": 137,
+                "Oxford/AstraZeneca": 13969,
+                "Pfizer/BioNTech": 76124,
+                "Sinovac": 111
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 5679608
+        },
+        "MT": {
+            "population": 3567234,
+            "0": {
+                "total": 95093,
+                "Johnson&Johnson": 95093
+            },
+            "1": {
+                "total": 2772098,
+                "Johnson&Johnson": 5,
+                "Oxford/AstraZeneca": 1004299,
+                "Pfizer/BioNTech": 1096853,
+                "Sinovac": 670941
+            },
+            "2": {
+                "total": 2343229,
+                "Johnson&Johnson": 279,
+                "Oxford/AstraZeneca": 918908,
+                "Pfizer/BioNTech": 850705,
+                "Sinovac": 573337
+            },
+            "3": {
+                "total": 1000008,
+                "Johnson&Johnson": 124926,
+                "Oxford/AstraZeneca": 121117,
+                "Pfizer/BioNTech": 742121,
+                "Sinovac": 11844
+            },
+            "4": {
+                "total": 48,
+                "Johnson&Johnson": 13,
+                "Oxford/AstraZeneca": 17,
+                "Pfizer/BioNTech": 18
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 6210476
+        },
+        "PA": {
+            "population": 8777124,
+            "0": {
+                "total": 141042,
+                "Johnson&Johnson": 141042
+            },
+            "1": {
+                "total": 6156571,
+                "Johnson&Johnson": 2,
+                "Oxford/AstraZeneca": 2302196,
+                "Pfizer/BioNTech": 2384771,
+                "Sinovac": 1469602
+            },
+            "2": {
+                "total": 5010687,
+                "Johnson&Johnson": 177,
+                "Oxford/AstraZeneca": 2025333,
+                "Pfizer/BioNTech": 1823858,
+                "Sinovac": 1161319
+            },
+            "3": {
+                "total": 2002460,
+                "Johnson&Johnson": 219095,
+                "Oxford/AstraZeneca": 406169,
+                "Pfizer/BioNTech": 1248654,
+                "Sinovac": 128542
+            },
+            "4": {
+                "total": 601,
+                "Johnson&Johnson": 2,
+                "Pfizer/BioNTech": 14,
+                "Sinovac": 585
+            },
+            "5": {
+                "total": 3,
+                "Johnson&Johnson": 3
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 13311364
+        },
+        "PB": {
+            "population": 4059905,
+            "0": {
+                "total": 65952,
+                "Johnson&Johnson": 65952
+            },
+            "1": {
+                "total": 3544082,
+                "Johnson&Johnson": 233,
+                "Oxford/AstraZeneca": 1086479,
+                "Pfizer/BioNTech": 1358737,
+                "Sinovac": 1098633
+            },
+            "2": {
+                "total": 3128581,
+                "Johnson&Johnson": 13657,
+                "Oxford/AstraZeneca": 1017510,
+                "Pfizer/BioNTech": 1139889,
+                "Sinovac": 957525
+            },
+            "3": {
+                "total": 1849898,
+                "Johnson&Johnson": 278530,
+                "Oxford/AstraZeneca": 443266,
+                "Pfizer/BioNTech": 1123039,
+                "Sinovac": 5063
+            },
+            "4": {
+                "total": 24,
+                "Johnson&Johnson": 3,
+                "Oxford/AstraZeneca": 2,
+                "Pfizer/BioNTech": 19
+            },
+            "5": {
+                "total": 13,
+                "Johnson&Johnson": 4,
+                "Oxford/AstraZeneca": 9
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 8588550
+        },
+        "PE": {
+            "population": 9674793,
+            "0": {
+                "total": 192926,
+                "Johnson&Johnson": 192926
+            },
+            "1": {
+                "total": 7831478,
+                "Johnson&Johnson": 38,
+                "Oxford/AstraZeneca": 2683272,
+                "Pfizer/BioNTech": 2965254,
+                "Sinovac": 2182914
+            },
+            "2": {
+                "total": 6715834,
+                "Johnson&Johnson": 1242,
+                "Oxford/AstraZeneca": 2366256,
+                "Pfizer/BioNTech": 2447207,
+                "Sinovac": 1901129
+            },
+            "3": {
+                "total": 3590403,
+                "Johnson&Johnson": 702040,
+                "Oxford/AstraZeneca": 664350,
+                "Pfizer/BioNTech": 2213441,
+                "Sinovac": 10572
+            },
+            "4": {
+                "total": 34,
+                "Johnson&Johnson": 7,
+                "Oxford/AstraZeneca": 1,
+                "Pfizer/BioNTech": 26
+            },
+            "5": {
+                "total": 3,
+                "Oxford/AstraZeneca": 3
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 18330678
+        },
+        "PI": {
+            "population": 3289290,
+            "0": {
+                "total": 53929,
+                "Johnson&Johnson": 53929
+            },
+            "1": {
+                "total": 2893318,
+                "Johnson&Johnson": 1,
+                "Oxford/AstraZeneca": 934670,
+                "Pfizer/BioNTech": 1130185,
+                "Sinovac": 828462
+            },
+            "2": {
+                "total": 2603593,
+                "Johnson&Johnson": 255,
+                "Oxford/AstraZeneca": 886896,
+                "Pfizer/BioNTech": 980846,
+                "Sinovac": 735596
+            },
+            "3": {
+                "total": 1790851,
+                "Johnson&Johnson": 490026,
+                "Oxford/AstraZeneca": 373426,
+                "Pfizer/BioNTech": 917052,
+                "Sinovac": 10347
+            },
+            "4": {
+                "total": 17,
+                "Johnson&Johnson": 2,
+                "Pfizer/BioNTech": 14,
+                "Sinovac": 1
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 7341708
+        },
+        "PR": {
+            "population": 11597484,
+            "0": {
+                "total": 336489,
+                "Johnson&Johnson": 336489
+            },
+            "1": {
+                "total": 10027568,
+                "Johnson&Johnson": 61,
+                "Oxford/AstraZeneca": 3535587,
+                "Pfizer/BioNTech": 3906296,
+                "Sinovac": 2585624
+            },
+            "2": {
+                "total": 9128826,
+                "Johnson&Johnson": 625,
+                "Oxford/AstraZeneca": 3385276,
+                "Pfizer/BioNTech": 3388931,
+                "Sinovac": 2353994
+            },
+            "3": {
+                "total": 6022619,
+                "Johnson&Johnson": 1148243,
+                "Oxford/AstraZeneca": 1317232,
+                "Pfizer/BioNTech": 3544636,
+                "Sinovac": 12508
+            },
+            "4": {
+                "total": 9000,
+                "Johnson&Johnson": 5316,
+                "Oxford/AstraZeneca": 1890,
+                "Pfizer/BioNTech": 690,
+                "Sinovac": 1104
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 25524502
+        },
+        "RJ": {
+            "population": 17463349,
+            "0": {
+                "total": 397387,
+                "Johnson&Johnson": 397387
+            },
+            "1": {
+                "total": 14285747,
+                "Oxford/AstraZeneca": 5203095,
+                "Pfizer/BioNTech": 5108967,
+                "Sinovac": 3973685
+            },
+            "2": {
+                "total": 12727438,
+                "Johnson&Johnson": 633,
+                "Oxford/AstraZeneca": 4490983,
+                "Pfizer/BioNTech": 4735346,
+                "Sinovac": 3500476
+            },
+            "3": {
+                "total": 7690389,
+                "Johnson&Johnson": 1017729,
+                "Oxford/AstraZeneca": 1391759,
+                "Pfizer/BioNTech": 5136968,
+                "Sinovac": 143933
+            },
+            "4": {
+                "total": 96,
+                "Johnson&Johnson": 8,
+                "Oxford/AstraZeneca": 18,
+                "Pfizer/BioNTech": 49,
+                "Sinovac": 21
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 35101057
+        },
+        "RN": {
+            "population": 3560903,
+            "0": {
+                "total": 66524,
+                "Johnson&Johnson": 66524
+            },
+            "1": {
+                "total": 2919940,
+                "Johnson&Johnson": 3253,
+                "Oxford/AstraZeneca": 996362,
+                "Pfizer/BioNTech": 1063133,
+                "Sinovac": 857192
+            },
+            "2": {
+                "total": 2569038,
+                "Johnson&Johnson": 3710,
+                "Oxford/AstraZeneca": 916650,
+                "Pfizer/BioNTech": 898732,
+                "Sinovac": 749946
+            },
+            "3": {
+                "total": 1601222,
+                "Johnson&Johnson": 324169,
+                "Oxford/AstraZeneca": 271756,
+                "Pfizer/BioNTech": 997548,
+                "Sinovac": 7749
+            },
+            "4": {
+                "total": 182587,
+                "Johnson&Johnson": 81281,
+                "Oxford/AstraZeneca": 80062,
+                "Pfizer/BioNTech": 20705,
+                "Sinovac": 539
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 7339311
+        },
+        "RO": {
+            "population": 1815278,
+            "0": {
+                "total": 37481,
+                "Johnson&Johnson": 37481
+            },
+            "1": {
+                "total": 1292542,
+                "Johnson&Johnson": 11,
+                "Oxford/AstraZeneca": 456959,
+                "Pfizer/BioNTech": 562827,
+                "Sinovac": 272745
+            },
+            "2": {
+                "total": 1088259,
+                "Johnson&Johnson": 916,
+                "Oxford/AstraZeneca": 413109,
+                "Pfizer/BioNTech": 427859,
+                "Sinovac": 246375
+            },
+            "3": {
+                "total": 474102,
+                "Johnson&Johnson": 15775,
+                "Oxford/AstraZeneca": 36286,
+                "Pfizer/BioNTech": 420644,
+                "Sinovac": 1397
+            },
+            "4": {
+                "total": 0
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 2892384
+        },
+        "RR": {
+            "population": 652713,
+            "0": {
+                "total": 11147,
+                "Johnson&Johnson": 11147
+            },
+            "1": {
+                "total": 429744,
+                "Oxford/AstraZeneca": 134623,
+                "Pfizer/BioNTech": 187935,
+                "Sinovac": 107186
+            },
+            "2": {
+                "total": 324515,
+                "Johnson&Johnson": 9,
+                "Oxford/AstraZeneca": 110999,
+                "Pfizer/BioNTech": 128192,
+                "Sinovac": 85315
+            },
+            "3": {
+                "total": 99816,
+                "Johnson&Johnson": 4690,
+                "Oxford/AstraZeneca": 3796,
+                "Pfizer/BioNTech": 90880,
+                "Sinovac": 450
+            },
+            "4": {
+                "total": 1,
+                "Pfizer/BioNTech": 1
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 865223
+        },
+        "RS": {
+            "population": 11466630,
+            "0": {
+                "total": 315536,
+                "Johnson&Johnson": 315536
+            },
+            "1": {
+                "total": 9697317,
+                "Johnson&Johnson": 298,
+                "Oxford/AstraZeneca": 3766686,
+                "Pfizer/BioNTech": 3263203,
+                "Sinovac": 2667130
+            },
+            "2": {
+                "total": 8888602,
+                "Johnson&Johnson": 301,
+                "Oxford/AstraZeneca": 3517892,
+                "Pfizer/BioNTech": 2917401,
+                "Sinovac": 2453008
+            },
+            "3": {
+                "total": 5886796,
+                "Johnson&Johnson": 801730,
+                "Oxford/AstraZeneca": 530707,
+                "Pfizer/BioNTech": 4384292,
+                "Sinovac": 170067
+            },
+            "4": {
+                "total": 5,
+                "Pfizer/BioNTech": 5
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 24788256
+        },
+        "SC": {
+            "population": 7338473,
+            "0": {
+                "total": 252500,
+                "Johnson&Johnson": 252500
+            },
+            "1": {
+                "total": 6185716,
+                "Johnson&Johnson": 6,
+                "Oxford/AstraZeneca": 2210208,
+                "Pfizer/BioNTech": 2365552,
+                "Sinovac": 1609950
+            },
+            "2": {
+                "total": 5570119,
+                "Johnson&Johnson": 476,
+                "Oxford/AstraZeneca": 2122391,
+                "Pfizer/BioNTech": 2002217,
+                "Sinovac": 1445035
+            },
+            "3": {
+                "total": 2909849,
+                "Johnson&Johnson": 619147,
+                "Oxford/AstraZeneca": 139309,
+                "Pfizer/BioNTech": 2142691,
+                "Sinovac": 8702
+            },
+            "4": {
+                "total": 8,
+                "Johnson&Johnson": 1,
+                "Pfizer/BioNTech": 7
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 14918192
+        },
+        "SE": {
+            "population": 2338474,
+            "0": {
+                "total": 41643,
+                "Johnson&Johnson": 41643
+            },
+            "1": {
+                "total": 1917032,
+                "Oxford/AstraZeneca": 629034,
+                "Pfizer/BioNTech": 805069,
+                "Sinovac": 482929
+            },
+            "2": {
+                "total": 1620251,
+                "Johnson&Johnson": 67,
+                "Oxford/AstraZeneca": 569606,
+                "Pfizer/BioNTech": 648318,
+                "Sinovac": 402260
+            },
+            "3": {
+                "total": 964509,
+                "Johnson&Johnson": 206554,
+                "Oxford/AstraZeneca": 157871,
+                "Pfizer/BioNTech": 593918,
+                "Sinovac": 6166
+            },
+            "4": {
+                "total": 6,
+                "Johnson&Johnson": 1,
+                "Pfizer/BioNTech": 5
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 4543441
+        },
+        "SP": {
+            "population": 46649132,
+            "0": {
+                "total": 1287541,
+                "Johnson&Johnson": 1287541
+            },
+            "1": {
+                "total": 42701226,
+                "Johnson&Johnson": 3,
+                "Oxford/AstraZeneca": 14731770,
+                "Pfizer/BioNTech": 12108237,
+                "Sinovac": 15861216
+            },
+            "2": {
+                "total": 42085207,
+                "Johnson&Johnson": 857,
+                "Oxford/AstraZeneca": 14004455,
+                "Pfizer/BioNTech": 12527711,
+                "Sinovac": 15552184
+            },
+            "3": {
+                "total": 29297010,
+                "Johnson&Johnson": 5221253,
+                "Oxford/AstraZeneca": 2592728,
+                "Pfizer/BioNTech": 18232665,
+                "Sinovac": 3250364
+            },
+            "4": {
+                "total": 567,
+                "Johnson&Johnson": 107,
+                "Oxford/AstraZeneca": 56,
+                "Pfizer/BioNTech": 99,
+                "Sinovac": 305
+            },
+            "5": {
+                "total": 31,
+                "Johnson&Johnson": 16,
+                "Oxford/AstraZeneca": 13,
+                "Pfizer/BioNTech": 2
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 115371582
+        },
+        "TO": {
+            "population": 1607363,
+            "0": {
+                "total": 31735,
+                "Johnson&Johnson": 31735
+            },
+            "1": {
+                "total": 1148725,
+                "Johnson&Johnson": 1,
+                "Oxford/AstraZeneca": 410033,
+                "Pfizer/BioNTech": 477273,
+                "Sinovac": 261418
+            },
+            "2": {
+                "total": 955956,
+                "Johnson&Johnson": 15,
+                "Oxford/AstraZeneca": 375052,
+                "Pfizer/BioNTech": 350229,
+                "Sinovac": 230660
+            },
+            "3": {
+                "total": 392381,
+                "Johnson&Johnson": 32010,
+                "Oxford/AstraZeneca": 92787,
+                "Pfizer/BioNTech": 265704,
+                "Sinovac": 1880
+            },
+            "4": {
+                "total": 2,
+                "Pfizer/BioNTech": 2
+            },
+            "5": {
+                "total": 0
+            },
+            "-1000": {
+                "total": 0
+            },
+            "total": 2528799
+        }
+    }
+}

@@ -1,0 +1,534 @@
+! PRE-CHECK: [MG] dose '4a Dose Revacinação' not found
+! PRE-CHECK: [MG] dose 'Tratamento com dezessete doses' not found
+! PRE-CHECK: [PA] dose 'Tratamento com uma dose' not found
+! PRE-CHECK: [RJ] dose 'Tratamento com uma dose' not found
+! PRE-CHECK: [RN] dose '4o Reforço' not found
+WARNING: [AC] There are 219663 rows with dose = "2a Dose", with a total of 539295 vaccination records. AC:539295
+WARNING: [AC] There are 206460 rows with dose = "1a Dose", with a total of 660048 vaccination records. AC:660048
+WARNING: [AC] There are 105095 rows with dose = "Reforço", with a total of 211402 vaccination records. AC:211402
+WARNING: [AC] There are 5605 rows with dose = "Dose", with a total of 13135 vaccination records. AC:13135
+WARNING: [AC] There are 2216 rows with dose = "2o Reforço", with a total of 2740 vaccination records. AC:2740
+WARNING: [AC] There are 11713 rows with dose = "Dose Adicional", with a total of 19023 vaccination records. AC:19023
+WARNING: [AC] There are 101 rows with dose = "1o Reforço", with a total of 101 vaccination records. AC:101
+WARNING: [AC] There are 25 rows with dose = "Única", with a total of 27 vaccination records. AC:27
+WARNING: [AC] There are 3 rows with dose = "4a Dose", with a total of 3 vaccination records. AC:3
+WARNING: [AL] There are 446372 rows with dose = "Reforço", with a total of 1023473 vaccination records. AL:1023473
+WARNING: [AL] There are 660598 rows with dose = "1a Dose", with a total of 2581687 vaccination records. AL:2581687
+WARNING: [AL] There are 745633 rows with dose = "2a Dose", with a total of 2212737 vaccination records. AL:2212737
+WARNING: [AL] There are 8885 rows with dose = "Dose Adicional", with a total of 10592 vaccination records. AL:10592
+WARNING: [AL] There are 13640 rows with dose = "Dose", with a total of 55882 vaccination records. AL:55882
+WARNING: [AL] There are 24661 rows with dose = "2o Reforço", with a total of 68590 vaccination records. AL:68590
+WARNING: [AL] There are 4 rows with dose = "3a Dose", with a total of 4 vaccination records. AL:4
+WARNING: [AL] There are 1 rows with dose = "Dose Inicial", with a total of 1 vaccination records. AL:1
+WARNING: [AL] There are 44 rows with dose = "2a Dose Revacinação", with a total of 87 vaccination records. AL:87
+WARNING: [AL] There are 6 rows with dose = "1a Dose Revacinação", with a total of 6 vaccination records. AL:6
+WARNING: [AL] There are 101 rows with dose = "1o Reforço", with a total of 101 vaccination records. AL:101
+WARNING: [AL] There are 26 rows with dose = "Única", with a total of 33 vaccination records. AL:33
+WARNING: [AL] There are 5 rows with dose = "4a Dose", with a total of 5 vaccination records. AL:5
+WARNING: [AM] There are 297054 rows with dose = "Reforço", with a total of 581970 vaccination records. AM:581970
+WARNING: [AM] There are 603809 rows with dose = "2a Dose", with a total of 2554881 vaccination records. AM:2554881
+WARNING: [AM] There are 590794 rows with dose = "1a Dose", with a total of 3109898 vaccination records. AM:3109898
+WARNING: [AM] There are 12809 rows with dose = "Dose Adicional", with a total of 18530 vaccination records. AM:18530
+WARNING: [AM] There are 20680 rows with dose = "Dose", with a total of 29551 vaccination records. AM:29551
+WARNING: [AM] There are 17072 rows with dose = "2o Reforço", with a total of 22016 vaccination records. AM:22016
+WARNING: [AM] There are 39070 rows with dose = "3a Dose", with a total of 573272 vaccination records. AM:573272
+WARNING: [AM] There are 1225 rows with dose = "Única", with a total of 26359 vaccination records. AM:26359
+WARNING: [AM] There are 9336 rows with dose = "4a Dose", with a total of 65549 vaccination records. AM:65549
+WARNING: [AM] There are 348 rows with dose = "1o Reforço", with a total of 364 vaccination records. AM:364
+WARNING: [AM] There are 10 rows with dose = "1a Dose Revacinação", with a total of 12 vaccination records. AM:12
+WARNING: [AM] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. AM:1
+WARNING: [AM] There are 4 rows with dose = "2a Dose Revacinação", with a total of 4 vaccination records. AM:4
+WARNING: [AP] There are 150979 rows with dose = "2a Dose", with a total of 443897 vaccination records. AP:443897
+WARNING: [AP] There are 145635 rows with dose = "1a Dose", with a total of 574110 vaccination records. AP:574110
+WARNING: [AP] There are 72040 rows with dose = "Reforço", with a total of 144242 vaccination records. AP:144242
+WARNING: [AP] There are 9703 rows with dose = "Dose Adicional", with a total of 22307 vaccination records. AP:22307
+WARNING: [AP] There are 2807 rows with dose = "Dose", with a total of 11088 vaccination records. AP:11088
+WARNING: [AP] There are 4140 rows with dose = "2o Reforço", with a total of 5774 vaccination records. AP:5774
+WARNING: [AP] There are 5 rows with dose = "Única", with a total of 6 vaccination records. AP:6
+WARNING: [AP] There are 92 rows with dose = "1o Reforço", with a total of 97 vaccination records. AP:97
+WARNING: [AP] There are 1 rows with dose = "4a Dose", with a total of 1 vaccination records. AP:1
+WARNING: [BA] There are 3182600 rows with dose = "2a Dose", with a total of 10304815 vaccination records. BA:10304815
+WARNING: [BA] There are 2812466 rows with dose = "1a Dose", with a total of 12103635 vaccination records. BA:12103635
+WARNING: [BA] There are 218214 rows with dose = "Dose Adicional", with a total of 338634 vaccination records. BA:338634
+WARNING: [BA] There are 1964320 rows with dose = "Reforço", with a total of 5204716 vaccination records. BA:5204716
+WARNING: [BA] There are 56958 rows with dose = "Dose", with a total of 274474 vaccination records. BA:274474
+WARNING: [BA] There are 123949 rows with dose = "2o Reforço", with a total of 281761 vaccination records. BA:281761
+WARNING: [BA] There are 9 rows with dose = "2a Dose Revacinação", with a total of 9 vaccination records. BA:9
+WARNING: [BA] There are 10 rows with dose = "Dose Inicial", with a total of 10 vaccination records. BA:10
+WARNING: [BA] There are 10245 rows with dose = "3a Dose", with a total of 52749 vaccination records. BA:52749
+WARNING: [BA] There are 1734 rows with dose = "1o Reforço", with a total of 1953 vaccination records. BA:1953
+WARNING: [BA] There are 1192 rows with dose = "Única", with a total of 1687 vaccination records. BA:1687
+WARNING: [BA] There are 16 rows with dose = "1a Dose Revacinação", with a total of 16 vaccination records. BA:16
+WARNING: [BA] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. BA:1
+WARNING: [BA] There are 7 rows with dose = "5a Dose", with a total of 7 vaccination records. BA:7
+WARNING: [BA] There are 8 rows with dose = "4a Dose", with a total of 8 vaccination records. BA:8
+WARNING: [CE] There are 1478207 rows with dose = "1a Dose", with a total of 7326316 vaccination records. CE:7326316
+WARNING: [CE] There are 1582513 rows with dose = "2a Dose", with a total of 6140566 vaccination records. CE:6140566
+WARNING: [CE] There are 962741 rows with dose = "Reforço", with a total of 3199020 vaccination records. CE:3199020
+WARNING: [CE] There are 88185 rows with dose = "Dose Adicional", with a total of 174769 vaccination records. CE:174769
+WARNING: [CE] There are 20949 rows with dose = "Única", with a total of 73906 vaccination records. CE:73906
+WARNING: [CE] There are 7729 rows with dose = "Dose", with a total of 21908 vaccination records. CE:21908
+WARNING: [CE] There are 32870 rows with dose = "1o Reforço", with a total of 184946 vaccination records. CE:184946
+WARNING: [CE] There are 74288 rows with dose = "2o Reforço", with a total of 204422 vaccination records. CE:204422
+WARNING: [CE] There are 1011 rows with dose = "5a Dose", with a total of 1521 vaccination records. CE:1521
+WARNING: [CE] There are 1124 rows with dose = "3a Dose", with a total of 1251 vaccination records. CE:1251
+WARNING: [CE] There are 8281 rows with dose = "4a Dose", with a total of 12491 vaccination records. CE:12491
+WARNING: [CE] There are 29 rows with dose = "2a Dose Revacinação", with a total of 34 vaccination records. CE:34
+WARNING: [CE] There are 12 rows with dose = "1a Dose Revacinação", with a total of 13 vaccination records. CE:13
+WARNING: [CE] There are 4 rows with dose = "Dose Inicial", with a total of 4 vaccination records. CE:4
+WARNING: [CE] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. CE:1
+WARNING: [DF] There are 101795 rows with dose = "2a Dose", with a total of 2282138 vaccination records. DF:2282138
+WARNING: [DF] There are 20533 rows with dose = "Dose Adicional", with a total of 51171 vaccination records. DF:51171
+WARNING: [DF] There are 66776 rows with dose = "Reforço", with a total of 1146168 vaccination records. DF:1146168
+WARNING: [DF] There are 83355 rows with dose = "1a Dose", with a total of 2480080 vaccination records. DF:2480080
+WARNING: [DF] There are 6991 rows with dose = "Dose", with a total of 62599 vaccination records. DF:62599
+WARNING: [DF] There are 11287 rows with dose = "2o Reforço", with a total of 145578 vaccination records. DF:145578
+WARNING: [DF] There are 438 rows with dose = "Única", with a total of 487 vaccination records. DF:487
+WARNING: [DF] There are 42 rows with dose = "2a Dose Revacinação", with a total of 94 vaccination records. DF:94
+WARNING: [DF] There are 1 rows with dose = "Dose Inicial", with a total of 1 vaccination records. DF:1
+WARNING: [DF] There are 52 rows with dose = "1a Dose Revacinação", with a total of 60 vaccination records. DF:60
+WARNING: [DF] There are 43 rows with dose = "3a Dose", with a total of 55 vaccination records. DF:55
+WARNING: [DF] There are 12 rows with dose = "4a Dose", with a total of 13 vaccination records. DF:13
+WARNING: [DF] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. DF:1
+WARNING: [DF] There are 267 rows with dose = "1o Reforço", with a total of 276 vaccination records. DF:276
+WARNING: [ES] There are 663176 rows with dose = "1a Dose", with a total of 3444212 vaccination records. ES:3444212
+WARNING: [ES] There are 828710 rows with dose = "2a Dose", with a total of 2978242 vaccination records. ES:2978242
+WARNING: [ES] There are 127361 rows with dose = "4a Dose", with a total of 318007 vaccination records. ES:318007
+WARNING: [ES] There are 49391 rows with dose = "Dose Adicional", with a total of 83288 vaccination records. ES:83288
+WARNING: [ES] There are 571040 rows with dose = "Reforço", with a total of 1546597 vaccination records. ES:1546597
+WARNING: [ES] There are 8019 rows with dose = "Única", with a total of 26231 vaccination records. ES:26231
+WARNING: [ES] There are 8758 rows with dose = "Dose", with a total of 89926 vaccination records. ES:89926
+WARNING: [ES] There are 1 rows with dose = "1a Dose Revacinação", with a total of 1 vaccination records. ES:1
+WARNING: [ES] There are 6 rows with dose = "3a Dose", with a total of 7 vaccination records. ES:7
+WARNING: [ES] There are 34 rows with dose = "2o Reforço", with a total of 34 vaccination records. ES:34
+WARNING: [ES] There are 88 rows with dose = "1o Reforço", with a total of 88 vaccination records. ES:88
+WARNING: [GO] There are 109929 rows with dose = "2o Reforço", with a total of 248697 vaccination records. GO:248697
+WARNING: [GO] There are 829699 rows with dose = "Reforço", with a total of 2265942 vaccination records. GO:2265942
+WARNING: [GO] There are 24756 rows with dose = "Dose", with a total of 161380 vaccination records. GO:161380
+WARNING: [GO] There are 95554 rows with dose = "Dose Adicional", with a total of 165791 vaccination records. GO:165791
+WARNING: [GO] There are 1113667 rows with dose = "1a Dose", with a total of 5780038 vaccination records. GO:5780038
+WARNING: [GO] There are 1313088 rows with dose = "2a Dose", with a total of 4987149 vaccination records. GO:4987149
+WARNING: [GO] There are 4 rows with dose = "3a Dose", with a total of 4 vaccination records. GO:4
+WARNING: [GO] There are 1 rows with dose = "1a Dose Revacinação", with a total of 1 vaccination records. GO:1
+WARNING: [GO] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. GO:1
+WARNING: [GO] There are 1 rows with dose = "2a Dose Revacinação", with a total of 1 vaccination records. GO:1
+WARNING: [GO] There are 5 rows with dose = "Dose Inicial", with a total of 6 vaccination records. GO:6
+WARNING: [GO] There are 81 rows with dose = "Única", with a total of 82 vaccination records. GO:82
+WARNING: [GO] There are 204 rows with dose = "1o Reforço", with a total of 204 vaccination records. GO:204
+WARNING: [GO] There are 12 rows with dose = "4a Dose", with a total of 12 vaccination records. GO:12
+WARNING: [GO] There are 1 rows with dose = "5a Dose", with a total of 1 vaccination records. GO:1
+WARNING: [MA] There are 1564267 rows with dose = "1a Dose", with a total of 5054379 vaccination records. MA:5054379
+WARNING: [MA] There are 1617442 rows with dose = "2a Dose", with a total of 4126227 vaccination records. MA:4126227
+WARNING: [MA] There are 73822 rows with dose = "Dose Adicional", with a total of 104309 vaccination records. MA:104309
+WARNING: [MA] There are 840148 rows with dose = "Reforço", with a total of 1653151 vaccination records. MA:1653151
+WARNING: [MA] There are 54952 rows with dose = "2o Reforço", with a total of 82242 vaccination records. MA:82242
+WARNING: [MA] There are 35963 rows with dose = "Dose", with a total of 120509 vaccination records. MA:120509
+WARNING: [MA] There are 1 rows with dose = "Dose Inicial", with a total of 1 vaccination records. MA:1
+WARNING: [MA] There are 10 rows with dose = "1a Dose Revacinação", with a total of 12 vaccination records. MA:12
+WARNING: [MA] There are 3 rows with dose = "2a Dose Revacinação", with a total of 3 vaccination records. MA:3
+WARNING: [MA] There are 3 rows with dose = "3a Dose", with a total of 3 vaccination records. MA:3
+WARNING: [MA] There are 766 rows with dose = "1o Reforço", with a total of 775 vaccination records. MA:775
+WARNING: [MA] There are 148 rows with dose = "Única", with a total of 156 vaccination records. MA:156
+WARNING: [MA] There are 13 rows with dose = "4a Dose", with a total of 13 vaccination records. MA:13
+WARNING: [MG] There are 4358430 rows with dose = "2a Dose", with a total of 16236744 vaccination records. MG:16236744
+WARNING: [MG] There are 3597182 rows with dose = "1a Dose", with a total of 17951882 vaccination records. MG:17951882
+WARNING: [MG] There are 3156814 rows with dose = "Reforço", with a total of 9192807 vaccination records. MG:9192807
+WARNING: [MG] There are 492498 rows with dose = "2o Reforço", with a total of 1144865 vaccination records. MG:1144865
+WARNING: [MG] There are 106441 rows with dose = "Dose", with a total of 477684 vaccination records. MG:477684
+WARNING: [MG] There are 377012 rows with dose = "Dose Adicional", with a total of 714811 vaccination records. MG:714811
+WARNING: [MG] There are 4593 rows with dose = "Única", with a total of 34853 vaccination records. MG:34853
+WARNING: [MG] There are 654 rows with dose = "1o Reforço", with a total of 715 vaccination records. MG:715
+WARNING: [MG] There are 32 rows with dose = "4a Dose", with a total of 32 vaccination records. MG:32
+WARNING: [MG] There are 53 rows with dose = "2a Dose Revacinação", with a total of 112 vaccination records. MG:112
+WARNING: [MG] There are 215 rows with dose = "3a Dose", with a total of 440 vaccination records. MG:440
+WARNING: [MG] There are 25 rows with dose = "Dose Inicial", with a total of 29 vaccination records. MG:29
+WARNING: [MG] There are 21 rows with dose = "1a Dose Revacinação", with a total of 22 vaccination records. MG:22
+WARNING: [MG] There are 1 rows with dose = "4a Dose Revacinação", with a total of 1 vaccination records. MG:1
+WARNING: [MG] There are 1 rows with dose = "Tratamento com dezessete doses", with a total of 1 vaccination records. MG:1
+WARNING: [MG] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. MG:1
+WARNING: [MG] There are 2 rows with dose = "3o Reforço", with a total of 2 vaccination records. MG:2
+WARNING: [MG] There are 4 rows with dose = "5a Dose", with a total of 4 vaccination records. MG:4
+WARNING: [MS] There are 515721 rows with dose = "1a Dose", with a total of 2230596 vaccination records. MS:2230596
+WARNING: [MS] There are 625669 rows with dose = "2a Dose", with a total of 1914706 vaccination records. MS:1914706
+WARNING: [MS] There are 377566 rows with dose = "Reforço", with a total of 725616 vaccination records. MS:725616
+WARNING: [MS] There are 45371 rows with dose = "Dose Adicional", with a total of 67111 vaccination records. MS:67111
+WARNING: [MS] There are 31239 rows with dose = "Dose", with a total of 187029 vaccination records. MS:187029
+WARNING: [MS] There are 58229 rows with dose = "2o Reforço", with a total of 76785 vaccination records. MS:76785
+WARNING: [MS] There are 62347 rows with dose = "3a Dose", with a total of 387296 vaccination records. MS:387296
+WARNING: [MS] There are 19264 rows with dose = "4a Dose", with a total of 90341 vaccination records. MS:90341
+WARNING: [MS] There are 32 rows with dose = "Única", with a total of 32 vaccination records. MS:32
+WARNING: [MS] There are 15 rows with dose = "1a Dose Revacinação", with a total of 40 vaccination records. MS:40
+WARNING: [MS] There are 1 rows with dose = "2a Dose Revacinação", with a total of 1 vaccination records. MS:1
+WARNING: [MS] There are 100 rows with dose = "1o Reforço", with a total of 100 vaccination records. MS:100
+WARNING: [MT] There are 827784 rows with dose = "2a Dose", with a total of 2343078 vaccination records. MT:2343078
+WARNING: [MT] There are 737409 rows with dose = "1a Dose", with a total of 2771955 vaccination records. MT:2771955
+WARNING: [MT] There are 459610 rows with dose = "Reforço", with a total of 877426 vaccination records. MT:877426
+WARNING: [MT] There are 52791 rows with dose = "Dose Adicional", with a total of 74671 vaccination records. MT:74671
+WARNING: [MT] There are 26639 rows with dose = "Dose", with a total of 94813 vaccination records. MT:94813
+WARNING: [MT] There are 27089 rows with dose = "2o Reforço", with a total of 43174 vaccination records. MT:43174
+WARNING: [MT] There are 192 rows with dose = "1o Reforço", with a total of 200 vaccination records. MT:200
+WARNING: [MT] There are 178 rows with dose = "Única", with a total of 234 vaccination records. MT:234
+WARNING: [MT] There are 3640 rows with dose = "3a Dose", with a total of 4684 vaccination records. MT:4684
+WARNING: [MT] There are 47 rows with dose = "4a Dose", with a total of 48 vaccination records. MT:48
+WARNING: [MT] There are 3 rows with dose = "2a Dose Revacinação", with a total of 5 vaccination records. MT:5
+WARNING: [MT] There are 1 rows with dose = "Dose Inicial", with a total of 1 vaccination records. MT:1
+WARNING: [MT] There are 40 rows with dose = "1a Dose Revacinação", with a total of 190 vaccination records. MT:190
+WARNING: [PA] There are 1498821 rows with dose = "1a Dose", with a total of 6156574 vaccination records. PA:6156574
+WARNING: [PA] There are 1525941 rows with dose = "2a Dose", with a total of 5009729 vaccination records. PA:5009729
+WARNING: [PA] There are 713406 rows with dose = "Reforço", with a total of 1750118 vaccination records. PA:1750118
+WARNING: [PA] There are 94753 rows with dose = "Dose Adicional", with a total of 160793 vaccination records. PA:160793
+WARNING: [PA] There are 51063 rows with dose = "Dose", with a total of 140990 vaccination records. PA:140990
+WARNING: [PA] There are 52534 rows with dose = "2o Reforço", with a total of 91434 vaccination records. PA:91434
+WARNING: [PA] There are 2 rows with dose = "Dose Inicial", with a total of 2 vaccination records. PA:2
+WARNING: [PA] There are 504 rows with dose = "4a Dose", with a total of 601 vaccination records. PA:601
+WARNING: [PA] There are 275 rows with dose = "3a Dose", with a total of 290 vaccination records. PA:290
+WARNING: [PA] There are 26 rows with dose = "2a Dose Revacinação", with a total of 105 vaccination records. PA:105
+WARNING: [PA] There are 671 rows with dose = "1o Reforço", with a total of 678 vaccination records. PA:678
+WARNING: [PA] There are 15 rows with dose = "1a Dose Revacinação", with a total of 98 vaccination records. PA:98
+WARNING: [PA] There are 1 rows with dose = "Tratamento com uma dose", with a total of 1 vaccination records. PA:1
+WARNING: [PA] There are 123 rows with dose = "Única", with a total of 136 vaccination records. PA:136
+WARNING: [PA] There are 3 rows with dose = "5a Dose", with a total of 3 vaccination records. PA:3
+WARNING: [PB] There are 847187 rows with dose = "1a Dose", with a total of 3562387 vaccination records. PB:3562387
+WARNING: [PB] There are 725593 rows with dose = "Reforço", with a total of 1692561 vaccination records. PB:1692561
+WARNING: [PB] There are 990990 rows with dose = "2a Dose", with a total of 3127660 vaccination records. PB:3127660
+WARNING: [PB] There are 33197 rows with dose = "Dose Adicional", with a total of 48539 vaccination records. PB:48539
+WARNING: [PB] There are 17781 rows with dose = "Dose", with a total of 46355 vaccination records. PB:46355
+WARNING: [PB] There are 3 rows with dose = "3a Dose", with a total of 3 vaccination records. PB:3
+WARNING: [PB] There are 24 rows with dose = "4a Dose", with a total of 24 vaccination records. PB:24
+WARNING: [PB] There are 66398 rows with dose = "2o Reforço", with a total of 108705 vaccination records. PB:108705
+WARNING: [PB] There are 2 rows with dose = "1a Dose Revacinação", with a total of 2 vaccination records. PB:2
+WARNING: [PB] There are 498 rows with dose = "Dose Inicial", with a total of 1062 vaccination records. PB:1062
+WARNING: [PB] There are 428 rows with dose = "2a Dose Revacinação", with a total of 673 vaccination records. PB:673
+WARNING: [PB] There are 2 rows with dose = "3a Dose Revacinação", with a total of 2 vaccination records. PB:2
+WARNING: [PB] There are 168 rows with dose = "Única", with a total of 220 vaccination records. PB:220
+WARNING: [PB] There are 368 rows with dose = "1o Reforço", with a total of 369 vaccination records. PB:369
+WARNING: [PB] There are 12 rows with dose = "5a Dose", with a total of 13 vaccination records. PB:13
+WARNING: [PE] There are 2044647 rows with dose = "2a Dose", with a total of 6714906 vaccination records. PE:6714906
+WARNING: [PE] There are 1311149 rows with dose = "Reforço", with a total of 2984036 vaccination records. PE:2984036
+WARNING: [PE] There are 72999 rows with dose = "Dose Adicional", with a total of 104227 vaccination records. PE:104227
+WARNING: [PE] There are 1784266 rows with dose = "1a Dose", with a total of 7891954 vaccination records. PE:7891954
+WARNING: [PE] There are 35797 rows with dose = "Dose", with a total of 132273 vaccination records. PE:132273
+WARNING: [PE] There are 161461 rows with dose = "2o Reforço", with a total of 288660 vaccination records. PE:288660
+WARNING: [PE] There are 18548 rows with dose = "3a Dose", with a total of 213837 vaccination records. PE:213837
+WARNING: [PE] There are 7 rows with dose = "1a Dose Revacinação", with a total of 7 vaccination records. PE:7
+WARNING: [PE] There are 4 rows with dose = "Dose Inicial", with a total of 4 vaccination records. PE:4
+WARNING: [PE] There are 34 rows with dose = "4a Dose", with a total of 34 vaccination records. PE:34
+WARNING: [PE] There are 2 rows with dose = "2a Dose Revacinação", with a total of 2 vaccination records. PE:2
+WARNING: [PE] There are 572 rows with dose = "1o Reforço", with a total of 578 vaccination records. PE:578
+WARNING: [PE] There are 153 rows with dose = "Única", with a total of 164 vaccination records. PE:164
+WARNING: [PE] There are 3 rows with dose = "5a Dose", with a total of 3 vaccination records. PE:3
+WARNING: [PI] There are 723443 rows with dose = "1a Dose", with a total of 2893432 vaccination records. PI:2893432
+WARNING: [PI] There are 786468 rows with dose = "2a Dose", with a total of 2603295 vaccination records. PI:2603295
+WARNING: [PI] There are 580911 rows with dose = "Reforço", with a total of 1528760 vaccination records. PI:1528760
+WARNING: [PI] There are 19552 rows with dose = "Dose", with a total of 53702 vaccination records. PI:53702
+WARNING: [PI] There are 27011 rows with dose = "Dose Adicional", with a total of 38402 vaccination records. PI:38402
+WARNING: [PI] There are 88193 rows with dose = "2o Reforço", with a total of 223259 vaccination records. PI:223259
+WARNING: [PI] There are 2 rows with dose = "2a Dose Revacinação", with a total of 2 vaccination records. PI:2
+WARNING: [PI] There are 6 rows with dose = "Dose Inicial", with a total of 6 vaccination records. PI:6
+WARNING: [PI] There are 49 rows with dose = "3a Dose", with a total of 55 vaccination records. PI:55
+WARNING: [PI] There are 17 rows with dose = "4a Dose", with a total of 17 vaccination records. PI:17
+WARNING: [PI] There are 10 rows with dose = "1a Dose Revacinação", with a total of 16 vaccination records. PI:16
+WARNING: [PI] There are 659 rows with dose = "1o Reforço", with a total of 671 vaccination records. PI:671
+WARNING: [PI] There are 158 rows with dose = "Única", with a total of 182 vaccination records. PI:182
+WARNING: [PR] There are 1518649 rows with dose = "Reforço", with a total of 5067020 vaccination records. PR:5067020
+WARNING: [PR] There are 1695619 rows with dose = "1a Dose", with a total of 10028479 vaccination records. PR:10028479
+WARNING: [PR] There are 2123774 rows with dose = "2a Dose", with a total of 9128489 vaccination records. PR:9128489
+WARNING: [PR] There are 169160 rows with dose = "Dose Adicional", with a total of 361421 vaccination records. PR:361421
+WARNING: [PR] There are 222746 rows with dose = "2o Reforço", with a total of 436020 vaccination records. PR:436020
+WARNING: [PR] There are 73507 rows with dose = "Dose", with a total of 312842 vaccination records. PR:312842
+WARNING: [PR] There are 4421 rows with dose = "Única", with a total of 22870 vaccination records. PR:22870
+WARNING: [PR] There are 5 rows with dose = "2a Dose Revacinação", with a total of 7 vaccination records. PR:7
+WARNING: [PR] There are 29452 rows with dose = "3a Dose", with a total of 157164 vaccination records. PR:157164
+WARNING: [PR] There are 1193 rows with dose = "1o Reforço", with a total of 1278 vaccination records. PR:1278
+WARNING: [PR] There are 3542 rows with dose = "4a Dose", with a total of 9000 vaccination records. PR:9000
+WARNING: [PR] There are 46 rows with dose = "Revacinação", with a total of 47 vaccination records. PR:47
+WARNING: [PR] There are 4 rows with dose = "1a Dose Revacinação", with a total of 4 vaccination records. PR:4
+WARNING: [RJ] There are 1526144 rows with dose = "2a Dose", with a total of 12725975 vaccination records. RJ:12725975
+WARNING: [RJ] There are 1315401 rows with dose = "1a Dose", with a total of 14286146 vaccination records. RJ:14286146
+WARNING: [RJ] There are 1034277 rows with dose = "Reforço", with a total of 6607229 vaccination records. RJ:6607229
+WARNING: [RJ] There are 145619 rows with dose = "Dose Adicional", with a total of 247541 vaccination records. RJ:247541
+WARNING: [RJ] There are 49210 rows with dose = "Dose", with a total of 390937 vaccination records. RJ:390937
+WARNING: [RJ] There are 117855 rows with dose = "2o Reforço", with a total of 835931 vaccination records. RJ:835931
+WARNING: [RJ] There are 3314 rows with dose = "Única", with a total of 5893 vaccination records. RJ:5893
+WARNING: [RJ] There are 343 rows with dose = "3a Dose", with a total of 411 vaccination records. RJ:411
+WARNING: [RJ] There are 804 rows with dose = "1o Reforço", with a total of 825 vaccination records. RJ:825
+WARNING: [RJ] There are 92 rows with dose = "4a Dose", with a total of 96 vaccination records. RJ:96
+WARNING: [RJ] There are 10 rows with dose = "2a Dose Revacinação", with a total of 16 vaccination records. RJ:16
+WARNING: [RJ] There are 64 rows with dose = "1a Dose Revacinação", with a total of 168 vaccination records. RJ:168
+WARNING: [RJ] There are 1 rows with dose = "Tratamento com uma dose", with a total of 1 vaccination records. RJ:1
+WARNING: [RJ] There are 10 rows with dose = "Dose Inicial", with a total of 22 vaccination records. RJ:22
+WARNING: [RN] There are 785778 rows with dose = "1a Dose", with a total of 2921236 vaccination records. RN:2921236
+WARNING: [RN] There are 605311 rows with dose = "Reforço", with a total of 1478812 vaccination records. RN:1478812
+WARNING: [RN] There are 892389 rows with dose = "2a Dose", with a total of 2568591 vaccination records. RN:2568591
+WARNING: [RN] There are 97356 rows with dose = "4a Dose", with a total of 182587 vaccination records. RN:182587
+WARNING: [RN] There are 23589 rows with dose = "Única", with a total of 61462 vaccination records. RN:61462
+WARNING: [RN] There are 2548 rows with dose = "Dose", with a total of 3959 vaccination records. RN:3959
+WARNING: [RN] There are 71801 rows with dose = "Dose Adicional", with a total of 119575 vaccination records. RN:119575
+WARNING: [RN] There are 2016 rows with dose = "2o Reforço", with a total of 2571 vaccination records. RN:2571
+WARNING: [RN] There are 8 rows with dose = "2a Dose Revacinação", with a total of 9 vaccination records. RN:9
+WARNING: [RN] There are 17 rows with dose = "3a Dose", with a total of 19 vaccination records. RN:19
+WARNING: [RN] There are 11 rows with dose = "1a Dose Revacinação", with a total of 15 vaccination records. RN:15
+WARNING: [RN] There are 6 rows with dose = "Dose Inicial", with a total of 6 vaccination records. RN:6
+WARNING: [RN] There are 11 rows with dose = "4o Reforço", with a total of 13 vaccination records. RN:13
+WARNING: [RN] There are 691 rows with dose = "1o Reforço", with a total of 698 vaccination records. RN:698
+WARNING: [RO] There are 310537 rows with dose = "1a Dose", with a total of 1296274 vaccination records. RO:1296274
+WARNING: [RO] There are 366800 rows with dose = "2a Dose", with a total of 1088236 vaccination records. RO:1088236
+WARNING: [RO] There are 193119 rows with dose = "Reforço", with a total of 400732 vaccination records. RO:400732
+WARNING: [RO] There are 22362 rows with dose = "Dose Adicional", with a total of 28350 vaccination records. RO:28350
+WARNING: [RO] There are 10739 rows with dose = "Dose", with a total of 33526 vaccination records. RO:33526
+WARNING: [RO] There are 16352 rows with dose = "2o Reforço", with a total of 30339 vaccination records. RO:30339
+WARNING: [RO] There are 9320 rows with dose = "3a Dose", with a total of 14680 vaccination records. RO:14680
+WARNING: [RO] There are 35 rows with dose = "1a Dose Revacinação", with a total of 93 vaccination records. RO:93
+WARNING: [RO] There are 1 rows with dose = "2a Dose Revacinação", with a total of 1 vaccination records. RO:1
+WARNING: [RO] There are 126 rows with dose = "1o Reforço", with a total of 126 vaccination records. RO:126
+WARNING: [RO] There are 25 rows with dose = "Única", with a total of 27 vaccination records. RO:27
+WARNING: [RR] There are 134716 rows with dose = "1a Dose", with a total of 429754 vaccination records. RR:429754
+WARNING: [RR] There are 121027 rows with dose = "2a Dose", with a total of 324488 vaccination records. RR:324488
+WARNING: [RR] There are 44825 rows with dose = "Reforço", with a total of 90943 vaccination records. RR:90943
+WARNING: [RR] There are 4879 rows with dose = "Dose Adicional", with a total of 6249 vaccination records. RR:6249
+WARNING: [RR] There are 2329 rows with dose = "Dose", with a total of 11119 vaccination records. RR:11119
+WARNING: [RR] There are 1397 rows with dose = "2o Reforço", with a total of 2561 vaccination records. RR:2561
+WARNING: [RR] There are 90 rows with dose = "1o Reforço", with a total of 90 vaccination records. RR:90
+WARNING: [RR] There are 14 rows with dose = "Única", with a total of 18 vaccination records. RR:18
+WARNING: [RR] There are 1 rows with dose = "4a Dose", with a total of 1 vaccination records. RR:1
+WARNING: [RS] There are 2049199 rows with dose = "1a Dose", with a total of 9704294 vaccination records. RS:9704294
+WARNING: [RS] There are 2467741 rows with dose = "2a Dose", with a total of 8888107 vaccination records. RS:8888107
+WARNING: [RS] There are 59808 rows with dose = "Dose", with a total of 304869 vaccination records. RS:304869
+WARNING: [RS] There are 1766770 rows with dose = "Reforço", with a total of 5174484 vaccination records. RS:5174484
+WARNING: [RS] There are 139911 rows with dose = "Dose Adicional", with a total of 207030 vaccination records. RS:207030
+WARNING: [RS] There are 187033 rows with dose = "2o Reforço", with a total of 494784 vaccination records. RS:494784
+WARNING: [RS] There are 1699 rows with dose = "Única", with a total of 3562 vaccination records. RS:3562
+WARNING: [RS] There are 2958 rows with dose = "3a Dose", with a total of 9327 vaccination records. RS:9327
+WARNING: [RS] There are 81 rows with dose = "1a Dose Revacinação", with a total of 106 vaccination records. RS:106
+WARNING: [RS] There are 1032 rows with dose = "1o Reforço", with a total of 1624 vaccination records. RS:1624
+WARNING: [RS] There are 5 rows with dose = "4a Dose", with a total of 5 vaccination records. RS:5
+WARNING: [RS] There are 60 rows with dose = "2a Dose Revacinação", with a total of 87 vaccination records. RS:87
+WARNING: [SC] There are 1427786 rows with dose = "1a Dose", with a total of 6185796 vaccination records. SC:6185796
+WARNING: [SC] There are 1081997 rows with dose = "Reforço", with a total of 2610256 vaccination records. SC:2610256
+WARNING: [SC] There are 1721833 rows with dose = "2a Dose", with a total of 5569826 vaccination records. SC:5569826
+WARNING: [SC] There are 48900 rows with dose = "Dose", with a total of 249929 vaccination records. SC:249929
+WARNING: [SC] There are 85285 rows with dose = "2o Reforço", with a total of 168766 vaccination records. SC:168766
+WARNING: [SC] There are 60587 rows with dose = "Dose Adicional", with a total of 82241 vaccination records. SC:82241
+WARNING: [SC] There are 7158 rows with dose = "3a Dose", with a total of 16579 vaccination records. SC:16579
+WARNING: [SC] There are 410 rows with dose = "Única", with a total of 2553 vaccination records. SC:2553
+WARNING: [SC] There are 3767 rows with dose = "1o Reforço", with a total of 32194 vaccination records. SC:32194
+WARNING: [SC] There are 94 rows with dose = "3o Reforço", with a total of 111 vaccination records. SC:111
+WARNING: [SC] There are 2 rows with dose = "1a Dose Revacinação", with a total of 2 vaccination records. SC:2
+WARNING: [SC] There are 8 rows with dose = "4a Dose", with a total of 8 vaccination records. SC:8
+WARNING: [SE] There are 457837 rows with dose = "1a Dose", with a total of 1917067 vaccination records. SE:1917067
+WARNING: [SE] There are 544890 rows with dose = "2a Dose", with a total of 1620120 vaccination records. SE:1620120
+WARNING: [SE] There are 8460 rows with dose = "Dose", with a total of 41603 vaccination records. SE:41603
+WARNING: [SE] There are 358635 rows with dose = "Reforço", with a total of 859267 vaccination records. SE:859267
+WARNING: [SE] There are 15953 rows with dose = "Dose Adicional", with a total of 21040 vaccination records. SE:21040
+WARNING: [SE] There are 33784 rows with dose = "2o Reforço", with a total of 84204 vaccination records. SE:84204
+WARNING: [SE] There are 21 rows with dose = "3a Dose", with a total of 22 vaccination records. SE:22
+WARNING: [SE] There are 9 rows with dose = "2a Dose Revacinação", with a total of 9 vaccination records. SE:9
+WARNING: [SE] There are 23 rows with dose = "Única", with a total of 24 vaccination records. SE:24
+WARNING: [SE] There are 6 rows with dose = "4a Dose", with a total of 6 vaccination records. SE:6
+WARNING: [SE] There are 98 rows with dose = "1o Reforço", with a total of 98 vaccination records. SE:98
+WARNING: [SP] There are 5335712 rows with dose = "2a Dose", with a total of 42078556 vaccination records. SP:42078556
+WARNING: [SP] There are 4420585 rows with dose = "1a Dose", with a total of 42702040 vaccination records. SP:42702040
+WARNING: [SP] There are 6013916 rows with dose = "Reforço", with a total of 28717158 vaccination records. SP:28717158
+WARNING: [SP] There are 152944 rows with dose = "Dose", with a total of 1251854 vaccination records. SP:1251854
+WARNING: [SP] There are 302684 rows with dose = "Dose Adicional", with a total of 576191 vaccination records. SP:576191
+WARNING: [SP] There are 8787 rows with dose = "Única", with a total of 34886 vaccination records. SP:34886
+WARNING: [SP] There are 2446 rows with dose = "3a Dose", with a total of 4151 vaccination records. SP:4151
+WARNING: [SP] There are 3735 rows with dose = "2o Reforço", with a total of 4501 vaccination records. SP:4501
+WARNING: [SP] There are 497 rows with dose = "4a Dose", with a total of 567 vaccination records. SP:567
+WARNING: [SP] There are 101 rows with dose = "Dose Inicial", with a total of 395 vaccination records. SP:395
+WARNING: [SP] There are 25 rows with dose = "2a Dose Revacinação", with a total of 27 vaccination records. SP:27
+WARNING: [SP] There are 31 rows with dose = "1a Dose Revacinação", with a total of 39 vaccination records. SP:39
+WARNING: [SP] There are 1598 rows with dose = "1o Reforço", with a total of 1660 vaccination records. SP:1660
+WARNING: [SP] There are 1 rows with dose = "3a Dose Revacinação", with a total of 1 vaccination records. SP:1
+WARNING: [SP] There are 31 rows with dose = "5a Dose", with a total of 31 vaccination records. SP:31
+WARNING: [TO] There are 426447 rows with dose = "1a Dose", with a total of 1148758 vaccination records. TO:1148758
+WARNING: [TO] There are 457870 rows with dose = "2a Dose", with a total of 955919 vaccination records. TO:955919
+WARNING: [TO] There are 234543 rows with dose = "Reforço", with a total of 360653 vaccination records. TO:360653
+WARNING: [TO] There are 12176 rows with dose = "Dose", with a total of 31682 vaccination records. TO:31682
+WARNING: [TO] There are 16770 rows with dose = "Dose Adicional", with a total of 19919 vaccination records. TO:19919
+WARNING: [TO] There are 9001 rows with dose = "2o Reforço", with a total of 11764 vaccination records. TO:11764
+WARNING: [TO] There are 82 rows with dose = "1o Reforço", with a total of 82 vaccination records. TO:82
+WARNING: [TO] There are 20 rows with dose = "Única", with a total of 20 vaccination records. TO:20
+WARNING: [TO] There are 2 rows with dose = "4a Dose", with a total of 2 vaccination records. TO:2
+INFO: total doses -> 439986583
+####################################################################################################
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 46231355 entries, 0 to 634135
+Data columns (total 8 columns):
+ #   Column  Dtype         
+---  ------  -----         
+ 0   date    datetime64[ns]
+ 1   uf      category      
+ 2   ibge    category      
+ 3   dose    category      
+ 4   name    category      
+ 5   sex     category      
+ 6   age     category      
+ 7   count   int64         
+dtypes: category(6), datetime64[ns](1), int64(1)
+memory usage: 1.3 GB
+####################################################################################################
+WARNING: col "dose" with 0 but not J&J are now dose=1 and vaccine=N/A. This corresponds to 969 rows, with a total of 1890 vaccination records.
+WARNING: col "vaccine" with J&J but dose 1 or 2 before 2021-11-16 are now dose=0. This corresponds to 37299 rows, with a total of 243756 vaccination records.
+WARNING: col "dose" with 3 but before 2021-08-20, now are dose=2. This corresponds to 18200 rows, with a total of 19925 vaccination records.
+WARNING: col "date" contains 4927 NaN values (before Jan 2021 or N/A), with a total of 36243 vaccination records.
+WARNING: There are 4023 rows without age, with a total of 6555 records!
+WARNING: There are 706 rows without name, with a total of 1890 records!
+####################################################################################################
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 46231355 entries, 0 to 46231354
+Data columns (total 11 columns):
+ #   Column   Dtype         
+---  ------   -----         
+ 0   date     datetime64[ns]
+ 1   uf       category      
+ 2   ibgeID   category      
+ 3   dose     category      
+ 4   vaccine  category      
+ 5   sex      category      
+ 6   age      category      
+ 7   count    int64         
+ 8   city     category      
+ 9   state    category      
+ 10  pop2021  int64         
+dtypes: category(8), datetime64[ns](1), int64(2)
+memory usage: 1.8 GB
+####################################################################################################
+WARNING: There are 706 rows with "vaccine" = N/A, with a total of 1890 vaccination records.
+> UFs with this problem:
+##############################
+state
+SP    475
+RN    229
+PA    187
+MG    157
+BA    148
+PR    139
+RJ    133
+PI     91
+SC     69
+DF     54
+MS     45
+ES     44
+PB     25
+RS     23
+CE     19
+SE     19
+AM     13
+PE      7
+AL      5
+GO      3
+MT      3
+MA      2
+Name: count, dtype: int64
+##############################
+> Top 20 municipalities with this problem:
+##############################
+city
+Promissão/SP              278
+Nova Timboteua/PA         181
+Apodi/RN                  115
+Leópolis/PR               112
+Rio de Janeiro/RJ          98
+Pedro de Toledo/SP         95
+Luís Correia/PI            81
+Brasília/DF                54
+Gaspar/SC                  50
+Tapiraí/MG                 42
+Itaporã/MS                 40
+Santa Cruz Cabrália/BA     38
+Pedra Preta/RN             35
+Simonésia/MG               31
+Sumaré/SP                  29
+Cesário Lange/SP           29
+Nova Viçosa/BA             28
+Guarapari/ES               26
+Touros/RN                  26
+Juiz de Fora/MG            25
+Name: count, dtype: int64
+##############################
+WARNING: AC has 13175 as "doses_0", while bra1 has 13171, with 4 more.
+WARNING: AC has 660035 as "doses_1", while bra1 has 659955, with 80 more.
+WARNING: AC has 539327 as "doses_2", while bra1 has 539132, with 195 more.
+WARNING: AC has 233234 as "doses_3", while bra1 has 232728, with 506 more.
+WARNING: AL has 2581665 as "doses_1", while bra1 has 2581523, with 142 more.
+WARNING: AL has 2212872 as "doses_2", while bra1 has 2212376, with 496 more.
+WARNING: AL has 1102711 as "doses_3", while bra1 has 1100066, with 2645 more.
+WARNING: AP has 574098 as "doses_1", while bra1 has 573814, with 284 more.
+WARNING: AP has 443963 as "doses_2", while bra1 has 443721, with 242 more.
+WARNING: AP has 172354 as "doses_3", while bra1 has 171958, with 396 more.
+WARNING: BA has 276163 as "doses_0", while bra1 has 276111, with 52 more.
+WARNING: BA has 12103525 as "doses_1", while bra1 has 11640959, with 462566 more.
+WARNING: BA has 5877578 as "doses_3", while bra1 has 5875028, with 2550 more.
+WARNING: DF has 1343100 as "doses_3", while bra1 has 1334671, with 8429 more.
+WARNING: ES has 3444174 as "doses_1", while bra1 has 3383182, with 60992 more.
+WARNING: GO has 161579 as "doses_0", while bra1 has 161568, with 11 more.
+WARNING: GO has 5779925 as "doses_1", while bra1 has 5779496, with 429 more.
+WARNING: GO has 4987393 as "doses_2", while bra1 has 4986480, with 913 more.
+WARNING: GO has 2680396 as "doses_3", while bra1 has 2675315, with 5081 more.
+WARNING: MA has 1840190 as "doses_3", while bra1 has 1837407, with 2783 more.
+WARNING: MG has 17951484 as "doses_1", while bra1 has 17940120, with 11364 more.
+WARNING: MG has 16239008 as "doses_2", while bra1 has 16238205, with 803 more.
+WARNING: MG has 11051479 as "doses_3", while bra1 has 11030687, with 20792 more.
+WARNING: MS has 1256633 as "doses_3", while bra1 has 1254700, with 1933 more.
+WARNING: MT has 95093 as "doses_0", while bra1 has 95079, with 14 more.
+WARNING: MT has 2772098 as "doses_1", while bra1 has 2771658, with 440 more.
+WARNING: MT has 2343229 as "doses_2", while bra1 has 2342549, with 680 more.
+WARNING: MT has 1000008 as "doses_3", while bra1 has 997010, with 2998 more.
+WARNING: PA has 141042 as "doses_0", while bra1 has 141025, with 17 more.
+WARNING: PB has 3544082 as "doses_1", while bra1 has 3542988, with 1094 more.
+WARNING: PE has 192926 as "doses_0", while bra1 has 192912, with 14 more.
+WARNING: PI has 1790851 as "doses_3", while bra1 has 1787343, with 3508 more.
+WARNING: PR has 336489 as "doses_0", while bra1 has 336442, with 47 more.
+WARNING: PR has 10027568 as "doses_1", while bra1 has 10026833, with 735 more.
+WARNING: PR has 9128826 as "doses_2", while bra1 has 9126697, with 2129 more.
+WARNING: PR has 6022619 as "doses_3", while bra1 has 6004052, with 18567 more.
+WARNING: RJ has 397387 as "doses_0", while bra1 has 397137, with 250 more.
+WARNING: RJ has 14285747 as "doses_1", while bra1 has 14282828, with 2919 more.
+WARNING: RJ has 12727438 as "doses_2", while bra1 has 12721460, with 5978 more.
+WARNING: RJ has 7690389 as "doses_3", while bra1 has 7623702, with 66687 more.
+WARNING: RN has 66524 as "doses_0", while bra1 has 66508, with 16 more.
+WARNING: RN has 2919940 as "doses_1", while bra1 has 2919736, with 204 more.
+WARNING: RN has 1601222 as "doses_3", while bra1 has 1599469, with 1753 more.
+WARNING: RO has 37481 as "doses_0", while bra1 has 37479, with 2 more.
+WARNING: RO has 1292542 as "doses_1", while bra1 has 1292459, with 83 more.
+WARNING: RO has 474102 as "doses_3", while bra1 has 473113, with 989 more.
+WARNING: RR has 429744 as "doses_1", while bra1 has 429695, with 49 more.
+WARNING: RR has 324515 as "doses_2", while bra1 has 324421, with 94 more.
+WARNING: RR has 99816 as "doses_3", while bra1 has 99535, with 281 more.
+WARNING: RS has 9697317 as "doses_1", while bra1 has 9696956, with 361 more.
+WARNING: RS has 8888602 as "doses_2", while bra1 has 8887311, with 1291 more.
+WARNING: RS has 5886796 as "doses_3", while bra1 has 5873551, with 13245 more.
+WARNING: SC has 6185716 as "doses_1", while bra1 has 6185431, with 285 more.
+WARNING: SC has 5570119 as "doses_2", while bra1 has 5569290, with 829 more.
+WARNING: SC has 2909849 as "doses_3", while bra1 has 2903463, with 6386 more.
+WARNING: SE has 41643 as "doses_0", while bra1 has 41637, with 6 more.
+WARNING: SP has 1287541 as "doses_0", while bra1 has 1260896, with 26645 more.
+WARNING: SP has 42701226 as "doses_1", while bra1 has 42205961, with 495265 more.
+WARNING: SP has 42085207 as "doses_2", while bra1 has 39425445, with 2659762 more.
+WARNING: SP has 29297010 as "doses_3", while bra1 has 28901904, with 395106 more.
+WARNING: TO has 1148725 as "doses_1", while bra1 has 1148644, with 81 more.
+WARNING: TO has 955956 as "doses_2", while bra1 has 955820, with 136 more.
+WARNING: TO has 392381 as "doses_3", while bra1 has 391873, with 508 more.
+WARNING: There are 8 municipalities without doses_0! GO:1, MG:1, PB:1, RN:2, RR:2, SP:1.
+WARNING: There are 468 municipalities with more doses_1 than population! AC:1, AM:3, BA:24, CE:9, ES:2, GO:28, MA:1, MG:73, MS:2, MT:13, PA:2, PB:9, PE:6, PI:9, PR:60, RJ:2, RN:36, RO:4, RR:1, RS:41, SC:46, SE:1, SP:95.
+WARNING: There are 270 municipalities with more doses_2 than population! AM:1, BA:7, CE:3, GO:10, MG:33, MS:1, MT:1, PB:2, PE:2, PI:3, PR:26, RJ:1, RN:21, RO:2, RS:15, SC:22, SP:120.
+WARNING: There are 4858 municipalities with more doses_0 + doses_1 than population! AC:7, AL:65, AM:19, AP:4, BA:349, CE:147, DF:1, ES:78, GO:226, MA:79, MG:816, MS:78, MT:92, PA:63, PB:222, PE:170, PI:219, PR:397, RJ:82, RN:156, RO:27, RR:2, RS:492, SC:288, SE:69, SP:645, TO:65.
+> Municipalities with this problem:
+####################################################################################################
+              pop state                        city  doses_0+1  difference
+ibgeID                                                                    
+3550308  12396372    SP                São Paulo/SP   20971703     8575331
+3304557   6775561    RJ           Rio de Janeiro/RJ   10487475     3711914
+3106200   2530701    MG           Belo Horizonte/MG    4200631     1669930
+4106902   1963726    PR                 Curitiba/PR    2928121      964395
+2927408   2900319    BA                 Salvador/BA    3823983      923664
+...           ...   ...                         ...        ...         ...
+3145356     10800    MG    Novo Oriente de Minas/MG      10827          27
+3111101     19759    MG            Campina Verde/MG      19785          26
+2903102      5515    BA           Barra do Rocha/BA       5540          25
+5203575      4579    GO                Bonópolis/GO       4600          21
+1718899      2407    TO  Santa Rita do Tocantins/TO       2412           5
+
+[4858 rows x 5 columns]
+####################################################################################################
