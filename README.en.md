@@ -4,6 +4,15 @@ Data description: [DESCRIPTION.en.md](DESCRIPTION.en.md) and [SciELOPreprints:36
 
 [**README em português**](README.md)
 
+| :exclamation:  IMPORTANT: The data update was stopped on March 31, 2023 |
+|-----------------------------------------|
+
+With the change in methodology by the Ministry of Health to weekly data updates, our [main source](https://covid.saude.gov.br/) did not receive any more updates as of March 18, 2023. To avoid inconsistencies, it was decided not to update the data after this date. The link to the official note from the Ministry of Health is available [here](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/a-partir-de-marco-paineis-de-monitoramento-da-covid-19-passarao-a-ser-atualizados-semanalmente).
+
+My voluntary work to maintain this database has been uninterrupted since March 2020, when the first cases were confirmed in the country. Unfortunately, I can no longer make a commitment to provide accessible and transparent data to the population, this task being totally out of my responsibility.
+
+For more information, please look me up on the social networks available on my personal website [wcota.me](https://wcota.me/).
+
 # Number of confirmed cases of COVID-19 in Brazil
 
 *Tip: when cloning it is highly recommended to use a depth of just 1 commit, as there are several daily updates, with `git clone --depth 1`.*

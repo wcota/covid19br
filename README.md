@@ -4,6 +4,15 @@ Descrição dos dados: [DESCRIPTION.md](DESCRIPTION.md) e [SciELOPreprints:362](
 
 [**README in English**](README.en.md)
 
+| :exclamation:  IMPORTANTE: A atualização dos dados foi interrompida no dia 31 de março de 2023  |
+|-----------------------------------------|
+
+Com a mudança de metodologia pelo Ministério da Saúde para atualização semanal dos dados, nossa [fonte principal](https://covid.saude.gov.br/) não recebeu mais atualizações a partir do dia 18 de março de 2023. Para evitar inconsistências, foi decidida a não atualização dos dados a partir de tal data. O link para a nota oficial do Ministério da Saúde está disponível [aqui](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/a-partir-de-marco-paineis-de-monitoramento-da-covid-19-passarao-a-ser-atualizados-semanalmente).
+
+O meu trabalho voluntário de manutenção dessa base de dados foi ininterrupto desde março de 2020, quando foram confirmados os primeiros casos no país. Infelizmente, não posso mais assumir um compromisso de fornecer dados acessíveis e transparentes para a população, sendo esta tarefa totalmente fora da minha responsabilidade.
+
+Para maiores informações, favor me procurar nas redes sociais disponíveis em meu site pessoal [wcota.me](https://wcota.me/).
+
 # Número de casos confirmados de COVID-19 no Brasil
 
 *Dica: ao clonar, é altamente recomendável usar uma profundidade de apenas 1 commit, já que há diversas atualizações diárias, com `git clone --depth 1`.*
